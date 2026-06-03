@@ -1,0 +1,59 @@
+site_name: Sito di Studio
+site_description: Appunti e materiale di studio personale, organizzati in moduli.
+docs_dir: docs
+
+# Nessun blocco "nav:": la navigazione è generata AUTOMATICAMENTE dalla
+# struttura di docs/. Aggiungere una materia = creare una cartella.
+# Aggiungere un argomento = creare un file .md dentro quella cartella.
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.tabs        # le materie (cartelle di primo livello) diventano tab in alto
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy      # bottone copia-codice
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Passa al tema scuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Passa al tema chiaro
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.arithmatex:      # formule LaTeX
+      generic: true
+
+# MathJax 3 — metodo ufficiale Material. NIENTE polyfill.io (compromesso).
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - search:
+      lang: it

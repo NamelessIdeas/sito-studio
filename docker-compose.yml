@@ -1,0 +1,9 @@
+services:
+  studio:
+    # Sostituisci TUO-USERNAME con il tuo utente/organizzazione GitHub
+    # (in minuscolo). Esempio: ghcr.io/namelessideas/sito-studio:latest
+    image: ghcr.io/TUO-USERNAME/sito-studio:latest
+    build: .
+    ports:
+      - "8080:80"
+    restart: unless-stopped

@@ -1,0 +1,7 @@
+# Escludi solo ciò che non serve dentro l'immagine.
+# NB: NON escludere docs/ né i file .md, che servono per "mkdocs build".
+.git
+.github
+site/
+README.md
+docker-compose.yml

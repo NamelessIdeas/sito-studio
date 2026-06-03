@@ -1,0 +1,8 @@
+# Output di build MkDocs
+/site/
+
+# Ambienti Python locali
+.venv/
+venv/
+__pycache__/
+*.pyc
