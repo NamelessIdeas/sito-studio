@@ -63,7 +63,8 @@ Sito su <http://localhost:8080>.
 
 ### Con Docker (immagine pronta da GHCR)
 
-Dopo aver sostituito `TUO-USERNAME` in `docker-compose.yml`:
+L'immagine è già configurata su `ghcr.io/namelessideas/sito-studio:latest`
+(se forki il progetto, cambia l'owner in `docker-compose.yml`):
 
 ```bash
 docker compose pull
@@ -91,9 +92,8 @@ poi stampa gli URL di accesso (localhost e IP in LAN).
    git push -u origin main
    ```
 
-2. In `docker-compose.yml` sostituisci `TUO-USERNAME` con il tuo utente o
-   organizzazione GitHub **in minuscolo**
-   (es. `ghcr.io/namelessideas/sito-studio:latest`).
+2. `docker-compose.yml` punta già a `ghcr.io/namelessideas/sito-studio:latest`.
+   Se usi un owner diverso, aggiornalo (sempre in minuscolo).
 
 3. Al primo `push` su `main`, GitHub Actions (`.github/workflows/ci-cd.yml`):
    - **CI** — esegue `mkdocs build --strict`; se ci sono link rotti, fallisce.

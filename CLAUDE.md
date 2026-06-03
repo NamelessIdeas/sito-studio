@@ -70,9 +70,10 @@ Per `mkdocs serve`/`build` localmente: creare un venv e
 
 ## Note ambientali
 
-- `docker-compose.yml` contiene il segnaposto `ghcr.io/TUO-USERNAME/...`:
-  va sostituito col proprio owner GitHub in minuscolo. Finché resta il
-  segnaposto, `setup.sh` fallisce il `pull` e ricade sulla build locale (atteso).
+- `docker-compose.yml` punta a `ghcr.io/namelessideas/sito-studio:latest`
+  (owner reale, minuscolo come richiede GHCR). Finché l'immagine non è
+  pubblicata dalla pipeline, `setup.sh` fallisce il `pull` e ricade sulla
+  build locale (comportamento atteso).
 - Avviare il daemon Docker e l'avvio al boot richiedono privilegi
   (`sudo systemctl enable --now docker`): azioni manuali su una macchina nuova,
   non automatizzabili dal repo.

@@ -1,8 +1,8 @@
 services:
   studio:
-    # Sostituisci TUO-USERNAME con il tuo utente/organizzazione GitHub
-    # (in minuscolo). Esempio: ghcr.io/namelessideas/sito-studio:latest
-    image: ghcr.io/TUO-USERNAME/sito-studio:latest
+    # Owner GitHub in minuscolo (GHCR richiede nomi immagine minuscoli).
+    # L'immagine viene pubblicata qui dalla pipeline CI/CD al push su main.
+    image: ghcr.io/namelessideas/sito-studio:latest
     build: .
     ports:
       - "8080:80"
