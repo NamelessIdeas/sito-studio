@@ -16,12 +16,12 @@ theme:
     - navigation.instant          # navigazione in stile SPA: niente ricaricamento pagina
     - navigation.instant.progress # sottile barra di avanzamento sui caricamenti lenti
     - navigation.tracking         # l'ancora nell'URL segue la sezione mentre scorri
-    - navigation.tabs             # le materie (cartelle di primo livello) diventano tab in alto
-    - navigation.tabs.sticky      # i tab restano fissi in alto durante lo scroll
-    - navigation.sections
+    # NIENTE navigation.tabs: le materie non vanno "in fila" nella barra in alto.
+    # Compaiono invece nel menu laterale a sinistra (espandibile). La home non
+    # diventa quindi un tab: per tornarci basta il logo/titolo del sito.
     - navigation.top              # bottone "torna su" con scroll morbido
-    - navigation.footer           # link Precedente/Successivo in fondo alla pagina
-    - navigation.indexes
+    - navigation.footer           # link Precedente/Successivo in fondo (escluso dove hide: footer)
+    - navigation.indexes          # ogni materia: l'index.md è la landing cliccabile
     - toc.follow                  # la table of contents segue la lettura
     - search.suggest
     - search.highlight
