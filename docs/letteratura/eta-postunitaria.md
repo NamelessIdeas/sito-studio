@@ -114,29 +114,29 @@ classica (Carducci, d'Annunzio) e soluzioni innovative (Pascoli).
 
 ## Generi e forme della letteratura
 
-### Poesia
+=== "Poesia"
 
-- **Lirica "scapigliata"** (Tarchetti, Praga, Boito): ispirata alla *bohème*
-  parigina e a Baudelaire, rifiuta l'impegno civile e descrive gli aspetti più
-  crudi e materiali dell'esistenza.
-- **Lirica di ispirazione classica** (Carducci): rifiuta il modello romantico,
-  restaura le forme classiche ed esalta la "pienezza vitale".
+    - **Lirica "scapigliata"** (Tarchetti, Praga, Boito): ispirata alla *bohème*
+      parigina e a Baudelaire, rifiuta l'impegno civile e descrive gli aspetti
+      più crudi e materiali dell'esistenza.
+    - **Lirica di ispirazione classica** (Carducci): rifiuta il modello
+      romantico, restaura le forme classiche ed esalta la "pienezza vitale".
 
-### Teatro
+=== "Teatro"
 
-- **Dramma borghese** (Torelli, Giacosa): la normalità quotidiana borghese, con
-  al centro famiglia e denaro.
-- **Teatro dialettale** e **teatro verista** (Verga): riprende trame e personaggi
-  dalle novelle, con toni patetici e melodrammatici.
+    - **Dramma borghese** (Torelli, Giacosa): la normalità quotidiana borghese,
+      con al centro famiglia e denaro.
+    - **Teatro dialettale** e **teatro verista** (Verga): riprende trame e
+      personaggi dalle novelle, con toni patetici e melodrammatici.
 
-### Prosa
+=== "Prosa"
 
-- **Romanzo verista** (Capuana, Verga, De Roberto, Serao): muove dal romanzo
-  naturalista francese ma ne rifiuta l'impostazione rigidamente scientifica.
-- **Romanzo d'appendice** (Mastriani, Invernizio): intrecci complicati e
-  sensazionali.
-- **Romanzo "femminile"** (Aleramo, Neera) e **letteratura per l'infanzia** (De
-  Amicis, Collodi, Salgari).
+    - **Romanzo verista** (Capuana, Verga, De Roberto, Serao): muove dal romanzo
+      naturalista francese ma ne rifiuta l'impostazione rigidamente scientifica.
+    - **Romanzo d'appendice** (Mastriani, Invernizio): intrecci complicati e
+      sensazionali.
+    - **Romanzo "femminile"** (Aleramo, Neera) e **letteratura per l'infanzia**
+      (De Amicis, Collodi, Salgari).
 
 !!! tip "Collegamenti"
     Le idee scientifiche di questo periodo sono approfondite in
