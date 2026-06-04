@@ -6,3 +6,6 @@
 venv/
 __pycache__/
 *.pyc
+
+# Materiali sorgente (PDF/PPTX/ODT) da cui sono rielaborati gli appunti
+Fonti/

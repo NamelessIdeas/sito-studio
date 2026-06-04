@@ -11,6 +11,7 @@ costruisce da solo: non esiste un elenco di navigazione da aggiornare a mano.
 
 ## Materie disponibili
 
+- [Letteratura](letteratura/index.md) — il secondo Ottocento: Positivismo, Verismo, Verga, Decadentismo.
 - [Matematica](matematica/index.md) — derivate, integrali e altro.
 - [Storia](storia/index.md) — eventi e periodi storici.
 
