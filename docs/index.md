@@ -1,8 +1,3 @@
----
-hide:
-  - footer   # la home non mostra i link Precedente/Successivo verso le materie
----
-
 # Sito di Studio
 
 Benvenuto nel mio sito di studio personale. Qui raccolgo appunti, formule e

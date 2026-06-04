@@ -2,6 +2,13 @@ site_name: Sito di Studio
 site_description: Appunti e materiale di studio personale, organizzati in moduli.
 docs_dir: docs
 
+# La home (index.md) resta costruita e raggiungibile dal logo/titolo del sito,
+# ma è esclusa dalla navigazione: non compare nel menu laterale e non entra
+# nella sequenza Precedente/Successivo (così dalle materie non si torna alla
+# home dal footer). NB: non è un blocco "nav:", la nav resta automatica.
+not_in_nav: |
+  /index.md
+
 # Nessun blocco "nav:": la navigazione è generata AUTOMATICAMENTE dalla
 # struttura di docs/. Aggiungere una materia = creare una cartella.
 # Aggiungere un argomento = creare un file .md dentro quella cartella.
