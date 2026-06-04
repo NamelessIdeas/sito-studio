@@ -17,8 +17,8 @@ theme:
   name: material
   language: it
   font:
-    text: Inter            # corpo del testo: molto leggibile e pulito
-    code: JetBrains Mono    # blocchi di codice
+    text: Roboto            # tipografia di Material Design 3
+    code: Roboto Mono
   features:
     - navigation.instant          # navigazione in stile SPA: niente ricaricamento pagina
     - navigation.instant.progress # sottile barra di avanzamento sui caricamenti lenti
@@ -35,18 +35,20 @@ theme:
     - search.share
     - content.tabs.link           # cambiare un content-tab allinea tutti i gruppi gemelli
     - content.code.copy           # bottone copia-codice
+  # Colori di base "deep purple" (vicini alla palette baseline M3); i token
+  # esatti di Material Design 3 sono definiti in docs/stylesheets/extra.css.
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Passa al tema scuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Passa al tema chiaro

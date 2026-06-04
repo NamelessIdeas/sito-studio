@@ -1,61 +1,216 @@
-/* Rifiniture estetiche del sito di studio.
-   Tutto è basato sulle variabili CSS di Material (--md-*), così il tema
-   chiaro/scuro continua a funzionare senza colori "fissi". Filosofia:
-   meno è meglio — più aria e leggibilità, niente effetti vistosi. */
+/* ============================================================================
+   Material Design 3 (Material You) per MkDocs Material
+   ----------------------------------------------------------------------------
+   Adatta il tema al linguaggio di m3.material.io: palette baseline M3 (viola),
+   superfici tonali, forme molto arrotondate, tipografia Roboto e indicatore di
+   navigazione a "pillola". Tutto basato su variabili CSS, quindi il tema
+   chiaro/scuro continua a funzionare. I token M3 personalizzati hanno prefisso
+   --m3-* e i token nativi di Material sono --md-*.
+   ========================================================================== */
 
-/* --- Lettura più ariosa --------------------------------------------------- */
+/* ---- Token colore M3 — TEMA CHIARO ---------------------------------------- */
+[data-md-color-scheme="default"] {
+  /* M3 baseline (light) */
+  --m3-primary:               #6750A4;
+  --m3-on-primary:            #FFFFFF;
+  --m3-primary-container:     #EADDFF;
+  --m3-on-primary-container:  #21005D;
+  --m3-secondary-container:   #E8DEF8;
+  --m3-on-secondary-container:#1D192B;
+  --m3-surface:               #FEF7FF;
+  --m3-surface-container:      #F3EDF7;
+  --m3-surface-container-high: #ECE6F0;
+  --m3-on-surface:            #1D1B20;
+  --m3-on-surface-variant:    #49454F;
+  --m3-outline:               #79747E;
+  --m3-outline-variant:       #CAC4D0;
+
+  /* Mappatura sui token nativi di Material */
+  --md-primary-fg-color:        var(--m3-primary);
+  --md-primary-fg-color--light: #7F67BE;
+  --md-primary-fg-color--dark:  #4F378B;
+  --md-accent-fg-color:         var(--m3-primary);
+
+  --md-default-bg-color:            var(--m3-surface);
+  --md-default-fg-color:            var(--m3-on-surface);
+  --md-default-fg-color--light:     var(--m3-on-surface-variant);
+  --md-default-fg-color--lighter:   var(--m3-outline);
+  --md-default-fg-color--lightest:  var(--m3-surface-container-high);
+
+  --md-typeset-color:    var(--m3-on-surface);
+  --md-typeset-a-color:  var(--m3-primary);
+
+  --md-code-bg-color: var(--m3-surface-container);
+  --md-code-fg-color: var(--m3-on-surface);
+
+  --md-footer-bg-color:       var(--m3-surface-container);
+  --md-footer-bg-color--dark: var(--m3-surface-container-high);
+  --md-footer-fg-color:       var(--m3-on-surface);
+}
+
+/* ---- Token colore M3 — TEMA SCURO ----------------------------------------- */
+[data-md-color-scheme="slate"] {
+  /* M3 baseline (dark) */
+  --m3-primary:               #D0BCFF;
+  --m3-on-primary:            #381E72;
+  --m3-primary-container:     #4F378B;
+  --m3-on-primary-container:  #EADDFF;
+  --m3-secondary-container:   #4A4458;
+  --m3-on-secondary-container:#E8DEF8;
+  --m3-surface:               #141218;
+  --m3-surface-container:      #211F26;
+  --m3-surface-container-high: #2B2930;
+  --m3-on-surface:            #E6E0E9;
+  --m3-on-surface-variant:    #CAC4D0;
+  --m3-outline:               #938F99;
+  --m3-outline-variant:       #49454F;
+
+  --md-primary-fg-color:        var(--m3-primary);
+  --md-primary-fg-color--light: #B69DF8;
+  --md-primary-fg-color--dark:  #4F378B;
+  --md-accent-fg-color:         var(--m3-primary);
+
+  --md-default-bg-color:            var(--m3-surface);
+  --md-default-fg-color:            var(--m3-on-surface);
+  --md-default-fg-color--light:     var(--m3-on-surface-variant);
+  --md-default-fg-color--lighter:   var(--m3-outline);
+  --md-default-fg-color--lightest:  var(--m3-surface-container-high);
+
+  --md-typeset-color:    var(--m3-on-surface);
+  --md-typeset-a-color:  var(--m3-primary);
+
+  --md-code-bg-color: var(--m3-surface-container);
+  --md-code-fg-color: var(--m3-on-surface);
+
+  --md-footer-bg-color:       var(--m3-surface-container);
+  --md-footer-bg-color--dark: #0F0D13;
+  --md-footer-fg-color:       var(--m3-on-surface);
+}
+
+/* ---- Tipografia M3 (Roboto; headline a peso regolare) --------------------- */
 .md-typeset {
-  line-height: 1.75;            /* righe meno compresse: testo più riposante */
+  line-height: 1.6;
 }
-
-.md-typeset p {
-  margin: 0.7em 0 1.05em;       /* un filo di respiro in più tra i paragrafi */
+.md-typeset h1 {
+  font-weight: 400;            /* le headline M3 NON sono bold */
+  letter-spacing: -0.015em;
+  color: var(--m3-on-surface);
 }
-
-/* Titoli con più stacco dalla sezione precedente, gerarchia più chiara. */
 .md-typeset h2 {
+  font-weight: 400;
+  letter-spacing: -0.005em;
   margin-top: 2.4rem;
-  letter-spacing: -0.01em;
 }
 .md-typeset h3 {
+  font-weight: 500;           /* i "title" M3 sono medium */
   margin-top: 1.8rem;
 }
+.md-typeset p { margin: 0.7em 0 1.05em; }
+html { scroll-behavior: smooth; }
 
-/* --- Scorrimento morbido per i link ad ancora ----------------------------- */
-html {
-  scroll-behavior: smooth;
+/* ---- Top app bar M3: superficie tonale chiara, non viola pieno ------------ */
+.md-header {
+  background-color: var(--m3-surface);
+  color: var(--m3-on-surface);
+  box-shadow: none;
+  border-bottom: 1px solid var(--m3-outline-variant);
+}
+.md-header--shadow { box-shadow: none; }
+.md-header__title { font-weight: 500; }
+.md-header .md-icon,
+.md-header [class*="md-icon"] { color: var(--m3-on-surface-variant); }
+
+/* ---- Barra di ricerca M3: "pillola" su superficie tonale ------------------ */
+.md-search__form {
+  border-radius: 28px;
+  background-color: var(--m3-surface-container-high);
+  box-shadow: none;
+}
+.md-search__form:hover {
+  background-color: var(--m3-surface-container);
+}
+.md-search__input { color: var(--m3-on-surface); }
+.md-search__input::placeholder { color: var(--m3-on-surface-variant); }
+.md-search__icon { color: var(--m3-on-surface-variant); }
+[data-md-toggle="search"]:checked ~ .md-header .md-search__output {
+  border-radius: 0 0 16px 16px;
 }
 
-/* --- Tabelle più morbide e leggibili -------------------------------------- */
+/* ---- Forme arrotondate M3 (corner medium = 12px) -------------------------- */
+.md-typeset .admonition,
+.md-typeset details,
+.md-typeset .highlight,
+.md-typeset pre > code,
+.md-typeset .tabbed-set,
 .md-typeset table:not([class]) {
-  border: none;
-  border-radius: 0.3rem;
-  overflow: hidden;
-  box-shadow: 0 0 0 1px var(--md-default-fg-color--lightest);
+  border-radius: 12px;
 }
-.md-typeset table:not([class]) th {
-  font-weight: 600;
-}
-/* Righe alternate appena accennate: la tabella "si legge" senza pesare. */
-.md-typeset table:not([class]) tr:nth-child(even),
-.md-typeset table:not([class]) tbody tr:nth-child(even) {
-  background-color: var(--md-default-fg-color--lightest);
-}
-
-/* --- Admonition e citazioni un po' più morbide ---------------------------- */
 .md-typeset .admonition,
 .md-typeset details {
-  border-radius: 0.3rem;
+  border: 1px solid var(--m3-outline-variant);
   box-shadow: none;
-  border-left-width: 0.2rem;
+}
+.md-typeset code { border-radius: 6px; }
+
+/* Pulsanti a "pillola" (corner full) */
+.md-typeset .md-button,
+.md-clipboard,
+.md-typeset .tabbed-labels > label {
+  border-radius: 9999px;
+}
+.md-typeset .md-button--primary {
+  background-color: var(--m3-primary);
+  color: var(--m3-on-primary);
+  border-color: var(--m3-primary);
 }
 
-/* --- Transizioni delicate su link e pulsanti ------------------------------ */
-.md-typeset a {
-  transition: color 120ms ease;
+/* ---- Tabelle M3 ----------------------------------------------------------- */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--m3-outline-variant);
+  overflow: hidden;
+}
+.md-typeset table:not([class]) th {
+  background-color: var(--m3-surface-container);
+  color: var(--m3-on-surface);
+  font-weight: 500;
+}
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--m3-surface-container);
 }
 
-/* --- Tab di contenuto e tab di navigazione: bordi più puliti --------------- */
-.md-typeset .tabbed-set > label {
-  transition: color 120ms ease;
+/* ---- Navigazione: voci a "pillola" con indicatore M3 ---------------------- */
+.md-nav__link {
+  border-radius: 9999px;
+  padding: 0.35rem 0.7rem;
+  margin: 0.1rem 0;
+  transition: background-color 120ms ease, color 120ms ease;
 }
+.md-nav__link:hover {
+  background-color: var(--m3-surface-container-high);
+  color: var(--m3-on-surface);
+}
+.md-nav__link--active,
+.md-nav__item--active > .md-nav__link {
+  background-color: var(--m3-secondary-container);
+  color: var(--m3-on-secondary-container);
+  font-weight: 500;
+}
+/* la TOC a destra resta leggera: niente pillola sui titoli di sezione */
+.md-sidebar--secondary .md-nav__link {
+  border-radius: 0;
+  padding-left: 0;
+  background: transparent;
+}
+
+/* ---- Tab di contenuto: indicatore attivo in primary M3 -------------------- */
+.md-typeset .tabbed-labels > label { font-weight: 500; }
+.js .md-typeset .tabbed-set > input:checked + label {
+  color: var(--m3-primary);
+}
+.md-typeset .tabbed-labels::before { background: var(--m3-primary); }
+
+/* ---- Barra di avanzamento (instant.progress) in primary M3 ---------------- */
+.md-progress { background-color: var(--m3-primary); }
+
+/* ---- Link con transizione delicata --------------------------------------- */
+.md-typeset a { transition: color 120ms ease; }
