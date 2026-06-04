@@ -22,6 +22,8 @@ setup.sh                    Avvio "PC come server": check Docker, pull+fallback 
 docs/                       Contenuti del sito (vedi sotto)
   index.md
   javascripts/mathjax.js    Config MathJax 3 (metodo ufficiale, no polyfill.io)
+  stylesheets/extra.css     Rifiniture estetiche su variabili --md-* (theme-aware)
+  letteratura/              Materia (tab) -> index.md + argomenti .md
   matematica/               Materia (tab) -> index.md + argomenti .md
   storia/                   Materia (tab) -> index.md + argomenti .md
 ```

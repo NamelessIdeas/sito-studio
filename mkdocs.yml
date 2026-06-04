@@ -9,16 +9,25 @@ docs_dir: docs
 theme:
   name: material
   language: it
+  font:
+    text: Inter            # corpo del testo: molto leggibile e pulito
+    code: JetBrains Mono    # blocchi di codice
   features:
-    - navigation.tabs        # le materie (cartelle di primo livello) diventano tab in alto
-    - navigation.tabs.sticky # i tab restano fissi in alto durante lo scroll
+    - navigation.instant          # navigazione in stile SPA: niente ricaricamento pagina
+    - navigation.instant.progress # sottile barra di avanzamento sui caricamenti lenti
+    - navigation.tracking         # l'ancora nell'URL segue la sezione mentre scorri
+    - navigation.tabs             # le materie (cartelle di primo livello) diventano tab in alto
+    - navigation.tabs.sticky      # i tab restano fissi in alto durante lo scroll
     - navigation.sections
-    - navigation.top
+    - navigation.top              # bottone "torna su" con scroll morbido
+    - navigation.footer           # link Precedente/Successivo in fondo alla pagina
     - navigation.indexes
+    - toc.follow                  # la table of contents segue la lettura
     - search.suggest
     - search.highlight
-    - content.code.copy      # bottone copia-codice
-    - toc.follow
+    - search.share
+    - content.tabs.link           # cambiare un content-tab allinea tutti i gruppi gemelli
+    - content.code.copy           # bottone copia-codice
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -51,6 +60,9 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.arithmatex:      # formule LaTeX
       generic: true
+
+extra_css:
+  - stylesheets/extra.css
 
 # MathJax 3 — metodo ufficiale Material. NIENTE polyfill.io (compromesso).
 extra_javascript:
