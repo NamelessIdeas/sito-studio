@@ -7,3 +7,31 @@ services:
     ports:
       - "8080:80"
     restart: unless-stopped
+    labels:
+      # Solo i container con questa label vengono aggiornati da Watchtower
+      # (vedi WATCHTOWER_LABEL_ENABLE qui sotto).
+      - "com.centurylinklabs.watchtower.enable=true"
+
+  watchtower:
+    # Controlla periodicamente GHCR: se esce una nuova :latest (pubblicata
+    # dalla pipeline al push su main), scarica l'immagine e ricrea il
+    # container "studio" da solo. Niente più pull manuale.
+    image: containrrr/watchtower:latest
+    restart: unless-stopped
+    volumes:
+      # Serve per parlare col daemon Docker e gestire i container.
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      # Il client Docker incluso nell'immagine è datato: senza questo, i
+      # daemon recenti (Docker 25+) rifiutano la connessione ("client
+      # version too old"). Forza una versione API supportata dal daemon.
+      DOCKER_API_VERSION: "1.44"
+      # Aggiorna SOLO i container con la label watchtower.enable=true.
+      WATCHTOWER_LABEL_ENABLE: "true"
+      # Rimuove le vecchie immagini dopo l'aggiornamento.
+      WATCHTOWER_CLEANUP: "true"
+      # Frequenza dei controlli, in secondi (qui: ogni 5 minuti).
+      WATCHTOWER_POLL_INTERVAL: "300"
+    # Per immagini su GHCR PRIVATE serve l'autenticazione: montare il file
+    # ~/.docker/config.json (dopo "docker login ghcr.io") in
+    # /config.json. Se il package è pubblico non occorre nulla.
