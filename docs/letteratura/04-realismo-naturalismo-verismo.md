@@ -90,4 +90,4 @@ Naturalismo e Verismo condividono numerosi principi:
 
 !!! tip "Approfondimento"
     Le strategie narrative del Verismo e l'opera del suo massimo autore sono
-    trattate in [Giovanni Verga](giovanni-verga.md).
+    trattate in [Giovanni Verga](05-giovanni-verga.md).

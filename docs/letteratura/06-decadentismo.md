@@ -107,5 +107,5 @@ La tendenza al realismo si avverte anche nella pittura:
 
 !!! tip "Collegamenti"
     Il Decadentismo nasce in reazione alle idee descritte in
-    [Il Positivismo](positivismo.md) e nel
-    [Naturalismo e Verismo](realismo-naturalismo-verismo.md).
+    [Il Positivismo](03-positivismo.md) e nel
+    [Naturalismo e Verismo](04-realismo-naturalismo-verismo.md).
