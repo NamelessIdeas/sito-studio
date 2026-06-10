@@ -4,10 +4,11 @@ Guida per agenti che lavorano su questo repository.
 
 ## Cos'è
 
-Sito di studio personale generato con **MkDocs Material** (italiano), servito in
-**Docker** dietro nginx, con **CI/CD** su GitHub Actions che pubblica l'immagine
-su **GHCR**. Obiettivo: su un PC nuovo deve bastare *installare Docker + lanciare
-`./setup.sh`* per rimettere il sito online.
+Sito di studio personale generato con **MkDocs Material** (italiano, tema
+Material Design 3), servito in **Docker** dietro nginx, con **CI/CD** su GitHub
+Actions che pubblica l'immagine su **GHCR** e **Watchtower** che aggiorna il
+container da solo. Obiettivo: su un PC nuovo deve bastare *installare Docker +
+lanciare `./setup.sh`* per rimettere il sito online.
 
 ## Struttura
 
@@ -15,25 +16,26 @@ su **GHCR**. Obiettivo: su un PC nuovo deve bastare *installare Docker + lanciar
 mkdocs.yml                  Config MkDocs Material. NESSUN blocco nav:.
 requirements.txt            Dipendenza pinnata: mkdocs-material==9.7.6
 Dockerfile                  Multi-stage: python:3.12-slim (build) -> nginx:alpine (serve :80)
-docker-compose.yml          Servizio "studio", 8080:80, restart unless-stopped
+docker-compose.yml          Servizi "studio" (8080:80) e "watchtower" (auto-update da GHCR)
 .dockerignore               Esclude .git/.github/site/README/compose, NON i .md
 setup.sh                    Avvio "PC come server": check Docker, pull+fallback build, URL LAN
 .github/workflows/ci-cd.yml CI (mkdocs build --strict) + CD (push immagine su GHCR)
 docs/                       Contenuti del sito (vedi sotto)
   index.md
   javascripts/mathjax.js    Config MathJax 3 (metodo ufficiale, no polyfill.io)
-  stylesheets/extra.css     Adattamento Material Design 3 (token --m3-*, theme-aware)
-  letteratura/              Materia (tab) -> index.md + argomenti .md
-  matematica/               Materia (tab) -> index.md + argomenti .md
-  storia/                   Materia (tab) -> index.md + argomenti .md
+  stylesheets/extra.css     Material Design 3: token colore e movimento --m3-*, theme-aware
+  letteratura/              Materia (menu laterale) -> index.md + argomenti .md
+  matematica/               Materia (menu laterale) -> index.md + argomenti .md
+  storia/                   Materia (menu laterale) -> index.md + argomenti .md
 ```
 
 ## Regole importanti (non violare)
 
 - **Navigazione automatica.** Non aggiungere mai un blocco `nav:` in `mkdocs.yml`.
   Il menu si genera dalla struttura di `docs/`. Una **materia** = una cartella
-  (diventa un tab); un **argomento** = un file `.md`; ogni materia ha un
-  `index.md` come landing.
+  (compare nel menu laterale, NIENTE tab in alto: `navigation.tabs` resta
+  disattivato); un **argomento** = un file `.md`; ogni materia ha un
+  `index.md` come landing. La home è esclusa dalla nav via `not_in_nav`.
 - **Formule LaTeX via MathJax 3 ufficiale.** MathJax è caricato da unpkg in
   `mkdocs.yml` (`extra_javascript`) insieme a `docs/javascripts/mathjax.js`.
   **Mai** usare `polyfill.io` (compromesso). Sintassi: `\( ... \)` inline,
@@ -61,6 +63,7 @@ docker compose up -d --build      # build locale, http://localhost:8080
 
 Per `mkdocs serve`/`build` localmente: creare un venv e
 `pip install -r requirements.txt` (l'output `site/` è in `.gitignore`).
+In questo checkout il venv è già in `.venv/` (`.venv/bin/mkdocs`).
 
 ## CI/CD
 
@@ -69,6 +72,11 @@ Per `mkdocs serve`/`build` localmente: creare un venv e
 - **cd** (solo push su `main`): login GHCR con `GITHUB_TOKEN`
   (`packages: write`), build e push su `ghcr.io/<repo-in-minuscolo>:latest`.
   Il nome immagine è forzato in minuscolo perché GHCR lo richiede.
+
+Sul PC che ospita il sito, il servizio **watchtower** di `docker-compose.yml`
+controlla GHCR ogni 5 minuti (solo i container con label
+`watchtower.enable=true`) e ricrea `studio` quando esce una nuova `:latest`:
+dopo il merge su `main` il deploy è automatico.
 
 ## Note ambientali
 

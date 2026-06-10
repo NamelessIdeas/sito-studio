@@ -2,9 +2,10 @@
 
 Sito di studio personale generato con **MkDocs Material**, in italiano, con
 navigazione **automatica** dalla struttura delle cartelle, formule LaTeX
-(MathJax 3), ricerca, tema chiaro/scuro e copia-codice. Pensato per girare in
-**Docker** e trasformare un PC in un piccolo server di rete locale, con
-**CI/CD** su GitHub Actions verso GHCR.
+(MathJax 3), ricerca, tema **Material Design 3** chiaro/scuro e copia-codice.
+Pensato per girare in **Docker** e trasformare un PC in un piccolo server di
+rete locale, con **CI/CD** su GitHub Actions verso GHCR e **aggiornamento
+automatico** del container via Watchtower.
 
 ---
 
@@ -14,7 +15,7 @@ La navigazione si costruisce da sola: **non c'è alcun elenco `nav:`** da
 mantenere in `mkdocs.yml`.
 
 - **Nuova materia** → crea una cartella in `docs/`, per esempio
-  `docs/fisica/`. Diventerà automaticamente un **tab** in alto.
+  `docs/fisica/`. Comparirà automaticamente nel **menu laterale** a sinistra.
   Aggiungi `docs/fisica/index.md` come pagina introduttiva della materia.
 - **Nuovo argomento** → crea un file `.md` dentro la cartella della materia,
   per esempio `docs/fisica/cinematica.md`. Comparirà nel menu della materia.
@@ -103,6 +104,11 @@ poi stampa gli URL di accesso (localhost e IP in LAN).
    La CD usa `GITHUB_TOKEN` con permesso `packages: write`: non servono secret
    aggiuntivi.
 
+   Sul PC che ospita il sito, **Watchtower** (incluso in `docker-compose.yml`)
+   controlla GHCR ogni 5 minuti: quando la pipeline pubblica una nuova
+   `:latest`, scarica l'immagine e ricrea il container da solo. Dopo un push su
+   `main` il sito si aggiorna quindi **senza alcun intervento manuale**.
+
 4. (Opzionale) Per scaricare l'immagine da un'altra macchina, rendi il package
    pubblico nelle impostazioni del package su GitHub, **oppure** esegui il login
    a GHCR (vedi sotto).
@@ -152,7 +158,8 @@ Trasformare il PC in un server che ospita il sito per tutta la rete locale.
 
 - contenuti del sito (`docs/`), configurazione (`mkdocs.yml`), dipendenze
   pinnate (`requirements.txt`);
-- `Dockerfile`, `docker-compose.yml`, `.dockerignore`;
+- `Dockerfile`, `docker-compose.yml` (incluso il servizio **Watchtower** per
+  l'aggiornamento automatico), `.dockerignore`;
 - pipeline CI/CD (`.github/workflows/ci-cd.yml`);
 - script di avvio (`setup.sh`).
 
