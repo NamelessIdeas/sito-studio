@@ -8,6 +8,16 @@
    --m3-* e i token nativi di Material sono --md-*.
    ========================================================================== */
 
+/* ---- Token di movimento M3 (easing e durate ufficiali) --------------------- */
+:root {
+  /* curve "emphasized" e "standard" di m3.material.io/styles/motion */
+  --m3-easing-emphasized: cubic-bezier(0.2, 0, 0, 1);
+  --m3-easing-standard:   cubic-bezier(0.2, 0, 0, 1);
+  --m3-duration-short:    150ms;
+  --m3-duration-medium:   300ms;
+  --m3-duration-long:     450ms;
+}
+
 /* ---- Token colore M3 — TEMA CHIARO ---------------------------------------- */
 [data-md-color-scheme="default"] {
   /* M3 baseline (light) */
@@ -108,12 +118,20 @@
 .md-typeset p { margin: 0.7em 0 1.05em; }
 html { scroll-behavior: smooth; }
 
-/* ---- Top app bar M3: superficie tonale chiara, non viola pieno ------------ */
+/* ---- Top app bar M3: superficie tonale traslucida con blur ---------------- */
 .md-header {
-  background-color: var(--m3-surface);
+  background-color: var(--m3-surface);  /* fallback senza blur */
   color: var(--m3-on-surface);
   box-shadow: none;
   border-bottom: 1px solid var(--m3-outline-variant);
+  transition: background-color var(--m3-duration-medium) var(--m3-easing-standard);
+}
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .md-header {
+    background-color: color-mix(in srgb, var(--m3-surface) 82%, transparent);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
 }
 .md-header--shadow { box-shadow: none; }
 .md-header__title { font-weight: 500; }
@@ -125,9 +143,12 @@ html { scroll-behavior: smooth; }
   border-radius: 28px;
   background-color: var(--m3-surface-container-high);
   box-shadow: none;
+  transition: background-color var(--m3-duration-short) var(--m3-easing-standard),
+              box-shadow var(--m3-duration-short) var(--m3-easing-standard);
 }
 .md-search__form:hover {
   background-color: var(--m3-surface-container);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
 }
 .md-search__input { color: var(--m3-on-surface); }
 .md-search__input::placeholder { color: var(--m3-on-surface-variant); }
@@ -149,6 +170,13 @@ html { scroll-behavior: smooth; }
 .md-typeset details {
   border: 1px solid var(--m3-outline-variant);
   box-shadow: none;
+  transition: box-shadow var(--m3-duration-short) var(--m3-easing-standard),
+              transform var(--m3-duration-short) var(--m3-easing-standard);
+}
+/* leggera "elevazione" M3 al passaggio del mouse */
+.md-typeset .admonition:hover,
+.md-typeset details:hover {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.10), 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 .md-typeset code { border-radius: 6px; }
 
@@ -177,13 +205,27 @@ html { scroll-behavior: smooth; }
 .md-typeset table:not([class]) tr:nth-child(even) {
   background-color: var(--m3-surface-container);
 }
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) tr {
+  transition: background-color var(--m3-duration-short) var(--m3-easing-standard);
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: var(--m3-surface-container-high);
+  box-shadow: none;
+}
 
 /* ---- Navigazione: voci a "pillola" con indicatore M3 ---------------------- */
 .md-nav__link {
   border-radius: 9999px;
   padding: 0.35rem 0.7rem;
   margin: 0.1rem 0;
-  transition: background-color 120ms ease, color 120ms ease;
+  transition: background-color var(--m3-duration-short) var(--m3-easing-standard),
+              color var(--m3-duration-short) var(--m3-easing-standard),
+              padding-left var(--m3-duration-short) var(--m3-easing-emphasized);
+}
+/* micro-spostamento al passaggio: feedback fluido senza ingombro */
+.md-sidebar--primary .md-nav__link:hover {
+  padding-left: 0.85rem;
 }
 .md-nav__link:hover {
   background-color: var(--m3-surface-container-high);
@@ -212,5 +254,84 @@ html { scroll-behavior: smooth; }
 /* ---- Barra di avanzamento (instant.progress) in primary M3 ---------------- */
 .md-progress { background-color: var(--m3-primary); }
 
-/* ---- Link con transizione delicata --------------------------------------- */
-.md-typeset a { transition: color 120ms ease; }
+/* ---- Link con sottolineatura animata -------------------------------------- */
+.md-typeset a {
+  transition: color var(--m3-duration-short) var(--m3-easing-standard);
+}
+.md-content .md-typeset a:not(.md-button):not(.headerlink) {
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 0.18em;
+  transition: color var(--m3-duration-short) var(--m3-easing-standard),
+              text-decoration-color var(--m3-duration-short) var(--m3-easing-standard);
+}
+.md-content .md-typeset a:not(.md-button):not(.headerlink):hover {
+  text-decoration-color: currentcolor;
+}
+
+/* ---- Ingresso fluido del contenuto ----------------------------------------
+   Con navigation.instant il contenitore del contenuto viene sostituito a ogni
+   cambio pagina, quindi l'animazione si ri-attiva: l'effetto è quello di
+   un'app, non di un sito che "lampeggia". ------------------------------------ */
+@keyframes m3-content-in {
+  from { opacity: 0; transform: translateY(0.4rem); }
+  to   { opacity: 1; transform: none; }
+}
+.md-content {
+  animation: m3-content-in var(--m3-duration-medium) var(--m3-easing-emphasized) both;
+}
+
+/* ---- Bottone "torna su" a pillola tonale ----------------------------------- */
+.md-top {
+  border-radius: 9999px;
+  background-color: var(--m3-surface-container-high);
+  color: var(--m3-on-surface);
+  border: 1px solid var(--m3-outline-variant);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  transition: background-color var(--m3-duration-short) var(--m3-easing-standard),
+              opacity var(--m3-duration-medium) var(--m3-easing-standard),
+              transform var(--m3-duration-short) var(--m3-easing-emphasized);
+}
+.md-top:hover {
+  background-color: var(--m3-secondary-container);
+  color: var(--m3-on-secondary-container);
+  transform: translateX(-50%) translateY(-2px);
+}
+
+/* ---- Scrollbar a tema (WebKit + Firefox) ----------------------------------- */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--m3-outline-variant) transparent;
+}
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background-color: var(--m3-outline-variant);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--m3-outline);
+}
+
+/* ---- Selezione del testo in primary-container ------------------------------ */
+::selection {
+  background-color: var(--m3-primary-container);
+  color: var(--m3-on-primary-container);
+}
+
+/* ---- Permalink delle intestazioni: appare con dissolvenza ------------------ */
+.md-typeset .headerlink {
+  opacity: 0;
+  transition: opacity var(--m3-duration-short) var(--m3-easing-standard);
+}
+.md-typeset :hover > .headerlink,
+.md-typeset .headerlink:focus-visible {
+  opacity: 1;
+}
+
+/* ---- Accessibilità: rispetta chi preferisce meno movimento ----------------- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .md-content { animation: none; }
+  * { transition-duration: 0.01ms !important; }
+}
