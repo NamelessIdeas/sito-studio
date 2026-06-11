@@ -329,6 +329,18 @@ html { scroll-behavior: smooth; }
   opacity: 1;
 }
 
+/* ---- Sidebar: via il titolo del sito sopra la nav (solo desktop) ----------- */
+/* Su desktop il titolo "Sito di Studio" in cima alla sidebar è sticky e il
+   tema gli dà un box-shadow che proietta un'ombra sulla prima voce del menu.
+   Il titolo è ridondante (c'è già nella header), quindi lo togliamo. Sotto il
+   breakpoint 76.25em la nav diventa il drawer mobile: lì il titolo resta,
+   serve da intestazione del pannello. */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary > .md-nav__title {
+    display: none;
+  }
+}
+
 /* ---- Accessibilità: rispetta chi preferisce meno movimento ----------------- */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
