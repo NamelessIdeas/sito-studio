@@ -12,9 +12,12 @@ La cultura della seconda metà dell'Ottocento nasce dalla **fiducia nella scienz
 **Scapigliatura** apre la prima rivolta contro la società borghese. Nell'ultimo
 ventennio del secolo questa fiducia entra in crisi e si afferma il
 **Decadentismo**, con il **Simbolismo**, **Pascoli** e **d'Annunzio**. Il primo
-Novecento porta le **avanguardie** (il Futurismo) e il rinnovamento del romanzo
-con **Svevo** e **Pirandello**; infine, tra le due guerre, la grande stagione
-poetica di **Ungaretti**, **Montale** e **Saba**.
+Novecento porta le **avanguardie** (il Futurismo), le voci nuove di
+**Crepuscolari** e **Vociani** e il rinnovamento del romanzo con **Svevo** e
+**Pirandello**; tra le due guerre, la grande stagione poetica di **Ungaretti**,
+**Montale** e **Saba**, mentre la narrativa — da **Kafka**, **Proust** e
+**Joyce** agli italiani — sperimenta forme nuove e la lirica approda
+all'**Ermetismo** di **Quasimodo**.
 
 ## Argomenti
 
@@ -39,6 +42,7 @@ poetica di **Ungaretti**, **Montale** e **Saba**.
 ### Il primo Novecento
 
 - [Le avanguardie e il Futurismo](10-futurismo.md) — Marinetti, Palazzeschi e le *parole in libertà*.
+- [Crepuscolari e Vociani](16-crepuscolari-e-vociani.md) — Gozzano, Corazzini e la poesia del frammento (Sbarbaro, Rebora, Campana).
 - [Italo Svevo](11-italo-svevo.md) — la vita, l'inetto e i grandi romanzi.
 - [Luigi Pirandello](12-luigi-pirandello.md) — l'umorismo, il relativismo e il teatro nel teatro.
 
@@ -47,6 +51,11 @@ poetica di **Ungaretti**, **Montale** e **Saba**.
 - [Giuseppe Ungaretti](13-giuseppe-ungaretti.md) — *L'allegria*: la guerra e la parola essenziale.
 - [Eugenio Montale](14-eugenio-montale.md) — *Ossi di seppia*: il male di vivere e il correlativo oggettivo.
 - [Umberto Saba](15-umberto-saba.md) — il *Canzoniere* e la «poesia onesta».
+
+### La narrativa tra le due guerre e l'Ermetismo
+
+- [La narrativa tra le due guerre](17-narrativa-tra-le-due-guerre.md) — Kafka, Proust e Joyce; le riviste e il romanzo italiano da Tozzi a Buzzati.
+- [L'Ermetismo](18-ermetismo.md) — la letteratura come vita, la parola pura e Salvatore Quasimodo.
 
 !!! note "Fonti"
     Appunti rielaborati sul programma di *Lingua e letteratura italiana* della

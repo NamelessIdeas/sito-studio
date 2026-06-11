@@ -17,8 +17,21 @@ comune. I loro tratti distintivi sono:
 - la **sperimentazione** radicale di nuove forme;
 - la pubblicazione di **manifesti** programmatici.
 
-Tra le avanguardie europee: Espressionismo, Cubismo, Dadaismo, Surrealismo; in
-Italia, il **Futurismo**.
+Precursore ne è **Guillaume Apollinaire** (il *testo simultaneo*); comune a
+tutte è la rivoluzione formale: **verso libero**, paratassi, lessico nuovo,
+temi inediti. Le principali avanguardie europee:
+
+- **Espressionismo** (Germania e Austria, 1905–1925 ca.): uso **soggettivo ed
+  esasperato** del mezzo espressivo; temi della **città minacciosa**, della
+  civiltà delle macchine, dell'**angoscia**.
+- **Dadaismo**: fondato da **Tristan Tzara** a **Zurigo nel 1916** come
+  reazione agli orrori della guerra; vuole **desacralizzare l'artista** e
+  l'arte stessa (il nome "dada" è volutamente privo di senso); si scioglie già
+  nel 1920.
+- **Surrealismo**: fondato da **André Breton** con il *Manifesto del
+  Surrealismo* (**1924**); esplora **sogno, follia e inconscio** alla ricerca
+  di una "surrealtà", con la tecnica della **scrittura automatica**.
+- in Italia, il **Futurismo**.
 
 ## Il Futurismo
 
@@ -38,6 +51,17 @@ Sul piano della scrittura, il ***Manifesto tecnico della letteratura futurista**
 abolizione di aggettivi, avverbi e **punteggiatura**, «immaginazione senza fili»,
 **onomatopea** e soprattutto le **«parole in libertà»** (*paroliberismo*), con
 uso espressivo della **tipografia** (le *tavole parolibere*).
+
+Il movimento si diffonde da **Milano** (dove opera Marinetti) e poi soprattutto
+a **Firenze**, attorno alla rivista «**Lacerba**» (fondata nel 1913 da Giovanni
+Papini e Ardengo Soffici); grazie ai viaggi di Marinetti arriva in Francia e in
+**Russia**, dove con **Vladimir Majakovskij** assume però caratteri di
+giustizia sociale e antimilitarismo. Se ne distinguono **tre fasi**:
+
+1. **1909–1912**: rinnovamento del linguaggio e **verso libero**;
+2. **1912–1915**: le **«parole in libertà»** e la distruzione della sintassi;
+3. **1915–1920**: la «fase eroica», con la **politicizzazione** del movimento,
+   l'interventismo e l'esaltazione della guerra, fino all'adesione al fascismo.
 
 Protagonisti: oltre a Marinetti, **Aldo Palazzeschi** (che presto se ne
 distaccò), il pittore Umberto Boccioni, Corrado Govoni, Ardengo Soffici.
@@ -190,9 +214,15 @@ dai poeti», la poesia ha perso la sua funzione, e allora tanto vale giocare.
 
 **Filippo Tommaso Marinetti** (Alessandria d'Egitto, 1876 – Bellagio, 1944) è il
 fondatore e l'animatore del Futurismo, autore dei manifesti e infaticabile
-organizzatore delle «serate futuriste». La sua opera più nota è ***Zang Tumb
-Tuuum*** (1914), resoconto in *parole in libertà* dell'assedio di Adrianopoli, a
-cui assistette come corrispondente di guerra.
+organizzatore delle «serate futuriste» — tanto da meritarsi l'appellativo di
+**«caffeina d'Europa»**. Formatosi a **Parigi** negli ambienti dell'avanguardia
+francese, nel 1905 fonda a Milano la rivista «Poesia»; nel 1910 pubblica il
+romanzo *Mafarka il futurista*. Favorevole alla guerra in Libia e poi
+**interventista** nella Prima guerra mondiale (a cui partecipa volontario), nel
+dopoguerra **aderisce al fascismo**, di cui diventa intimo sostenitore
+(accademico d'Italia nel 1929), fino alla Repubblica di Salò. La sua opera più
+nota è ***Zang Tumb Tuuum*** (1914), resoconto in *parole in libertà*
+dell'assedio di Adrianopoli, a cui assistette come corrispondente di guerra.
 
 ### *Bombardamento* (da *Zang Tumb Tuuum*, 1914)
 
@@ -242,6 +272,7 @@ fa puro **suono e segno**: poesia come estetica del dinamismo e del rumore.
 
 !!! tip "Collegamenti"
     Le avanguardie reagiscono ai modelli di fine Ottocento, in particolare alla
-    poesia di [d'Annunzio](08-gabriele-dannunzio.md). Sul versante della prosa, il
-    Primo Novecento è dominato dai grandi romanzi di
+    poesia di [d'Annunzio](08-gabriele-dannunzio.md). Negli stessi anni la lirica
+    si rinnova anche con [Crepuscolari e Vociani](16-crepuscolari-e-vociani.md).
+    Sul versante della prosa, il Primo Novecento è dominato dai grandi romanzi di
     [Italo Svevo](11-italo-svevo.md) e [Luigi Pirandello](12-luigi-pirandello.md).

@@ -85,6 +85,30 @@ che disprezza la massa, vive la propria **vita come un'opera d'arte** e nutre un
 morbosa attrazione per tutto ciò che è insolito e prezioso, accompagnata da un
 senso di decadenza e di **corruzione spirituale**.
 
+## Temi e miti della letteratura decadente
+
+| Tema | Caratteristiche |
+| --- | --- |
+| **Ammirazione per la decadenza** | stato d'animo di **stanchezza** ed **estenuazione**, dal senso di disfacimento di una civiltà prossima al crollo; le **epoche di decadenza** (grecità alessandrina, tarda latinità imperiale, età bizantina) affascinano più delle età di pienezza e classicità |
+| **Lusso e perversione** | **vagheggiamento del lusso** raro e prezioso e della **lussuria**, complicata da perversità e crudeltà |
+| **Malattia** | i protagonisti soffrono di **nevrosi**; la malattia è una **condizione privilegiata**, segno di nobiltà e strumento conoscitivo per eccellenza |
+| **Corruzione** | tutto ciò che è **corrotto, impuro, putrescente** esercita un forte fascino |
+| **Morte** | **voluttà morbosa di annientamento** e autodistruzione, attrazione irresistibile per la morte |
+| **Vitalismo** | ricerca ed esaltazione della **pienezza vitale**, del godimento, della **forza barbarica** che domina i deboli: un modo per **esorcizzare e mascherare** l'attrazione morbosa per decadenza, malattia e morte |
+
+## Gli «eroi» decadenti
+
+Le **figure ricorrenti** della letteratura decadente:
+
+| Figura | Caratteristiche |
+| --- | --- |
+| **Artista "maledetto"** | disprezza i valori e le convenzioni sociali, sceglie deliberatamente il male, conduce una vita misera ed errabonda, si consuma nel vizio, nell'alcol e nelle droghe |
+| **Esteta** | vuole trasformare la propria **vita in opera d'arte**; ignora le leggi morali e segue solo il **principio del bello**; cerca sensazioni squisite e piaceri raffinati; disprezza la mediocrità borghese e si isola in una sdegnosa solitudine, circondato solo dalla bellezza |
+| **Inetto** | si sente **impotente ed escluso dalla vita** per una sottile malattia che gli corrode la volontà; l'**eccesso di pensiero** — il continuo osservarsi e studiarsi — raggela i sentimenti e **blocca l'azione** |
+| **Donna fatale** | lussuriosa e perversa, crudele torturatrice, maga **ammaliatrice**, dominatrice del maschio fragile e sottomesso; **consuma le energie vitali dell'uomo** portandolo alla follia e alla perdizione |
+| **«Fanciullino»** | mito di invenzione **pascoliana**, legato alla figura dell'inetto: emotività e sensibilità infantili che si traducono in una **trepida indagine del mistero**, regressione a forme di coscienza primigenia, anteriori alla vita logica |
+| **Superuomo** | mito di invenzione **dannunziana**, liberamente ispirato a **Nietzsche**: l'**individuo superiore** che si distingue dalla massa mediocre e muove alla conquista di **mete eroiche**, senza dubbi né incertezze |
+
 ## Le tendenze artistiche di fine Ottocento
 
 La tendenza al realismo si avverte anche nella pittura:
