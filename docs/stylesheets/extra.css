@@ -247,31 +247,84 @@ html { scroll-behavior: smooth; }
 /* ---- Navigazione: voci a "pillola" con indicatore M3 ---------------------- */
 .md-nav__link {
   border-radius: 9999px;
-  padding: 0.35rem 0.7rem;
+  padding: 0.3rem 0.7rem;
   margin: 0.1rem 0;
   transition: background-color var(--m3-duration-short) var(--m3-easing-standard),
-              color var(--m3-duration-short) var(--m3-easing-standard),
-              padding-left var(--m3-duration-short) var(--m3-easing-emphasized);
+              color var(--m3-duration-short) var(--m3-easing-standard);
 }
-/* micro-spostamento al passaggio: feedback fluido senza ingombro */
-.md-sidebar--primary .md-nav__link:hover {
-  padding-left: 0.85rem;
+/* Con navigation.indexes il rigo di una sezione è un contenitore
+   (div.md-nav__link.md-nav__container) che racchiude il link della sezione e
+   la freccia di espansione: la pillola va sul rigo intero, gli elementi
+   interni non devono averne una seconda (niente doppio padding/sfondo). */
+.md-nav__container > .md-nav__link {
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
 }
 .md-nav__link:hover {
   background-color: var(--m3-surface-container-high);
   color: var(--m3-on-surface);
 }
-.md-nav__link--active,
-.md-nav__item--active > .md-nav__link {
+.md-nav__container > .md-nav__link:hover {
+  background-color: transparent;
+}
+/* Le voci con figli (materie, movimenti, correnti) si distinguono dalle
+   pagine foglia per il peso del carattere: la gerarchia si vede subito. */
+.md-sidebar--primary .md-nav__item--nested > .md-nav__container > .md-nav__link {
+  font-weight: 500;
+}
+/* Solo la PAGINA CORRENTE ha la pillola tonale piena (voce semplice oppure
+   rigo-sezione che fa da landing); le sezioni antenate restano leggere. */
+a.md-nav__link--active,
+.md-nav__container:has(> a.md-nav__link--active) {
   background-color: var(--m3-secondary-container);
   color: var(--m3-on-secondary-container);
   font-weight: 500;
+}
+.md-nav__container > a.md-nav__link--active,
+.md-nav__container:has(> a.md-nav__link--active) > .md-nav__link:hover {
+  background-color: transparent;
+}
+/* Sezioni antenate della pagina corrente: solo accento di colore, senza
+   sfondo, così il percorso si segue senza rumore visivo. */
+.md-sidebar--primary .md-nav__item--active > .md-nav__container > a.md-nav__link:not(.md-nav__link--active) {
+  color: var(--m3-primary);
 }
 /* la TOC a destra resta leggera: niente pillola sui titoli di sezione */
 .md-sidebar--secondary .md-nav__link {
   border-radius: 0;
   padding-left: 0;
   background: transparent;
+}
+
+/* ---- Sidebar di navigazione: ancorata a sinistra, gerarchia indentata ------ */
+@media screen and (min-width: 76.25em) {
+  /* Layout a tutta larghezza: di default Material centra tutto in una griglia
+     da 61rem e la sidebar finisce "a un quinto" dello schermo. Qui la griglia
+     occupa l'intera finestra (la nav tocca il bordo sinistro, la TOC quello
+     destro) e il contenuto resta a larghezza di lettura, centrato nello
+     spazio che rimane. */
+  .md-grid { max-width: 100%; }
+  .md-header__inner { padding-left: 0.6rem; padding-right: 0.6rem; }
+  .md-content__inner {
+    max-width: 48rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* il footer (Precedente/Successivo, copyright) resta compatto e centrato */
+  .md-footer .md-grid { max-width: 61rem; }
+
+  .md-sidebar--primary { width: 15rem; padding-left: 0.4rem; }
+  .md-sidebar--secondary { padding-right: 0.4rem; }
+
+  /* Indentazione ad albero: ogni livello annidato rientra e mostra una linea
+     guida verticale, così i rami (materia -> movimento -> corrente -> autore)
+     si leggono a colpo d'occhio. */
+  .md-sidebar--primary .md-nav .md-nav > .md-nav__list {
+    margin-left: 0.7rem;
+    padding-left: 0.35rem;
+    border-left: 1px solid var(--m3-outline-variant);
+  }
 }
 
 /* ---- Tab di contenuto: indicatore attivo in primary M3 -------------------- */
