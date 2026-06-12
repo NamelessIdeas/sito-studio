@@ -1,5 +1,8 @@
 site_name: Sito di Studio
 site_description: Appunti e materiale di studio personale, organizzati in moduli.
+# URL pubblico su GitHub Pages: serve per canonical/sitemap corretti.
+# Il sito resta comunque navigabile anche da Docker/LAN (link relativi).
+site_url: https://namelessideas.github.io/sito-studio/
 docs_dir: docs
 
 # La home (index.md) resta costruita e raggiungibile dal logo/titolo del sito,

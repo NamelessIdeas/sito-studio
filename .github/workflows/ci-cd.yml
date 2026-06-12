@@ -26,6 +26,14 @@ jobs:
       - name: mkdocs build --strict
         run: mkdocs build --strict
 
+      # L'output site/ diventa l'artefatto per GitHub Pages (solo su push:
+      # le PR si fermano alla verifica strict).
+      - name: Upload artefatto Pages
+        if: github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
   # --- CD: build e push dell'immagine su GHCR (solo su push, non su PR)
   cd:
     name: Build & push immagine GHCR
@@ -55,3 +63,21 @@ jobs:
           context: .
           push: true
           tags: ${{ steps.img.outputs.name }}:latest
+
+  # --- Pages: pubblica il sito buildato dalla CI su GitHub Pages (solo su push).
+  # Richiede, una tantum, Settings -> Pages -> Source = "GitHub Actions".
+  pages:
+    name: Deploy su GitHub Pages
+    needs: ci
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write      # per pubblicare su Pages
+      id-token: write   # per l'autenticazione OIDC di deploy-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

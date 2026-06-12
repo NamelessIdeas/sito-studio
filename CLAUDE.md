@@ -84,10 +84,16 @@ In questo checkout il venv è già in `.venv/` (`.venv/bin/mkdocs`).
 ## CI/CD
 
 `.github/workflows/ci-cd.yml`:
-- **ci** (push + PR su `main`): `mkdocs build --strict`.
+- **ci** (push + PR su `main`): `mkdocs build --strict`; su push carica anche
+  `site/` come artefatto Pages.
 - **cd** (solo push su `main`): login GHCR con `GITHUB_TOKEN`
   (`packages: write`), build e push su `ghcr.io/<repo-in-minuscolo>:latest`.
   Il nome immagine è forzato in minuscolo perché GHCR lo richiede.
+- **pages** (solo push su `main`): pubblica l'artefatto su **GitHub Pages**
+  (`actions/deploy-pages`, permessi `pages: write` + `id-token: write`).
+  URL: <https://namelessideas.github.io/sito-studio/> (`site_url` in
+  `mkdocs.yml`). Prerequisito una tantum nel repo GitHub:
+  Settings -> Pages -> Source = "GitHub Actions".
 
 Sul PC che ospita il sito, il servizio **watchtower** di `docker-compose.yml`
 controlla GHCR ogni 5 minuti (solo i container con label
