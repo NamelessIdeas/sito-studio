@@ -42,8 +42,10 @@ Usa la sintassi LaTeX:
   \]
   ```
 
-> Le formule sono renderizzate con MathJax 3 caricato da unpkg tramite il file
-> `docs/javascripts/mathjax.js` (metodo ufficiale, **senza** polyfill.io).
+> Le formule sono renderizzate con MathJax 3 **self-hosted** (bundle e font in
+> `docs/javascripts/mathjax/`, config in `docs/javascripts/mathjax.js`): nessuna
+> richiesta a CDN di terze parti (**senza** unpkg né polyfill.io). Anche i font
+> Roboto sono self-hosted in `docs/fonts/`.
 
 ---
 

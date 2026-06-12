@@ -26,3 +26,5 @@ e^{i\pi} + 1 = 0
 !!! tip "Anteprima locale"
     Durante la scrittura puoi vedere le modifiche in tempo reale con
     `mkdocs serve` e aprire <http://localhost:8000>.
+
+Il sito non usa cookie né analytics: vedi la [nota sulla privacy](privacy.md).

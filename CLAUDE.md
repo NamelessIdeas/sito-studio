@@ -23,8 +23,12 @@ setup.sh                    Avvio "PC come server": check Docker, pull+fallback 
 .github/workflows/ci-cd.yml CI (mkdocs build --strict) + CD (push immagine su GHCR)
 docs/                       Contenuti del sito (vedi sotto)
   index.md
+  privacy.md                Nota privacy (fuori nav, linkata dal footer via copyright)
   javascripts/mathjax.js    Config MathJax 3 (metodo ufficiale, no polyfill.io)
-  stylesheets/extra.css     Material Design 3: token colore e movimento --m3-*, theme-aware
+  javascripts/mathjax/      MathJax 3.2.2 vendorizzato (bundle + font woff-v2): NIENTE CDN
+  fonts/                    Roboto (variabile) e Roboto Mono self-hosted: NIENTE Google Fonts
+  stylesheets/extra.css     Material Design 3: token colore e movimento --m3-*, theme-aware;
+                            @font-face dei font self-hosted
   letteratura/              Materia (menu laterale) -> index.md + moduli (sottocartelle)
     01-eta-postunitaria/    Modulo del programma 5B = sezione a tendina:
       .pages                  titolo della sezione (title: ...) via awesome-pages
@@ -52,10 +56,22 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   menu comparirebbe "01 decadentismo". Un `index.md` nella sottocartella rende
   la sezione cliccabile (feature `navigation.indexes`). Il plugin NON va usato
   per definire `nav:` manuali nei `.pages`: solo `title:`.
-- **Formule LaTeX via MathJax 3 ufficiale.** MathJax è caricato da unpkg in
-  `mkdocs.yml` (`extra_javascript`) insieme a `docs/javascripts/mathjax.js`.
-  **Mai** usare `polyfill.io` (compromesso). Sintassi: `\( ... \)` inline,
-  `\[ ... \]` in blocco.
+- **Formule LaTeX via MathJax 3 self-hosted.** Il bundle `tex-mml-chtml.js` e i
+  font matematici sono vendorizzati in `docs/javascripts/mathjax/` (da npm
+  `mathjax@3.2.2`) e caricati da `mkdocs.yml` (`extra_javascript`) insieme alla
+  config `docs/javascripts/mathjax.js`. **Mai** usare `polyfill.io`
+  (compromesso). Sintassi: `\( ... \)` inline, `\[ ... \]` in blocco.
+- **Nessuna risorsa da CDN terzi (GDPR).** Il sito pubblico non deve generare
+  richieste verso Google Fonts, unpkg o simili (trasmettono gli IP dei
+  visitatori a terzi): font e librerie sono self-hosted (`docs/fonts/`,
+  `docs/javascripts/mathjax/`, `theme.font: false`). Non reintrodurre URL
+  esterni in `extra_javascript`/`extra_css`/`theme.font`.
+- **Niente testi integrali di autori sotto diritti.** Le opere di autori morti
+  da meno di 70 anni (oggi: Saba fino al 2027, Ungaretti 2040, Palazzeschi
+  2044, Montale 2051…) NON vanno riprodotte per intero: solo brevi citazioni
+  commentate (art. 70 L. 633/1941), come negli attuali blocchi
+  `!!! quote "Dal testo"`. Autori in pubblico dominio (Verga, Pascoli,
+  d'Annunzio, Marinetti…): testi integrali ok.
 - **`requirements.txt` è pinnato** (`mkdocs-material==9.7.6`) per build
   riproducibili. Cambia il pin solo intenzionalmente.
 - **`--strict` è obbligatorio.** Build CI e Dockerfile usano

@@ -11,6 +11,13 @@ docs_dir: docs
 # home dal footer). NB: non è un blocco "nav:", la nav resta automatica.
 not_in_nav: |
   /index.md
+  /privacy.md
+
+# Link "Privacy" nel footer di ogni pagina (chiave copyright di Material).
+# URL canonico assoluto: il footer compare a profondità diverse e il sito vive
+# sia su Pages (sottocartella) sia in Docker/LAN (radice).
+copyright: >
+  <a href="https://namelessideas.github.io/sito-studio/privacy/">Privacy</a>
 
 # Nessun blocco "nav:": la navigazione è generata AUTOMATICAMENTE dalla
 # struttura di docs/. Aggiungere una materia = creare una cartella.
@@ -19,9 +26,9 @@ not_in_nav: |
 theme:
   name: material
   language: it
-  font:
-    text: Roboto            # tipografia di Material Design 3
-    code: Roboto Mono
+  # font: false = nessuna richiesta a fonts.googleapis.com (GDPR). Roboto e
+  # Roboto Mono sono self-hosted in docs/fonts/ e dichiarati in extra.css.
+  font: false
   features:
     - navigation.instant          # navigazione in stile SPA: niente ricaricamento pagina
     - navigation.instant.progress # sottile barra di avanzamento sui caricamenti lenti
@@ -76,10 +83,14 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-# MathJax 3 — metodo ufficiale Material. NIENTE polyfill.io (compromesso).
+# MathJax 3 — metodo ufficiale Material, ma SELF-HOSTED (niente CDN terzi,
+# GDPR): il bundle e i font matematici sono vendorizzati in
+# docs/javascripts/mathjax/ (da npm mathjax@3.2.2). NIENTE polyfill.io
+# (compromesso). MathJax trova i font da solo, relativi al proprio script
+# (output/chtml/fonts/woff-v2/).
 extra_javascript:
   - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax/tex-mml-chtml.js
 
 plugins:
   - search:

@@ -5,10 +5,11 @@ rinnovatore della poesia italiana del Novecento. Con la raccolta ***L'allegria**
 porta la parola poetica alla sua **essenzialità** assoluta, nata dall'esperienza
 della **trincea** nella Prima guerra mondiale.
 
-!!! warning "Diritti d'autore"
-    Le poesie di Ungaretti (morto nel 1970) sono ancora **sotto copyright** in
-    Italia. I testi sono riportati per **uso di studio personale**; la grafia
-    segue l'edizione *Vita d'un uomo* (Mondadori).
+!!! note "Diritti d'autore"
+    Le poesie di Ungaretti (morto nel 1970) sono **sotto diritti** fino a tutto
+    il 2040: i testi integrali non sono riprodotti. Di ogni lirica si citano
+    solo pochi versi, commentati nell'analisi (art. 70 L. 633/1941). Edizione
+    di riferimento: *Vita d'un uomo* (Mondadori).
 
 ## La vita
 
@@ -40,54 +41,9 @@ dolore*** (1947, la sofferenza personale e collettiva).
 
 ## *In memoria* (da *L'allegria*)
 
-=== "Testo"
-
-    > Si chiamava
-    > Moammed Sceab
-    >
-    > Discendente
-    > di emiri di nomadi
-    > suicida
-    > perché non aveva più
-    > Patria
-    >
-    > Amò la Francia
-    > e mutò nome
-    >
-    > Fu Marcel
-    > ma non era Francese
-    > e non sapeva più
-    > vivere
-    > nella tenda dei suoi
-    > dove si ascolta la cantilena
-    > del Corano
-    > gustando un caffè
-    >
-    > E non sapeva
-    > sciogliere
-    > il canto
-    > del suo abbandono
-    >
-    > L'ho accompagnato
-    > insieme alla padrona dell'albergo
-    > dove abitavamo
-    > a Parigi
-    > dal numero 5 della rue des Carmes
-    > appassito vicolo in discesa
-    >
-    > Riposa
-    > nel camposanto d'Ivry
-    > sobborgo che pare
-    > sempre
-    > in una giornata
-    > di una
-    > decomposta fiera
-    >
-    > E forse io solo
-    > so ancora
-    > che visse
-    >
-    > — *Locvizza il 30 settembre 1916*
+!!! quote "Dal testo"
+    «E forse io solo / so ancora / che visse» — testo integrale ne *L'allegria*
+    (Mondadori).
 
 **Metro:** versi liberi, in strofe brevi e irregolari, senza punteggiatura.
 
@@ -108,18 +64,9 @@ dall'oblio: «E forse io solo / so ancora / che visse».
 
 ## *Il porto sepolto* (da *L'allegria*)
 
-=== "Testo"
-
-    > Vi arriva il poeta
-    > e poi torna alla luce con i suoi canti
-    > e li disperde
-    >
-    > Di questa poesia
-    > mi resta
-    > quel nulla
-    > d'inesauribile segreto
-    >
-    > — *Mariano il 29 giugno 1916*
+!!! quote "Dal testo"
+    «Di questa poesia / mi resta / quel nulla / d'inesauribile segreto» — testo
+    integrale ne *L'allegria* (Mondadori).
 
 **Metro:** due brevi strofe in versi liberi.
 
@@ -138,27 +85,9 @@ ma non esaurire.
 
 ## *Veglia* (da *L'allegria*)
 
-=== "Testo"
-
-    > Un'intera nottata
-    > buttato vicino
-    > a un compagno
-    > massacrato
-    > con la sua bocca
-    > digrignata
-    > volta al plenilunio
-    > con la congestione
-    > delle sue mani
-    > penetrata
-    > nel mio silenzio
-    > ho scritto
-    > lettere piene d'amore
-    >
-    > Non sono mai stato
-    > tanto
-    > attaccato alla vita
-    >
-    > — *Cima Quattro il 23 dicembre 1915*
+!!! quote "Dal testo"
+    «Non sono mai stato / tanto / attaccato alla vita» — testo integrale ne
+    *L'allegria* (Mondadori).
 
 **Metro:** due strofe in versi liberi brevissimi.
 
@@ -177,26 +106,9 @@ alla vita**: la guerra rivela il valore assoluto dell'esistenza.
 
 ## *Sono una creatura* (da *L'allegria*)
 
-=== "Testo"
-
-    > Come questa pietra
-    > del S. Michele
-    > così fredda
-    > così dura
-    > così prosciugata
-    > così refrattaria
-    > così totalmente
-    > disanimata
-    >
-    > Come questa pietra
-    > è il mio pianto
-    > che non si vede
-    >
-    > La morte
-    > si sconta
-    > vivendo
-    >
-    > — *Valloncello di Cima Quattro il 5 agosto 1916*
+!!! quote "Dal testo"
+    «La morte / si sconta / vivendo» — testo integrale ne *L'allegria*
+    (Mondadori).
 
 **Metro:** tre strofe in versi liberi.
 
@@ -217,93 +129,9 @@ morte — vivere significa scontarla giorno per giorno.
 
 ## *I fiumi* (da *L'allegria*)
 
-=== "Testo"
-
-    > Mi tengo a quest'albero mutilato
-    > abbandonato in questa dolina
-    > che ha il languore
-    > di un circo
-    > prima o dopo lo spettacolo
-    > e guardo
-    > il passaggio quieto
-    > delle nuvole sulla luna
-    >
-    > Stamani mi sono disteso
-    > in un'urna d'acqua
-    > e come una reliquia
-    > ho riposato
-    >
-    > L'Isonzo scorrendo
-    > mi levigava
-    > come un suo sasso
-    >
-    > Ho tirato su
-    > le mie quattro ossa
-    > e me ne sono andato
-    > come un acrobata
-    > sull'acqua
-    >
-    > Mi sono accoccolato
-    > vicino ai miei panni
-    > sudici di guerra
-    > e come un beduino
-    > mi sono chinato a ricevere
-    > il sole
-    >
-    > Questo è l'Isonzo
-    > e qui meglio
-    > mi sono riconosciuto
-    > una docile fibra
-    > dell'universo
-    >
-    > Il mio supplizio
-    > è quando
-    > non mi credo
-    > in armonia
-    >
-    > Ma quelle occulte
-    > mani
-    > che m'intridono
-    > mi regalano
-    > la rara
-    > felicità
-    >
-    > Ho ripassato
-    > le epoche
-    > della mia vita
-    >
-    > Questi sono
-    > i miei fiumi
-    >
-    > Questo è il Serchio
-    > al quale hanno attinto
-    > duemila anni forse
-    > di gente mia campagnola
-    > e mio padre e mia madre
-    >
-    > Questo è il Nilo
-    > che mi ha visto
-    > nascere e crescere
-    > e ardere d'inconsapevolezza
-    > nelle distese pianure
-    >
-    > Questa è la Senna
-    > e in quel suo torbido
-    > mi sono rimescolato
-    > e mi sono conosciuto
-    >
-    > Questi sono i miei fiumi
-    > contati nell'Isonzo
-    >
-    > Questa è la mia nostalgia
-    > che in ognuno
-    > mi traspare
-    > ora ch'è notte
-    > che la mia vita mi pare
-    > una corolla
-    > di tenebre
-    >
-    > — *Cotici il 16 agosto 1916*
+!!! quote "Dal testo"
+    «qui meglio / mi sono riconosciuto / una docile fibra / dell'universo» —
+    testo integrale ne *L'allegria* (Mondadori).
 
 **Metro:** poesia più ampia, in strofe libere, senza punteggiatura.
 
@@ -329,25 +157,9 @@ dello sradicamento.
 
 ## *San Martino del Carso* (da *L'allegria*)
 
-=== "Testo"
-
-    > Di queste case
-    > non è rimasto
-    > che qualche
-    > brandello di muro
-    >
-    > Di tanti
-    > che mi corrispondevano
-    > non è rimasto
-    > neppure tanto
-    >
-    > Ma nel cuore
-    > nessuna croce manca
-    >
-    > È il mio cuore
-    > il paese più straziato
-    >
-    > — *Valloncello dell'Albero Isolato il 27 agosto 1916*
+!!! quote "Dal testo"
+    «È il mio cuore / il paese più straziato» — testo integrale ne *L'allegria*
+    (Mondadori).
 
 **Metro:** quattro strofe in versi liberi brevi.
 
@@ -367,14 +179,10 @@ i compagni caduti ed è, perciò, «il paese più straziato».
 
 ## *Soldati* (da *L'allegria*)
 
-=== "Testo"
-
-    > Si sta come
-    > d'autunno
-    > sugli alberi
-    > le foglie
-    >
-    > — *Bosco di Courton luglio 1918*
+!!! quote "Dal testo"
+    L'intera lirica è una sola similitudine in quattro versi brevissimi: troppo
+    breve perché se ne possa citare un estratto senza riprodurla per intero.
+    Testo integrale ne *L'allegria* (Mondadori).
 
 **Metro:** una sola strofa di quattro versi brevissimi, in verso libero.
 

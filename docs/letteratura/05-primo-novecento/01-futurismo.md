@@ -80,113 +80,16 @@ Si propose come poeta-**«saltimbanco»**, clown che ride della solennità della
 poesia tradizionale. Tra le opere, la raccolta ***L'incendiario*** (1910) e il
 romanzo *Il codice di Perelà*.
 
-!!! warning "Diritti d'autore"
-    Le opere di Palazzeschi (morto nel 1974) sono ancora **sotto copyright** in
-    Italia. Il testo è riportato per **uso di studio personale**.
+!!! note "Diritti d'autore"
+    Le opere di Palazzeschi (morto nel 1974) sono **sotto diritti** fino a
+    tutto il 2044: il testo integrale non è riprodotto. Se ne citano solo pochi
+    versi, commentati nell'analisi (art. 70 L. 633/1941).
 
 ### *E lasciatemi divertire* (da *L'incendiario*, 1910)
 
-=== "Testo"
-
-    > Tri tri tri,
-    > fru fru fru,
-    > uhi uhi uhi,
-    > ihu ihu ihu.
-    > Il poeta si diverte,
-    > pazzamente,
-    > smisuratamente
-    > Non lo state a insolentire,
-    > lasciatelo divertire
-    > poveretto,
-    > queste piccole corbellerie
-    > sono il suo diletto.
-    >
-    > Cucù rurù,
-    > rurù cucù,
-    > cuccuccurucù!
-    > Cosa sono queste indecenze?
-    > Queste strofe bisbetiche?
-    > Licenze, licenze,
-    > licenze poetiche!
-    > Sono la mia passione.
-    >
-    > Farafarafarafa,
-    > tarataratarata,
-    > Paraparaparapa,
-    > Laralaralarala!
-    > Sapete cosa sono?
-    > Sono robe avanzate,
-    > non sono grullerie,
-    > sono la spazzatura
-    > delle altre poesie.
-    >
-    > Bubububu,
-    > fufufufu.
-    > Friù!
-    > Friù!
-    > Se d'un qualunque nesso
-    > son prive,
-    > perché le scrive
-    > quel fesso?
-    > bilobilobilobilobilo
-    > blum!
-    > Filofilofilofilofilo
-    > flum!
-    > Bilolù. Filolù.
-    > U.
-    >
-    > Non è vero che non voglion dire,
-    > voglion dire qualcosa.
-    > Voglion dire…
-    > come quando uno si mette a cantare
-    > senza saper le parole.
-    > Una cosa molto volgare.
-    > Ebbene, così mi piace di fare.
-    >
-    > Aaaaa!
-    > Eeeee Iiiii!
-    > Ooooo!
-    > Uuuuu!
-    > A! E! I! O! U!
-    > Ma giovinotto,
-    > diteci un poco una cosa,
-    > non è la vostra una posa,
-    > di voler con così poco
-    > tenere alimentato
-    > Un sì gran foco?
-    > Huisc…Huiusc…
-    > Huisciu… sciu sciu,
-    > Sciukoku Koku Koku,
-    > Sciu
-    > ko
-    > ku.
-    > Ma come si deve fare a capire?
-    > Avete delle belle pretese,
-    > sembra ormai che scriviate in giapponese.
-    > Abì, alì, alarì.
-    > Riririri!
-    > Ri.
-    > Lasciate pure che si sbizzarrisca,
-    > anzi è bene che non la finisca.
-    > Il divertimento gli costerà caro,
-    > gli daranno del somaro.
-    > Labala
-    > falala
-    > eppoi lala.
-    > elalala, lalalalala lalala.
-    > Certo è un azzardo un po' forte,
-    > scrivere delle cose così,
-    > che ci son professori, oggidì,
-    > a tutte le porte.
-    > Ahahahahahahah!
-    > Ahahahahahahah!
-    > Ahahahahahahah!
-    > Infine,
-    > io ho pienamente ragione,
-    > i tempi sono cambiati,
-    > gli uomini non domandono più nulla
-    > dai poeti:
-    > e lasciatemi divertire!
+!!! quote "Dal testo"
+    «Tri tri tri, / fru fru fru, / uhi uhi uhi, / ihu ihu ihu» … e, in chiusa,
+    «e lasciatemi divertire!» — testo integrale ne *L'incendiario*.
 
 **Metro:** **verso libero**; l'autore la definisce ironicamente «canzonetta»,
 divisa in strofe irregolari con rime disposte a piacere.

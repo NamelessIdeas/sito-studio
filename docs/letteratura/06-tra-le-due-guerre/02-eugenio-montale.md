@@ -5,9 +5,10 @@ letteratura nel **1975**, è il maggiore poeta italiano del secondo Novecento. L
 sua opera d'esordio, ***Ossi di seppia*** (1925), dà voce al **«male di vivere»**
 attraverso il paesaggio aspro e marino della Liguria.
 
-!!! warning "Diritti d'autore"
-    Le poesie di Montale (morto nel 1981) sono ancora **sotto copyright** in
-    Italia. I testi sono riportati per **uso di studio personale**.
+!!! note "Diritti d'autore"
+    Le poesie di Montale (morto nel 1981) sono **sotto diritti** fino a tutto
+    il 2051: i testi integrali non sono riprodotti. Di ogni lirica si citano
+    solo pochi versi, commentati nell'analisi (art. 70 L. 633/1941).
 
 ## La vita
 
@@ -42,22 +43,9 @@ il più prosastico ***Satura*** (1971).
 
 ## *Non chiederci la parola* (da *Ossi di seppia*)
 
-=== "Testo"
-
-    > Non chiederci la parola che squadri da ogni lato
-    > l'animo nostro informe, e a lettere di fuoco
-    > lo dichiari e risplenda come un croco
-    > perduto in mezzo a un polveroso prato.
-    >
-    > Ah l'uomo che se ne va sicuro,
-    > agli altri ed a se stesso amico,
-    > e l'ombra sua non cura che la canicola
-    > stampa sopra uno scalcinato muro!
-    >
-    > Non domandarci la formula che mondi possa aprirti,
-    > sì qualche storta sillaba e secca come un ramo.
-    > Codesto solo oggi possiamo dirti,
-    > ciò che non siamo, ciò che non vogliamo.
+!!! quote "Dal testo"
+    «Codesto solo oggi possiamo dirti, / ciò che non siamo, ciò che non
+    vogliamo» — testo integrale negli *Ossi di seppia* (Mondadori).
 
 **Metro:** tre quartine, con versi di varia misura e rime.
 
@@ -78,28 +66,10 @@ delle parole d'ordine del regime) e la coscienza di un'epoca senza fede.
 
 ## *Meriggiare pallido e assorto* (da *Ossi di seppia*)
 
-=== "Testo"
-
-    > Meriggiare pallido e assorto
-    > presso un rovente muro d'orto,
-    > ascoltare tra i pruni e gli sterpi
-    > schiocchi di merli, frusci di serpi.
-    >
-    > Nelle crepe del suolo o su la veccia
-    > spiar le file di rosse formiche
-    > ch'ora si rompono ed ora s'intrecciano
-    > a sommo di minuscole biche.
-    >
-    > Osservare tra frondi il palpitare
-    > lontano di scaglie di mare
-    > mentre si levano tremuli scricchi
-    > di cicale dai calvi picchi.
-    >
-    > E andando nel sole che abbaglia
-    > sentire con triste meraviglia
-    > com'è tutta la vita e il suo travaglio
-    > in questo seguitare una muraglia
-    > che ha in cima cocci aguzzi di bottiglia.
+!!! quote "Dal testo"
+    «com'è tutta la vita e il suo travaglio / in questo seguitare una muraglia /
+    che ha in cima cocci aguzzi di bottiglia» — testo integrale negli *Ossi di
+    seppia* (Mondadori).
 
 **Metro:** quattro strofe di versi vari, con rime e assonanze **aspre**.
 
@@ -121,17 +91,9 @@ oggettivo.
 
 ## *Spesso il male di vivere ho incontrato* (da *Ossi di seppia*)
 
-=== "Testo"
-
-    > Spesso il male di vivere ho incontrato:
-    > era il rivo strozzato che gorgoglia,
-    > era l'incartocciarsi della foglia
-    > riarsa, era il cavallo stramazzato.
-    >
-    > Bene non seppi, fuori del prodigio
-    > che schiude la divina Indifferenza:
-    > era la statua nella sonnolenza
-    > del meriggio, e la nuvola, e il falco alto levato.
+!!! quote "Dal testo"
+    «Spesso il male di vivere ho incontrato: / era il rivo strozzato che
+    gorgoglia» — testo integrale negli *Ossi di seppia* (Mondadori).
 
 **Metro:** due quartine (forma vicina al sonetto), con rime.
 
@@ -154,60 +116,9 @@ nella non-partecipazione.
 
 ## *I limoni* (da *Ossi di seppia*)
 
-=== "Testo"
-
-    > Ascoltami, i poeti laureati
-    > si muovono soltanto fra le piante
-    > dai nomi poco usati: bossi ligustri o acanti.
-    > Io, per me, amo le strade che riescono agli erbosi
-    > fossi dove in pozzanghere
-    > mezzo seccate agguantano i ragazzi
-    > qualche sparuta anguilla:
-    > le viuzze che seguono i ciglioni,
-    > discendono tra i ciuffi delle canne
-    > e mettono negli orti, tra gli alberi dei limoni.
-    >
-    > Meglio se le gazzarre degli uccelli
-    > si spengono inghiottite dall'azzurro:
-    > più chiaro si ascolta il susurro
-    > dei rami amici nell'aria che quasi non si muove,
-    > e i sensi di quest'odore
-    > che non sa staccarsi da terra
-    > e piove in petto una dolcezza inquieta.
-    > Qui delle divertite passioni
-    > per miracolo tace la guerra,
-    > qui tocca anche a noi poveri la nostra parte di ricchezza
-    > ed è l'odore dei limoni.
-    >
-    > Vedi, in questi silenzi in cui le cose
-    > s'abbandonano e sembrano vicine
-    > a tradire il loro ultimo segreto,
-    > talora ci si aspetta
-    > di scoprire uno sbaglio di Natura,
-    > il punto morto del mondo, l'anello che non tiene,
-    > il filo da disbrogliare che finalmente ci metta
-    > nel mezzo di una verità.
-    > Lo sguardo fruga d'intorno,
-    > la mente indaga accorda disunisce
-    > nel profumo che dilaga
-    > quando il giorno più languisce.
-    > Sono i silenzi in cui si vede
-    > in ogni ombra umana che si allontana
-    > qualche disturbata Divinità.
-    >
-    > Ma l'illusione manca e ci riporta il tempo
-    > nelle città rumorose dove l'azzurro si mostra
-    > soltanto a pezzi, in alto, tra le cimase.
-    > La pioggia stanca la terra, di poi; s'affolta
-    > il tedio dell'inverno sulle case,
-    > la luce si fa avara - amara l'anima.
-    > Quando un giorno da un malchiuso portone
-    > tra gli alberi di una corte
-    > ci si mostrano i gialli dei limoni;
-    > e il gelo del cuore si sfa,
-    > e in petto ci scrosciano
-    > le loro canzoni
-    > le trombe d'oro della solarità.
+!!! quote "Dal testo"
+    «qui tocca anche a noi poveri la nostra parte di ricchezza / ed è l'odore
+    dei limoni» — testo integrale negli *Ossi di seppia* (Mondadori).
 
 **Metro:** poesia lunga in **versi liberi** (con rime e assonanze sparse), in
 quattro strofe; verso disteso e antieloquente, quasi prosastico.
