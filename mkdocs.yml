@@ -81,3 +81,9 @@ extra_javascript:
 plugins:
   - search:
       lang: it
+  # awesome-pages NON introduce un blocco "nav:": la navigazione resta
+  # generata dalla struttura di docs/. Serve solo a dare un titolo pulito
+  # alle sottocartelle (sezioni a tendina) tramite i file ".pages"
+  # (es. docs/letteratura/04-decadentismo/.pages -> title: Il Decadentismo),
+  # perché di default MkDocs userebbe il nome della cartella ("04 decadentismo").
+  - awesome-pages

@@ -1,7 +1,7 @@
 # Italo Svevo
 
 **Italo Svevo** (pseudonimo di **Aron Hector Schmitz**; Trieste, 1861 – Motta di
-Livenza, 1928) è, con [Pirandello](12-luigi-pirandello.md), il grande rinnovatore
+Livenza, 1928) è, con [Pirandello](../05-primo-novecento/04-luigi-pirandello.md), il grande rinnovatore
 del **romanzo italiano** del primo Novecento. Lo pseudonimo stesso («l'italiano
 svevo», cioè tedesco) dichiara la sua **doppia cultura** italiana e mitteleuropea.
 
@@ -69,5 +69,5 @@ moderno.
 
 !!! tip "Collegamenti"
     Il rinnovamento del romanzo e la crisi dell'io accomunano Svevo a
-    [Luigi Pirandello](12-luigi-pirandello.md); entrambi reagiscono, sul versante
-    narrativo, alla stagione delle [avanguardie](10-futurismo.md).
+    [Luigi Pirandello](../05-primo-novecento/04-luigi-pirandello.md); entrambi reagiscono, sul versante
+    narrativo, alla stagione delle [avanguardie](../05-primo-novecento/01-futurismo.md).

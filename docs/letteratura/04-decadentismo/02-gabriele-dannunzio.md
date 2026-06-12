@@ -381,6 +381,6 @@ bella**» è l'illusione d'amore e di vita, dolce e ingannevole. Trionfano la
 
 !!! tip "Collegamenti"
     Il culto della bellezza e la figura dell'esteta nascono nel
-    [Decadentismo](06-decadentismo.md); la tecnica musicale e analogica deriva
-    dalla [poesia simbolista](07-poesia-simbolista.md) francese. Contemporaneo e
-    "rivale" di d'Annunzio è [Giovanni Pascoli](09-giovanni-pascoli.md).
+    [Decadentismo](../04-decadentismo/index.md); la tecnica musicale e analogica deriva
+    dalla [poesia simbolista](../04-decadentismo/01-poesia-simbolista.md) francese. Contemporaneo e
+    "rivale" di d'Annunzio è [Giovanni Pascoli](../04-decadentismo/03-giovanni-pascoli.md).

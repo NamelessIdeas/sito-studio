@@ -62,7 +62,7 @@ e dei rapporti umani.
 ### Marcel Proust
 
 **Marcel Proust** (Parigi, 1871–1922), formatosi a contatto con il
-[Simbolismo](07-poesia-simbolista.md) francese, dopo la morte della madre si
+[Simbolismo](../04-decadentismo/01-poesia-simbolista.md) francese, dopo la morte della madre si
 isola e lavora al capolavoro ***Alla ricerca del tempo perduto*** (sette
 volumi, 1913–1927). L'opera sovverte la concatenazione logico-cronologica dei
 fatti e l'oggettività della narrazione: il protagonista ricostruisce le
@@ -73,7 +73,7 @@ vita e la propria identità.
 ### James Joyce
 
 **James Joyce** (Dublino, 1882 – Zurigo, 1941) si trasferisce a **Trieste**,
-dove tra i suoi allievi c'è [Italo Svevo](11-italo-svevo.md), che incoraggerà
+dove tra i suoi allievi c'è [Italo Svevo](../05-primo-novecento/03-italo-svevo.md), che incoraggerà
 a scrivere. Il suo capolavoro è l'***Ulisse***, l'opera più sperimentale del
 Novecento: la storia di **una sola giornata** (16 giugno 1904) a Dublino, con
 Leopold Bloom, Stephen Dedalus e Molly Bloom modellati sui personaggi
@@ -84,7 +84,7 @@ che riporta sulla pagina i pensieri così come affiorano nella mente, fino ad
 ## La narrativa in Italia
 
 Nella letteratura italiana emerge l'esigenza di **forme narrative nuove**:
-[Svevo](11-italo-svevo.md) e [Pirandello](12-luigi-pirandello.md) hanno già
+[Svevo](../05-primo-novecento/03-italo-svevo.md) e [Pirandello](../05-primo-novecento/04-luigi-pirandello.md) hanno già
 spezzato la linearità cronologica delle trame e affrontato il tema
 dell'inconscio. Il dibattito oppone i **«frammentisti»**, fedeli alla prosa
 breve e lirica di matrice vociana, agli **«edificatori»**, che vogliono
@@ -125,7 +125,7 @@ Accanto al realismo si sviluppa una narrativa che affronta l'**assurdo** e il
 
 !!! tip "Collegamenti"
     Il rinnovamento del romanzo italiano comincia con
-    [Italo Svevo](11-italo-svevo.md) e [Luigi Pirandello](12-luigi-pirandello.md);
+    [Italo Svevo](../05-primo-novecento/03-italo-svevo.md) e [Luigi Pirandello](../05-primo-novecento/04-luigi-pirandello.md);
     le radici filosofiche della crisi del Positivismo sono nel
-    [Decadentismo](06-decadentismo.md). Sul versante della poesia, gli stessi
-    anni vedono nascere l'[Ermetismo](18-ermetismo.md).
+    [Decadentismo](../04-decadentismo/index.md). Sul versante della poesia, gli stessi
+    anni vedono nascere l'[Ermetismo](../06-tra-le-due-guerre/04-ermetismo.md).

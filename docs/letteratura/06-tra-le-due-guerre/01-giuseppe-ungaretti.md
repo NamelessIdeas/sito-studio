@@ -391,6 +391,6 @@ della vita in guerra, e un capolavoro di **essenzialità**.
 
 !!! tip "Collegamenti"
     L'analogia e la parola-folgorazione di Ungaretti derivano dalla
-    [poesia simbolista](07-poesia-simbolista.md) e dialogano con le
-    [avanguardie](10-futurismo.md). Sua grande alternativa novecentesca è la
-    poesia di [Eugenio Montale](14-eugenio-montale.md).
+    [poesia simbolista](../04-decadentismo/01-poesia-simbolista.md) e dialogano con le
+    [avanguardie](../05-primo-novecento/01-futurismo.md). Sua grande alternativa novecentesca è la
+    poesia di [Eugenio Montale](../06-tra-le-due-guerre/02-eugenio-montale.md).

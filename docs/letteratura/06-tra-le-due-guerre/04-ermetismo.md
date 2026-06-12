@@ -4,7 +4,7 @@ Negli anni Trenta, attorno alle riviste fiorentine, matura l'**Ermetismo**: una
 poesia che cerca l'**assoluto** attraverso una **parola pura**, scarnificata,
 lontana dalla comunicazione quotidiana. È l'ultima grande stagione della lirica
 italiana tra le due guerre, erede della linea che va dal
-[Simbolismo](07-poesia-simbolista.md) a [Ungaretti](13-giuseppe-ungaretti.md).
+[Simbolismo](../04-decadentismo/01-poesia-simbolista.md) a [Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md).
 
 ## Le riviste fiorentine e il nome
 
@@ -65,7 +65,7 @@ all'impegno civile.
 
 !!! tip "Collegamenti"
     Il modello formale dell'Ermetismo è la poesia di
-    [Giuseppe Ungaretti](13-giuseppe-ungaretti.md); la matrice remota è la
-    [poesia simbolista](07-poesia-simbolista.md). Negli stessi anni la prosa
+    [Giuseppe Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md); la matrice remota è la
+    [poesia simbolista](../04-decadentismo/01-poesia-simbolista.md). Negli stessi anni la prosa
     segue altre strade: si veda
-    [La narrativa tra le due guerre](17-narrativa-tra-le-due-guerre.md).
+    [La narrativa tra le due guerre](../06-tra-le-due-guerre/05-narrativa-tra-le-due-guerre.md).

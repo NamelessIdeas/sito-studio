@@ -272,7 +272,7 @@ fa puro **suono e segno**: poesia come estetica del dinamismo e del rumore.
 
 !!! tip "Collegamenti"
     Le avanguardie reagiscono ai modelli di fine Ottocento, in particolare alla
-    poesia di [d'Annunzio](08-gabriele-dannunzio.md). Negli stessi anni la lirica
-    si rinnova anche con [Crepuscolari e Vociani](16-crepuscolari-e-vociani.md).
+    poesia di [d'Annunzio](../04-decadentismo/02-gabriele-dannunzio.md). Negli stessi anni la lirica
+    si rinnova anche con [Crepuscolari e Vociani](../05-primo-novecento/02-crepuscolari-e-vociani.md).
     Sul versante della prosa, il Primo Novecento è dominato dai grandi romanzi di
-    [Italo Svevo](11-italo-svevo.md) e [Luigi Pirandello](12-luigi-pirandello.md).
+    [Italo Svevo](../05-primo-novecento/03-italo-svevo.md) e [Luigi Pirandello](../05-primo-novecento/04-luigi-pirandello.md).

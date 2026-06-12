@@ -234,7 +234,7 @@ gioia e di «solarità»: una **felicità povera ma reale**, «la parte di ricch
 dei poveri.
 
 !!! tip "Collegamenti"
-    Montale è il grande "alternativo" a [Ungaretti](13-giuseppe-ungaretti.md);
+    Montale è il grande "alternativo" a [Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md);
     il rifiuto della poesia aulica si rivolge soprattutto a
-    [d'Annunzio](08-gabriele-dannunzio.md). Vicino per anni e amicizia è
-    [Umberto Saba](15-umberto-saba.md).
+    [d'Annunzio](../04-decadentismo/02-gabriele-dannunzio.md). Vicino per anni e amicizia è
+    [Umberto Saba](../06-tra-le-due-guerre/03-umberto-saba.md).

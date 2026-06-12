@@ -19,9 +19,15 @@ mantenere in `mkdocs.yml`.
   Aggiungi `docs/fisica/index.md` come pagina introduttiva della materia.
 - **Nuovo argomento** → crea un file `.md` dentro la cartella della materia,
   per esempio `docs/fisica/cinematica.md`. Comparirà nel menu della materia.
+- **Sottosezione a tendina** (es. i moduli di letteratura) → crea una
+  sottocartella dentro la materia, per esempio
+  `docs/letteratura/04-decadentismo/`, e mettici dentro gli argomenti. Il
+  prefisso numerico decide l'ordine nel menu; il titolo mostrato va nel file
+  `.pages` della cartella (una riga: `title: Il Decadentismo`). Un `index.md`
+  nella sottocartella rende cliccabile la voce di sezione.
 
 Il titolo della voce di menu è il primo titolo `#` del file (oppure il nome del
-file/cartella se assente).
+file/cartella se assente; per le sottosezioni usa il `.pages`).
 
 ### Formule LaTeX
 

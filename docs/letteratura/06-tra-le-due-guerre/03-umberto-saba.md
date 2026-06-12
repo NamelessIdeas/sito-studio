@@ -1,7 +1,7 @@
 # Umberto Saba
 
 **Umberto Saba** (pseudonimo di **Umberto Poli**; Trieste, 1883 – Gorizia, 1957)
-è, con [Ungaretti](13-giuseppe-ungaretti.md) e [Montale](14-eugenio-montale.md),
+è, con [Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md) e [Montale](../06-tra-le-due-guerre/02-eugenio-montale.md),
 uno dei tre grandi poeti italiani tra le due guerre. La sua è però una voce
 **«antinovecentesca»**: chiara, quotidiana, fedele alla tradizione, lontana
 dallo sperimentalismo dei contemporanei.
@@ -199,7 +199,7 @@ portiere. Il calcio diventa occasione di **comunione e fratellanza** umana
 popolare e quotidiano elevato a **poesia degli affetti**.
 
 !!! tip "Collegamenti"
-    Saba completa, con [Ungaretti](13-giuseppe-ungaretti.md) e
-    [Montale](14-eugenio-montale.md), il grande triangolo della poesia italiana
+    Saba completa, con [Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md) e
+    [Montale](../06-tra-le-due-guerre/02-eugenio-montale.md), il grande triangolo della poesia italiana
     tra le due guerre, ma se ne distingue per la scelta «antinovecentesca» della
     chiarezza e della tradizione.

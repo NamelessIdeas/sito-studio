@@ -1,7 +1,7 @@
 # Luigi Pirandello
 
 **Luigi Pirandello** (Agrigento, 1867 – Roma, 1936) è, con
-[Italo Svevo](11-italo-svevo.md), il grande innovatore della narrativa e del
+[Italo Svevo](../05-primo-novecento/03-italo-svevo.md), il grande innovatore della narrativa e del
 **teatro** del Novecento. **Premio Nobel** per la letteratura nel **1934**, ha
 rivoluzionato il dramma europeo con il «teatro nel teatro».
 
@@ -65,7 +65,7 @@ realtà e ne smaschera le illusioni.
 
 !!! tip "Collegamenti"
     La crisi dell'io e dell'identità avvicina Pirandello a
-    [Italo Svevo](11-italo-svevo.md); sul fronte della poesia, il Primo Novecento
-    è segnato dalle [avanguardie](10-futurismo.md) e, poco dopo, dalla grande
-    stagione di [Ungaretti](13-giuseppe-ungaretti.md), [Montale](14-eugenio-montale.md)
-    e [Saba](15-umberto-saba.md).
+    [Italo Svevo](../05-primo-novecento/03-italo-svevo.md); sul fronte della poesia, il Primo Novecento
+    è segnato dalle [avanguardie](../05-primo-novecento/01-futurismo.md) e, poco dopo, dalla grande
+    stagione di [Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md), [Montale](../06-tra-le-due-guerre/02-eugenio-montale.md)
+    e [Saba](../06-tra-le-due-guerre/03-umberto-saba.md).

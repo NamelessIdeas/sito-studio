@@ -113,5 +113,5 @@ una società senza classi.
 
 !!! tip "Collegamenti"
     L'applicazione letteraria di queste idee è in
-    [Realismo, Naturalismo e Verismo](04-realismo-naturalismo-verismo.md); la loro
-    crisi di fine secolo in [Il Decadentismo](06-decadentismo.md).
+    [Realismo e Naturalismo](02-realismo-e-naturalismo.md) e nel [Verismo](../03-verismo-e-verga/01-verismo.md); la loro
+    crisi di fine secolo in [Il Decadentismo](../04-decadentismo/index.md).

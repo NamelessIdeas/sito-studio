@@ -1,6 +1,6 @@
 # La poesia del primo Novecento: Crepuscolari e Vociani
 
-Accanto alle [avanguardie](10-futurismo.md), il primo Novecento italiano vede
+Accanto alle [avanguardie](../05-primo-novecento/01-futurismo.md), il primo Novecento italiano vede
 due esperienze poetiche decisive per il rinnovamento della lirica: il
 **Crepuscolarismo**, poesia delle «piccole cose» e dei toni smorzati, e i
 **Vociani**, i poeti riuniti attorno alla rivista fiorentina «La Voce», che
@@ -51,7 +51,7 @@ della morte imminente.
 !!! note "Crepuscolari e Futurismo"
     Le due esperienze, opposte nei toni, condividono il **rifiuto della
     tradizione aulica**: non a caso poeti di formazione crepuscolare come
-    **Palazzeschi** e **Govoni** passarono al [Futurismo](10-futurismo.md).
+    **Palazzeschi** e **Govoni** passarono al [Futurismo](../05-primo-novecento/01-futurismo.md).
 
 ## I Vociani
 
@@ -85,7 +85,7 @@ e **Rimbaud**: la poesia non descrive, ma **trasfigura** la realtà.
 
 !!! tip "Collegamenti"
     Crepuscolari e vociani maturano nello stesso clima delle
-    [avanguardie](10-futurismo.md) e condividono il rifiuto del modello di
-    [d'Annunzio](08-gabriele-dannunzio.md). La lezione del frammento e della
-    parola essenziale sarà raccolta da [Ungaretti](13-giuseppe-ungaretti.md)
-    e, più tardi, dall'[Ermetismo](18-ermetismo.md).
+    [avanguardie](../05-primo-novecento/01-futurismo.md) e condividono il rifiuto del modello di
+    [d'Annunzio](../04-decadentismo/02-gabriele-dannunzio.md). La lezione del frammento e della
+    parola essenziale sarà raccolta da [Ungaretti](../06-tra-le-due-guerre/01-giuseppe-ungaretti.md)
+    e, più tardi, dall'[Ermetismo](../06-tra-le-due-guerre/04-ermetismo.md).

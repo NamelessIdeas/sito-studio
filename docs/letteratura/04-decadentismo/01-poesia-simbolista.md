@@ -1,7 +1,7 @@
 # La poesia simbolista
 
 Il **Simbolismo** è il movimento poetico che, nato in **Francia** nell'ultimo
-trentennio dell'Ottocento, fornisce al [Decadentismo](06-decadentismo.md) europeo
+trentennio dell'Ottocento, fornisce al [Decadentismo](../04-decadentismo/index.md) europeo
 il suo linguaggio. Suo precursore e maestro è **Charles Baudelaire**; lo portano
 a maturità i *poètes maudits* (poeti "maledetti"), tra cui **Paul Verlaine**,
 Rimbaud e Mallarmé.
@@ -338,7 +338,7 @@ indolenti, il poema sciocco gettato al fuoco). È la quintessenza dell'**estetis
 decadente** e del rifiuto dell'energia vitale e dell'impegno.
 
 !!! tip "Collegamenti"
-    Il Simbolismo è la matrice della poesia [decadente](06-decadentismo.md): le
+    Il Simbolismo è la matrice della poesia [decadente](../04-decadentismo/index.md): le
     *corrispondenze* e la *sinestesia* di Baudelaire si ritrovano in
-    [Pascoli](09-giovanni-pascoli.md) e in [d'Annunzio](08-gabriele-dannunzio.md),
+    [Pascoli](../04-decadentismo/03-giovanni-pascoli.md) e in [d'Annunzio](../04-decadentismo/02-gabriele-dannunzio.md),
     che del Simbolismo francese sono i grandi eredi italiani.

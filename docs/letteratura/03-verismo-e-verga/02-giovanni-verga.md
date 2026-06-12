@@ -1,7 +1,7 @@
 # Giovanni Verga
 
 **Giovanni Verga** (Catania, 1840 – 1922) è il massimo esponente del
-[Verismo](04-realismo-naturalismo-verismo.md). Dopo alcune opere ancora
+[Verismo](01-verismo.md). Dopo alcune opere ancora
 tardoromantiche, definisce una nuova tecnica narrativa che lo porta alla svolta
 verista: la **prima opera del Verismo** è il racconto *Rosso Malpelo* (1878),
 dove lo scrittore riproduce il modo di pensare e di raccontare del popolo

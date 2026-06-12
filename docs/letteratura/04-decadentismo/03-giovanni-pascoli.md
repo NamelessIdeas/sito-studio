@@ -1,9 +1,9 @@
 # Giovanni Pascoli
 
 **Giovanni Pascoli** (San Mauro di Romagna, 1855 – Bologna, 1912) è, con
-[d'Annunzio](08-gabriele-dannunzio.md), il maggiore poeta italiano tra Otto e
-Novecento e il grande interprete del [Simbolismo](07-poesia-simbolista.md) e del
-[Decadentismo](06-decadentismo.md) nostrani. La sua è la poesia del **«nido»**,
+[d'Annunzio](../04-decadentismo/02-gabriele-dannunzio.md), il maggiore poeta italiano tra Otto e
+Novecento e il grande interprete del [Simbolismo](../04-decadentismo/01-poesia-simbolista.md) e del
+[Decadentismo](../04-decadentismo/index.md) nostrani. La sua è la poesia del **«nido»**,
 degli affetti familiari e delle **piccole cose**, sempre attraversata dal
 presentimento della morte.
 
@@ -427,6 +427,6 @@ poesia delle piccole cose cariche di mistero.
 
 !!! tip "Collegamenti"
     La tecnica del simbolo e della sinestesia viene dalla
-    [poesia simbolista](07-poesia-simbolista.md) francese; il contesto della
-    crisi è quello del [Decadentismo](06-decadentismo.md). Contemporaneo e
-    "doppio" di Pascoli è [Gabriele d'Annunzio](08-gabriele-dannunzio.md).
+    [poesia simbolista](../04-decadentismo/01-poesia-simbolista.md) francese; il contesto della
+    crisi è quello del [Decadentismo](../04-decadentismo/index.md). Contemporaneo e
+    "doppio" di Pascoli è [Gabriele d'Annunzio](../04-decadentismo/02-gabriele-dannunzio.md).

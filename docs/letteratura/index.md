@@ -21,41 +21,45 @@ all'**Ermetismo** di **Quasimodo**.
 
 ## Argomenti
 
-### L'età postunitaria e la Scapigliatura
+I moduli seguono il programma del corso (5B INT, a.s. 2025-2026); nel menu
+laterale ogni modulo è una sezione a tendina con i suoi argomenti e autori.
 
-- [L'età postunitaria](01-eta-postunitaria.md) — il contesto storico, sociale e culturale dell'Italia dopo l'Unità.
-- [La Scapigliatura](02-scapigliatura.md) — la prima avanguardia: Praga (*Preludio*), Boito (*Case nuove*), Tarchetti.
+### Modulo 1 — L'età postunitaria
 
-### Positivismo, Naturalismo e Verismo
+- [L'età postunitaria](01-eta-postunitaria/index.md) — il contesto storico, sociale e culturale dell'Italia dopo l'Unità.
+- [La Scapigliatura](01-eta-postunitaria/01-scapigliatura.md) — la prima avanguardia: Praga (*Preludio*), Boito (*Case nuove*), Tarchetti.
 
-- [Il Positivismo](03-positivismo.md) — la fiducia nella scienza: Comte, Taine, Darwin, Spencer, Marx.
-- [Realismo, Naturalismo e Verismo](04-realismo-naturalismo-verismo.md) — i movimenti, Zola e le differenze tra le due poetiche.
-- [Giovanni Verga](05-giovanni-verga.md) — poetica, strategie narrative e opere principali.
+### Modulo 2 — L'età del Positivismo e del Naturalismo
 
-### Il Decadentismo
+- [Il Positivismo](02-positivismo-e-naturalismo/01-positivismo.md) — la fiducia nella scienza: Comte, Taine, Darwin, Spencer, Marx.
+- [Realismo e Naturalismo](02-positivismo-e-naturalismo/02-realismo-e-naturalismo.md) — Stendhal, Balzac, Flaubert e il romanzo sperimentale di Zola.
 
-- [Il Decadentismo](06-decadentismo.md) — la crisi del Positivismo, Nietzsche, Bergson e l'Estetismo.
-- [La poesia simbolista](07-poesia-simbolista.md) — Baudelaire (*Corrispondenze*, *L'albatro*, *Spleen*) e Verlaine (*Languore*).
-- [Gabriele d'Annunzio](08-gabriele-dannunzio.md) — vita, opere e le poesie di *Alcyone*.
-- [Giovanni Pascoli](09-giovanni-pascoli.md) — il fanciullino, *Myricae* e i *Canti di Castelvecchio*.
+### Modulo 3 — Il Verismo e Giovanni Verga
 
-### Il primo Novecento
+- [Il Verismo](03-verismo-e-verga/01-verismo.md) — Capuana, De Roberto e le differenze con il Naturalismo francese.
+- [Giovanni Verga](03-verismo-e-verga/02-giovanni-verga.md) — poetica, strategie narrative e opere principali.
 
-- [Le avanguardie e il Futurismo](10-futurismo.md) — Marinetti, Palazzeschi e le *parole in libertà*.
-- [Crepuscolari e Vociani](16-crepuscolari-e-vociani.md) — Gozzano, Corazzini e la poesia del frammento (Sbarbaro, Rebora, Campana).
-- [Italo Svevo](11-italo-svevo.md) — la vita, l'inetto e i grandi romanzi.
-- [Luigi Pirandello](12-luigi-pirandello.md) — l'umorismo, il relativismo e il teatro nel teatro.
+### Modulo 4 — Il Decadentismo
 
-### La poesia tra le due guerre
+- [Il Decadentismo](04-decadentismo/index.md) — la crisi del Positivismo, Nietzsche, Bergson e l'Estetismo.
+- [La poesia simbolista](04-decadentismo/01-poesia-simbolista.md) — Baudelaire (*Corrispondenze*, *L'albatro*, *Spleen*) e Verlaine (*Languore*).
+- [Gabriele d'Annunzio](04-decadentismo/02-gabriele-dannunzio.md) — vita, opere e le poesie di *Alcyone*.
+- [Giovanni Pascoli](04-decadentismo/03-giovanni-pascoli.md) — il fanciullino, *Myricae* e i *Canti di Castelvecchio*.
 
-- [Giuseppe Ungaretti](13-giuseppe-ungaretti.md) — *L'allegria*: la guerra e la parola essenziale.
-- [Eugenio Montale](14-eugenio-montale.md) — *Ossi di seppia*: il male di vivere e il correlativo oggettivo.
-- [Umberto Saba](15-umberto-saba.md) — il *Canzoniere* e la «poesia onesta».
+### Modulo 5 — Il primo Novecento
 
-### La narrativa tra le due guerre e l'Ermetismo
+- [Le avanguardie e il Futurismo](05-primo-novecento/01-futurismo.md) — Marinetti, Palazzeschi e le *parole in libertà*.
+- [Crepuscolari e Vociani](05-primo-novecento/02-crepuscolari-e-vociani.md) — Gozzano, Corazzini e la poesia del frammento (Sbarbaro, Rebora, Campana).
+- [Italo Svevo](05-primo-novecento/03-italo-svevo.md) — la vita, l'inetto e i grandi romanzi.
+- [Luigi Pirandello](05-primo-novecento/04-luigi-pirandello.md) — l'umorismo, il relativismo e il teatro nel teatro.
 
-- [La narrativa tra le due guerre](17-narrativa-tra-le-due-guerre.md) — Kafka, Proust e Joyce; le riviste e il romanzo italiano da Tozzi a Buzzati.
-- [L'Ermetismo](18-ermetismo.md) — la letteratura come vita, la parola pura e Salvatore Quasimodo.
+### Modulo 6 — Tra le due guerre
+
+- [Giuseppe Ungaretti](06-tra-le-due-guerre/01-giuseppe-ungaretti.md) — *L'allegria*: la guerra e la parola essenziale.
+- [Eugenio Montale](06-tra-le-due-guerre/02-eugenio-montale.md) — *Ossi di seppia*: il male di vivere e il correlativo oggettivo.
+- [Umberto Saba](06-tra-le-due-guerre/03-umberto-saba.md) — il *Canzoniere* e la «poesia onesta».
+- [L'Ermetismo](06-tra-le-due-guerre/04-ermetismo.md) — la letteratura come vita, la parola pura e Salvatore Quasimodo.
+- [La narrativa tra le due guerre](06-tra-le-due-guerre/05-narrativa-tra-le-due-guerre.md) — Kafka, Proust e Joyce; le riviste e il romanzo italiano da Tozzi a Buzzati.
 
 !!! note "Fonti"
     Appunti rielaborati sul programma di *Lingua e letteratura italiana* della

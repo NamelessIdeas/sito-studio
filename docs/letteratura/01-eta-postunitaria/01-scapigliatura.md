@@ -16,7 +16,7 @@ porta i capelli arruffati, segno esteriore di una vita anticonformista.
 
 ## Il contesto e la condizione dell'artista
 
-La Scapigliatura nasce nel clima deluso dell'**[età postunitaria](01-eta-postunitaria.md)**:
+La Scapigliatura nasce nel clima deluso dell'**[età postunitaria](../01-eta-postunitaria/index.md)**:
 l'Unità raggiunta non corrisponde agli ideali risorgimentali, e l'artista
 perde il ruolo di guida che aveva avuto nel Romanticismo. Gli scapigliati
 vivono questa crisi come un **conflitto interiore lacerante**, sintetizzato nel
@@ -41,9 +41,9 @@ caso molti scapigliati hanno vita breve e tormentata.
 
 !!! note "Una posizione \"di passaggio\""
     La Scapigliatura è più importante come **rottura** e come *ponte* che per i
-    risultati artistici. Apre la strada da un lato al [Verismo](04-realismo-naturalismo-verismo.md)
+    risultati artistici. Apre la strada da un lato al [Verismo](../03-verismo-e-verga/01-verismo.md)
     (l'attenzione al *Vero*, al concreto, al malato) e dall'altro al
-    [Decadentismo](06-decadentismo.md) (l'attrazione per l'irrazionale, l'orrido,
+    [Decadentismo](../04-decadentismo/index.md) (l'attrazione per l'irrazionale, l'orrido,
     l'interiorità).
 
 ## I protagonisti
@@ -314,7 +314,7 @@ la morte**:
 
 !!! tip "Collegamenti"
     Il rifiuto della tradizione e l'attrazione per l'orrido e l'irrazionale
-    sfociano nel [Decadentismo](06-decadentismo.md); l'attenzione al *vero* e al
-    concreto dialoga con [Realismo, Naturalismo e Verismo](04-realismo-naturalismo-verismo.md).
+    sfociano nel [Decadentismo](../04-decadentismo/index.md); l'attenzione al *vero* e al
+    concreto dialoga con [Realismo e Naturalismo](../02-positivismo-e-naturalismo/02-realismo-e-naturalismo.md) e con il [Verismo](../03-verismo-e-verga/01-verismo.md).
     Il movimento è inquadrato nei generi della poesia in
-    [L'età postunitaria](01-eta-postunitaria.md).
+    [L'età postunitaria](../01-eta-postunitaria/index.md).
