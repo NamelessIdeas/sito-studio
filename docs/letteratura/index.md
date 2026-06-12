@@ -1,65 +1,62 @@
 # Letteratura
 
 Appunti di **letteratura italiana** per la classe quinta: dal **secondo
-Ottocento** (età postunitaria, Positivismo, Verismo, Decadentismo) fino alla
-**poesia tra le due guerre mondiali**, seguendo il programma del corso.
+Ottocento** (Scapigliatura, Positivismo, Verismo, Decadentismo) fino alla
+**poesia tra le due guerre mondiali**. Gli argomenti coprono il programma del
+corso (5B INT, a.s. 2025-2026), ma sono organizzati come un **albero delle
+correnti**: ogni movimento è una sezione del menu, le sue correnti e
+sensibilità sono le sottosezioni, e dentro ciascuna stanno gli autori.
 
-## Il filo del modulo
+## L'albero delle correnti
 
-La cultura della seconda metà dell'Ottocento nasce dalla **fiducia nella scienza**
-(Positivismo) e si traduce in letteratura nel **Naturalismo** francese e nel
-**Verismo** italiano, di cui Verga è il massimo esponente; in parallelo, la
-**Scapigliatura** apre la prima rivolta contro la società borghese. Nell'ultimo
-ventennio del secolo questa fiducia entra in crisi e si afferma il
-**Decadentismo**, con il **Simbolismo**, **Pascoli** e **d'Annunzio**. Il primo
-Novecento porta le **avanguardie** (il Futurismo), le voci nuove di
-**Crepuscolari** e **Vociani** e il rinnovamento del romanzo con **Svevo** e
-**Pirandello**; tra le due guerre, la grande stagione poetica di **Ungaretti**,
-**Montale** e **Saba**, mentre la narrativa — da **Kafka**, **Proust** e
-**Joyce** agli italiani — sperimenta forme nuove e la lirica approda
-all'**Ermetismo** di **Quasimodo**.
+- **[La Scapigliatura](01-scapigliatura/index.md)** — la prima rivolta contro
+  la società borghese: Tarchetti, Boito, Praga (con il contesto
+  dell'[età postunitaria](01-scapigliatura/01-eta-postunitaria.md)).
+- **[Il Positivismo](02-positivismo/index.md)** — la fiducia nella scienza
+  (Comte, Taine, Darwin) e i suoi frutti letterari:
+    - [Naturalismo francese](02-positivismo/01-naturalismo-francese.md) —
+      Balzac e Flaubert precursori, il romanzo sperimentale di Zola;
+    - [Verismo](02-positivismo/02-verismo/index.md) — Capuana e
+      [Giovanni Verga](02-positivismo/02-verismo/01-giovanni-verga.md).
+- **[Il Decadentismo](03-decadentismo/index.md)** — la crisi delle certezze
+  positiviste (Nietzsche, Bergson) e le sue declinazioni:
+    - [Simbolismo, I fase](03-decadentismo/01-simbolismo/index.md) —
+      Baudelaire e Verlaine, e in Italia
+      [Giovanni Pascoli](03-decadentismo/01-simbolismo/01-giovanni-pascoli.md);
+    - [Estetismo](03-decadentismo/02-estetismo/index.md) — Huysmans, Wilde e il
+      d'Annunzio de *Il piacere*;
+    - [Superomismo e vitalismo](03-decadentismo/03-superomismo/index.md) —
+      [Gabriele d'Annunzio](03-decadentismo/03-superomismo/01-gabriele-dannunzio.md);
+    - [Narrativa della crisi, II fase](03-decadentismo/04-narrativa-della-crisi/index.md) —
+      [Italo Svevo](03-decadentismo/04-narrativa-della-crisi/01-italo-svevo.md),
+      [Luigi Pirandello](03-decadentismo/04-narrativa-della-crisi/02-luigi-pirandello.md)
+      e la [narrativa tra le due guerre](03-decadentismo/04-narrativa-della-crisi/03-narrativa-tra-le-due-guerre.md);
+    - [Eredità novecentesca in poesia](03-decadentismo/05-eredita-novecentesca/index.md) —
+      l'[Ermetismo](03-decadentismo/05-eredita-novecentesca/02-ermetismo.md) con
+      [Giuseppe Ungaretti](03-decadentismo/05-eredita-novecentesca/01-giuseppe-ungaretti.md)
+      e la linea di
+      [Eugenio Montale](03-decadentismo/05-eredita-novecentesca/03-eugenio-montale.md).
+- **[Avanguardie — Futurismo](04-avanguardie-futurismo/index.md)** — Marinetti,
+  Palazzeschi e le *parole in libertà*; accanto, le voci di
+  [Crepuscolari e Vociani](04-avanguardie-futurismo/01-crepuscolari-e-vociani.md).
+- **[Poesia anti-novecentesca](05-poesia-anti-novecentesca/index.md)** — la
+  «poesia onesta» di
+  [Umberto Saba](05-poesia-anti-novecentesca/01-umberto-saba.md).
 
-## Argomenti
+## Il filo del percorso
 
-I moduli seguono il programma del corso (5B INT, a.s. 2025-2026); nel menu
-laterale ogni modulo è una sezione a tendina con i suoi argomenti e autori.
-
-### Modulo 1 — L'età postunitaria
-
-- [L'età postunitaria](01-eta-postunitaria/index.md) — il contesto storico, sociale e culturale dell'Italia dopo l'Unità.
-- [La Scapigliatura](01-eta-postunitaria/01-scapigliatura.md) — la prima avanguardia: Praga (*Preludio*), Boito (*Case nuove*), Tarchetti.
-
-### Modulo 2 — L'età del Positivismo e del Naturalismo
-
-- [Il Positivismo](02-positivismo-e-naturalismo/01-positivismo.md) — la fiducia nella scienza: Comte, Taine, Darwin, Spencer, Marx.
-- [Realismo e Naturalismo](02-positivismo-e-naturalismo/02-realismo-e-naturalismo.md) — Stendhal, Balzac, Flaubert e il romanzo sperimentale di Zola.
-
-### Modulo 3 — Il Verismo e Giovanni Verga
-
-- [Il Verismo](03-verismo-e-verga/01-verismo.md) — Capuana, De Roberto e le differenze con il Naturalismo francese.
-- [Giovanni Verga](03-verismo-e-verga/02-giovanni-verga.md) — poetica, strategie narrative e opere principali.
-
-### Modulo 4 — Il Decadentismo
-
-- [Il Decadentismo](04-decadentismo/index.md) — la crisi del Positivismo, Nietzsche, Bergson e l'Estetismo.
-- [La poesia simbolista](04-decadentismo/01-poesia-simbolista.md) — Baudelaire (*Corrispondenze*, *L'albatro*, *Spleen*) e Verlaine (*Languore*).
-- [Gabriele d'Annunzio](04-decadentismo/02-gabriele-dannunzio.md) — vita, opere e le poesie di *Alcyone*.
-- [Giovanni Pascoli](04-decadentismo/03-giovanni-pascoli.md) — il fanciullino, *Myricae* e i *Canti di Castelvecchio*.
-
-### Modulo 5 — Il primo Novecento
-
-- [Le avanguardie e il Futurismo](05-primo-novecento/01-futurismo.md) — Marinetti, Palazzeschi e le *parole in libertà*.
-- [Crepuscolari e Vociani](05-primo-novecento/02-crepuscolari-e-vociani.md) — Gozzano, Corazzini e la poesia del frammento (Sbarbaro, Rebora, Campana).
-- [Italo Svevo](05-primo-novecento/03-italo-svevo.md) — la vita, l'inetto e i grandi romanzi.
-- [Luigi Pirandello](05-primo-novecento/04-luigi-pirandello.md) — l'umorismo, il relativismo e il teatro nel teatro.
-
-### Modulo 6 — Tra le due guerre
-
-- [Giuseppe Ungaretti](06-tra-le-due-guerre/01-giuseppe-ungaretti.md) — *L'allegria*: la guerra e la parola essenziale.
-- [Eugenio Montale](06-tra-le-due-guerre/02-eugenio-montale.md) — *Ossi di seppia*: il male di vivere e il correlativo oggettivo.
-- [Umberto Saba](06-tra-le-due-guerre/03-umberto-saba.md) — il *Canzoniere* e la «poesia onesta».
-- [L'Ermetismo](06-tra-le-due-guerre/04-ermetismo.md) — la letteratura come vita, la parola pura e Salvatore Quasimodo.
-- [La narrativa tra le due guerre](06-tra-le-due-guerre/05-narrativa-tra-le-due-guerre.md) — Kafka, Proust e Joyce; le riviste e il romanzo italiano da Tozzi a Buzzati.
+La cultura della seconda metà dell'Ottocento nasce dalla **fiducia nella
+scienza** (Positivismo) e si traduce in letteratura nel **Naturalismo**
+francese e nel **Verismo** italiano, di cui Verga è il massimo esponente; in
+parallelo, la **Scapigliatura** apre la prima rivolta contro la società
+borghese. Nell'ultimo ventennio del secolo questa fiducia entra in crisi e si
+afferma il **Decadentismo**: prima il **Simbolismo**, l'**Estetismo** e il
+**superomismo** (Pascoli e d'Annunzio), poi — nel primo Novecento — la
+**narrativa della crisi** di **Svevo** e **Pirandello** e, in poesia,
+l'eredità che porta a **Ungaretti**, all'**Ermetismo** e a **Montale**. Fuori
+dal ceppo decadente, le **avanguardie** (il Futurismo di Marinetti e
+Palazzeschi, con le voci vicine di Crepuscolari e Vociani) e la poesia
+**anti-novecentesca** di **Saba** completano il quadro.
 
 !!! note "Fonti"
     Appunti rielaborati sul programma di *Lingua e letteratura italiana* della

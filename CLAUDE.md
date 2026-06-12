@@ -29,12 +29,21 @@ docs/                       Contenuti del sito (vedi sotto)
   fonts/                    Roboto (variabile) e Roboto Mono self-hosted: NIENTE Google Fonts
   stylesheets/extra.css     Material Design 3: token colore e movimento --m3-*, theme-aware;
                             @font-face dei font self-hosted
-  letteratura/              Materia (menu laterale) -> index.md + moduli (sottocartelle)
-    01-eta-postunitaria/    Modulo del programma 5B = sezione a tendina:
+  letteratura/              Materia (menu laterale) -> index.md + movimenti (sottocartelle)
+    01-scapigliatura/       Movimento dell'albero delle correnti = sezione a tendina:
       .pages                  titolo della sezione (title: ...) via awesome-pages
-      index.md                (opzionale) landing cliccabile della sezione
-      01-scapigliatura.md     argomenti/autori, ordinati dal prefisso numerico
-    ... 02..06 ...          Gli altri moduli, stesso schema (ordine del PDF in Fonti/)
+      index.md                descrizione del movimento (landing cliccabile)
+      01-eta-postunitaria.md  pagine figlie, ordinate dal prefisso numerico
+    02-positivismo/         Movimento con correnti annidate (sottocartelle di 2° livello):
+      index.md                descrizione del Positivismo
+      01-naturalismo-francese.md
+      02-verismo/             corrente = sottosezione (index.md + 01-giovanni-verga.md)
+    03-decadentismo/        Stesso schema: 01-simbolismo/ (Pascoli), 02-estetismo/,
+                            03-superomismo/ (d'Annunzio), 04-narrativa-della-crisi/
+                            (Svevo, Pirandello), 05-eredita-novecentesca/
+                            (Ungaretti, Ermetismo, Montale)
+    04-avanguardie-futurismo/  index.md (Marinetti, Palazzeschi) + crepuscolari/vociani
+    05-poesia-anti-novecentesca/  index.md + 01-umberto-saba.md
   matematica/               Materia (menu laterale) -> index.md + argomenti .md
   storia/                   Materia (menu laterale) -> index.md + argomenti .md
 Fonti/                      Materiale sorgente (PDF del programma, appunti): in
@@ -49,9 +58,14 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   disattivato); un **argomento** = un file `.md`; ogni materia ha un
   `index.md` come landing. La home è esclusa dalla nav via `not_in_nav`.
 - **Sottosezioni a tendina = sottocartelle.** Dentro una materia, una
-  sottocartella diventa una sezione espandibile (es. i moduli di letteratura,
-  nell'ordine del programma 5B INT). Il prefisso numerico (`01-`, `02-`…) dà
-  l'ordine; il titolo pulito della sezione va nel file `.pages`
+  sottocartella diventa una sezione espandibile; le sottocartelle si annidano
+  (letteratura segue l'albero delle correnti: movimento -> correnti/sensibilità
+  -> autori; i contenuti coprono comunque il programma 5B INT). Il prefisso
+  numerico (`01-`, `02-`…) dà l'ordine — attenzione: a parità di livello MkDocs
+  mette i file `.md` PRIMA delle sottocartelle, quindi un file deve venire prima
+  delle cartelle sorelle anche nel prefisso (altrimenti trasformarlo in
+  sottocartella con solo `index.md`, come `03-decadentismo/02-estetismo/`); il
+  titolo pulito della sezione va nel file `.pages`
   (`title: Il Decadentismo`) gestito dal plugin **awesome-pages** — senza, nel
   menu comparirebbe "01 decadentismo". Un `index.md` nella sottocartella rende
   la sezione cliccabile (feature `navigation.indexes`). Il plugin NON va usato
