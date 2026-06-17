@@ -133,6 +133,81 @@ Per `mkdocs serve`/`build` localmente: creare un venv e
 `pip install -r requirements.txt` (l'output `site/` è in `.gitignore`).
 In questo checkout il venv è già in `.venv/` (`.venv/bin/mkdocs`).
 
+## Template pagina autore
+
+Scheletro da copiare per una nuova pagina autore (rispetta lo *Schema unico delle
+pagine autore* tra le regole sopra):
+
+```markdown
+# Nome Cognome
+
+**Nome Cognome** (Luogo, anno – Luogo, anno) è … (1-2 frasi di inquadramento,
+con link al movimento).
+
+<!-- SOLO se l'autore è morto da meno di 70 anni: -->
+!!! note "Diritti d'autore"
+    Le opere di X (morto nel ANNO) sono **sotto diritti** fino a tutto il
+    ANNO+70: i testi integrali non sono riprodotti; solo brevi citazioni
+    commentate (art. 70 L. 633/1941).
+
+## La vita
+…
+
+## Poetica
+- …
+
+## Le opere
+- ***Titolo*** (anno) — …
+
+## *Titolo del testo* (da *Opera*, anno)
+
+???+ quote "Testo"        <!-- usa !!! quote "Dal testo" se l'autore è sotto diritti -->
+
+    > primo verso…
+
+??? note "Parafrasi"      <!-- collassabile, chiuso -->
+
+    Parafrasi in prosa…
+
+???+ abstract "Riassunto"
+
+    Riassunto in prosa…
+
+**Metro:** …
+
+**Figure retoriche:**
+
+- …
+
+**Significato e temi:** …
+
+!!! tip "Collegamenti"
+    Link ad autori/correnti collegati.
+```
+
+## Flusso di lavoro con l'agente
+
+- **Verifica prima di dire "fatto"**: dopo ogni modifica ai contenuti esegui
+  `mkdocs build --strict` (cattura i link rotti) **e** la skill `markdown-lint`
+  (`pymarkdown … scan`). Niente "completato" senza entrambi verdi.
+- **Commit/push solo su richiesta esplicita**: non committare di iniziativa.
+- **Messaggi di commit** in italiano, con prefisso tematico (`Contenuti:`, `UI:`,
+  `Docs:`, `Infra:`, `Legale:`…) e riga finale `Co-Authored-By: Claude …`. Un
+  commit per ogni cambiamento logico (separa i temi).
+- **Spostamenti/rinomini**: usa `git mv` per conservare la cronologia e aggiorna
+  **tutti** i link interni che puntano al vecchio percorso.
+
+## Trabocchetti noti
+
+- **Liste annidate = 4 spazi.** MkDocs/Python-Markdown richiede **4 spazi** per
+  annidare una lista (es. l'albero in `docs/letteratura/index.md`): a 2 spazi
+  l'annidamento si **appiattisce** nel rendering. La regola lint MD007 è perciò
+  tarata su `indent: 4` in `.claude/pymarkdown.json` — NON ridurre a 2 spazi.
+- **Hook = gate sui comandi Bash.** Un hook esegue `mkdocs build --strict` PRIMA
+  di ogni comando Bash e lo **blocca** se la build fallisce. Durante un rinomino:
+  prima `git mv`, poi correggi i link con gli strumenti di edit (che non passano
+  dal gate), infine torna a eseguire comandi Bash.
+
 ## CI/CD
 
 `.github/workflows/ci-cd.yml`:
