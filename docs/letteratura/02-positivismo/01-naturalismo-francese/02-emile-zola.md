@@ -38,8 +38,41 @@ Il grande progetto di Zola è il ciclo dei ***Rougon-Macquart*** (1871–1893),
 «storia naturale e sociale di una famiglia sotto il Secondo Impero»: **20
 romanzi** che seguono cinque generazioni, analizzandone i **condizionamenti
 ereditari e ambientali**. Tra i titoli più celebri: ***L'Assommoir*** (l'alcolismo
-nei quartieri operai), ***Germinal*** (gli scioperi dei minatori), ***Nana*** e
-***La bête humaine***.
+nei quartieri operai), ***Germinal*** (gli scioperi dei minatori), ***Nana***,
+***La bête humaine*** e ***Il denaro*** (*L'argent*, 1891, sulla speculazione
+finanziaria).
+
+## Il brano antologico: *L'ebbrezza della speculazione*
+
+Da ***Il denaro*** (*L'argent*, 1891), cap. IV. Il protagonista del romanzo è
+**Saccard** (pseudonimo di Aristide Rougon), un **finanziere senza scrupoli** che
+fonda una banca per le sue audaci imprese speculative e, dopo essersi arricchito,
+ne vede crollare l'impero trascinando nella rovina migliaia di risparmiatori.
+
+**Riassunto.** Saccard espone alla sua amica **Caroline** — sorella dell'ingegnere
+che ha progettato una grande impresa ferroviaria in Medio Oriente — i suoi
+progetti grandiosi. Preoccupata per le irregolarità nella raccolta dei capitali,
+Caroline gli propone di emettere **obbligazioni** (titoli a interesse fisso, non
+soggetti agli sbalzi di Borsa) anziché **azioni**, più rischiose. Saccard rifiuta
+con foga quasi comica: le obbligazioni sono «materia morta». La **speculazione**,
+il «**gioco**» di Borsa, è per lui l'**ingranaggio centrale**, il «cuore stesso»
+di ogni grande affare: un meccanismo che «reclama il sangue», fa circolare il
+denaro e rende possibili le ferrovie, le opere «civilizzatrici», il progresso.
+Il **rischio** non è un difetto ma la grandezza stessa dello scopo; il sogno più
+ardente dell'umanità è «tentare il caso, ottenere tutto dai suoi capricci, essere
+un re, essere Dio!». Sempre più infiammato, con **ardore lirico**, descrive la sua
+**Banca Universale** come la «macchina» destinata a dominare i mercati e a
+fondare società in tutto il mondo, e liquida i timori di Caroline: con il celebre
+cinismo finale, «non si sconvolge il mondo senza schiacciare i piedi di qualche
+passante».
+
+**Temi:** il brano mette a nudo i **meccanismi del capitalismo finanziario** e
+mostra come, nell'Europa di fine Ottocento, le **dinamiche economiche** finiscano
+per condizionare i rapporti sociali e le visioni del mondo. Saccard incarna
+l'**«ebbrezza» della speculazione**: l'energia quasi demoniaca del denaro, capace
+insieme di costruire (il progresso, le grandi opere) e di distruggere (la rovina
+dei risparmiatori). È un esempio dello sguardo **naturalista** di Zola sulla
+società, indagata come un grande organismo mosso da forze materiali.
 
 !!! tip "Collegamenti"
     Zola porta a compimento la lezione del precursore
