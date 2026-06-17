@@ -26,9 +26,12 @@ docs/                       Contenuti del sito (vedi sotto)
   privacy.md                Nota privacy (fuori nav, linkata dal footer via copyright)
   javascripts/mathjax.js    Config MathJax 3 (metodo ufficiale, no polyfill.io)
   javascripts/mathjax/      MathJax 3.2.2 vendorizzato (bundle + font woff-v2): NIENTE CDN
-  fonts/                    Roboto (variabile) e Roboto Mono self-hosted: NIENTE Google Fonts
-  stylesheets/extra.css     Material Design 3: token colore e movimento --m3-*, theme-aware;
-                            @font-face dei font self-hosted
+  fonts/                    Roboto + Roboto Mono + Fraunces (serif display, OFL)
+                            self-hostati: NIENTE Google Fonts
+  stylesheets/extra.css     Material Design 3: token colore/movimento --m3-*, theme-aware;
+                            @font-face dei font self-hosted; titoli h1/h2 in Fraunces
+                            (--m3-display-font); firma "spina delle correnti"
+                            (.corrente-*) e hero/card della home (.home-*)
   letteratura/              Materia (menu laterale) -> index.md + movimenti (sottocartelle)
     01-scapigliatura/       Movimento dell'albero delle correnti = sezione a tendina:
       .pages                  titolo della sezione (title: ...) via awesome-pages
@@ -99,9 +102,11 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   (compromesso). Sintassi: `\( ... \)` inline, `\[ ... \]` in blocco.
 - **Nessuna risorsa da CDN terzi (GDPR).** Il sito pubblico non deve generare
   richieste verso Google Fonts, unpkg o simili (trasmettono gli IP dei
-  visitatori a terzi): font e librerie sono self-hosted (`docs/fonts/`,
+  visitatori a terzi): font e librerie sono self-hosted (`docs/fonts/` —
+  Roboto, Roboto Mono e **Fraunces** woff2 vendorizzati —,
   `docs/javascripts/mathjax/`, `theme.font: false`). Non reintrodurre URL
-  esterni in `extra_javascript`/`extra_css`/`theme.font`.
+  esterni in `extra_javascript`/`extra_css`/`theme.font`: un nuovo font va
+  scaricato una volta e messo in `docs/fonts/`, mai linkato da CDN.
 - **Niente testi integrali di autori sotto diritti.** Le opere di autori morti
   da meno di 70 anni (oggi: Saba fino al 2027, Ungaretti 2040, Palazzeschi
   2044, Montale 2051…) NON vanno riprodotte per intero: solo brevi citazioni
