@@ -359,6 +359,36 @@ riportano due passi: il **primo incontro** con Fosca (**A**, cap. XV) e lo
     >
     > Una cosa sovratutto – e la noto qui come quella che può dar ragione dell'abbandono in cui ero caduto e della sfiducia che s'era impadronita di me – contribuiva ad accrescere il mio dolore: il pensiero fisso, continuo, orrendo, che quella donna volesse trascinarmi con sé nella tomba. Essa doveva morire presto, ciò era evidente. Il vederla già consunta, incadaverita, abbracciarmi, avvinghiarmi, tenermi stretto sul suo seno durante quei suoi spasimi, era cosa che dava ogni giorno maggior forza a questa fissazione spaventevole.
 
+=== "Riassunto"
+
+    **Brano A — Il primo incontro (cap. XV).** Una mattina Giorgio, recatosi
+    presto a casa del colonnello, si trova finalmente solo con **Fosca**, la
+    cugina di lui. Resta sconvolto dalla sua **bruttezza «orrenda»**: una
+    magrezza estrema, frutto delle malattie, che lascia quasi intravedere lo
+    scheletro, in contrasto con la massa di capelli neri e gli occhi nerissimi,
+    grandi e velati, di sorprendente bellezza. Eppure Fosca ha modi dolci,
+    eleganza e soprattutto una **voce soave** che colpisce Giorgio più ancora
+    della deformità. Lei stessa parla con naturalezza della propria malattia,
+    dichiarando che l'**infermità è in lei uno «stato normale»**. Giorgio,
+    intuendo che la conversazione scivola verso la confidenza, si ritrae.
+
+    **Brano B — Il legame morboso (capp. XXXII-XXXIII).** Giorgio e Fosca vivono
+    ormai «come due amanti», ma lui non la ama: lo lega a lei solo la **pietà** e
+    il **timore di ucciderla** provocandone le crisi. Fosca ama con un'intensità
+    assoluta e malata, fatta di gelosie, capricci ed eccessi: lo costringe a
+    vegliarla per ore, lo tormenta con convulsioni, emicranie e scene di
+    disperazione, alternandole a tenerezze soffocanti (gli fa mangiare petali di
+    rose, gli detta lettere d'amore). Per Giorgio la relazione è una vera
+    **«tortura»**, da cui non riesce a liberarsi. Nelle passeggiate serali in
+    carrozza, con il colonnello addormentato, Fosca diventa ancora più ardita. In
+    pochi giorni Giorgio perde salute, coraggio e speranza, perseguitato dal
+    **pensiero fisso e orrendo** che quella donna «consunta, incadaverita» voglia
+    trascinarlo **con sé nella tomba**.
+
+    In sintesi: l'incontro con Fosca innesca un **legame morboso** in cui amore,
+    pietà e malattia si confondono, e Giorgio è risucchiato dal fascino
+    autodistruttivo della «donna-vampiro» e della morte.
+
 **Temi chiave:** l'immagine inquietante della **«donna vampiro»**; il **piacere
 dato dalla sofferenza**; l'**ossessione della morte**.
 
