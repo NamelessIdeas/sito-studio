@@ -32,12 +32,13 @@ docs/                       Contenuti del sito (vedi sotto)
   letteratura/              Materia (menu laterale) -> index.md + movimenti (sottocartelle)
     01-scapigliatura/       Movimento dell'albero delle correnti = sezione a tendina:
       .pages                  titolo della sezione (title: ...) via awesome-pages
-      index.md                descrizione del movimento (landing cliccabile)
-      01-eta-postunitaria.md  pagine figlie, ordinate dal prefisso numerico
+      index.md                descrizione del movimento (landing cliccabile) + link autori
+      01-eta-postunitaria.md  contesto storico; poi una pagina per autore:
+      02-emilio-praga.md / 03-arrigo-boito.md / 04-igino-ugo-tarchetti.md
     02-positivismo/         Movimento con correnti annidate (sottocartelle di 2° livello):
       index.md                descrizione del Positivismo
-      01-naturalismo-francese.md
-      02-verismo/             corrente = sottosezione (index.md + 01-giovanni-verga.md)
+      01-naturalismo-francese/  index.md + 01-gustave-flaubert.md + 02-emile-zola.md
+      02-verismo/             corrente: index.md + 01-luigi-capuana.md + 02-giovanni-verga.md
     03-decadentismo/        Stesso schema: 01-simbolismo/ (Pascoli), 02-estetismo/,
                             03-superomismo/ (d'Annunzio), 04-narrativa-della-crisi/
                             (Svevo, Pirandello), 05-eredita-novecentesca/
@@ -69,7 +70,21 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   (`title: Il Decadentismo`) gestito dal plugin **awesome-pages** — senza, nel
   menu comparirebbe "01 decadentismo". Un `index.md` nella sottocartella rende
   la sezione cliccabile (feature `navigation.indexes`). Il plugin NON va usato
-  per definire `nav:` manuali nei `.pages`: solo `title:`.
+  per definire `nav:` manuali nei `.pages`: solo `title:`. Un **autore con più
+  testi/poesie** ha una **pagina dedicata** (`02-emilio-praga.md`,
+  `01-gustave-flaubert.md`…): la `index.md` del movimento resta la panoramica e
+  li elenca con i link, senza riportare i testi.
+- **Blocchi Testo/Parafrasi/Riassunto = admonition "scheda".** Per i testi e la
+  loro analisi si usano admonition collassabili (estensione `pymdownx.details`
+  in `mkdocs.yml`), NON le content-tab `=== "..."` (riservate ad altro, es. i
+  generi in *età postunitaria*): `???+ quote "Testo"` per i testi integrali in
+  pubblico dominio (`!!! quote "Dal testo"` per le citazioni brevi degli autori
+  sotto diritti), `??? note "Parafrasi"`/`"Traduzione"` (collassabili, chiusi),
+  `???+ abstract "Riassunto"` (anche per i riassunti in prosa: non lasciarli come
+  testo libero). Corpo indentato di 4 spazi; l'analisi (`**Metro:**`,
+  `**Figure retoriche:**`, `**Significato e temi:**`) resta testo normale a
+  livello base. I tipi `quote` (Testo) e `abstract` (Riassunto) hanno un contorno
+  pieno nell'accento M3 definito in `docs/stylesheets/extra.css`.
 - **Formule LaTeX via MathJax 3 self-hosted.** Il bundle `tex-mml-chtml.js` e i
   font matematici sono vendorizzati in `docs/javascripts/mathjax/` (da npm
   `mathjax@3.2.2`) e caricati da `mkdocs.yml` (`extra_javascript`) insieme alla
