@@ -14,10 +14,13 @@ sensibilità sono le sottosezioni, e dentro ciascuna stanno gli autori.
   dell'[età postunitaria](01-scapigliatura/01-eta-postunitaria.md)).
 - **[Il Positivismo](02-positivismo/index.md)** — la fiducia nella scienza
   (Comte, Taine, Darwin) e i suoi frutti letterari:
-    - [Naturalismo francese](02-positivismo/01-naturalismo-francese.md) —
-      Balzac e Flaubert precursori, il romanzo sperimentale di Zola;
-    - [Verismo](02-positivismo/02-verismo/index.md) — Capuana e
-      [Giovanni Verga](02-positivismo/02-verismo/01-giovanni-verga.md).
+    - [Naturalismo francese](02-positivismo/01-naturalismo-francese/index.md) —
+      [Flaubert](02-positivismo/01-naturalismo-francese/01-gustave-flaubert.md)
+      precursore e il romanzo sperimentale di
+      [Zola](02-positivismo/01-naturalismo-francese/02-emile-zola.md);
+    - [Verismo](02-positivismo/02-verismo/index.md) —
+      [Luigi Capuana](02-positivismo/02-verismo/01-luigi-capuana.md) e
+      [Giovanni Verga](02-positivismo/02-verismo/02-giovanni-verga.md).
 - **[Il Decadentismo](03-decadentismo/index.md)** — la crisi delle certezze
   positiviste (Nietzsche, Bergson) e le sue declinazioni:
     - [Simbolismo, I fase](03-decadentismo/01-simbolismo/index.md) —

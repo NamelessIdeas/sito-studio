@@ -141,4 +141,4 @@ classica (Carducci, d'Annunzio) e soluzioni innovative (Pascoli).
 !!! tip "Collegamenti"
     Le idee scientifiche di questo periodo sono approfondite in
     [Il Positivismo](../02-positivismo/index.md); la loro applicazione letteraria in
-    [Realismo e Naturalismo](../02-positivismo/01-naturalismo-francese.md) e nel [Verismo](../02-positivismo/02-verismo/index.md).
+    [Realismo e Naturalismo](../02-positivismo/01-naturalismo-francese/index.md) e nel [Verismo](../02-positivismo/02-verismo/index.md).

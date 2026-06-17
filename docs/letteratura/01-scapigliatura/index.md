@@ -423,6 +423,6 @@ lo lessero Calvino e Gioanola).
 !!! tip "Collegamenti"
     Il rifiuto della tradizione e l'attrazione per l'orrido e l'irrazionale
     sfociano nel [Decadentismo](../03-decadentismo/index.md); l'attenzione al *vero* e al
-    concreto dialoga con [Realismo e Naturalismo](../02-positivismo/01-naturalismo-francese.md) e con il [Verismo](../02-positivismo/02-verismo/index.md).
+    concreto dialoga con [Realismo e Naturalismo](../02-positivismo/01-naturalismo-francese/index.md) e con il [Verismo](../02-positivismo/02-verismo/index.md).
     Il movimento è inquadrato nei generi della poesia in
     [L'età postunitaria](01-eta-postunitaria.md).

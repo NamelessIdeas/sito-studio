@@ -1,13 +1,14 @@
 # Il Verismo
 
 In Italia le novità del
-[Naturalismo francese](../01-naturalismo-francese.md)
+[Naturalismo francese](../01-naturalismo-francese/index.md)
 arrivano grazie ad alcuni letterati siciliani, che le diffondono per rinnovare
 in senso realista il romanzo italiano. Nasce così il **Verismo**, di cui fanno
 parte:
 
-- **Luigi Capuana** (1839–1915), critico letterario e teorico del movimento;
-- **Giovanni Verga** (1840–1922), il massimo esponente;
+- **[Luigi Capuana](01-luigi-capuana.md)** (1839–1915), critico letterario e
+  teorico del movimento;
+- **[Giovanni Verga](02-giovanni-verga.md)** (1840–1922), il massimo esponente;
 - **Federico De Roberto** (1861–1927), autore de *I Viceré* (1894).
 
 Si tratta di scrittori legati da rapporti di amicizia, che riconoscono nei
@@ -44,5 +45,6 @@ Naturalismo e Verismo condividono numerosi principi:
 | **Linguaggio** | registro semplice ma corretto, nei canoni della tradizione | rifiuto della lingua letteraria: linguaggio spontaneo, con modi gergali e dialettali |
 
 !!! tip "Approfondimento"
-    Le strategie narrative del Verismo e l'opera del suo massimo autore sono
-    trattate in [Giovanni Verga](01-giovanni-verga.md).
+    I protagonisti del Verismo hanno una pagina dedicata:
+    [Luigi Capuana](01-luigi-capuana.md), il teorico, e
+    [Giovanni Verga](02-giovanni-verga.md), il massimo autore.

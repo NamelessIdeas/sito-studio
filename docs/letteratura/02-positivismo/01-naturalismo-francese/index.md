@@ -20,6 +20,7 @@ una narrazione realistica. I principali precursori sono:
 Intorno al 1850 **Gustave Flaubert** (1821–1880) usa uno **stile impersonale**,
 che evita coinvolgimento emotivo e tono sentimentale, e rappresenta personaggi
 condizionati dal proprio carattere e dall'ambiente (*Madame Bovary*, 1857).
+→ Pagina dedicata: **[Gustave Flaubert](01-gustave-flaubert.md)**.
 
 ## Il Naturalismo
 
@@ -44,7 +45,8 @@ rivendica così un **ruolo sociale serio ed educativo**, capace di contribuire a
 miglioramento della società (nel ciclo dei *Rougon-Macquart* Zola racconta cinque
 generazioni di una famiglia, analizzandone i condizionamenti ereditari e
 ambientali).
+→ Pagina dedicata: **[Émile Zola](02-emile-zola.md)**.
 
 !!! tip "Approfondimento"
     La ricezione italiana del Naturalismo, con le sue differenze, è trattata in
-    [Il Verismo](02-verismo/index.md).
+    [Il Verismo](../02-verismo/index.md).
