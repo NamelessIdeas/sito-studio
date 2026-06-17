@@ -68,114 +68,26 @@ distaccò), il pittore Umberto Boccioni, Corrado Govoni, Ardengo Soffici.
 
 !!! note "I manifesti in prosa"
     Il *Manifesto del Futurismo* e *Il controdolore. Manifesto futurista* di
-    Palazzeschi sono **testi in prosa** e qui non vengono analizzati: in questa
-    fase il sito si concentra sulle poesie.
+    Palazzeschi sono **testi in prosa** e qui non vengono analizzati: in queste
+    pagine il Futurismo è letto attraverso le **poesie**.
 
-## Aldo Palazzeschi
+## I protagonisti del Futurismo
 
-**Aldo Palazzeschi** (pseudonimo di Aldo Giurlani; Firenze, 1885 – Roma, 1974)
-fu prima vicino ai **crepuscolari**, poi al Futurismo, da cui si allontanò
-mantenendo però una cifra personalissima: l'**ironia**, il gioco, la leggerezza.
-Si propose come poeta-**«saltimbanco»**, clown che ride della solennità della
-poesia tradizionale. Tra le opere, la raccolta ***L'incendiario*** (1910) e il
-romanzo *Il codice di Perelà*.
+Ogni autore ha una **pagina dedicata**, con i testi e l'analisi:
 
-!!! note "Diritti d'autore"
-    Le opere di Palazzeschi (morto nel 1974) sono **sotto diritti** fino a
-    tutto il 2044: il testo integrale non è riprodotto. Se ne citano solo pochi
-    versi, commentati nell'analisi (art. 70 L. 633/1941).
+- **[Filippo Tommaso Marinetti](01-filippo-tommaso-marinetti.md)** (1876–1944) —
+  fondatore e teorico del movimento; sua è la tavola parolibera *Bombardamento*.
+- **[Aldo Palazzeschi](02-aldo-palazzeschi.md)** (1885–1974) — il poeta
+  «saltimbanco» dell'ironia e del nonsense; sua è *E lasciatemi divertire*.
 
-### *E lasciatemi divertire* (da *L'incendiario*, 1910)
-
-!!! quote "Dal testo"
-    «Tri tri tri, / fru fru fru, / uhi uhi uhi, / ihu ihu ihu» … e, in chiusa,
-    «e lasciatemi divertire!» — testo integrale ne *L'incendiario*.
-
-**Metro:** **verso libero**; l'autore la definisce ironicamente «canzonetta»,
-divisa in strofe irregolari con rime disposte a piacere.
-
-**Figure retoriche:**
-
-- **Onomatopea** e **nonsense fonico**: «Tri tri tri, fru fru fru», «Bubububu»,
-  «bilobilobilo blum», fino alle pure vocali «A! E! I! O! U!».
-- **Ironia** e **autoironia**, **parodia** della poesia "alta".
-- **Metalinguaggio**: è una poesia *sulla* poesia (il dialogo tra l'io poetico e
-  il pubblico: «Cosa sono queste indecenze?», «licenze poetiche!»).
-- **Polifonia**: si alternano la voce del poeta e il «coro» della gente
-  scandalizzata.
-- **Ripetizione**, **allitterazione** e **paronomasia**; **anticlimax** comico
-  («sono la spazzatura / delle altre poesie»).
-
-**Significato e temi:** è un **manifesto poetico** provocatorio. Palazzeschi
-rivendica il **diritto del poeta a "divertirsi"**, a fare poesia con il gioco, il
-nonsense e i suoni puri, demolendo la solennità della tradizione (Carducci,
-d'Annunzio) e la pretesa stessa di un "significato". Sotto l'ironia c'è una
-consapevolezza amara: nella società moderna «gli uomini non domandano più nulla
-dai poeti», la poesia ha perso la sua funzione, e allora tanto vale giocare.
-
-## Filippo Tommaso Marinetti
-
-**Filippo Tommaso Marinetti** (Alessandria d'Egitto, 1876 – Bellagio, 1944) è il
-fondatore e l'animatore del Futurismo, autore dei manifesti e infaticabile
-organizzatore delle «serate futuriste» — tanto da meritarsi l'appellativo di
-**«caffeina d'Europa»**. Formatosi a **Parigi** negli ambienti dell'avanguardia
-francese, nel 1905 fonda a Milano la rivista «Poesia»; nel 1910 pubblica il
-romanzo *Mafarka il futurista*. Favorevole alla guerra in Libia e poi
-**interventista** nella Prima guerra mondiale (a cui partecipa volontario), nel
-dopoguerra **aderisce al fascismo**, di cui diventa intimo sostenitore
-(accademico d'Italia nel 1929), fino alla Repubblica di Salò. La sua opera più
-nota è ***Zang Tumb Tuuum*** (1914), resoconto in *parole in libertà*
-dell'assedio di Adrianopoli, a cui assistette come corrispondente di guerra.
-
-### *Bombardamento* (da *Zang Tumb Tuuum*, 1914)
-
-*Bombardamento* è una **tavola parolibera**: una composizione in parte verbale e
-in parte **visiva** (caratteri tipografici di diverse dimensioni, parole disposte
-liberamente sulla pagina) che riproduce l'**assedio di Adrianopoli** (1912). Se ne
-riporta un **estratto** della sola parte verbale (la dimensione tipografica
-dell'originale non è riproducibile in testo semplice).
-
-???+ quote "Testo (estratto)"
-
-    > Ogni 5 secondi cannoni da assedio sventrare spazio con un accordo tam-tuuumb
-    > ammutinamento di 500 echi per azzannarlo sminuzzarlo sparpagliarlo
-    > all'infinito
-    > nel centro di quei tam-tuuumb spiaccicati (ampiezza 50 chilometri quadrati)
-    > balzare scoppi tali pugni batterie tiro rapido Violenza ferocia regolarità
-    > questo basso grave scandere gli strani folli agitatissimi acuti della
-    > battaglia Furia affanno
-    > orecchie occhi
-    > narici aperti attenti
-    > forza che gioia vedere udire fiutare tutto tutto tara-tatatata delle
-    > mitragliatrici strillare a perdifiato sotto morsi schiaffffi traak-traak
-    > frustate pic-pac-pum-tumb bizzzzarrie salti altezza 200 m della fucileria
-    > Giù giù in fondo all'orchestra
-    > stagni diguazzare buoi buffali pungoli
-    > carri pluff plaff impennarsi di cavalli
-    > flic flac zing zing sciaaack ilari nitriti iiiiii scalpiccii tintinnii
-
-**Tecniche e figure:**
-
-- **Onomatopea** estesa: «tam-tuuumb», «tara-tatatata», «traak-traak»,
-  «zang-tumb-tumb» — fonosimbolismo dei rumori di guerra.
-- **Abolizione della sintassi e della punteggiatura**; **verbi all'infinito**
-  («sventrare», «azzannarlo», «balzare»): è il programma del *Manifesto tecnico*.
-- **Analogia** ardita e «immaginazione senza fili»: «ammutinamento di 500 echi».
-- **Asindeto** e **paratassi** estrema (sostantivi giustapposti).
-- **Metafora dell'orchestra**: la battaglia come concerto di rumori («in fondo
-  all'orchestra»).
-- **Uso espressivo della tipografia** (nell'originale, non reso qui).
-
-**Significato e temi:** *Bombardamento* applica alla lettera il *Manifesto tecnico
-della letteratura futurista*: abolendo l'«io», la sintassi e la punteggiatura, il
-poeta restituisce con immediatezza le **sensazioni simultanee** — visive,
-acustiche, olfattive — del bombardamento. Vi si esaltano la **guerra, la
-velocità, la macchina e la violenza**, valori centrali del Futurismo. La parola si
-fa puro **suono e segno**: poesia come estetica del dinamismo e del rumore.
+Accanto al Futurismo, l'altra grande esperienza poetica del primo Novecento è
+quella dei **[Crepuscolari e Vociani](03-crepuscolari-e-vociani.md)** (con
+[Guido Gozzano](04-guido-gozzano.md)), opposta nei toni ma unita nel rifiuto
+della tradizione aulica.
 
 !!! tip "Collegamenti"
     Le avanguardie reagiscono ai modelli di fine Ottocento, in particolare alla
     poesia di [d'Annunzio](../03-decadentismo/03-superomismo/01-gabriele-dannunzio.md). Negli stessi anni la lirica
-    si rinnova anche con [Crepuscolari e Vociani](01-crepuscolari-e-vociani.md).
+    si rinnova anche con [Crepuscolari e Vociani](03-crepuscolari-e-vociani.md).
     Sul versante della prosa, il Primo Novecento è dominato dai grandi romanzi di
     [Italo Svevo](../03-decadentismo/04-narrativa-della-crisi/01-italo-svevo.md) e [Luigi Pirandello](../03-decadentismo/04-narrativa-della-crisi/02-luigi-pirandello.md).

@@ -31,13 +31,10 @@ Roma, **Corrado Govoni** in Emilia, **Aldo Palazzeschi** in Toscana.
 
 ### Guido Gozzano
 
-**Guido Gozzano** (Torino, 1883–1916) è il maggiore dei crepuscolari. Nella
-raccolta ***I colloqui*** (1911) mette in scena un **io "minuscolo"**,
-antieroico e ironico, che guarda con distacco i propri sentimenti. La sua
-cifra è la **mescolanza dei registri**: il lessico aulico e letterario convive
-con il **linguaggio quotidiano e prosastico**, in un attrito ironico che
-"abbassa" deliberatamente la tradizione (è il suo modo, raffinatissimo, di
-fare i conti con d'Annunzio: amarlo e rovesciarlo).
+**Guido Gozzano** (Torino, 1883–1916) è il **maggiore dei crepuscolari**: un io
+«minuscolo», antieroico e ironico, e la celebre **mescolanza dei registri**
+(aulico e quotidiano) con cui "abbassa" con affettuosa ironia la tradizione
+dannunziana. → Pagina dedicata: **[Guido Gozzano](04-guido-gozzano.md)**.
 
 ### Sergio Corazzini
 

@@ -42,9 +42,12 @@ sensibilità sono le sottosezioni, e dentro ciascuna stanno gli autori.
       [Giuseppe Ungaretti](03-decadentismo/05-eredita-novecentesca/01-giuseppe-ungaretti.md)
       e la linea di
       [Eugenio Montale](03-decadentismo/05-eredita-novecentesca/03-eugenio-montale.md).
-- **[Avanguardie — Futurismo](04-avanguardie-futurismo/index.md)** — Marinetti,
-  Palazzeschi e le *parole in libertà*; accanto, le voci di
-  [Crepuscolari e Vociani](04-avanguardie-futurismo/01-crepuscolari-e-vociani.md).
+- **[Avanguardie — Futurismo](04-avanguardie-futurismo/index.md)** — le *parole
+  in libertà* di
+  [Marinetti](04-avanguardie-futurismo/01-filippo-tommaso-marinetti.md) e
+  [Palazzeschi](04-avanguardie-futurismo/02-aldo-palazzeschi.md); accanto, le voci
+  dei [Crepuscolari e Vociani](04-avanguardie-futurismo/03-crepuscolari-e-vociani.md)
+  (con [Gozzano](04-avanguardie-futurismo/04-guido-gozzano.md)).
 - **[Poesia anti-novecentesca](05-poesia-anti-novecentesca/index.md)** — la
   «poesia onesta» di
   [Umberto Saba](05-poesia-anti-novecentesca/01-umberto-saba.md).
