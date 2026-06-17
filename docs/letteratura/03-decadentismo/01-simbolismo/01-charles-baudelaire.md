@@ -252,5 +252,5 @@ dell'*Idéal*: l'impossibilità di evadere dal male di vivere.
     Baudelaire è il maestro della [poesia simbolista](index.md), portata a
     maturità da [Paul Verlaine](index.md) e dai *poètes maudits*. Le sue
     *corrispondenze* e la *sinestesia* sono raccolte in Italia da
-    [Giovanni Pascoli](02-giovanni-pascoli.md) e da
+    [Giovanni Pascoli](03-giovanni-pascoli.md) e da
     [Gabriele d'Annunzio](../03-superomismo/01-gabriele-dannunzio.md).
