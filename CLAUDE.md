@@ -74,6 +74,13 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   testi/poesie** ha una **pagina dedicata** (`02-emilio-praga.md`,
   `01-gustave-flaubert.md`…): la `index.md` del movimento resta la panoramica e
   li elenca con i link, senza riportare i testi.
+- **Schema unico delle pagine autore.** Ogni pagina autore segue lo stesso
+  ordine: `# Nome` → paragrafo introduttivo → (`!!! note "Diritti d'autore"` se
+  l'autore è sotto diritti) → `## La vita` → `## Poetica` (varianti ammesse:
+  *Poetica e visione del mondo*, *La poetica*…) → `## Le opere` → le sezioni dei
+  **testi** (`## *Titolo*` con i riquadri-scheda) → `!!! tip "Collegamenti"`. Per
+  gli autori di sola prosa (Svevo, Pirandello) si omettono le sezioni dei testi.
+  Riferimento: le pagine dei decadenti (Pascoli, d'Annunzio, Montale…).
 - **Blocchi Testo/Parafrasi/Riassunto = admonition "scheda".** Per i testi e la
   loro analisi si usano admonition collassabili (estensione `pymdownx.details`
   in `mkdocs.yml`), NON le content-tab `=== "..."` (riservate ad altro, es. i
