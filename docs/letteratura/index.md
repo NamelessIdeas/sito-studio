@@ -27,8 +27,9 @@ sensibilità sono le sottosezioni, e dentro ciascuna stanno gli autori.
 - **[Il Decadentismo](03-decadentismo/index.md)** — la crisi delle certezze
   positiviste (Nietzsche, Bergson) e le sue declinazioni:
     - [Simbolismo, I fase](03-decadentismo/01-simbolismo/index.md) —
-      Baudelaire e Verlaine, e in Italia
-      [Giovanni Pascoli](03-decadentismo/01-simbolismo/01-giovanni-pascoli.md);
+      [Charles Baudelaire](03-decadentismo/01-simbolismo/01-charles-baudelaire.md)
+      e Verlaine, e in Italia
+      [Giovanni Pascoli](03-decadentismo/01-simbolismo/02-giovanni-pascoli.md);
     - [Estetismo](03-decadentismo/02-estetismo/index.md) — Huysmans, Wilde e il
       d'Annunzio de *Il piacere*;
     - [Superomismo e vitalismo](03-decadentismo/03-superomismo/index.md) —
