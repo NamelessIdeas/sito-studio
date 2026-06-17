@@ -9,3 +9,6 @@ __pycache__/
 
 # Materiali sorgente (PDF/PPTX/ODT) da cui sono rielaborati gli appunti
 Fonti/
+
+# Configurazione locale Claude Code (permessi + hook personali)
+.claude/
