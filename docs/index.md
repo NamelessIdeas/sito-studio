@@ -1,30 +1,40 @@
+<div class="home-hero" markdown>
+
 # Sito di Studio
 
-Benvenuto nel mio sito di studio personale. Qui raccolgo appunti, formule e
-schemi, organizzati per materia.
+<p class="home-lede">Appunti di letteratura, matematica e storia — organizzati come un percorso, non come un semplice elenco.</p>
 
-## Come è organizzato
+</div>
 
-Ogni **materia** è una cartella dentro `docs/` e compare come **tab** in alto.
-Ogni **argomento** è un file `.md` dentro la cartella della materia. Il menu si
-costruisce da solo: non esiste un elenco di navigazione da aggiornare a mano.
+<div class="home-cards" markdown>
 
-## Materie disponibili
+<div class="home-card" markdown>
+[Letteratura](letteratura/index.md){ .home-card__title }
+<p>Dal secondo Ottocento al Novecento: Scapigliatura, Verismo, Decadentismo, Avanguardie — con i testi e l'analisi.</p>
+</div>
 
-- [Letteratura](letteratura/index.md) — il secondo Ottocento: Positivismo, Verismo, Verga, Decadentismo.
-- [Matematica](matematica/index.md) — derivate, integrali e altro.
-- [Storia](storia/index.md) — eventi e periodi storici.
+<div class="home-card" markdown>
+[Matematica](matematica/index.md){ .home-card__title }
+<p>Derivate, integrali e altri argomenti, con le formule rese da MathJax.</p>
+</div>
 
-## Una formula, tanto per gradire
+<div class="home-card" markdown>
+[Storia](storia/index.md){ .home-card__title }
+<p>Eventi e periodi storici, in sintesi.</p>
+</div>
+
+</div>
+
+Il menu a sinistra si costruisce da solo dalla struttura delle cartelle: una
+**materia** è una cartella, un **argomento** è una pagina. Nessun elenco di
+navigazione da aggiornare a mano.
+
+## Una formula, per gradire
 
 L'identità di Eulero, spesso definita la più bella della matematica:
 
 \[
 e^{i\pi} + 1 = 0
 \]
-
-!!! tip "Anteprima locale"
-    Durante la scrittura puoi vedere le modifiche in tempo reale con
-    `mkdocs serve` e aprire <http://localhost:8000>.
 
 Il sito non usa cookie né analytics: vedi la [nota sulla privacy](privacy.md).

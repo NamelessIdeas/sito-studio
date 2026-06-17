@@ -33,9 +33,20 @@
   font-display: swap;
   src: url("../fonts/roboto-mono.woff2") format("woff2");
 }
+/* Fraunces — serif "display" (OFL/SIL), variabile sull'asse del peso, subset
+   latino. Self-hostato come Roboto: NESSUNA richiesta a Google Fonts (GDPR). */
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/fraunces.woff2") format("woff2");
+}
 :root {
   --md-text-font: "Roboto";
   --md-code-font: "Roboto Mono";
+  /* font dei titoli/firma: serif con personalità, usato con parsimonia */
+  --m3-display-font: "Fraunces", "Roboto", Georgia, serif;
 }
 
 /* ---- Token di movimento M3 (easing e durate ufficiali) --------------------- */
@@ -57,9 +68,11 @@
   --m3-on-primary-container:  #21005D;
   --m3-secondary-container:   #E8DEF8;
   --m3-on-secondary-container:#1D192B;
-  --m3-surface:               #FEF7FF;
-  --m3-surface-container:      #F3EDF7;
-  --m3-surface-container-high: #ECE6F0;
+  /* superfici "carta tiepida": un filo di calore toglie il sapore Material
+     default, senza toccare l'accento viola */
+  --m3-surface:               #FBF8F4;
+  --m3-surface-container:      #F2ECE6;
+  --m3-surface-container-high: #EBE4DC;
   --m3-on-surface:            #1D1B20;
   --m3-on-surface-variant:    #49454F;
   --m3-outline:               #79747E;
@@ -131,13 +144,23 @@
 .md-typeset {
   line-height: 1.6;
 }
+/* I titoli usano il serif "display" Fraunces (voce letteraria); il corpo resta
+   Roboto. h3 resta sans, per stacco di gerarchia col serif di h1/h2. */
 .md-typeset h1 {
-  font-weight: 400;            /* le headline M3 NON sono bold */
-  letter-spacing: -0.015em;
+  font-family: var(--m3-display-font);
+  font-optical-sizing: auto;
+  font-weight: 580;
+  font-size: 2.1rem;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
   color: var(--m3-on-surface);
 }
 .md-typeset h2 {
-  font-weight: 400;
+  font-family: var(--m3-display-font);
+  font-optical-sizing: auto;
+  font-weight: 560;
+  font-size: 1.6rem;
+  line-height: 1.2;
   letter-spacing: -0.005em;
   margin-top: 2.4rem;
 }
@@ -447,6 +470,121 @@ a.md-nav__link--active,
     display: none;
   }
 }
+
+/* ===========================================================================
+   FIRMA: "La spina delle correnti"
+   ---------------------------------------------------------------------------
+   La landing di Letteratura presenta i movimenti come una linea del tempo
+   verticale: il tempo scorre dall'alto in basso, ogni movimento è una tappa
+   (eyebrow con le date in mono, titolo in serif, una riga di essenza, gli
+   autori). Riprende la guida ad albero già usata nella sidebar.
+   ========================================================================== */
+.md-typeset .corrente-spine {
+  position: relative;
+  margin: 1.6rem 0 2.2rem;
+  padding-left: 1.7rem;
+  border-left: 2px solid var(--m3-outline-variant);
+}
+.md-typeset .corrente-node {
+  position: relative;
+  margin: 0 0 1.5rem;
+}
+.md-typeset .corrente-node:last-child { margin-bottom: 0; }
+/* il pallino "buca" il filo (alone del colore di sfondo) */
+.md-typeset .corrente-node::before {
+  content: "";
+  position: absolute;
+  left: -1.7rem;
+  top: 0.5rem;
+  width: 11px;
+  height: 11px;
+  border-radius: 9999px;
+  background: var(--m3-primary);
+  box-shadow: 0 0 0 4px var(--md-default-bg-color);
+  transform: translateX(-50%);
+  transition: transform var(--m3-duration-short) var(--m3-easing-emphasized);
+}
+.md-typeset .corrente-node:hover::before { transform: translateX(-50%) scale(1.25); }
+.md-typeset .corrente-node > p { margin: 0.12rem 0; }
+.md-typeset .corrente-era {
+  font-family: var(--md-code-font);
+  font-size: 0.66rem;
+  font-weight: 400;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--m3-on-surface-variant);
+}
+.md-typeset a.corrente-title {
+  font-family: var(--m3-display-font);
+  font-weight: 580;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  color: var(--m3-on-surface);
+  text-decoration: none;
+}
+.md-typeset a.corrente-title:hover { color: var(--m3-primary); }
+/* riga essenza (3° paragrafo) e riga autori (ultimo paragrafo, con i link) */
+.md-typeset .corrente-node > p:last-child {
+  margin-top: 0.25rem;
+  color: var(--m3-on-surface-variant);
+  font-size: 0.82rem;
+}
+
+/* ---- Rifinitura versi nei riquadri "Testo" -------------------------------- */
+.md-typeset .quote > blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0.2rem;
+  line-height: 1.5;
+  color: var(--m3-on-surface);
+}
+
+/* ===========================================================================
+   Home: hero + griglia delle materie
+   ========================================================================== */
+.md-typeset .home-hero { margin: 0.5rem 0 2.2rem; }
+.md-typeset .home-hero h1 {
+  font-size: clamp(2rem, 5.5vw, 2.7rem);
+  line-height: 1.08;
+  margin-bottom: 0.4rem;
+}
+.md-typeset .home-lede {
+  font-size: 1.06rem;
+  color: var(--m3-on-surface-variant);
+  max-width: 38rem;
+  margin: 0;
+}
+.md-typeset .home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
+  gap: 0.9rem;
+  margin: 1.6rem 0 2rem;
+}
+.md-typeset .home-card {
+  border: 1px solid var(--m3-outline-variant);
+  border-radius: 14px;
+  padding: 1rem 1.1rem 1.1rem;
+  background: var(--md-default-bg-color);
+  transition: box-shadow var(--m3-duration-short) var(--m3-easing-standard),
+              transform var(--m3-duration-short) var(--m3-easing-standard),
+              border-color var(--m3-duration-short) var(--m3-easing-standard);
+}
+.md-typeset .home-card:hover {
+  border-color: var(--m3-primary);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.10), 0 4px 12px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
+}
+.md-typeset a.home-card__title {
+  display: block;
+  font-family: var(--m3-display-font);
+  font-weight: 580;
+  font-size: 1.3rem;
+  color: var(--m3-on-surface);
+  text-decoration: none;
+  margin-bottom: 0.25rem;
+}
+.md-typeset .home-card:hover a.home-card__title { color: var(--m3-primary); }
+.md-typeset .home-card p { margin: 0; color: var(--m3-on-surface-variant); font-size: 0.9rem; }
 
 /* ---- Accessibilità: rispetta chi preferisce meno movimento ----------------- */
 @media (prefers-reduced-motion: reduce) {

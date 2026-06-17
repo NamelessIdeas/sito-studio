@@ -9,49 +9,62 @@ sensibilità sono le sottosezioni, e dentro ciascuna stanno gli autori.
 
 ## L'albero delle correnti
 
-- **[La Scapigliatura](01-scapigliatura/index.md)** — la prima rivolta contro
-  la società borghese:
-  [Tarchetti](01-scapigliatura/04-igino-ugo-tarchetti.md),
-  [Boito](01-scapigliatura/03-arrigo-boito.md) e
-  [Praga](01-scapigliatura/02-emilio-praga.md) (con il contesto
-  dell'[età postunitaria](01-scapigliatura/01-eta-postunitaria.md)).
-- **[Il Positivismo](02-positivismo/index.md)** — la fiducia nella scienza
-  (Comte, Taine, Darwin) e i suoi frutti letterari:
-    - [Naturalismo francese](02-positivismo/01-naturalismo-francese/index.md) —
-      [Flaubert](02-positivismo/01-naturalismo-francese/01-gustave-flaubert.md)
-      precursore e il romanzo sperimentale di
-      [Zola](02-positivismo/01-naturalismo-francese/02-emile-zola.md);
-    - [Verismo](02-positivismo/02-verismo/index.md) —
-      [Luigi Capuana](02-positivismo/02-verismo/01-luigi-capuana.md) e
-      [Giovanni Verga](02-positivismo/02-verismo/02-giovanni-verga.md).
-- **[Il Decadentismo](03-decadentismo/index.md)** — la crisi delle certezze
-  positiviste (Nietzsche, Bergson) e le sue declinazioni:
-    - [Simbolismo, I fase](03-decadentismo/01-simbolismo/index.md) —
-      [Baudelaire](03-decadentismo/01-simbolismo/01-charles-baudelaire.md) e
-      [Verlaine](03-decadentismo/01-simbolismo/02-paul-verlaine.md), e in Italia
-      [Giovanni Pascoli](03-decadentismo/01-simbolismo/03-giovanni-pascoli.md);
-    - [Estetismo](03-decadentismo/02-estetismo/index.md) — Huysmans, Wilde e il
-      d'Annunzio de *Il piacere*;
-    - [Superomismo e vitalismo](03-decadentismo/03-superomismo/index.md) —
-      [Gabriele d'Annunzio](03-decadentismo/03-superomismo/01-gabriele-dannunzio.md);
-    - [Narrativa della crisi, II fase](03-decadentismo/04-narrativa-della-crisi/index.md) —
-      [Italo Svevo](03-decadentismo/04-narrativa-della-crisi/01-italo-svevo.md),
-      [Luigi Pirandello](03-decadentismo/04-narrativa-della-crisi/02-luigi-pirandello.md)
-      e la [narrativa tra le due guerre](03-decadentismo/04-narrativa-della-crisi/03-narrativa-tra-le-due-guerre.md);
-    - [Eredità novecentesca in poesia](03-decadentismo/05-eredita-novecentesca/index.md) —
-      l'[Ermetismo](03-decadentismo/05-eredita-novecentesca/02-ermetismo.md) con
-      [Giuseppe Ungaretti](03-decadentismo/05-eredita-novecentesca/01-giuseppe-ungaretti.md)
-      e la linea di
-      [Eugenio Montale](03-decadentismo/05-eredita-novecentesca/03-eugenio-montale.md).
-- **[Avanguardie — Futurismo](04-avanguardie-futurismo/index.md)** — le *parole
-  in libertà* di
-  [Marinetti](04-avanguardie-futurismo/01-filippo-tommaso-marinetti.md) e
-  [Palazzeschi](04-avanguardie-futurismo/02-aldo-palazzeschi.md); accanto, le voci
-  dei [Crepuscolari e Vociani](04-avanguardie-futurismo/03-crepuscolari-e-vociani.md)
-  (con [Gozzano](04-avanguardie-futurismo/04-guido-gozzano.md)).
-- **[Poesia anti-novecentesca](05-poesia-anti-novecentesca/index.md)** — la
-  «poesia onesta» di
-  [Umberto Saba](05-poesia-anti-novecentesca/01-umberto-saba.md).
+Una linea del tempo dei movimenti, dal secondo Ottocento alla poesia tra le due
+guerre. Ogni tappa è una sezione del menu; dentro, correnti e autori.
+
+<div class="corrente-spine" markdown>
+
+<div class="corrente-node" markdown>
+<p class="corrente-era">1860–80</p>
+
+[La Scapigliatura](01-scapigliatura/index.md){ .corrente-title }
+
+La prima rivolta degli artisti contro la società borghese postunitaria.
+
+[Tarchetti](01-scapigliatura/04-igino-ugo-tarchetti.md) · [Boito](01-scapigliatura/03-arrigo-boito.md) · [Praga](01-scapigliatura/02-emilio-praga.md) · [contesto](01-scapigliatura/01-eta-postunitaria.md)
+</div>
+
+<div class="corrente-node" markdown>
+<p class="corrente-era">Fine Ottocento</p>
+
+[Il Positivismo](02-positivismo/index.md){ .corrente-title }
+
+La fiducia nella scienza si fa letteratura: il vero osservato e riprodotto.
+
+[Naturalismo francese](02-positivismo/01-naturalismo-francese/index.md) · [Verismo](02-positivismo/02-verismo/index.md) · [Verga](02-positivismo/02-verismo/02-giovanni-verga.md)
+</div>
+
+<div class="corrente-node" markdown>
+<p class="corrente-era">1880 → primo ’900</p>
+
+[Il Decadentismo](03-decadentismo/index.md){ .corrente-title }
+
+La crisi delle certezze positiviste, dal simbolo alla narrativa e poesia del Novecento.
+
+[Simbolismo](03-decadentismo/01-simbolismo/index.md) · [Estetismo](03-decadentismo/02-estetismo/index.md) · [Superomismo](03-decadentismo/03-superomismo/index.md) · [Narrativa della crisi](03-decadentismo/04-narrativa-della-crisi/index.md) · [Eredità ’900](03-decadentismo/05-eredita-novecentesca/index.md)
+</div>
+
+<div class="corrente-node" markdown>
+<p class="corrente-era">Dal 1909</p>
+
+[Avanguardie e Futurismo](04-avanguardie-futurismo/index.md){ .corrente-title }
+
+La rottura totale con la tradizione e le «parole in libertà».
+
+[Marinetti](04-avanguardie-futurismo/01-filippo-tommaso-marinetti.md) · [Palazzeschi](04-avanguardie-futurismo/02-aldo-palazzeschi.md) · [Crepuscolari e Vociani](04-avanguardie-futurismo/03-crepuscolari-e-vociani.md) · [Gozzano](04-avanguardie-futurismo/04-guido-gozzano.md)
+</div>
+
+<div class="corrente-node" markdown>
+<p class="corrente-era">Tra le due guerre</p>
+
+[Poesia anti-novecentesca](05-poesia-anti-novecentesca/index.md){ .corrente-title }
+
+La «poesia onesta», fedele alla chiarezza e alla tradizione.
+
+[Umberto Saba](05-poesia-anti-novecentesca/01-umberto-saba.md)
+</div>
+
+</div>
 
 ## Il filo del percorso
 
