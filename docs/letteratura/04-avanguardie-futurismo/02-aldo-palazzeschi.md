@@ -1,17 +1,35 @@
 # Aldo Palazzeschi
 
 **Aldo Palazzeschi** (pseudonimo di Aldo Giurlani; Firenze, 1885 – Roma, 1974)
-fu prima vicino ai [crepuscolari](03-crepuscolari-e-vociani.md), poi al
-[Futurismo](index.md), da cui si allontanò mantenendo però una cifra
-personalissima: l'**ironia**, il gioco, la leggerezza. Si propose come
-poeta-**«saltimbanco»**, clown che ride della solennità della poesia
-tradizionale. Tra le opere, la raccolta ***L'incendiario*** (1910) e il romanzo
-*Il codice di Perelà*.
+è il poeta-**«saltimbanco»** del primo Novecento: vicino prima ai
+[crepuscolari](03-crepuscolari-e-vociani.md), poi al [Futurismo](index.md), ne
+esce con una cifra personalissima fatta di **ironia**, gioco e leggerezza.
 
 !!! note "Diritti d'autore"
     Le opere di Palazzeschi (morto nel 1974) sono **sotto diritti** fino a
     tutto il 2044: il testo integrale non è riprodotto. Se ne citano solo pochi
     versi, commentati nell'analisi (art. 70 L. 633/1941).
+
+## La vita
+
+Nato a **Firenze** nel 1885, fu vicino prima ai **crepuscolari**, poi aderì al
+**Futurismo**, da cui si allontanò presto pur mantenendo l'amicizia con
+Marinetti. Ebbe **vita lunga** e una carriera di successo anche come narratore.
+Morì a **Roma** nel **1974**.
+
+## Poetica
+
+Si propone come poeta-**«saltimbanco»**, clown che ride della solennità della
+poesia tradizionale. La sua cifra è l'**ironia** e l'**autoironia**, il **gioco**,
+il **nonsense** e i suoni puri, con cui demolisce l'aulicità (Carducci,
+d'Annunzio) e la pretesa stessa di un "significato"; sotto la risata, una lucida
+sfiducia nella funzione sociale della poesia.
+
+## Le opere
+
+- la raccolta poetica ***L'incendiario*** (1910);
+- il romanzo ***Il codice di Perelà*** (1911);
+- il *Manifesto* futurista in prosa *Il controdolore* (1914).
 
 ## *E lasciatemi divertire* (da *L'incendiario*, 1910)
 

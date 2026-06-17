@@ -1,12 +1,24 @@
 # Emilio Praga
 
-Nato a Gorla (Milano) nel 1839, **pittore** oltre che poeta, **Emilio Praga**
-incarna fino in fondo il modello dell'artista [scapigliato](index.md): vita
-disordinata, dissesto economico, alcolismo, morte precoce nel **1875**. La sua
-poesia mette in scena con lucidità dolorosa il **dissidio fra aspirazione
-all'ideale e degradazione del reale**.
+**Emilio Praga** (Gorla, Milano, 1839 – Milano, 1875) è uno dei poeti più
+rappresentativi della [Scapigliatura](index.md) e il più lucido interprete del
+suo **dualismo Ideale/Vero**.
 
-Le raccolte principali sono:
+## La vita
+
+Nato a Gorla (Milano) nel 1839 da famiglia agiata, fu **pittore** di formazione
+(studiò a Brera) prima ancora che poeta. Incarnò fino in fondo il modello
+dell'artista scapigliato: vita disordinata, dissesto economico, alcolismo.
+Dissipò il patrimonio e morì precocemente a Milano nel **1875**, a soli 36 anni.
+
+## Poetica
+
+La sua poesia mette in scena con lucidità dolorosa il **dissidio fra aspirazione
+all'ideale e degradazione del reale**. Sulle orme di **Baudelaire**, sceglie il
+*vero* più crudo e provoca il perbenismo borghese con toni dolenti, dissacranti e
+dichiaratamente **anti-manzoniani**.
+
+## Le opere
 
 - ***Tavolozza*** (1862) — di impronta ancora descrittiva e "pittorica";
 - ***Penombre*** (1864) — la raccolta più matura e rappresentativa, che si apre

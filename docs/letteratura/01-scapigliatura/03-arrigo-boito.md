@@ -2,13 +2,27 @@
 
 **Arrigo Boito** (Padova, 1842 – Milano, 1918) è la figura più poliedrica della
 [Scapigliatura](index.md): poeta, **compositore** e soprattutto **librettista**.
-Fratello dell'architetto Camillo Boito, dopo gli studi musicali a Milano viaggia
-in Europa e aderisce al gruppo scapigliato. La sua produzione poetica si raccoglie
-in ***Il libro dei versi*** (1877) e nel poemetto *Re Orso*; in essa torna il
-**dualismo** scapigliato tra ideale e reale (celebre la lirica *Dualismo*). Come
-musicista compone l'opera ***Mefistofele***; come librettista firma i capolavori
-della vecchiaia di Verdi, ***Otello*** e ***Falstaff***. A differenza di altri
-scapigliati ebbe vita lunga e una carriera artistica di grande prestigio.
+
+## La vita
+
+Fratello dell'architetto **Camillo Boito**, dopo gli studi musicali a Milano
+viaggiò in Europa e aderì al gruppo scapigliato. A differenza di altri
+scapigliati ebbe **vita lunga e una carriera di grande prestigio**: divenne
+celebre come musicista e librettista e fu nominato senatore. Morì a Milano nel
+**1918**.
+
+## Poetica
+
+Nella sua produzione poetica torna il **dualismo** scapigliato tra ideale e reale
+(celebre la lirica *Dualismo*), insieme al gusto per il **fantastico**, il
+grottesco e la polemica anti-borghese, con un marcato **sperimentalismo formale**.
+
+## Le opere
+
+- ***Il libro dei versi*** (1877) e il poemetto *Re Orso* (poesia);
+- l'opera ***Mefistofele*** (come compositore);
+- i libretti dei capolavori della vecchiaia di **Verdi**, ***Otello*** e
+  ***Falstaff*** (come librettista).
 
 ## *Case nuove* (da *Il libro dei versi*, 1877; datata 1866)
 

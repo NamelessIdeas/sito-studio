@@ -1,18 +1,29 @@
 # Igino Ugo Tarchetti
 
 **Igino Ugo Tarchetti** (San Salvatore Monferrato, 1839 – Milano, 1869) è il
-maggiore **narratore** della [Scapigliatura](index.md). Ufficiale dell'esercito,
-lasciò la carriera militare per dedicarsi alla letteratura a Milano, dove visse
-una vita breve e tormentata, segnata da povertà e malattia. Morì a soli **29
-anni**, di tifo e tubercolosi, nella casa dell'amico scrittore Salvatore Farina.
+maggiore **narratore** della [Scapigliatura](index.md).
+
+## La vita
+
+Ufficiale dell'esercito, lasciò la carriera militare per dedicarsi alla
+letteratura a **Milano**, dove visse una vita breve e tormentata, segnata da
+**povertà e malattia**. Morì a soli **29 anni**, di tifo e tubercolosi, nella
+casa dell'amico scrittore Salvatore Farina.
+
+## Poetica
 
 La sua opera incarna l'attrazione scapigliata per il **patologico, il deforme e
-la morte**:
+la morte**, sotto il segno del **dualismo attrazione/repulsione**. Sulle orme di
+**Hoffmann** e **Poe**, coltiva il «nero», il fantastico e il macabro; vi affianca
+una vena di impegno civile e **antimilitarista**.
+
+## Le opere
 
 - ***Fosca*** (1869), il suo romanzo più celebre, rimasto **incompiuto** (l'ultimo
   capitolo fu scritto da Farina): la storia dell'amore morboso dell'ufficiale
   Giorgio per Fosca, donna brutta e malata che lo trascina nell'ossessione e
   nella malattia. È il manifesto narrativo del dualismo attrazione/repulsione.
+- i romanzi a sfondo sociale e antimilitarista *Paolina* e *Una nobile follia*;
 - ***Disjecta*** (versi, postumi) e i ***Racconti fantastici***, di gusto nero e
   visionario.
 

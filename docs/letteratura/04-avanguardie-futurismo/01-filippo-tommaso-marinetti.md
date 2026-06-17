@@ -17,6 +17,25 @@ La sua opera più nota è ***Zang Tumb Tuuum*** (1914), resoconto in *parole in
 libertà* dell'assedio di Adrianopoli, a cui assistette come corrispondente di
 guerra.
 
+## Poetica
+
+Marinetti è il teorico del **Futurismo**: esalta la **macchina, la velocità, il
+dinamismo** e la modernità industriale, il culto dell'**azione** e della
+**guerra** («sola igiene del mondo»), il disprezzo del passato («passatisti»,
+musei e biblioteche). Sul piano della scrittura prescrive la **distruzione della
+sintassi**, il verbo all'**infinito**, l'abolizione della punteggiatura,
+l'«immaginazione senza fili», l'**onomatopea** e le **«parole in libertà»**
+(*paroliberismo*), con uso espressivo della **tipografia** (le *tavole
+parolibere*).
+
+## Le opere
+
+- il ***Manifesto del Futurismo*** (1909) e il ***Manifesto tecnico della
+  letteratura futurista*** (1912);
+- ***Zang Tumb Tuuum*** (1914), capolavoro parolibero sull'assedio di
+  Adrianopoli;
+- il romanzo *Mafarka il futurista* (1910).
+
 ## *Bombardamento* (da *Zang Tumb Tuuum*, 1914)
 
 *Bombardamento* è una **tavola parolibera**: una composizione in parte verbale e

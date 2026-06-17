@@ -7,6 +7,14 @@ verista: la **prima opera del Verismo** è il racconto *Rosso Malpelo* (1878),
 dove lo scrittore riproduce il modo di pensare e di raccontare del popolo
 mantenendo una rigorosa **impersonalità**.
 
+## La vita
+
+Nato a **Catania** nel 1840 da una famiglia agiata di proprietari terrieri,
+esordì giovanissimo con romanzi ancora **tardoromantici e mondani**, scritti
+durante i soggiorni a **Firenze** e **Milano**. La svolta arriva nel **1878** con
+*Rosso Malpelo* e la stagione verista. Tornato in **Sicilia**, visse a lungo
+appartato a Catania; fu nominato **senatore** nel 1920 e vi morì nel **1922**.
+
 ## Poetica e visione del mondo
 
 - Verga mostra al lettore i **meccanismi della società**, descrivendo i ceti
