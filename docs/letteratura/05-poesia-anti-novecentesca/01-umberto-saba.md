@@ -45,6 +45,29 @@ ordinata e riordinata lungo l'intera vita.
     «Tu sei come una giovane / una bianca pollastra» — testo integrale nel
     *Canzoniere* (Einaudi).
 
+???+ abstract "Riassunto"
+
+    Il poeta dichiara il proprio amore alla moglie **Lina** paragonandola, strofa
+    dopo strofa, alle **femmine di sette animali domestici** — la giovane
+    pollastra, la giovenca gravida, la cagna, la coniglia, la rondine, la formica
+    e l'ape. In ciascuna ritrova una qualità di lei (grazia, fecondità, fedeltà,
+    mitezza, leggerezza, laboriosità) e una creatura umile «che avvicina a Dio».
+    Solo lui, con gli occhi dell'amore, sa riconoscere la moglie in tutte queste
+    creature.
+
+??? note "Parafrasi"
+
+    Tu sei come una giovane, bianca **pollastra**: le piume le si arruffano al
+    vento, china il collo per bere e raspa la terra, eppure cammina con un passo
+    lento e regale, impettita e superba — ed «è migliore del maschio». Sei come la
+    **giovenca** gravida, ancora libera e quasi festosa. Sei come la **cagna**,
+    dolcissima negli occhi e tutta fedeltà, che guarda il padrone come un dio. Sei
+    come la timida **coniglia**, feconda di molti figli. Sei come la **rondine**
+    che torna a primavera e riporta la giovinezza. Sei come la previdente
+    **formica** e l'**ape**, piccole massaie che lavorano e mettono da parte per
+    l'avvenire. Tutte creature umili, che la saggezza popolare sente vicine a Dio;
+    e in tutte loro io vedo te sola.
+
 **Metro:** sei strofe di lunghezza varia, in versi brevi (prevalenti i settenari),
 con rime e assonanze.
 
@@ -71,6 +94,26 @@ l'amore coniugale cantato con immagini umili e domestiche.
     «Il portiere caduto alla difesa / ultima vana, contro terra cela / la
     faccia, a non vedere l'amara luce» — testo integrale nel *Canzoniere*
     (Einaudi).
+
+???+ abstract "Riassunto"
+
+    In tre quadri la poesia ferma l'attimo del **gol**: prima il **portiere
+    sconfitto**, caduto a terra, che nasconde il volto per non vedere la gioia
+    altrui ed è consolato da un compagno; poi l'**esultanza della folla** e dei
+    giocatori che si abbracciano attorno a chi ha segnato; infine l'**altro
+    portiere**, lontano e solo davanti alla porta sguarnita, che pure partecipa da
+    lontano a quella gioia collettiva.
+
+??? note "Parafrasi"
+
+    Il portiere battuto, caduto dopo un'ultima inutile difesa, preme il viso
+    contro la terra per non vedere la «luce amara» della propria sconfitta; un
+    ragazzo accorre a sollevarlo e a consolarlo. All'altro capo del campo, attorno
+    al giocatore che ha segnato, compagni e folla esplodono in una sola
+    **ebbrezza**: pochi momenti, dice il poeta, è dato di vedere così belli sotto
+    il cielo. Anche il portiere della squadra vincitrice, lontano e solo davanti
+    alla sua porta, sente quella festa: lascia il suo posto, corre, e con l'anima
+    accesa partecipa anch'egli, pur da solo, alla gioia di tutti.
 
 **Metro:** tre **sestine** di endecasillabi; le strofe sono legate da rime «a
 catena» (l'ultimo verso di una strofa rima con il primo della successiva).
