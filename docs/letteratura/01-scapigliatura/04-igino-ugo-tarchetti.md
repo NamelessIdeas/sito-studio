@@ -24,7 +24,7 @@ donne dal nome allusivo: **Clara**, bella e serena (l'attrazione della *vita*), 
 riportano due passi: il **primo incontro** con Fosca (**A**, cap. XV) e lo
 **svilupparsi della relazione** morbosa (**B**, capp. XXXII-XXXIII).
 
-=== "Testo (A) — Il primo incontro"
+???+ quote "Testo (A) — Il primo incontro"
 
     > Il mio desiderio fu esaudito: conobbi finalmente Fosca.
     >
@@ -46,7 +46,7 @@ riportano due passi: il **primo incontro** con Fosca (**A**, cap. XV) e lo
     >
     > Vedendo che la conversazione minacciava sì presto di trascinarci nel campo delle confidenze, mi astenni dal risponderle.
 
-=== "Testo (B) — Il legame morboso"
+???+ quote "Testo (B) — Il legame morboso"
 
     > Fosca ed io vivevamo quasi uniti come due amanti. Se io avessi potuto amarla, sentire veramente per essa ciò che la sola pietà m'induceva a fingere di sentire, nessuna donna avrebbe potuto essere più felice di lei. Perché nessun'altra avrebbe saputo amare più intensamente. Lo stesso affetto di Clara non era né sì assoluto, né sì profondo; non aveva né la forza, né l'abbandono, né la continuità, né la voluttuosa mollezza del suo. La natura di Fosca era stata in ciò privilegiata. Se il cielo le aveva negata la bellezza, lo aveva forse fatto per temperare, col difetto di questa, l'esuberanza pericolosa di quella.
     >
@@ -68,7 +68,7 @@ riportano due passi: il **primo incontro** con Fosca (**A**, cap. XV) e lo
     >
     > Una cosa sovratutto – e la noto qui come quella che può dar ragione dell'abbandono in cui ero caduto e della sfiducia che s'era impadronita di me – contribuiva ad accrescere il mio dolore: il pensiero fisso, continuo, orrendo, che quella donna volesse trascinarmi con sé nella tomba. Essa doveva morire presto, ciò era evidente. Il vederla già consunta, incadaverita, abbracciarmi, avvinghiarmi, tenermi stretto sul suo seno durante quei suoi spasimi, era cosa che dava ogni giorno maggior forza a questa fissazione spaventevole.
 
-=== "Riassunto"
+???+ abstract "Riassunto"
 
     **Brano A — Il primo incontro (cap. XV).** Una mattina Giorgio, recatosi
     presto a casa del colonnello, si trova finalmente solo con **Fosca**, la

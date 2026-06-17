@@ -48,7 +48,7 @@ selva dei simboli, decifra le **corrispondenze** del reale.
 Sonetto-**manifesto** della poetica simbolista: enuncia la teoria delle
 corrispondenze e della sinestesia.
 
-=== "Testo (francese)"
+???+ quote "Testo (francese)"
 
     > La Nature est un temple où de vivants piliers
     > Laissent parfois sortir de confuses paroles ;
@@ -68,7 +68,7 @@ corrispondenze e della sinestesia.
     > Comme l'ambre, le musc, le benjoin et l'encens,
     > Qui chantent les transports de l'esprit et des sens.
 
-=== "Traduzione"
+??? note "Traduzione"
 
     > La Natura è un tempio dove vivi pilastri
     > lasciano talvolta uscire confuse parole;
@@ -114,7 +114,7 @@ analogica** del mistero del reale.
 
 ### *L'albatro* (da *I fiori del male*, 1861)
 
-=== "Testo (francese)"
+???+ quote "Testo (francese)"
 
     > Souvent, pour s'amuser, les hommes d'équipage
     > Prennent des albatros, vastes oiseaux des mers,
@@ -136,7 +136,7 @@ analogica** del mistero del reale.
     > Exilé sur le sol au milieu des huées,
     > Ses ailes de géant l'empêchent de marcher.
 
-=== "Traduzione"
+??? note "Traduzione"
 
     > Spesso, per divertirsi, gli uomini d'equipaggio
     > catturano degli albatri, vasti uccelli dei mari,
@@ -182,7 +182,7 @@ poeta *maledetto*.
 
 ### *Spleen* (da *I fiori del male*, 1857)
 
-=== "Testo (francese)"
+???+ quote "Testo (francese)"
 
     > Quand le ciel bas et lourd pèse comme un couvercle
     > Sur l'esprit gémissant en proie aux longs ennuis,
@@ -209,7 +209,7 @@ poeta *maledetto*.
     > Vaincu, pleure, et l'Angoisse atroce, despotique,
     > Sur mon crâne incliné plante son drapeau noir.
 
-=== "Traduzione"
+??? note "Traduzione"
 
     > Quando il cielo basso e greve pesa come un coperchio
     > sullo spirito che geme in preda a lunghi tedi,
@@ -274,7 +274,7 @@ paroles*, *Sagesse* e ***Jadis et naguère*** (*Un tempo e poco fa*).
 
 ### *Languore* (da *Un tempo e poco fa*, 1884)
 
-=== "Testo (francese)"
+???+ quote "Testo (francese)"
 
     > Je suis l'Empire à la fin de la décadence,
     > Qui regarde passer les grands Barbares blancs
@@ -294,7 +294,7 @@ paroles*, *Sagesse* e ***Jadis et naguère*** (*Un tempo e poco fa*).
     > Seul un esclave un peu coureur qui vous néglige,
     > Seul un ennui d'on ne sait quoi qui vous afflige !
 
-=== "Traduzione"
+??? note "Traduzione"
 
     > Io sono l'Impero alla fine della decadenza,
     > che guarda passare i grandi Barbari bianchi

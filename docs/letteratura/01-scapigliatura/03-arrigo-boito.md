@@ -18,7 +18,7 @@ speculazione edilizia** e contro il "progresso" che cancella memoria, bellezza e
 affetti. Boito, fratello di un architetto, conosceva da vicino quegli scempi
 urbanistici.
 
-=== "Testo"
+???+ quote "Testo"
 
     > Zappe, scuri, scarpelli.
     > Arïeti, mattelli,
@@ -57,7 +57,7 @@ urbanistici.
     >
     > — *1866, Milano*
 
-=== "Parafrasi"
+??? note "Parafrasi"
 
     Zappe, scuri, scalpelli, arieti, magli: strumenti di distruzione e di rovina,
     il dominio è ormai vostro! Che tempi inquieti! L'umanità corre così veloce da

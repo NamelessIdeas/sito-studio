@@ -135,7 +135,7 @@ liberamente sulla pagina) che riproduce l'**assedio di Adrianopoli** (1912). Se 
 riporta un **estratto** della sola parte verbale (la dimensione tipografica
 dell'originale non è riproducibile in testo semplice).
 
-=== "Testo (estratto)"
+???+ quote "Testo (estratto)"
 
     > Ogni 5 secondi cannoni da assedio sventrare spazio con un accordo tam-tuuumb
     > ammutinamento di 500 echi per azzannarlo sminuzzarlo sparpagliarlo

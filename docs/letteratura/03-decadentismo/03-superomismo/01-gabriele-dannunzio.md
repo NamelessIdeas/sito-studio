@@ -52,7 +52,7 @@ Il poeta contempla il calare della sera nella campagna di **Fiesole**, insieme
 alla donna amata (Ermione). La sera è celebrata come una creatura divina, con il
 modulo della **lauda** francescana.
 
-=== "Testo"
+???+ quote "Testo"
 
     > Fresche le mie parole ne la sera
     > ti sien come il fruscìo che fan le foglie
@@ -111,7 +111,7 @@ modulo della **lauda** francescana.
     > o Sera, e per l'attesa che in te fa palpitare
     > le prime stelle!
 
-=== "Parafrasi"
+??? note "Parafrasi"
 
     Siano fresche le mie parole, in questa sera, per te (Ermione), come il fruscìo
     che fanno le foglie del gelso nella mano di chi le raccoglie in silenzio,
@@ -176,7 +176,7 @@ naturali: poesia e natura coincidono.
 pineto, il poeta ed Ermione si trasfigurano in creature vegetali, immersi nella
 musica della pioggia.
 
-=== "Testo"
+???+ quote "Testo"
 
     > Taci. Su le soglie
     > del bosco non odo
@@ -310,7 +310,7 @@ musica della pioggia.
     > m'illuse, che oggi t'illude,
     > o Ermione.
 
-=== "Parafrasi"
+??? note "Parafrasi"
 
     Taci: sulla soglia del bosco non odo più parole umane che tu pronunci, ma odo
     parole nuove pronunciate da gocce e foglie lontane. Ascolta: piove dalle nubi

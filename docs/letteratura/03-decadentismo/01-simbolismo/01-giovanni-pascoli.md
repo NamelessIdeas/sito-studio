@@ -49,7 +49,7 @@ cattedra di Bologna. Negli ultimi anni assunse posizioni **nazionaliste**
 
 ## *Arano* (da *Myricae*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > Al campo, dove roggio nel filare
     > qualche pampano brilla, e dalle fratte
@@ -83,7 +83,7 @@ presagio: gli uccelli che attendono e «spiano» introducono una sottile inquiet
 
 ## *Lavandare* (da *Myricae*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > Nel campo mezzo grigio e mezzo nero
     > resta un aratro senza buoi, che pare
@@ -117,7 +117,7 @@ nel campo riflette la solitudine della donna. Simbolismo delle piccole cose.
 
 ## *X Agosto* (da *Myricae*, *Elegie*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > San Lorenzo, io lo so perchè tanto
     >      di stelle per l'aria tranquilla
@@ -171,7 +171,7 @@ laica del dolore.
 
 ## *L'assiuolo* (da *Myricae*, *In campagna*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > Dov'era la luna? chè il cielo
     > notava in un'alba di perla,
@@ -221,7 +221,7 @@ significato.
 
 ## *Novembre* (da *Myricae*, *In campagna*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > Gemmea l'aria, il sole così chiaro
     > che tu ricerchi gli albicocchi in fiore,
@@ -259,7 +259,7 @@ simbolo di una verità malinconica.
 
 ## *Temporale* (da *Myricae*, *In campagna*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > Un bubbolìo lontano...
     >
@@ -290,7 +290,7 @@ trilogia.
 
 ## *Il lampo* (da *Myricae*, *Tristezze*)
 
-=== "Testo"
+???+ quote "Testo"
 
     > E cielo e terra si mostrò qual era:
     >
@@ -324,7 +324,7 @@ Lungo poemetto sull'**emigrazione** italiana in America: il ritorno a Caprona di
 una famiglia di emigranti da Cincinnati (Ohio) con la nipotina Maria («Molly»),
 nata in America e malata. Se ne riportano i **versi iniziali** (Canto primo, I-II).
 
-=== "Testo (versi iniziali)"
+???+ quote "Testo (versi iniziali)"
 
     > A Caprona, una sera di febbraio,
     > gente veniva, ed era già per l'erta,
@@ -370,7 +370,7 @@ l'apertura di un testo molto più ampio.
 
 ## *Il gelsomino notturno* (da *Canti di Castelvecchio*, 1903)
 
-=== "Testo"
+???+ quote "Testo"
 
     > E s'aprono i fiori notturni,
     > nell'ora che penso ai miei cari.

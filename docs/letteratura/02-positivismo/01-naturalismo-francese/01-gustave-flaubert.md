@@ -42,18 +42,20 @@ giovani naturalisti.
 Da ***Madame Bovary*** (parte I, capp. VI-VII): due passi che mostrano i sogni di
 **Emma** prima da educanda in collegio, poi da giovane sposa.
 
-**Riassunto.** In collegio Emma si nutre di **letture sentimentali**: i romanzi
-d'amore che una vecchia zitella presta di nascosto alle ragazze (storie di amori
-contrastati, dame svenute, cavalieri «coraggiosi come leoni»), poi i romanzi
-storici di **Walter Scott**, con i loro manieri e castellane, e le incisioni
-patinate dei *keepsakes* (album di figure romantiche). La sua fantasia si riempie
-di castelli, eroine infelici e amori ideali (è il tempo del «culto di Maria
-Stuarda»). Alla morte della madre indulge in una malinconia «**lamartiniana**»,
-salvo presto stancarsene. Da sposa, invece di godersi la **luna di miele**, la
-immagina sempre *altrove*, in paesi dai nomi esotici e in scenari da cartolina (lo
-chalet svizzero, il cottage scozzese, il marito in velluto nero): la felicità
-reale le sembra impossibile, perché la confronta di continuo con quella sognata
-nei libri.
+???+ abstract "Riassunto"
+
+    In collegio Emma si nutre di **letture sentimentali**: i romanzi
+    d'amore che una vecchia zitella presta di nascosto alle ragazze (storie di amori
+    contrastati, dame svenute, cavalieri «coraggiosi come leoni»), poi i romanzi
+    storici di **Walter Scott**, con i loro manieri e castellane, e le incisioni
+    patinate dei *keepsakes* (album di figure romantiche). La sua fantasia si riempie
+    di castelli, eroine infelici e amori ideali (è il tempo del «culto di Maria
+    Stuarda»). Alla morte della madre indulge in una malinconia «**lamartiniana**»,
+    salvo presto stancarsene. Da sposa, invece di godersi la **luna di miele**, la
+    immagina sempre *altrove*, in paesi dai nomi esotici e in scenari da cartolina (lo
+    chalet svizzero, il cottage scozzese, il marito in velluto nero): la felicità
+    reale le sembra impossibile, perché la confronta di continuo con quella sognata
+    nei libri.
 
 **Temi:** il passo è la pagina-chiave del **bovarismo** — l'**evasione nel sogno**
 e la **fuga dalla realtà** di una piccolo-borghese di provincia che si costruisce

@@ -20,7 +20,7 @@ Le raccolte principali sono:
 prende le distanze dalla tradizione e proclama la scelta del *vero*, anche nei
 suoi aspetti più bassi.
 
-=== "Testo"
+???+ quote "Testo"
 
     > Noi siamo i figli dei padri ammalati;
     > Acquile al tempo di mutar le piume,
@@ -64,7 +64,7 @@ suoi aspetti più bassi.
     >
     > — *Novembre 1864*
 
-=== "Parafrasi"
+??? note "Parafrasi"
 
     Noi (i nuovi poeti) siamo figli di una generazione "malata", quella
     romantica e risorgimentale ormai in declino: come **aquile** nel momento in

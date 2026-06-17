@@ -49,22 +49,24 @@ Da ***Il denaro*** (*L'argent*, 1891), cap. IV. Il protagonista del romanzo è
 fonda una banca per le sue audaci imprese speculative e, dopo essersi arricchito,
 ne vede crollare l'impero trascinando nella rovina migliaia di risparmiatori.
 
-**Riassunto.** Saccard espone alla sua amica **Caroline** — sorella dell'ingegnere
-che ha progettato una grande impresa ferroviaria in Medio Oriente — i suoi
-progetti grandiosi. Preoccupata per le irregolarità nella raccolta dei capitali,
-Caroline gli propone di emettere **obbligazioni** (titoli a interesse fisso, non
-soggetti agli sbalzi di Borsa) anziché **azioni**, più rischiose. Saccard rifiuta
-con foga quasi comica: le obbligazioni sono «materia morta». La **speculazione**,
-il «**gioco**» di Borsa, è per lui l'**ingranaggio centrale**, il «cuore stesso»
-di ogni grande affare: un meccanismo che «reclama il sangue», fa circolare il
-denaro e rende possibili le ferrovie, le opere «civilizzatrici», il progresso.
-Il **rischio** non è un difetto ma la grandezza stessa dello scopo; il sogno più
-ardente dell'umanità è «tentare il caso, ottenere tutto dai suoi capricci, essere
-un re, essere Dio!». Sempre più infiammato, con **ardore lirico**, descrive la sua
-**Banca Universale** come la «macchina» destinata a dominare i mercati e a
-fondare società in tutto il mondo, e liquida i timori di Caroline: con il celebre
-cinismo finale, «non si sconvolge il mondo senza schiacciare i piedi di qualche
-passante».
+???+ abstract "Riassunto"
+
+    Saccard espone alla sua amica **Caroline** — sorella dell'ingegnere
+    che ha progettato una grande impresa ferroviaria in Medio Oriente — i suoi
+    progetti grandiosi. Preoccupata per le irregolarità nella raccolta dei capitali,
+    Caroline gli propone di emettere **obbligazioni** (titoli a interesse fisso, non
+    soggetti agli sbalzi di Borsa) anziché **azioni**, più rischiose. Saccard rifiuta
+    con foga quasi comica: le obbligazioni sono «materia morta». La **speculazione**,
+    il «**gioco**» di Borsa, è per lui l'**ingranaggio centrale**, il «cuore stesso»
+    di ogni grande affare: un meccanismo che «reclama il sangue», fa circolare il
+    denaro e rende possibili le ferrovie, le opere «civilizzatrici», il progresso.
+    Il **rischio** non è un difetto ma la grandezza stessa dello scopo; il sogno più
+    ardente dell'umanità è «tentare il caso, ottenere tutto dai suoi capricci, essere
+    un re, essere Dio!». Sempre più infiammato, con **ardore lirico**, descrive la sua
+    **Banca Universale** come la «macchina» destinata a dominare i mercati e a
+    fondare società in tutto il mondo, e liquida i timori di Caroline: con il celebre
+    cinismo finale, «non si sconvolge il mondo senza schiacciare i piedi di qualche
+    passante».
 
 **Temi:** il brano mette a nudo i **meccanismi del capitalismo finanziario** e
 mostra come, nell'Europa di fine Ottocento, le **dinamiche economiche** finiscano

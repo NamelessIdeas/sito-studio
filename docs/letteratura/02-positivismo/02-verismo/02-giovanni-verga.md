@@ -87,21 +87,23 @@ tradizionali. Le tecniche, applicate al meglio in *Rosso Malpelo* e nei
 È la **prima opera del Verismo** verghiano, ambientata nella **cava di rena
 rossa** presso Monserrato, dove si pratica il durissimo **lavoro minorile**.
 
-**Riassunto.** **Malpelo** è un ragazzo che lavora nella cava; lo chiamano così
-perché ha i **capelli rossi** e, secondo la credenza popolare, «chi ha i capelli
-rossi è malizioso e cattivo». Trattato da tutti come malvagio, finisce per
-comportarsi come ci si aspetta da lui, in un meccanismo di **pregiudizio che si
-autoavvera**. Il suo unico affetto è il **padre, Mastro Misciu** detto «Bestia»,
-un manovale mite e sfruttato che muore schiacciato sotto un pilastro di sabbia
-mentre, per pochi soldi, demolisce un pilone pericolante. Malpelo è l'unico a
-scavare disperatamente per ritrovarne il corpo e non lo dimentica mai: ne
-conserva gli **arnesi, le scarpe e i calzoni**. Con il nuovo arrivato,
-**Ranocchio** — un ragazzo gracile e zoppo — è violento e brutale, ma è un modo
-ruvido di «educarlo» alla legge spietata del mondo (i deboli vengono schiacciati),
-e di nascosto lo aiuta e lo sfama; Ranocchio però si ammala e muore di tisi.
-Sempre più solo, Malpelo viene infine mandato a esplorare una **galleria
-sconosciuta e pericolosa** della miniera e non torna più: scompare nel buio, con
-gli attrezzi del padre, accettando in silenzio il proprio destino.
+???+ abstract "Riassunto"
+
+    **Malpelo** è un ragazzo che lavora nella cava; lo chiamano così
+    perché ha i **capelli rossi** e, secondo la credenza popolare, «chi ha i capelli
+    rossi è malizioso e cattivo». Trattato da tutti come malvagio, finisce per
+    comportarsi come ci si aspetta da lui, in un meccanismo di **pregiudizio che si
+    autoavvera**. Il suo unico affetto è il **padre, Mastro Misciu** detto «Bestia»,
+    un manovale mite e sfruttato che muore schiacciato sotto un pilastro di sabbia
+    mentre, per pochi soldi, demolisce un pilone pericolante. Malpelo è l'unico a
+    scavare disperatamente per ritrovarne il corpo e non lo dimentica mai: ne
+    conserva gli **arnesi, le scarpe e i calzoni**. Con il nuovo arrivato,
+    **Ranocchio** — un ragazzo gracile e zoppo — è violento e brutale, ma è un modo
+    ruvido di «educarlo» alla legge spietata del mondo (i deboli vengono schiacciati),
+    e di nascosto lo aiuta e lo sfama; Ranocchio però si ammala e muore di tisi.
+    Sempre più solo, Malpelo viene infine mandato a esplorare una **galleria
+    sconosciuta e pericolosa** della miniera e non torna più: scompare nel buio, con
+    gli attrezzi del padre, accettando in silenzio il proprio destino.
 
 **Temi:** la novella è dominata dal **determinismo** (l'ambiente e il pregiudizio
 «fanno» Malpelo cattivo) e dalla **«lotta per la vita»**: nel mondo dei poveri
@@ -137,34 +139,36 @@ famiglia, fino al riscatto finale della casa del nespolo da parte di Alessi.
     **Alessi** e **Lia**. Sullo sfondo, l'usuraio **zio Crocifisso** e il
     villaggio di Aci Trezza.
 
-**Riassunto.** La famiglia vive del mare con la barca *Provvidenza* e abita la
-**casa del nespolo**. Quando il giovane **'Ntoni** parte per il **servizio
-militare**, viene a mancare un paio di braccia; per rimediare, padron 'Ntoni
-acquista a credito dall'usuraio **zio Crocifisso** un carico di **lupini** da
-rivendere. Ma durante il trasporto una **tempesta** fa naufragare la *Provvidenza*
-presso Capo dei Mulini: **Bastianazzo annega** e i lupini (già avariati) vanno
-perduti. Resta il **debito** dei lupini, origine di una catena di sciagure.
-Cominciano gli anni della rovina: il secondogenito **Luca** muore nella
-**battaglia navale di Lissa** (1866); il matrimonio combinato di **Mena** con
-Brasi Cipolla salta a causa del dissesto economico; **la Longa** muore di
-**colera**. Per pagare i debiti i Malavoglia perdono la **casa del nespolo** e
-sono costretti a una casa più misera.
+???+ abstract "Riassunto"
 
-'Ntoni torna dal militare **cambiato**: ha conosciuto la città e non sopporta più
-la vita dura e povera del paese. Rifiuta i valori del lavoro e della famiglia, si
-dà all'**ozio e al vino**, e finisce per fare il **contrabbandiere**; in una rissa
-**ferisce** la guardia doganale don Michele e viene **arrestato** e condannato. Lo
-scandalo del processo travolge anche la sorella minore **Lia**, che fugge da Aci
-Trezza e finisce **prostituta** in città. **Mena**, disonorata di riflesso,
-rinuncia per sempre alle nozze e si chiude in casa ad allevare i nipoti, come una
-moderna «Sant'Agata».
+    La famiglia vive del mare con la barca *Provvidenza* e abita la
+    **casa del nespolo**. Quando il giovane **'Ntoni** parte per il **servizio
+    militare**, viene a mancare un paio di braccia; per rimediare, padron 'Ntoni
+    acquista a credito dall'usuraio **zio Crocifisso** un carico di **lupini** da
+    rivendere. Ma durante il trasporto una **tempesta** fa naufragare la *Provvidenza*
+    presso Capo dei Mulini: **Bastianazzo annega** e i lupini (già avariati) vanno
+    perduti. Resta il **debito** dei lupini, origine di una catena di sciagure.
+    Cominciano gli anni della rovina: il secondogenito **Luca** muore nella
+    **battaglia navale di Lissa** (1866); il matrimonio combinato di **Mena** con
+    Brasi Cipolla salta a causa del dissesto economico; **la Longa** muore di
+    **colera**. Per pagare i debiti i Malavoglia perdono la **casa del nespolo** e
+    sono costretti a una casa più misera.
 
-**Padron 'Ntoni**, distrutto dai dolori, si ammala e muore all'ospedale, senza
-rivedere la casa restaurata. Tocca al mite e laborioso **Alessi**, rimasto fedele
-ai vecchi valori, sposare Nunziata, lavorare con tenacia e **riscattare la casa
-del nespolo**. Quando 'Ntoni esce di prigione e torna una notte alla casa
-ricostruita, capisce di **non appartenervi più**: ha rotto con quel mondo. All'alba
-**riparte**, lasciando per sempre Aci Trezza in cerca di un'altra sorte.
+    'Ntoni torna dal militare **cambiato**: ha conosciuto la città e non sopporta più
+    la vita dura e povera del paese. Rifiuta i valori del lavoro e della famiglia, si
+    dà all'**ozio e al vino**, e finisce per fare il **contrabbandiere**; in una rissa
+    **ferisce** la guardia doganale don Michele e viene **arrestato** e condannato. Lo
+    scandalo del processo travolge anche la sorella minore **Lia**, che fugge da Aci
+    Trezza e finisce **prostituta** in città. **Mena**, disonorata di riflesso,
+    rinuncia per sempre alle nozze e si chiude in casa ad allevare i nipoti, come una
+    moderna «Sant'Agata».
+
+    **Padron 'Ntoni**, distrutto dai dolori, si ammala e muore all'ospedale, senza
+    rivedere la casa restaurata. Tocca al mite e laborioso **Alessi**, rimasto fedele
+    ai vecchi valori, sposare Nunziata, lavorare con tenacia e **riscattare la casa
+    del nespolo**. Quando 'Ntoni esce di prigione e torna una notte alla casa
+    ricostruita, capisce di **non appartenervi più**: ha rotto con quel mondo. All'alba
+    **riparte**, lasciando per sempre Aci Trezza in cerca di un'altra sorte.
 
 - **Temi**: in un villaggio di pescatori non regnano più i valori della famiglia,
   del lavoro e dell'onore, ma l'egoismo e la sopraffazione. Verga però **non

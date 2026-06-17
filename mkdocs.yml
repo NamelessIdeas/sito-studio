@@ -65,6 +65,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details          # riquadri-scheda collassabili (??? / ???+)
   - attr_list
   - md_in_html
   - footnotes

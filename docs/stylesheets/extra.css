@@ -210,6 +210,30 @@ html { scroll-behavior: smooth; }
 }
 .md-typeset code { border-radius: 6px; }
 
+/* ---- Riquadri "scheda" per Testo e Riassunto ------------------------------ */
+/* I blocchi del testo (quote: "Testo", "Dal testo") e dei riassunti
+   (abstract: "Riassunto") hanno un contorno pieno nell'accento M3, così inizio
+   e fine sono inequivocabili. Il titolo riprende la tinta primary-container. */
+.md-typeset .admonition.quote,
+.md-typeset details.quote,
+.md-typeset .admonition.abstract,
+.md-typeset details.abstract {
+  border: 2px solid var(--m3-primary);
+}
+.md-typeset .quote > .admonition-title,
+.md-typeset .quote > summary,
+.md-typeset .abstract > .admonition-title,
+.md-typeset .abstract > summary {
+  background-color: var(--m3-primary-container);
+  color: var(--m3-on-surface);
+}
+.md-typeset .quote > .admonition-title::before,
+.md-typeset .quote > summary::before,
+.md-typeset .abstract > .admonition-title::before,
+.md-typeset .abstract > summary::before {
+  background-color: var(--m3-primary);
+}
+
 /* Pulsanti a "pillola" (corner full) */
 .md-typeset .md-button,
 .md-clipboard,
