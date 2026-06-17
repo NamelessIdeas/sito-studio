@@ -10,7 +10,10 @@ sensibilità sono le sottosezioni, e dentro ciascuna stanno gli autori.
 ## L'albero delle correnti
 
 - **[La Scapigliatura](01-scapigliatura/index.md)** — la prima rivolta contro
-  la società borghese: Tarchetti, Boito, Praga (con il contesto
+  la società borghese:
+  [Tarchetti](01-scapigliatura/04-igino-ugo-tarchetti.md),
+  [Boito](01-scapigliatura/03-arrigo-boito.md) e
+  [Praga](01-scapigliatura/02-emilio-praga.md) (con il contesto
   dell'[età postunitaria](01-scapigliatura/01-eta-postunitaria.md)).
 - **[Il Positivismo](02-positivismo/index.md)** — la fiducia nella scienza
   (Comte, Taine, Darwin) e i suoi frutti letterari:
