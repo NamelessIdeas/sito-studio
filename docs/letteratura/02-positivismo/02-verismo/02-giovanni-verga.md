@@ -113,10 +113,11 @@ rossa** presso Monserrato, dove si pratica il durissimo **lavoro minorile**.
     scavare per giorni, disperatamente e a mani nude, per ritrovarne il corpo, e
     non lo dimentica mai: ne conserva gli **arnesi, le scarpe e i calzoni** come
     reliquie. **La famiglia**, invece, gli è del tutto **estranea e ostile**: la
-    **madre** e la **sorella** lo temono, lo trattano con freddezza e lo
-    sopportano solo finché porta a casa la **paga**; dopo la morte del padre la
-    sorella si sposa e la madre prende un nuovo marito, e di Malpelo si liberano
-    senza un rimpianto, lasciandolo ancora più solo. Con il nuovo arrivato,
+    **madre** non lo considera neppure, mentre la **sorella** lo **picchia**,
+    sospettando che trattenga per sé parte della **paga**; lo sopportano solo per
+    i pochi soldi che porta a casa. Dopo la morte del padre la sorella si sposa e
+    la madre prende un nuovo marito, e di Malpelo si liberano senza un rimpianto,
+    lasciandolo ancora più solo. Con il nuovo arrivato,
     **Ranocchio** — un ragazzo gracile e zoppo — Malpelo è violento e brutale, ma
     è un modo ruvido di «educarlo» alla legge spietata del mondo (i deboli vengono
     schiacciati); di nascosto lo aiuta e lo sfama, eppure Ranocchio si ammala e
@@ -146,9 +147,11 @@ dei poveri.
     **elegante signora** della buona società, che tempo prima aveva accompagnato
     il narratore in una breve visita ad **Aci Trezza**. La dama, affascinata per
     un attimo dal pittoresco villaggio di pescatori, dal mare e dal paesaggio,
-    si era però **annoiata nel giro di quarantott'ore** e aveva chiesto di
-    ripartire, incapace di immaginare un'esistenza intera in quel posto: «come si
-    può vivere qui tutta la vita?». Per lei quel mondo è solo un grazioso
+    aveva esclamato «**Vorrei starci un mese, laggiù!**», ma si era in realtà
+    **annoiata nel giro di quarantott'ore**: già al terzo giorno, stanca di
+    vedere «sempre verde e azzurro», era alla stazione del treno per ripartire,
+    incapace di immaginare un'esistenza intera in quel posto: «come si può vivere
+    qui tutta la vita?». Per lei quel mondo è solo un grazioso
     scenario da osservare dal **finestrino del treno**, una parentesi
     pittoresca; non riesce a vedere la **fatica, la fame e il dolore** che vi si
     nascondono. Il narratore ribalta allora quella domanda e spiega che, per
@@ -192,9 +195,11 @@ qui l'accumulo della «roba» divora ogni sentimento.
     lui un mezzo di benessere ma un **fine assoluto**, un'ossessione che ha preso
     il posto di ogni relazione umana.
 
-    Quando però, ormai vecchio e malato, capisce che con la morte dovrà
-    **lasciare tutto** — che la roba accumulata in una vita intera resterà al
-    mondo mentre lui dovrà andarsene —, Mazzarò non si rassegna e si **ribella**.
+    Quando però, ormai vecchio e malato, gli ricordano che è **tempo di pensare
+    all'anima** e non più alla roba, e capisce che con la morte dovrà **lasciare
+    tutto** — che la roba accumulata in una vita intera resterà al mondo mentre
+    lui dovrà andarsene, senza nemmeno un erede a cui affidarla —, Mazzarò non si
+    rassegna e si **ribella**.
     È una ribellione folle e impotente contro l'unica forza che la ricchezza non
     può piegare: rifiuta l'**ingiustizia** di doversi separare dai suoi beni e,
     poiché non può portarseli dietro nell'aldilà, decide che **nessun altro li
@@ -224,15 +229,17 @@ Ricostruisce un episodio reale del **Risorgimento**: la **rivolta di Bronte** de
     poveri, esasperata da secoli di miseria e di soprusi, esplode in una
     **rivolta sanguinaria**: al grido di «libertà!» i braccianti danno la caccia
     ai **«galantuomini»** — nobili, possidenti, autorità — e li massacrano senza
-    pietà, in una violenza cieca che travolge anche **donne e bambini** e che lo
-    stesso popolo, passata l'ebbrezza, guarda con orrore. Pochi giorni dopo
-    arriva una **colonna di soldati** guidata da un generale (storicamente Nino
-    Bixio, inviato da Garibaldi) che **ristabilisce l'ordine** con altrettanta
-    ferocia: i rivoltosi vengono arrestati e **processati**. La giustizia dei
-    «signori» torna a funzionare come sempre: i contadini finiscono in catene,
-    condannati o fucilati, mentre nulla cambia nella spartizione delle terre. Uno
-    di loro, condotto via in catene, capisce solo allora che la **«libertà»**
-    promessa non era per gente come lui.
+    pietà. La furia cieca fa una **sedicina di morti** e travolge anche **donne e
+    bambini**: cadono il **barone** con la moglie e i figli, il **prete** e il
+    **notaio**, in una carneficina che lo stesso popolo, passata l'ebbrezza,
+    guarda con orrore. Pochi giorni dopo, a rivolta ormai spenta, arriva una
+    **colonna di soldati** guidata da un generale (storicamente **Nino Bixio**,
+    inviato da Garibaldi) che **ristabilisce l'ordine** con altrettanta ferocia:
+    i rivoltosi vengono arrestati, **processati** e **cinque** di loro condannati
+    a morte e subito fucilati. La giustizia dei «signori» torna a funzionare come
+    sempre: i contadini finiscono in catene mentre nulla cambia nella spartizione
+    delle terre. Uno di loro, condotto via in catene, capisce solo allora che la
+    **«libertà»** promessa non era per gente come lui.
 
 **Temi:** Verga **smonta il mito risorgimentale**: l'Unità e la «libertà» non
 portano alcun riscatto ai poveri, e la **lotta di classe** si risolve in una
@@ -245,11 +252,41 @@ collettivo del racconto popolare.
 
 ### Il ciclo dei *Vinti*
 
-Verga progetta un ciclo di **cinque romanzi** per tracciare «la fisionomia della
-vita italiana moderna», passando in rassegna tutte le classi sociali. Sceglie
-come soggetti i **"vinti"**, coloro che vengono schiacciati nella lotta per la
-sopravvivenza. Dei cinque romanzi previsti ne completa solo due: *I Malavoglia* e
-*Mastro-don Gesualdo*.
+Sul modello del ciclo dei *Rougon-Macquart* di **Zola**, Verga progetta un ciclo
+di **cinque romanzi** per tracciare «la fisionomia della vita italiana moderna»,
+passando in rassegna **tutte le classi sociali**. Sceglie come soggetti i
+**"vinti"**, coloro che vengono schiacciati nella lotta per l'esistenza. L'idea è
+risalire, romanzo dopo romanzo, l'intera **scala sociale**: a ogni gradino
+corrisponde un desiderio (o «ideale») sempre più complesso — dai bisogni
+materiali primari fino alla brama di lusso e di potere — ma la **legge della
+sconfitta** resta la stessa per tutti.
+
+!!! note "La «fiumana del progresso»"
+    Nella **prefazione ai *Malavoglia*** Verga espone il senso del ciclo con la
+    celebre immagine della **«fiumana del progresso»**: la storia umana è come
+    una corrente che avanza travolgendo tutto. Visti da lontano i suoi effetti
+    appaiono «grandiosi», ma chi guarda da vicino vede anche i **deboli** che,
+    non riuscendo a tenere il passo, restano indietro, sopraffatti e abbandonati
+    sulla riva: sono appunto i **«vinti»**. Lo scrittore li osserva con il
+    distacco dello scienziato, ma anche con una sotterranea **pietà**.
+
+I **cinque romanzi** previsti, in ascesa lungo la scala sociale, erano:
+
+- ***I Malavoglia*** — la lotta per i **bisogni materiali** primari, nel mondo
+  umile dei pescatori (l'«ideale dell'ostrica»);
+- ***Mastro-don Gesualdo*** — la brama della **«roba»**, l'avidità di ricchezza
+  della piccola borghesia di provincia;
+- ***La duchessa di Leyra*** — la **vanità aristocratica** e l'ambizione del
+  bel mondo;
+- ***L'onorevole Scipioni*** — l'**ambizione politica** e il potere;
+- ***L'uomo di lusso*** — la sete d'**arte, di piaceri e di lusso** al vertice
+  della società.
+
+Dei cinque, Verga **completa solo i primi due** (*I Malavoglia* e
+*Mastro-don Gesualdo*); de *La duchessa di Leyra* restano pochi capitoli, mentre
+gli ultimi due rimasero allo stato di progetto. Più saliva nella scala sociale,
+più il mondo da rappresentare si faceva **complesso e lontano** dalla sua
+esperienza, e l'opera si arrestò.
 
 ### *I Malavoglia* (1881)
 
