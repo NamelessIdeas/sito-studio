@@ -122,6 +122,97 @@ i pregiudizi del villaggio, così che la crudeltà appare «normale» — ed è 
 questo scarto a denunciarla agli occhi del lettore. Sotto la vicenda affiora la
 condanna implicita dello **sfruttamento** e dell'emarginazione.
 
+### *Fantasticheria* (da *Vita dei campi*, 1879)
+
+È la novella-**manifesto** che prelude a *I Malavoglia*: vi compare per la prima
+volta l'**«ideale dell'ostrica»**, la chiave della visione verghiana del mondo
+dei poveri.
+
+???+ abstract "Riassunto"
+
+    Il racconto ha la forma di una lunga **lettera-ricordo** rivolta a una
+    **elegante signora** della buona società, che tempo prima aveva accompagnato
+    il narratore in una breve visita ad **Aci Trezza**. La dama, affascinata per
+    un attimo dal pittoresco villaggio di pescatori, si era però **annoiata nel
+    giro di quarantott'ore** e aveva chiesto di ripartire: «come si può vivere
+    qui tutta la vita?». Il narratore ribalta quella domanda e riflette sul senso
+    della vita di quella povera gente, che pure resta attaccata al proprio
+    scoglio con tenacia. Formula così l'**«ideale dell'ostrica»**: i poveri sono
+    come ostriche **abbarbicate al loro scoglio** (la famiglia, il paese, il
+    lavoro degli avi); finché vi restano aggrappati sopravvivono, ma chi se ne
+    **stacca** — per ambizione o per il miraggio di una vita migliore — viene
+    travolto e divorato dal **«pesce vorace»** del mondo. Da quella povertà
+    dignitosa nasce una **religione della famiglia** che la signora, con la sua
+    vita agiata e distratta, non potrà mai comprendere.
+
+**Temi:** la novella enuncia l'**ideale dell'ostrica** e la **religione della
+famiglia** che reggeranno *I Malavoglia*. Lo sguardo è ancora venato di
+**nostalgia romantica** verso il mondo arcaico, ma già sorretto dalla
+**impersonalità**: il contrasto fra la prospettiva frivola della dama e la realtà
+dei pescatori produce un implicito effetto di **straniamento** e di denuncia
+sociale.
+
+### *La roba* (da *Novelle rusticane*, 1883)
+
+Esemplifica lo sguardo più **amaro e pessimistico** delle *Novelle rusticane*:
+qui l'accumulo della «roba» divora ogni sentimento.
+
+???+ abstract "Riassunto"
+
+    **Mazzarò**, nato poverissimo e costretto fin da ragazzo a un lavoro
+    durissimo, riesce con **intelligenza, astuzia e una fatica senza sosta** ad
+    accumulare nel corso della vita una **ricchezza immensa**: terre a perdita
+    d'occhio, mandrie, magazzini, tanto che il suo nome finisce per identificarsi
+    con la sua **«roba»**. A questa accumulazione sacrifica **ogni cosa**: non si
+    sposa, non ha affetti, vive con parsimonia estrema mangiando «pane e
+    cipolla», perché ogni soldo speso è tolto alla roba. La proprietà non è per
+    lui un mezzo di benessere ma un **fine assoluto**, un'ossessione che ha preso
+    il posto di ogni relazione umana. Quando però, ormai vecchio, capisce che con
+    la morte dovrà **lasciare tutto**, è preso da una **rabbia disperata**: esce
+    nell'aia barcollando, bastone alla mano, e si mette ad **ammazzare le proprie
+    anatre e i tacchini** gridando «**Roba mia, vientene con me!**», poiché non
+    può portarsela dietro nell'aldilà.
+
+**Temi:** la novella supera ogni **idealizzazione** del mondo contadino. La
+**«roba»** è insieme riscatto sociale e **alienazione**: domina l'uomo invece di
+servirlo, svuotandolo di ogni affetto, fino alla **follia** finale davanti alla
+morte, l'unica forza che la ricchezza non può comprare. È la stessa logica della
+**«lotta per la vita»** e dell'interesse economico che muove tutta l'opera
+verghiana, qui spinta al suo esito più cupo. Il tema dell'accumulo come ossessione
+prepara il conflitto interiore di **Mastro-don Gesualdo**.
+
+### *Libertà* (da *Novelle rusticane*, 1882)
+
+Ricostruisce un episodio reale del **Risorgimento**: la **rivolta di Bronte** del
+1860, durante la spedizione dei Mille, e la dura repressione che ne seguì.
+
+???+ abstract "Riassunto"
+
+    Nell'agosto del 1860, mentre **Garibaldi** sbarca in Sicilia, nel paese di
+    **Bronte**, alle falde dell'Etna, si diffonde la voce che sia arrivata la
+    **«libertà»** e che le terre saranno finalmente dei contadini. La folla dei
+    poveri, esasperata da secoli di miseria e di soprusi, esplode in una
+    **rivolta sanguinaria**: al grido di «libertà!» i braccianti danno la caccia
+    ai **«galantuomini»** — nobili, possidenti, autorità — e li massacrano senza
+    pietà, in una violenza cieca che travolge anche **donne e bambini** e che lo
+    stesso popolo, passata l'ebbrezza, guarda con orrore. Pochi giorni dopo
+    arriva una **colonna di soldati** guidata da un generale (storicamente Nino
+    Bixio, inviato da Garibaldi) che **ristabilisce l'ordine** con altrettanta
+    ferocia: i rivoltosi vengono arrestati e **processati**. La giustizia dei
+    «signori» torna a funzionare come sempre: i contadini finiscono in catene,
+    condannati o fucilati, mentre nulla cambia nella spartizione delle terre. Uno
+    di loro, condotto via in catene, capisce solo allora che la **«libertà»**
+    promessa non era per gente come lui.
+
+**Temi:** Verga **smonta il mito risorgimentale**: l'Unità e la «libertà» non
+portano alcun riscatto ai poveri, e la **lotta di classe** si risolve in una
+violenza reciproca che lascia immutati i rapporti di potere. Domina il
+**pessimismo** delle *Novelle rusticane*: la storia è governata dall'interesse
+economico e i «vinti» restano tali. Sul piano della tecnica spicca il **coro di
+voci** della folla, reso con l'**impersonalità** e il **discorso indiretto
+libero**, che fa rivivere la rivolta dal di dentro, con il ritmo concitato e
+collettivo del racconto popolare.
+
 ### Il ciclo dei *Vinti*
 
 Verga progetta un ciclo di **cinque romanzi** per tracciare «la fisionomia della
