@@ -97,21 +97,33 @@ rossa** presso Monserrato, dove si pratica il durissimo **lavoro minorile**.
 
 ???+ abstract "Riassunto"
 
-    **Malpelo** è un ragazzo che lavora nella cava; lo chiamano così
-    perché ha i **capelli rossi** e, secondo la credenza popolare, «chi ha i capelli
-    rossi è malizioso e cattivo». Trattato da tutti come malvagio, finisce per
-    comportarsi come ci si aspetta da lui, in un meccanismo di **pregiudizio che si
-    autoavvera**. Il suo unico affetto è il **padre, Mastro Misciu** detto «Bestia»,
-    un manovale mite e sfruttato che muore schiacciato sotto un pilastro di sabbia
-    mentre, per pochi soldi, demolisce un pilone pericolante. Malpelo è l'unico a
-    scavare disperatamente per ritrovarne il corpo e non lo dimentica mai: ne
-    conserva gli **arnesi, le scarpe e i calzoni**. Con il nuovo arrivato,
-    **Ranocchio** — un ragazzo gracile e zoppo — è violento e brutale, ma è un modo
-    ruvido di «educarlo» alla legge spietata del mondo (i deboli vengono schiacciati),
-    e di nascosto lo aiuta e lo sfama; Ranocchio però si ammala e muore di tisi.
-    Sempre più solo, Malpelo viene infine mandato a esplorare una **galleria
-    sconosciuta e pericolosa** della miniera e non torna più: scompare nel buio, con
-    gli attrezzi del padre, accettando in silenzio il proprio destino.
+    **Malpelo** è un ragazzo che lavora nella **cava di rena rossa** presso
+    Monserrato; lo chiamano così perché ha i **capelli rossi** e, secondo la
+    credenza popolare, «chi ha i capelli rossi è malizioso e cattivo». La cava è
+    un mondo **sotterraneo, buio e soffocante**, un labirinto di gallerie scavate
+    nella sabbia rossiccia dove regnano la polvere, il caldo e il rischio
+    costante di crolli: gli uomini e i ragazzi vi sono sfruttati come bestie, in
+    un ambiente che pare risucchiare la vita di chi vi entra. Trattato da tutti
+    come malvagio, Malpelo finisce per comportarsi come ci si aspetta da lui, in
+    un meccanismo di **pregiudizio che si autoavvera**.
+
+    Il suo unico affetto è il **padre, Mastro Misciu** detto «Bestia», un manovale
+    mite e sfruttato che muore schiacciato sotto un pilastro di sabbia mentre, per
+    pochi soldi, demolisce di notte un pilone pericolante. Malpelo è l'unico a
+    scavare per giorni, disperatamente e a mani nude, per ritrovarne il corpo, e
+    non lo dimentica mai: ne conserva gli **arnesi, le scarpe e i calzoni** come
+    reliquie. **La famiglia**, invece, gli è del tutto **estranea e ostile**: la
+    **madre** e la **sorella** lo temono, lo trattano con freddezza e lo
+    sopportano solo finché porta a casa la **paga**; dopo la morte del padre la
+    sorella si sposa e la madre prende un nuovo marito, e di Malpelo si liberano
+    senza un rimpianto, lasciandolo ancora più solo. Con il nuovo arrivato,
+    **Ranocchio** — un ragazzo gracile e zoppo — Malpelo è violento e brutale, ma
+    è un modo ruvido di «educarlo» alla legge spietata del mondo (i deboli vengono
+    schiacciati); di nascosto lo aiuta e lo sfama, eppure Ranocchio si ammala e
+    muore di tisi. Sempre più solo, Malpelo viene infine mandato a esplorare una
+    **galleria sconosciuta e pericolosa** della miniera e non torna più: scompare
+    nel buio, con gli attrezzi del padre, accettando in silenzio il proprio
+    destino.
 
 **Temi:** la novella è dominata dal **determinismo** (l'ambiente e il pregiudizio
 «fanno» Malpelo cattivo) e dalla **«lotta per la vita»**: nel mondo dei poveri
@@ -133,17 +145,28 @@ dei poveri.
     Il racconto ha la forma di una lunga **lettera-ricordo** rivolta a una
     **elegante signora** della buona società, che tempo prima aveva accompagnato
     il narratore in una breve visita ad **Aci Trezza**. La dama, affascinata per
-    un attimo dal pittoresco villaggio di pescatori, si era però **annoiata nel
-    giro di quarantott'ore** e aveva chiesto di ripartire: «come si può vivere
-    qui tutta la vita?». Il narratore ribalta quella domanda e riflette sul senso
-    della vita di quella povera gente, che pure resta attaccata al proprio
-    scoglio con tenacia. Formula così l'**«ideale dell'ostrica»**: i poveri sono
-    come ostriche **abbarbicate al loro scoglio** (la famiglia, il paese, il
-    lavoro degli avi); finché vi restano aggrappati sopravvivono, ma chi se ne
-    **stacca** — per ambizione o per il miraggio di una vita migliore — viene
-    travolto e divorato dal **«pesce vorace»** del mondo. Da quella povertà
-    dignitosa nasce una **religione della famiglia** che la signora, con la sua
-    vita agiata e distratta, non potrà mai comprendere.
+    un attimo dal pittoresco villaggio di pescatori, dal mare e dal paesaggio,
+    si era però **annoiata nel giro di quarantott'ore** e aveva chiesto di
+    ripartire, incapace di immaginare un'esistenza intera in quel posto: «come si
+    può vivere qui tutta la vita?». Per lei quel mondo è solo un grazioso
+    scenario da osservare dal **finestrino del treno**, una parentesi
+    pittoresca; non riesce a vedere la **fatica, la fame e il dolore** che vi si
+    nascondono. Il narratore ribalta allora quella domanda e spiega che, per
+    capire davvero quella gente, bisognerebbe **«farsi piccini»** quanto loro,
+    rinchiudere l'orizzonte fra due zolle e guardare il mondo con i loro occhi:
+    solo da quel **punto di vista umile** la loro vita acquista senso.
+
+    Per mostrarlo, il narratore evoca la sorte di una **povera famiglia di
+    pescatori** del paese — abbozzo dei futuri **Malavoglia** — travolta da una
+    catena di **disgrazie** (lutti, malattie, miseria), eppure rimasta sempre
+    aggrappata alla propria casa e al proprio lavoro. Formula così l'**«ideale
+    dell'ostrica»**: i poveri sono come ostriche **abbarbicate al loro scoglio**
+    (la famiglia, il paese, il lavoro degli avi); finché vi restano aggrappati
+    sopravvivono, ma chi se ne **stacca** — per ambizione o per il miraggio di una
+    vita migliore — viene travolto e divorato dal **«pesce vorace»** del mondo. Da
+    quella povertà dignitosa nasce una **religione della famiglia** e una forma
+    silenziosa di **eroismo dei vinti**, che la signora, con la sua vita agiata e
+    distratta, non potrà mai comprendere.
 
 **Temi:** la novella enuncia l'**ideale dell'ostrica** e la **religione della
 famiglia** che reggeranno *I Malavoglia*. Lo sguardo è ancora venato di
@@ -167,11 +190,18 @@ qui l'accumulo della «roba» divora ogni sentimento.
     sposa, non ha affetti, vive con parsimonia estrema mangiando «pane e
     cipolla», perché ogni soldo speso è tolto alla roba. La proprietà non è per
     lui un mezzo di benessere ma un **fine assoluto**, un'ossessione che ha preso
-    il posto di ogni relazione umana. Quando però, ormai vecchio, capisce che con
-    la morte dovrà **lasciare tutto**, è preso da una **rabbia disperata**: esce
-    nell'aia barcollando, bastone alla mano, e si mette ad **ammazzare le proprie
-    anatre e i tacchini** gridando «**Roba mia, vientene con me!**», poiché non
-    può portarsela dietro nell'aldilà.
+    il posto di ogni relazione umana.
+
+    Quando però, ormai vecchio e malato, capisce che con la morte dovrà
+    **lasciare tutto** — che la roba accumulata in una vita intera resterà al
+    mondo mentre lui dovrà andarsene —, Mazzarò non si rassegna e si **ribella**.
+    È una ribellione folle e impotente contro l'unica forza che la ricchezza non
+    può piegare: rifiuta l'**ingiustizia** di doversi separare dai suoi beni e,
+    poiché non può portarseli dietro nell'aldilà, decide che **nessun altro li
+    avrà**. Esce allora nell'aia barcollando, bastone alla mano, e comincia ad
+    **ammazzare a colpi di bastone le proprie anatre e i tacchini**, distruggendo
+    la sua stessa roba e gridando «**Roba mia, vientene con me!**», mentre i
+    servi lo credono impazzito.
 
 **Temi:** la novella supera ogni **idealizzazione** del mondo contadino. La
 **«roba»** è insieme riscatto sociale e **alienazione**: domina l'uomo invece di
