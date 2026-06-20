@@ -195,6 +195,13 @@ con link al movimento).
 - **Verifica prima di dire "fatto"**: dopo ogni modifica ai contenuti esegui
   `mkdocs build --strict` (cattura i link rotti) **e** la skill `markdown-lint`
   (`pymarkdown … scan`). Niente "completato" senza entrambi verdi.
+- **Controlla i contenuti sulle fonti primarie.** Per riassunti/parafrasi/trame
+  verifica i dettagli sul **testo integrale** (per il pubblico dominio:
+  [Wikisource](https://it.wikisource.org), [Liber Liber](https://www.liberliber.eu)),
+  non sulla memoria né su siti di appunti scolastici. Le trame si confondono
+  facilmente tra opere dello stesso autore: in questo repo la "sommossa popolare
+  in cui il protagonista teme per la roba e non per la vita" è di
+  *Mastro-don Gesualdo*, NON della novella *La roba* (che non ha rivolte).
 - **Commit/push solo su richiesta esplicita**: non committare di iniziativa.
 - **Messaggi di commit** in italiano, con prefisso tematico (`Contenuti:`, `UI:`,
   `Docs:`, `Infra:`, `Legale:`…) e riga finale `Co-Authored-By: Claude …`. Un
