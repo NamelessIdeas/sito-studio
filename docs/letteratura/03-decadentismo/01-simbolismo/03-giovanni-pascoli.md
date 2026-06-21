@@ -37,6 +37,34 @@ cattedra di Bologna. Negli ultimi anni assunse posizioni **nazionaliste**
   (tecnicismi botanici, latinismi, dialetto) — con sintassi franta, **frase
   nominale** e analogia.
 
+## L'ideologia politica
+
+Il pensiero politico di Pascoli compie un percorso che va **dal socialismo
+militante al nazionalismo**, restando però sempre attraversato da un fondo
+**umanitario** e da un ideale di solidarietà fra gli uomini.
+
+- **Il socialismo militante** (giovinezza) — studente all'Università di Bologna,
+  Pascoli aderì al **socialismo internazionalista**: nel **1879** fu **arrestato**
+  e trascorse alcuni mesi in carcere per aver partecipato a una manifestazione di
+  protesta. Il trauma del carcere lo allontanò dall'impegno rivoluzionario.
+- **Il socialismo umanitario** — la sua resta una visione di **fratellanza e
+  solidarietà** fra le classi, ma in chiave **consolatoria e non conflittuale**:
+  non la lotta di classe, bensì il sogno di una società pacificata, raccolta
+  attorno al **«nido»** e a una piccola proprietà che dia a ciascuno un po' di
+  terra.
+- **L'approdo al nazionalismo** — in età matura Pascoli giunge a un
+  **nazionalismo di tono umanitario**, che concilia la difesa dei poveri con
+  l'idea di nazione: l'Italia stessa è vista come una grande «proletaria» che
+  cerca terra e lavoro per i suoi figli emigranti.
+
+!!! note "«La grande Proletaria si è mossa» (1911)"
+    In questo celebre **discorso**, pronunciato a sostegno della **guerra di
+    Libia**, Pascoli presenta l'Italia come una nazione **povera e proletaria**
+    che, costretta a esportare milioni di **emigranti**, avrebbe diritto a
+    conquistare una terra in cui sistemarli. L'antico ideale socialista di
+    riscatto dei poveri è così trasferito dalla classe alla **nazione**: è il
+    punto d'arrivo nazionalista del suo percorso.
+
 ## Le opere
 
 La produzione poetica italiana di Pascoli si raccoglie in poche grandi opere, che
