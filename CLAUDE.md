@@ -85,9 +85,16 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   ordine: `# Nome` → paragrafo introduttivo → (`!!! note "Diritti d'autore"` se
   l'autore è sotto diritti) → `## La vita` → `## Poetica` (varianti ammesse:
   *Poetica e visione del mondo*, *La poetica*…) → `## Le opere` → le sezioni dei
-  **testi** (`## *Titolo*` con i riquadri-scheda) → `!!! tip "Collegamenti"`. Per
-  gli autori di sola prosa (Svevo, Pirandello) si omettono le sezioni dei testi.
-  Riferimento: le pagine dei decadenti (Pascoli, d'Annunzio, Montale…).
+  **testi poetici** (`## *Titolo*` con i riquadri-scheda) → `!!! tip
+  "Collegamenti"`. I **brani in prosa** (da romanzi/novelle) si analizzano invece
+  come **sottosezioni `####`** sotto la relativa opera dentro `## Le opere`, con
+  un'introduzione, `???+ abstract "Riassunto"` e l'analisi (`**Temi:**`,
+  `**Significato e temi:**`), **senza** riprodurre il testo integrale: così per i
+  brani de *I Malavoglia* (Verga) e per quelli di d'Annunzio (es. da *Il
+  piacere*). Lo stesso schema vale per gli autori di **sola prosa** (Svevo,
+  Pirandello): i loro brani vanno aggiunti come `####` sotto l'opera (prima questi
+  testi si omettevano del tutto). Riferimento: le pagine dei decadenti (Pascoli,
+  d'Annunzio, Montale…).
 - **Blocchi Testo/Parafrasi/Riassunto = admonition "scheda".** Per i testi e la
   loro analisi si usano admonition collassabili (estensione `pymdownx.details`
   in `mkdocs.yml`), NON le content-tab `=== "..."` (riservate ad altro, es. i
