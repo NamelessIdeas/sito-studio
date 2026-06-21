@@ -398,6 +398,77 @@ tecnica dell'**impersonalità** e dello **straniamento**: il narratore è calato
 fra i personaggi e parla come uno di loro, e la sapienza popolare dei proverbi fa
 da «coro» al racconto.
 
+#### *I Malavoglia e la dimensione economica* (cap. VII)
+
+Riparata la *Provvidenza*, i Malavoglia non sono più costretti a lavorare «a
+giornata» e tornano a sperare in un miglioramento: il brano mostra la loro
+**economia domestica** e l'etica che la regge.
+
+???+ abstract "Riassunto"
+
+    Tornata in mare la barca, **padron 'Ntoni** organizza minuziosamente l'economia
+    della famiglia: pagare il **debito** dei lupini coi primi guadagni, fare la
+    **provvista del sale** prima che ci mettano il dazio, vendere al mercato le
+    **uova** delle galline e la **tela di Mena**. Ogni piccola cosa «fa danari», e
+    tutti — Maruzza, Mena, Alessi — collaborano nella stessa tenace economia di
+    sussistenza, ispirata al lavoro, al risparmio e all'unità del **nido** («Tutta
+    questa roba fa danari… e non ci manderanno più via dalla nostra casa. *Casa
+    mia, madre mia*»). 'Ntoni rifiuta però di indebitarsi ancora con l'usuraio
+    **zio Crocifisso** («non me lo dice il cuore, dopo l'affare dei lupini»), e la
+    Longa rincara: «i danari dello zio Crocifisso portano disgrazia». Resta spazio
+    anche per la **solidarietà**: Maruzza manda qualche fava alla povera Locca.
+
+    Sullo sfondo avanza però la **modernità economica** che minaccia quel mondo: i
+    nuovi **dazi** sul sale e sulla pece, e soprattutto la **ferrovia** (il fischio
+    della macchina, i carrozzoni che sbucano dal colle) e i **vapori**, che
+    «spaventano» le acciughe. Conclude sconsolato padron Cipolla: «la ferrovia da
+    una parte e i vapori dall'altra. A Trezza non ci si può più vivere!».
+
+**Temi:** il brano illumina la **dimensione economica** del romanzo. I Malavoglia
+vivono un'economia **pre-capitalistica** e di sussistenza, retta da una
+**mentalità etica** in cui la «roba» serve a difendere la casa e la famiglia, non
+ad arricchirsi. A questa etica si contrappongono la **logica dell'interesse** e
+del denaro (l'usura dello zio Crocifisso) e l'avanzare della **modernità** (tasse,
+dazi, ferrovia, vapori), che travolgerà il mondo arcaico di Aci Trezza: è la
+**«fiumana del progresso»** osservata dal basso.
+
+#### *La conclusione del romanzo: l'addio al mondo pre-moderno* (cap. XV)
+
+L'ultimo capitolo: uscito di prigione e ormai **cambiato**, 'Ntoni torna di notte
+alla casa del nespolo riscattata da Alessi, ma capisce di **non appartenervi più**.
+
+???+ abstract "Riassunto"
+
+    Il «nido» è stato ricostruito: **Alessi** ha sposato la **Nunziata** e ha
+    **riscattato la casa del nespolo**, con le galline, il vitello e gli attrezzi
+    appesi, come voleva padron 'Ntoni; **Mena**, disonorata di riflesso, ha
+    rinunciato per sempre alle nozze e si è chiusa in soffitta «come le casseruole
+    vecchie», ad allevare i nipoti. **Padron 'Ntoni** è morto, solo, all'ospedale,
+    lontano da Trezza.
+
+    Una notte **'Ntoni**, irriconoscibile (barba lunga, coperto di polvere), torna
+    alla casa: mangia in silenzio, gira per le stanze rivedendo ogni cosa al suo
+    posto, ma sente di **non poter restare**. Chiede del nonno e della sorella
+    **Lia** (fuggita e perduta) e ottiene solo silenzio; rifiuta il letto che gli
+    hanno preparato. «Ora che so ogni cosa devo andarmene», ripete: ha conosciuto
+    il mondo e ne è ormai **escluso**. All'alba riprende la sporta e **riparte**.
+    In mezzo alla piazza buia si ferma ad ascoltare il mare e a guardare le stelle
+    — i **Tre Re** (Orione) e la **Puddara** (le Pleiadi) — come tante volte da
+    ragazzo; poi, quando il paese comincia a svegliarsi (Rocco Spatu, lo zio
+    Santoro), se ne va per sempre: «Ora è tempo d'andarmene, perché fra poco
+    comincerà a passar gente».
+
+**Significato e temi:** è l'**addio al mondo pre-moderno**. 'Ntoni, che si è
+«staccato dallo scoglio» e ha conosciuto la città e l'ambizione, non può più
+rientrare nel mondo arcaico della famiglia e del nido: lo ha tradito e ne resta
+**irrimediabilmente escluso**. Prova un **rimpianto** struggente per quel mondo
+ormai irrecuperabile (i ricordi, le stelle, le «chiacchierate» serali «come
+fossimo tutti una famiglia»), ma proprio perché «sa ogni cosa» deve compiere il
+**distacco definitivo**. Il riscatto della casa da parte di Alessi mostra che i
+valori antichi sopravvivono, ma solo per chi vi è rimasto fedele: conferma
+dell'**«ideale dell'ostrica»**. La chiusura è **circolare e malinconica**, affidata
+alla voce «corale» del paese e del mare.
+
 ### *Mastro-don Gesualdo* (1889)
 
 Secondo romanzo del ciclo, ambientato a Vizzini. Il protagonista **Gesualdo
