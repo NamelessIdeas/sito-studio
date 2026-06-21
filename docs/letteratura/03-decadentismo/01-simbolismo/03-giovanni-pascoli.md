@@ -78,6 +78,50 @@ affiancano alla «poetica delle piccole cose» una vena via via più **narrativa
 | ***Primi*** e ***Nuovi poemetti*** | 1904 / 1909 | La vita dei **campi** e della famiglia contadina, il lavoro, la solidarietà e la pace; il dramma dell'**emigrazione** (in *Italy*). | **Poemetti narrativi** in **terzine** dantesche; tono georgico e descrittivo, plurilinguismo (l'italo-americano di *Italy*) e lessico tecnico-botanico. |
 | ***Poemi conviviali*** | 1904 | Il **mondo classico** greco-romano (Ulisse, Achille, Alessandro…) riletto in chiave decadente: l'illusione, la ricerca inquieta, il **pessimismo** e la morte. | Poesia **dotta** ed evocativa, dal tono elegiaco e simbolico: un **classicismo decadente**. |
 
+Accanto alla poesia, Pascoli affida la sua **teoria poetica** a un saggio in prosa.
+
+### *Il fanciullino* (saggio, 1897)
+
+***Il fanciullino*** è il saggio in cui Pascoli espone la propria **poetica**.
+Uscì in parte nel 1897 (con il titolo *Pensieri sull'arte poetica*) e fu poi
+raccolto, nella versione definitiva, in *Miei pensieri di varia umanità* (1903).
+È una delle pagine fondative del [Decadentismo](../index.md) italiano.
+
+#### *Una poetica decadente* (da *Il fanciullino*)
+
+Sono i passi più celebri del saggio, in cui si delinea con chiarezza la poetica
+pascoliana: la conoscenza immaginosa del poeta-«fanciullino», l'utilità morale e
+sociale della poesia, le corrispondenze segrete tra le cose.
+
+???+ abstract "Riassunto"
+
+    Dentro ogni uomo vive un «**fanciullino**» che non cresce mai: è la voce
+    dell'infanzia che continua a guardare il mondo con **stupore** e meraviglia,
+    vedendovi fantasmi e **corrispondenze segrete**. Da adulti smettiamo di
+    ascoltarlo — assorbiti dalla ragione e dagli affari —, ma il **poeta** è proprio
+    colui che gli **dà voce**: vede le cose come per la prima volta, le nomina con
+    meraviglia, coglie le somiglianze nascoste tra di esse. La poesia perciò non sta
+    nelle cose grandi o lontane, ma nelle **piccole cose** vicine e umili: «è trovare
+    nelle cose… il loro sorriso e la loro lacrima».
+
+    A questa facoltà conoscitiva Pascoli aggiunge una suprema **utilità morale e
+    sociale**: la poesia tempera i desideri, frena l'ansia di ricchezza e la corsa
+    verso l'«impossibile felicità», consola, e insegna ad **amare la vita** e a
+    sentire la **fratellanza** fra gli uomini. Di qui la polemica finale contro i
+    «poeti socialisti», cantori di «teoriche sociali», e l'elogio di **Virgilio**,
+    cantore delle *Georgiche*, che insegnava ad amare la vita «in cui non fosse lo
+    spettacolo né doloroso della miseria né invidioso della ricchezza».
+
+**Significato e temi:** è il **manifesto** della poetica pascoliana. Il
+«fanciullino» è la facoltà di una conoscenza **intuitiva, pre-logica e immaginosa**,
+alternativa a quella scientifica del [Positivismo](../../02-positivismo/index.md):
+su di esso si fondano la **poetica delle piccole cose**, il **simbolismo** (le
+«corrispondenze segrete» tra gli oggetti) e l'idea del poeta-veggente. La parte
+finale, con l'utilità morale e sociale della poesia (consolazione, freno alle
+passioni, fratellanza), si lega al fondo **umanitario** della sua
+[ideologia politica](#lideologia-politica). Lo stile è quello di una **prosa
+poetica**, ricca di immagini e dal tono lirico e profetico.
+
 ---
 
 ## *Arano* (da *Myricae*)
