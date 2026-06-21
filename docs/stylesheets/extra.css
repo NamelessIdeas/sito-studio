@@ -426,11 +426,15 @@ a.md-nav__link--active,
      48rem (=960px) dava ~131 caratteri/riga (troppi: l'optimum è ~50-75,
      accettabile <=~85). 30rem (=600px) atterra a ~82 caratteri/riga: dentro il
      range senza una colonna troppo angusta (lo scroll eccessivo è a sua volta un
-     costo cognitivo). Valore misurato con Chrome headless sul testo reale. */
+     costo cognitivo). Valore misurato con Chrome headless sul testo reale.
+     `margin: auto` CENTRA la colonna nello spazio tra le due sidebar: Material
+     però forza margin-left/right: 1.2rem con selettori più specifici
+     (`.md-sidebar--primary:not([hidden])~.md-content>.md-content__inner`), che
+     incollerebbero il testo a sinistra; servono quindi gli `!important`. */
   .md-content__inner {
     max-width: 30rem;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
   /* il footer (Precedente/Successivo, copyright) resta compatto e centrato */
   .md-footer .md-grid { max-width: 61rem; }
