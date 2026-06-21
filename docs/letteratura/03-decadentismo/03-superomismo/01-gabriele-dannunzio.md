@@ -8,15 +8,45 @@ della nazione.
 
 ## La vita
 
-Esordì giovanissimo e conquistò presto la ribalta letteraria e mondana di Roma.
-La sua fu una vita all'insegna del **lusso, degli amori celebri e dei debiti**
-(tra le relazioni, quella con l'attrice **Eleonora Duse**, l'«Ermione» delle sue
-liriche). Coltivò il mito dell'**azione**: interventista, **eroe-aviatore** della
-Prima guerra mondiale, guidò nel 1919-1920 l'**impresa di Fiume**. Negli ultimi
-anni si ritirò nella sontuosa villa-museo del **Vittoriale degli Italiani**, in
-un rapporto ambiguo con il fascismo.
+Nato a **Pescara nel 1863** da famiglia borghese benestante, studiò al
+prestigioso **Collegio Cicognini di Prato** e a soli sedici anni esordì con la
+raccolta *Primo vere* (1879), che lanciò con grande abilità pubblicitaria (fece
+perfino circolare la falsa notizia della propria morte per accrescerne il
+successo). La sua intera esistenza fu poi all'insegna del **lusso, degli amori
+celebri e dei debiti**, ed egli stesso ne fece un'opera d'arte. Si possono
+distinguere alcune **fasi**:
+
+- **Gli esordi e la Roma mondana** (anni '80) — trasferitosi a **Roma**, abbandona
+  gli studi universitari e vive di **giornalismo** nei salotti dell'aristocrazia,
+  conducendo un'esistenza di eleganza e relazioni amorose che diventa essa stessa
+  spettacolo.
+- **L'estetismo** (1889) — il culto della **bellezza** e il principio del *vivere
+  inimitabile* trovano espressione nel romanzo *Il piacere* e nel suo eroe Andrea
+  Sperelli.
+- **Il superomismo** (anni '90) — la lettura (fraintesa) di **Nietzsche** ispira
+  il mito del superuomo: nascono i grandi romanzi del superuomo e il **teatro
+  tragico**, legato anche all'amore per l'attrice **Eleonora Duse** (l'«Ermione»
+  delle liriche). In questi anni è anche **deputato** (eletto a destra nel 1897,
+  poi clamorosamente passato a sinistra).
+- **Il panismo e le *Laudi*** (1903) — con *Alcyone* la poesia raggiunge il
+  vertice della **fusione con la natura**.
+- **L'esilio in Francia** (1910-1915) — sommerso dai **debiti**, ripara in
+  Francia, dove continua a scrivere (anche in lingua francese).
+- **L'azione: guerra, Fiume e il Vittoriale** — rientrato in Italia,
+  **interventista** acceso, combatte nella Prima guerra mondiale come
+  **eroe-aviatore** (il volo su Vienna, la beffa di Buccari); una **ferita a un
+  occhio** (1916) lo costringe a una lunga convalescenza al buio, da cui nasce il
+  *Notturno*. Nel **1919-1920** guida l'**impresa di Fiume**. Negli ultimi anni si
+  ritira nella villa-museo del **Vittoriale degli Italiani**, in un rapporto
+  ambiguo con il **fascismo**, fino alla morte (Gardone Riviera, **1938**).
 
 ## Poetica e visione del mondo
+
+La poetica di d'Annunzio **evolve per fasi**, pur restando unitaria nel culto
+della parola e nell'estetizzazione della vita: dall'**estetismo** giovanile,
+attraverso una breve stagione della **«bontà»** (l'influsso dei russi Tolstoj e
+Dostoevskij, con la pietà per gli umili), al **superomismo** nietzscheano, fino
+al **panismo** della maturità.
 
 - **Estetismo**: il culto della bellezza e il principio del *vivere inimitabile*,
   che fa della vita stessa un'opera d'arte (modello: Andrea Sperelli de *Il
