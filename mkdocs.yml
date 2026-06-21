@@ -39,8 +39,9 @@ theme:
     - navigation.top              # bottone "torna su" con scroll morbido
     - navigation.footer           # link Precedente/Successivo in fondo (escluso dove hide: footer)
     - navigation.indexes          # ogni materia: l'index.md è la landing cliccabile
-    - navigation.expand           # sezioni a tendina sempre espanse: cambiando pagina
-                                  # (es. da Simbolismo a Estetismo) le altre NON si richiudono
+    # NIENTE navigation.expand: non vogliamo TUTTI i rami sempre aperti. Restano
+    # aperti solo i rami che l'utente apre, anche cambiando pagina: lo stato è
+    # ricordato da docs/javascripts/nav-persist.js (vedi extra_javascript).
     - toc.follow                  # la table of contents segue la lettura
     - search.suggest
     - search.highlight
@@ -94,6 +95,10 @@ extra_css:
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/mathjax/tex-mml-chtml.js
+  # Ricorda quali rami della barra laterale l'utente ha aperto e li ripristina
+  # dopo ogni cambio pagina (la instant navigation rigenera la sidebar). Stato
+  # in sessionStorage: nessuna richiesta esterna, niente cookie (GDPR ok).
+  - javascripts/nav-persist.js
 
 plugins:
   - search:

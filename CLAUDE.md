@@ -26,6 +26,10 @@ docs/                       Contenuti del sito (vedi sotto)
   privacy.md                Nota privacy (fuori nav, linkata dal footer via copyright)
   javascripts/mathjax.js    Config MathJax 3 (metodo ufficiale, no polyfill.io)
   javascripts/mathjax/      MathJax 3.2.2 vendorizzato (bundle + font woff-v2): NIENTE CDN
+  javascripts/nav-persist.js  Ricorda i rami aperti della barra laterale e li
+                            ripristina dopo ogni cambio pagina (sessionStorage,
+                            no cookie). Sostituisce navigation.expand (che li
+                            terrebbe TUTTI aperti).
   fonts/                    Roboto + Roboto Mono + Fraunces (serif display, OFL)
                             self-hostati: NIENTE Google Fonts
   stylesheets/extra.css     Material Design 3: token colore/movimento --m3-*, theme-aware;
