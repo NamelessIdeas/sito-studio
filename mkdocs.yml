@@ -99,6 +99,10 @@ extra_javascript:
   # dopo ogni cambio pagina (la instant navigation rigenera la sidebar). Stato
   # in sessionStorage: nessuna richiesta esterna, niente cookie (GDPR ok).
   - javascripts/nav-persist.js
+  # Aiuti alla lettura: barra di avanzamento, stima del tempo di lettura sotto il
+  # titolo e modalità "focus" (stato in sessionStorage). Tutto locale: nessuna
+  # richiesta esterna, niente cookie (GDPR ok).
+  - javascripts/reading-aids.js
 
 plugins:
   - search:

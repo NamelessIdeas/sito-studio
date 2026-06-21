@@ -68,6 +68,11 @@
   --m3-on-primary-container:  #21005D;
   --m3-secondary-container:   #E8DEF8;
   --m3-on-secondary-container:#1D192B;
+  /* M3 tertiary (rosa): accento DISTINTO dal primary, per differenziare le schede
+     "Riassunto" (sintesi) dal testo-fonte e favorire il recupero (distinctiveness) */
+  --m3-tertiary:              #7D5260;
+  --m3-tertiary-container:    #FFD8E4;
+  --m3-on-tertiary-container: #31111D;
   /* superfici "carta tiepida": un filo di calore toglie il sapore Material
      default, senza toccare l'accento viola */
   --m3-surface:               #FBF8F4;
@@ -110,6 +115,9 @@
   --m3-on-primary-container:  #EADDFF;
   --m3-secondary-container:   #4A4458;
   --m3-on-secondary-container:#E8DEF8;
+  --m3-tertiary:              #EFB8C8;
+  --m3-tertiary-container:    #633B48;
+  --m3-on-tertiary-container: #FFD8E4;
   --m3-surface:               #141218;
   --m3-surface-container:      #211F26;
   --m3-surface-container-high: #2B2930;
@@ -141,8 +149,13 @@
 }
 
 /* ---- Tipografia M3 (Roboto; headline a peso regolare) --------------------- */
+/* Material rende il corpo a .7rem (=14px su root 20px): troppo piccolo per la
+   lettura sostenuta. Lo portiamo a ~17px (la ricerca tipografica indica 16-19px
+   per il testo lungo). Resta in REM, così sfrutta il root responsive di Material
+   (137.5% >=1600px, 150% >=2000px) e la MISURA in caratteri resta ~costante. */
 .md-typeset {
-  line-height: 1.6;
+  font-size: 0.85rem;
+  line-height: 1.65;
 }
 /* I titoli usano il serif "display" Fraunces (voce letteraria); il corpo resta
    Roboto. h3 resta sans, per stacco di gerarchia col serif di h1/h2. */
@@ -162,13 +175,24 @@
   font-size: 1.6rem;
   line-height: 1.2;
   letter-spacing: -0.005em;
-  margin-top: 2.4rem;
+  /* Stacco delle sezioni (segmenting/chunking): una hairline tenue sopra ogni h2
+     delimita i blocchi tematici lungo le pagine lunghe, aiutando la scansione. */
+  margin-top: 2.6rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--m3-outline-variant);
 }
 .md-typeset h3 {
   font-weight: 500;           /* i "title" M3 sono medium */
   margin-top: 1.8rem;
 }
-.md-typeset p { margin: 0.7em 0 1.05em; }
+/* Signaling dei termini chiave: il grassetto (usato fittamente nei contenuti)
+   "stacca" con un peso pieno e il colore del testo primario, senza urlare. */
+.md-typeset strong { font-weight: 600; color: var(--m3-on-surface); }
+.md-typeset p { margin: 0.75em 0 1.1em; }
+/* text-wrap: pretty evita righe orfane/"vedove" a fine paragrafo (signaling più
+   pulito); progressive enhancement, ignorato dove non supportato. */
+.md-typeset p,
+.md-typeset li { text-wrap: pretty; }
 html { scroll-behavior: smooth; }
 
 /* ---- Top app bar M3: superficie tonale traslucida con blur ---------------- */
@@ -234,27 +258,60 @@ html { scroll-behavior: smooth; }
 .md-typeset code { border-radius: 6px; }
 
 /* ---- Riquadri "scheda" per Testo e Riassunto ------------------------------ */
-/* I blocchi del testo (quote: "Testo", "Dal testo") e dei riassunti
-   (abstract: "Riassunto") hanno un contorno pieno nell'accento M3, così inizio
-   e fine sono inequivocabili. Il titolo riprende la tinta primary-container. */
+/* Entrambi hanno un contorno pieno (inizio/fine inequivocabili), ma con accenti
+   DIVERSI per distinguere a colpo d'occhio la FONTE dalla SINTESI (distinctiveness,
+   aiuto al recupero):
+   - Testo (quote: "Testo"/"Dal testo")  -> accento PRIMARY (viola)
+   - Riassunto (abstract: "Riassunto")   -> accento TERTIARY (rosa)
+   NB: Parafrasi/Traduzione usano il tipo `note`, condiviso con altri avvisi
+   (es. "Diritti d'autore"), quindi non sono differenziabili per solo tipo CSS. */
 .md-typeset .admonition.quote,
-.md-typeset details.quote,
-.md-typeset .admonition.abstract,
-.md-typeset details.abstract {
+.md-typeset details.quote {
   border: 2px solid var(--m3-primary);
 }
 .md-typeset .quote > .admonition-title,
-.md-typeset .quote > summary,
-.md-typeset .abstract > .admonition-title,
-.md-typeset .abstract > summary {
+.md-typeset .quote > summary {
   background-color: var(--m3-primary-container);
   color: var(--m3-on-surface);
 }
 .md-typeset .quote > .admonition-title::before,
-.md-typeset .quote > summary::before,
+.md-typeset .quote > summary::before {
+  background-color: var(--m3-primary);
+}
+.md-typeset .admonition.abstract,
+.md-typeset details.abstract {
+  border: 2px solid var(--m3-tertiary);
+}
+.md-typeset .abstract > .admonition-title,
+.md-typeset .abstract > summary {
+  background-color: var(--m3-tertiary-container);
+  color: var(--m3-on-surface);
+}
 .md-typeset .abstract > .admonition-title::before,
 .md-typeset .abstract > summary::before {
-  background-color: var(--m3-primary);
+  background-color: var(--m3-tertiary);
+}
+
+/* ---- Card "opera" -----------------------------------------------------------
+   Racchiude una singola opera (titolo ### + panoramica + eventuali brani ####)
+   in un contenitore, così inizio e fine si distinguono a colpo d'occhio lungo le
+   pagine autore. Bordo NEUTRO (outline-variant) e raggio più ampio delle schede
+   interne: le schede accentate (Testo viola / Riassunto rosa) restano in primo
+   piano DENTRO il contenitore, senza effetto "scatola nella scatola". */
+.md-typeset .opera {
+  border: 1px solid var(--m3-outline-variant);
+  border-radius: 16px;
+  padding: 0.4rem 1.15rem 0.9rem;
+  margin: 1.5rem 0;
+  background: var(--m3-surface);
+}
+.md-typeset .opera > :first-child { margin-top: 0.8rem; }
+.md-typeset .opera > :last-child { margin-bottom: 0.3rem; }
+/* il titolo dell'opera fa da intestazione della card */
+.md-typeset .opera > h3 {
+  margin-top: 0.8rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--m3-outline-variant);
 }
 
 /* Pulsanti a "pillola" (corner full) */
@@ -340,8 +397,20 @@ a.md-nav__link--active,
 /* la TOC a destra resta leggera: niente pillola sui titoli di sezione */
 .md-sidebar--secondary .md-nav__link {
   border-radius: 0;
-  padding-left: 0;
+  padding-left: 0.6rem;
   background: transparent;
+  border-left: 2px solid transparent;
+  transition: color var(--m3-duration-short) var(--m3-easing-standard),
+              border-color var(--m3-duration-short) var(--m3-easing-standard);
+}
+/* Sezione attiva nella TOC: Material marca la voce corrente durante lo scroll con
+   .md-nav__link--active. La evidenziamo (accento + barretta sinistra) come cue di
+   "dove sono" nella pagina (signaling), senza appesantire le altre voci. */
+.md-sidebar--secondary .md-nav__link--active,
+.md-sidebar--secondary .md-nav__link[data-md-state="blur"].md-nav__link--active {
+  color: var(--m3-primary);
+  font-weight: 500;
+  border-left-color: var(--m3-primary);
 }
 
 /* ---- Sidebar di navigazione: ancorata a sinistra, gerarchia indentata ------ */
@@ -353,8 +422,13 @@ a.md-nav__link--active,
      spazio che rimane. */
   .md-grid { max-width: 100%; }
   .md-header__inner { padding-left: 0.6rem; padding-right: 0.6rem; }
+  /* Misura di lettura: col corpo a ~17px Roboto rende ~7.3px/carattere, quindi
+     48rem (=960px) dava ~131 caratteri/riga (troppi: l'optimum è ~50-75,
+     accettabile <=~85). 30rem (=600px) atterra a ~82 caratteri/riga: dentro il
+     range senza una colonna troppo angusta (lo scroll eccessivo è a sua volta un
+     costo cognitivo). Valore misurato con Chrome headless sul testo reale. */
   .md-content__inner {
-    max-width: 48rem;
+    max-width: 30rem;
     margin-left: auto;
     margin-right: auto;
   }
@@ -591,4 +665,81 @@ a.md-nav__link--active,
   html { scroll-behavior: auto; }
   .md-content { animation: none; }
   * { transition-duration: 0.01ms !important; }
+}
+
+/* ---- Aiuti alla lettura (vedi docs/javascripts/reading-aids.js) ------------- */
+/* Barra di avanzamento: filo sottile in cima alla finestra, la sua larghezza
+   segue la posizione di lettura. Niente transition sulla width: deve seguire lo
+   scroll 1:1 (e così è già "reduced-motion friendly"). */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0;
+  background: var(--m3-primary);
+  z-index: 1000;            /* sopra l'header sticky di Material */
+  pointer-events: none;
+  border-bottom-right-radius: 3px;
+}
+
+/* Tempo di lettura stimato: pillola tenue subito sotto l'h1 della pagina. */
+.md-typeset .reading-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: -0.4rem 0 1.4rem;
+  padding: 0.18rem 0.7rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--m3-on-surface-variant);
+  background: var(--m3-surface-container);
+  border: 1px solid var(--m3-outline-variant);
+  border-radius: 9999px;
+}
+.md-typeset .reading-meta svg {
+  width: 0.9em;
+  height: 0.9em;
+  fill: currentColor;
+  opacity: 0.85;
+}
+
+/* Modalità focus (lettura senza distrazioni): nasconde le due sidebar e centra il
+   contenuto a una misura un filo più ampia. Attivata dal pulsante .focus-toggle. */
+.focus-toggle {
+  position: fixed;
+  bottom: 1.2rem;
+  left: 1.2rem;
+  z-index: 999;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 9999px;
+  background-color: var(--m3-surface-container-high);
+  color: var(--m3-on-surface);
+  border: 1px solid var(--m3-outline-variant);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  transition: background-color var(--m3-duration-short) var(--m3-easing-standard),
+              color var(--m3-duration-short) var(--m3-easing-standard),
+              transform var(--m3-duration-short) var(--m3-easing-emphasized);
+}
+.focus-toggle:hover { transform: translateY(-2px); }
+.focus-toggle svg { width: 1.2rem; height: 1.2rem; fill: currentColor; }
+body.focus-reading .focus-toggle {
+  background-color: var(--m3-secondary-container);
+  color: var(--m3-on-secondary-container);
+  border-color: var(--m3-primary);
+}
+@media screen and (min-width: 76.25em) {
+  body.focus-reading .md-sidebar--primary,
+  body.focus-reading .md-sidebar--secondary {
+    opacity: 0;
+    visibility: hidden;
+  }
+  /* In focus mode si toglie solo il "rumore" (sidebar): la misura resta quella
+     ottimale di lettura (non si allarga la colonna). */
 }
