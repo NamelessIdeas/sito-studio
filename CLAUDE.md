@@ -42,7 +42,8 @@ docs/                       Contenuti del sito (vedi sotto)
                             (--m3-display-font); firma "spina delle correnti"
                             (.corrente-*) e hero/card della home (.home-*).
                             Tipografia tarata per lo studio: corpo ~17px (.85rem),
-                            misura 30rem (~82 caratteri/riga), hairline di stacco
+                            colonna 30rem (~82 caratteri/riga) centrata fra le
+                            sidebar (margini auto !important), hairline di stacco
                             sopra gli h2, card delle opere (.opera), schede
                             con accenti distinti, TOC con sezione attiva evidenziata;
                             stili degli aiuti di lettura (.reading-progress,
@@ -254,6 +255,15 @@ con link al movimento).
   di ogni comando Bash e lo **blocca** se la build fallisce. Durante un rinomino:
   prima `git mv`, poi correggi i link con gli strumenti di edit (che non passano
   dal gate), infine torna a eseguire comandi Bash.
+- **Centraggio colonna = serve `!important`.** La colonna di lettura
+  (`.md-content__inner`, `max-width: 30rem`) si centra con `margin-left/right:
+  auto`, ma Material forza `margin: 0 1.2rem` con selettori **più specifici**
+  (`.md-sidebar--primary:not([hidden])~.md-content>.md-content__inner`): senza
+  `!important` sui margini auto il testo resta **incollato a sinistra** (accanto
+  alla nav) invece che al centro dello schermo. NON togliere gli `!important` in
+  `docs/stylesheets/extra.css`. La colonna si centra nello spazio fra le due
+  sidebar: resta uno scostamento ~27px dal centro esatto perché la nav (15rem) è
+  più larga della TOC (12.1rem) — voluto, impercettibile.
 
 ## CI/CD
 
