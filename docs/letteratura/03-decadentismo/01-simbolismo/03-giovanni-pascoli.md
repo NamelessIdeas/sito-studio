@@ -39,11 +39,16 @@ cattedra di Bologna. Negli ultimi anni assunse posizioni **nazionaliste**
 
 ## Le opere
 
-- ***Myricae*** (1891-1903): il titolo, dal latino (Virgilio), indica le «umili
-  tamerici», cioè le piccole cose; brevi quadri di campagna.
-- ***Canti di Castelvecchio*** (1903) e i ***Poemetti*** (*Primi* e *Nuovi*):
-  poesia più ampia e narrativa.
-- ***Poemi conviviali*** e i saggi danteschi e critici.
+La produzione poetica italiana di Pascoli si raccoglie in poche grandi opere, che
+affiancano alla «poetica delle piccole cose» una vena via via più **narrativa** e
+**dotta**. Le principali:
+
+| Opera | Anno | Temi | Stile |
+| --- | --- | --- | --- |
+| ***Myricae*** | 1891-1903 | Il titolo, dal latino di Virgilio, indica le «umili tamerici»: le **piccole cose**, la natura agreste, i **morti** (il padre assassinato) e il **nido** familiare; dietro il quotidiano affiora un mistero. | Poesia-**frammento**: brevi quadri impressionistici, **frase nominale** e sintassi franta, **fonosimbolismo** e onomatopee, oggetti umili usati come **simboli**. |
+| ***Canti di Castelvecchio*** | 1903 | Ripresa e ampliamento di *Myricae*: la campagna della **Garfagnana**, il ciclo delle stagioni, il **nido** e gli affetti, la morte; affiora anche un eros velato e inquieto. | Componimenti più **distesi e narrativi**, di forte musicalità; fonosimbolismo accentuato e metro tradizionale piegato a esiti sperimentali. |
+| ***Primi*** e ***Nuovi poemetti*** | 1904 / 1909 | La vita dei **campi** e della famiglia contadina, il lavoro, la solidarietà e la pace; il dramma dell'**emigrazione** (in *Italy*). | **Poemetti narrativi** in **terzine** dantesche; tono georgico e descrittivo, plurilinguismo (l'italo-americano di *Italy*) e lessico tecnico-botanico. |
+| ***Poemi conviviali*** | 1904 | Il **mondo classico** greco-romano (Ulisse, Achille, Alessandro…) riletto in chiave decadente: l'illusione, la ricerca inquieta, il **pessimismo** e la morte. | Poesia **dotta** ed evocativa, dal tono elegiaco e simbolico: un **classicismo decadente**. |
 
 ---
 
