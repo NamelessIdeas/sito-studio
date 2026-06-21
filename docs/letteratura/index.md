@@ -51,7 +51,7 @@ La crisi delle certezze positiviste, dal simbolo alla narrativa e poesia del Nov
 
 La rottura totale con la tradizione e le «parole in libertà».
 
-[Marinetti](04-avanguardie-futurismo/01-filippo-tommaso-marinetti.md) · [Palazzeschi](04-avanguardie-futurismo/02-aldo-palazzeschi.md) · [Crepuscolari e Vociani](04-avanguardie-futurismo/03-crepuscolari-e-vociani.md) · [Gozzano](04-avanguardie-futurismo/04-guido-gozzano.md)
+[Marinetti](04-avanguardie-futurismo/01-filippo-tommaso-marinetti.md) · [Palazzeschi](04-avanguardie-futurismo/02-aldo-palazzeschi.md) · [Crepuscolari e Vociani](04-avanguardie-futurismo/03-crepuscolari-e-vociani.md)
 </div>
 
 <div class="corrente-node" markdown>

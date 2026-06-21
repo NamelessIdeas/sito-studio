@@ -81,9 +81,8 @@ Ogni autore ha una **pagina dedicata**, con i testi e l'analisi:
   «saltimbanco» dell'ironia e del nonsense; sua è *E lasciatemi divertire*.
 
 Accanto al Futurismo, l'altra grande esperienza poetica del primo Novecento è
-quella dei **[Crepuscolari e Vociani](03-crepuscolari-e-vociani.md)** (con
-[Guido Gozzano](04-guido-gozzano.md)), opposta nei toni ma unita nel rifiuto
-della tradizione aulica.
+quella dei **[Crepuscolari e Vociani](03-crepuscolari-e-vociani.md)**, opposta
+nei toni ma unita nel rifiuto della tradizione aulica.
 
 !!! tip "Collegamenti"
     Le avanguardie reagiscono ai modelli di fine Ottocento, in particolare alla

@@ -13,8 +13,8 @@ un articolo su «La Stampa» del **1910**: la poesia italiana, dopo la grande
 stagione di Carducci, Pascoli e d'Annunzio, gli sembra spegnersi «in un mite e
 lunghissimo crepuscolo». Non si tratta di una **scuola organizzata**, ma di una
 **sensibilità condivisa** da poeti che non si conobbero quasi e operarono in
-aree geografiche diverse: **Guido Gozzano** in Piemonte, **Sergio Corazzini** a
-Roma, **Corrado Govoni** in Emilia, **Aldo Palazzeschi** in Toscana.
+aree geografiche diverse: **Sergio Corazzini** a Roma, **Corrado Govoni** in
+Emilia, **Aldo Palazzeschi** in Toscana.
 
 ### La poetica crepuscolare
 
@@ -28,13 +28,6 @@ Roma, **Corrado Govoni** in Emilia, **Aldo Palazzeschi** in Toscana.
 - **Forma**: una semplicità solo **apparente** — dietro il tono colloquiale e
   il **ritmo cantilenante** c'è un'elaborazione raffinata; uso del **verso
   libero** e abbassamento del lessico verso il parlato.
-
-### Guido Gozzano
-
-**Guido Gozzano** (Torino, 1883–1916) è il **maggiore dei crepuscolari**: un io
-«minuscolo», antieroico e ironico, e la celebre **mescolanza dei registri**
-(aulico e quotidiano) con cui "abbassa" con affettuosa ironia la tradizione
-dannunziana. → Pagina dedicata: **[Guido Gozzano](04-guido-gozzano.md)**.
 
 ### Sergio Corazzini
 

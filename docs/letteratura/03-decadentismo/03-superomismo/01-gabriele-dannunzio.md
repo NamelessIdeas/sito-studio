@@ -62,13 +62,80 @@ al **panismo** della maturità.
 
 ## Le opere
 
-- **Romanzi**: ***Il piacere*** (1889, fase estetica); i romanzi del superuomo
-  ***Il trionfo della morte***, ***Le vergini delle rocce***, ***Il fuoco***.
-- **Prosa "notturna"**: ***Il Notturno***, scritto durante la
-  convalescenza da una ferita agli occhi.
-- **Poesia – le *Laudi***: un grande progetto di libri intitolati alle stelle
-  (*Maia*, *Elettra*, *Alcyone*, *Merope*…). Il capolavoro è ***Alcyone*** (1903),
-  diario lirico di un'estate in Toscana, vertice del panismo dannunziano.
+La produzione di d'Annunzio segue le **fasi** della sua poetica: dal romanzo
+estetico ai romanzi del superuomo, al grande progetto lirico delle *Laudi*, fino
+alla prosa "notturna" dell'ultima stagione.
+
+### La fase estetica e la sua crisi: *Il piacere* (1889)
+
+***Il piacere*** è il primo romanzo e il manifesto della **fase estetica**.
+Protagonista è **Andrea Sperelli**, giovane aristocratico e poeta che fa della
+propria vita un'opera d'arte (il *vivere inimitabile*), nella Roma mondana e
+decadente di fine secolo. Conteso tra la passione sensuale per **Elena Muti** e
+l'amore puro e spirituale per **Maria Ferres**, Sperelli finisce per perderle
+entrambe: nel celebre finale, mentre è con Maria, le sfugge di bocca il nome di
+Elena. La sconfitta del protagonista rivela la **crisi dell'Estetismo**: l'esteta
+è una figura **debole e inetta all'azione**, e il culto della bellezza si scopre
+**vuoto e moralmente sterile**. Proprio da questa impotenza nascerà l'esigenza di
+una figura più forte, il **superuomo**.
+
+### I romanzi del superuomo e Nietzsche
+
+Dopo la crisi dell'esteta, d'Annunzio elabora — leggendo (e **fraintendendo**)
+**Nietzsche** — il mito del **superuomo**: un essere eccezionale, al di là della
+morale comune, che esalta l'energia, la **volontà di potenza**, il dominio e
+l'arte. La filosofia nietzscheana è però **piegata all'estetismo**: il superuomo
+dannunziano diventa un aristocratico-artista, e l'idea dell'*Übermensch* si
+trasforma in celebrazione della bellezza e del privilegio dei pochi sulla massa.
+
+- ***Il trionfo della morte*** (1894) — **Giorgio Aurispa**, intellettuale
+  incapace di agire, è dominato da una passione morbosa per **Ippolita Santerre**,
+  la «Nemica» che ne logora le energie. Aspira al superuomo ma non riesce a
+  diventarlo: vinto, trascina con sé la donna in un **suicidio** finale, gettandosi
+  con lei da una rupe. Forti gli influssi di Nietzsche, di **Wagner** e di
+  Schopenhauer.
+- ***Le vergini delle rocce*** (1895) — il romanzo più dichiaratamente
+  **superomistico** e politico. **Claudio Cantelmo** vuole generare il futuro
+  «re di Roma», un superuomo, e cerca la madre ideale tra tre sorelle di
+  un'antica famiglia nobiliare ormai in decadenza. Domina un'ideologia
+  **aristocratica e antidemocratica**: disprezzo per le masse e per l'Italia
+  borghese, culto della bellezza e del privilegio. È più un **romanzo-manifesto**
+  di idee che di azione.
+- ***Il fuoco*** (1900) — il romanzo del **superuomo-artista**, ambientato in una
+  **Venezia** autunnale e decadente. Il poeta **Stelio Èffrena** incarna l'artista
+  dominatore che celebra la Parola e la Bellezza; la sua relazione con l'attrice
+  matura **Foscarina** è il ritratto trasparente di **Eleonora Duse**. Emerge
+  l'**egotismo** dell'artista, che subordina ogni cosa al proprio genio.
+
+### Il progetto delle *Laudi*
+
+Le ***Laudi del cielo, del mare, della terra e degli eroi*** sono il grande
+progetto poetico della maturità: una serie di libri intitolati alle **stelle
+della costellazione delle Pleiadi** (*Maia*, *Elettra*, *Alcyone*, *Merope*…).
+
+- ***Maia*** (*Laus vitae*, 1903) — un unico, lunghissimo poema: il **viaggio
+  ideale** e l'incontro con la Grecia (*Hellas*), inno alla **vita**, all'energia
+  vitale e all'eroismo moderno. È il libro **programmatico** del superomismo
+  lirico.
+- ***Elettra*** (1903) — poesia **civile e celebrativa**: gli eroi, la patria e le
+  «**città del silenzio**», le antiche città d'arte italiane evocate nella loro
+  gloria.
+- ***Alcyone*** (1903) — il **capolavoro**: diario lirico di un'**estate** in
+  Toscana, vertice del **panismo** dannunziano (vi appartengono *La sera
+  fiesolana* e *La pioggia nel pineto*). L'uomo si fonde con la natura nel mito
+  solare dell'estate.
+
+### Il periodo "notturno"
+
+Nel 1916 una **ferita a un occhio** costringe d'Annunzio a una lunga convalescenza
+immobile e **al buio**. In quelle condizioni compone il ***Notturno*** (pubblicato
+nel 1921), scrivendo alla cieca su migliaia di striscioline di carta (i
+*cartigli*), poi trascritte dalla figlia. Ne nasce una **prosa nuova**,
+frammentaria e allusiva, fatta di **memoria, introspezione e dolore**: il ricordo
+dei compagni caduti e della madre, le sensazioni del corpo, il silenzio. Lontana
+dalla sontuosità di un tempo, è una scrittura **essenziale e intima**, che apre
+l'ultima stagione **meditativa** e raccolta dello scrittore (proseguita in prose
+come *Le faville del maglio* e *Il libro segreto*).
 
 !!! note "Le opere in prosa"
     I brani in prosa indicati nel programma (da *Il piacere*, *Le vergini delle
