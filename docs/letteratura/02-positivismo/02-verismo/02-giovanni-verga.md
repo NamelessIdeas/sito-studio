@@ -272,21 +272,39 @@ sconfitta** resta la stessa per tutti.
 
 I **cinque romanzi** previsti, in ascesa lungo la scala sociale, erano:
 
-- ***I Malavoglia*** — la lotta per i **bisogni materiali** primari, nel mondo
-  umile dei pescatori (l'«ideale dell'ostrica»);
-- ***Mastro-don Gesualdo*** — la brama della **«roba»**, l'avidità di ricchezza
-  della piccola borghesia di provincia;
-- ***La duchessa di Leyra*** — la **vanità aristocratica** e l'ambizione del
-  bel mondo;
-- ***L'onorevole Scipioni*** — l'**ambizione politica** e il potere;
-- ***L'uomo di lusso*** — la sete d'**arte, di piaceri e di lusso** al vertice
-  della società.
+- ***I Malavoglia*** (1881) — il gradino più basso, la lotta per i **bisogni
+  materiali** primari. La famiglia di pescatori dei Toscano, detti *Malavoglia*,
+  ad Aci Trezza è travolta dal tentativo di migliorare la propria condizione (il
+  carico di lupini): a questo livello l'«ideale» è l'**«ideale dell'ostrica»**,
+  cioè restare attaccati allo scoglio della casa e della famiglia per non essere
+  divorati. La sconfitta è la rovina economica e lo sgretolarsi del nucleo
+  familiare.
+- ***Mastro-don Gesualdo*** (1889) — la **piccola e media borghesia** di
+  provincia. Gesualdo Motta, da umile muratore, accumula con avidità e fatica la
+  **«roba»** scalando la società di Vizzini; ma il denaro non gli compra né
+  l'affetto della famiglia né l'accettazione degli aristocratici, e muore solo,
+  estraneo persino in casa propria. L'«ideale» qui è la **brama di ricchezza**, e
+  la sconfitta è l'isolamento di chi ha tutto e non ha nulla.
+- ***La duchessa di Leyra*** (incompiuto) — l'**aristocrazia** e il bel mondo.
+  Protagonista doveva essere **Isabella**, figlia di Gesualdo, divenuta duchessa
+  di Leyra: il romanzo avrebbe seguito la **vanità e gli intrighi** dell'alta
+  società palermitana, dove l'«ideale» si fa **vanità mondana e ambizione di
+  prestigio**. Verga ne stese solo i **primi capitoli**, pubblicati postumi.
+- ***L'onorevole Scipioni*** (solo progetto) — il mondo della **politica** e del
+  potere. Avrebbe rappresentato l'**ambizione politica**, le manovre del
+  parlamentarismo e della vita pubblica nella Roma post-unitaria, con il «vinto»
+  travolto dalla corsa al successo e all'influenza.
+- ***L'uomo di lusso*** (solo progetto) — il vertice della scala sociale.
+  Avrebbe chiuso il ciclo con la sete d'**arte, di piaceri e di lusso** dell'élite
+  più raffinata: l'«ideale» più astratto e sterile, dove l'eccesso stesso di
+  raffinatezza e ricchezza diventa causa di un'insoddisfazione e di una sconfitta
+  interiori.
 
 Dei cinque, Verga **completa solo i primi due** (*I Malavoglia* e
 *Mastro-don Gesualdo*); de *La duchessa di Leyra* restano pochi capitoli, mentre
-gli ultimi due rimasero allo stato di progetto. Più saliva nella scala sociale,
-più il mondo da rappresentare si faceva **complesso e lontano** dalla sua
-esperienza, e l'opera si arrestò.
+gli ultimi due rimasero **semplici titoli e progetti**. Più saliva nella scala
+sociale, più il mondo da rappresentare si faceva **complesso e lontano** dalla
+sua esperienza diretta, e l'opera si arrestò.
 
 ### *I Malavoglia* (1881)
 
@@ -345,6 +363,41 @@ famiglia, fino al riscatto finale della casa del nespolo da parte di Alessi.
   altri abitanti del villaggio. È qui che la tecnica dell'impersonalità raggiunge
   il suo punto più alto.
 
+#### *Il mondo arcaico e l'irruzione della storia* (cap. I)
+
+Le **pagine d'apertura** del romanzo presentano il mondo statico e arcaico di
+Aci Trezza prima che la storia moderna ne incrini l'equilibrio.
+
+???+ abstract "Riassunto"
+
+    Il narratore presenta la famiglia dei **Toscano**, detti i *Malavoglia*,
+    «un tempo numerosi come i sassi della strada vecchia di Trezza»: brava gente
+    di mare, da sempre con barche sull'acqua e tegole al sole. Il loro mondo è
+    retto da valori antichi e immutabili, condensati nei **proverbi di padron
+    'Ntoni**: «gli uomini son fatti come le dita della mano» e «per menare il
+    remo bisogna che le cinque dita s'aiutino l'un l'altro». La famiglia è
+    «realmente disposta come le dita della mano», in rigida gerarchia: il nonno
+    **padron 'Ntoni** a capo, il figlio **Bastianazzo** sposato con **Maruzza**
+    detta «la Longa», e i nipoti in ordine di anzianità — **'Ntoni**, **Luca**,
+    **Mena** («Sant'Agata»), **Alessi** e **Lia**. La «casa del nespolo»
+    **prospera** e padron 'Ntoni passa per «testa quadra».
+
+    In questo mondo immobile **irrompe la storia**: nel dicembre 1863 il nipote
+    **'Ntoni** è chiamato alla **leva di mare**, il servizio militare imposto dal
+    nuovo Stato unitario. Padron 'Ntoni non comprende quella legge venuta da
+    lontano, mentre il villaggio si divide discutendo di tasse e di «repubblica»
+    (don Giammaria, don Franco lo speziale, don Silvestro il segretario). La
+    partenza di 'Ntoni — la **scena dell'addio** alla stazione di Aci Castello,
+    il treno, i saluti gridati, lo sguardo rubato a **Sara di comare Tudda** —
+    segna il primo strappo nell'equilibrio familiare e l'inizio delle disgrazie.
+
+**Temi:** il brano oppone il **mondo arcaico** (la famiglia, il lavoro, i
+proverbi, il tempo ciclico di Aci Trezza) all'**irruzione della storia** (lo
+Stato unitario, la leva, le tasse, la modernità) che lo sgretola. Spiccano la
+tecnica dell'**impersonalità** e dello **straniamento**: il narratore è calato
+fra i personaggi e parla come uno di loro, e la sapienza popolare dei proverbi fa
+da «coro» al racconto.
+
 ### *Mastro-don Gesualdo* (1889)
 
 Secondo romanzo del ciclo, ambientato a Vizzini. Il protagonista **Gesualdo
@@ -372,3 +425,78 @@ soprannominano con disprezzo "Mastro-don".
     conflitto tra il vecchio e il nuovo sistema di valori — senza esprimere
     giudizi — lo scrittore lascia che «i fatti parlino da sé»: in questo consiste
     il suo realismo.
+
+#### La «rivoluzione» e la commedia dell'interesse (parte IV, cap. II)
+
+Siamo nel **1848**, l'anno delle rivoluzioni europee. Mentre Gesualdo veglia la
+moglie morente, i moti palermitani arrivano anche nel suo paese.
+
+???+ abstract "Riassunto"
+
+    Mentre **Bianca**, la moglie di Gesualdo, sta morendo, dal paese giunge la
+    notizia: «**Hanno fatto la rivoluzione. C'è la bandiera sul campanile.**»
+    Sono i moti del 1848, sull'onda della rivoluzione scoppiata a Palermo. Ma a
+    Gesualdo della rivoluzione «gliene importa assai»: la vera rivoluzione, dice,
+    ce l'ha **in casa**, al capezzale della moglie. I **notabili** del paese — il
+    **canonico Lupi** travestito da rivoluzionario, il **baronello Rubiera**, il
+    barone **Zacco**, **Mèndola** — lo vanno a sollecitare perché partecipi alla
+    **dimostrazione**, a gridare «viva Pio Nono» e «viva la libertà»: non per
+    ideale, ma per **difendere la roba** dai «villani» che, lasciati soli,
+    finirebbero per saccheggiare le case e impadronirsi delle terre. Gesualdo
+    rifiuta sdegnato, ricordando la **Carboneria del 1821** che non gli aveva
+    fruttato nulla: «Io difendo la mia roba, caro voi! Ho lavorato col mio
+    sudore.»
+
+    La **folla** con la bandiera tricolore arriva sotto le finestre gridando
+    «viva!… abbasso!… morte!», e Zacco lo prega di affacciarsi per evitare il
+    peggio. Intanto, nella stanza accanto, **Bianca spira**: Gesualdo, «ridotto
+    un vero cencio», passeggia su e giù ripetendo «**S'è fatta la festa!**» (nel
+    parlato siciliano la «festa» è anche la morte). Il dolore per la moglie ha il
+    sopravvento perfino sul culto della «roba», e Gesualdo «si mette a piangere
+    come un bambino».
+
+**Temi:** Verga mostra una visione **disincantata e pessimistica** della
+politica: nei moti del '48 nessuno è mosso da **ideali**, tutti — possidenti e
+rivoltosi — agiscono solo per **interesse** e per la «roba» (stessa prospettiva
+della novella *Libertà*). La «rivoluzione» diventa una **squallida farsa**, sullo
+sfondo della quale si staglia, con accenti autenticamente **tragici**, il dramma
+privato di Gesualdo.
+
+#### La morte di mastro-don Gesualdo (parte IV, cap. V)
+
+L'**ultimo capitolo** del romanzo: Gesualdo, malato e prossimo alla morte, vive
+nel palazzo palermitano della figlia Isabella e del genero, il duca di Leyra.
+
+???+ abstract "Riassunto"
+
+    Ormai vecchio e **consumato dalla malattia**, Gesualdo è stato sistemato in
+    poche stanze del palazzo del genero, «la **foresteria**», dove la figlia
+    **Isabella** — divenuta **duchessa di Leyra** — va a trovarlo ogni mattina,
+    amorevole ma fredda e distante, tanto che al pover'uomo «sembrava d'essere
+    davvero un forestiero». Dalla finestra Gesualdo osserva con angoscia lo
+    **sperpero** della casa nobiliare: stallieri, cocchieri e domestici oziano,
+    sghignazzano e dilapidano in lussi quel denaro che lui aveva accumulato
+    «palmo a palmo», con sacrifici, lavorando la **roba** — le terre, i mulini,
+    le case che ora «sarebbero passate per quelle mani». Pensa con dolore a
+    quanto bene si sarebbe potuto fare con quel denaro, ora inghiottito dalla
+    vita fastosa del duca «senza dar frutto».
+
+    Sentendo prossima la fine, tenta un ultimo, disperato dialogo con la figlia:
+    le raccomanda di **difendere la roba**, le elenca a una a una le terre che
+    aveva conquistato, e si commuove «come un bambino». Ma fra i due c'è un muro
+    di **incomunicabilità**: Isabella è chiusa, ostile, piena di antico
+    **rancore** (il padre le aveva troncato l'amore giovanile col cugino e
+    imposto il matrimonio col duca), e li separa anche un **segreto** taciuto —
+    Isabella non è figlia di Gesualdo, ma di «un'altra pasta», di razza Trao.
+    Gesualdo muore di notte, **solo**, vegliato a malincuore da un domestico
+    infastidito dai suoi lamenti. I servi ne commentano la morte con
+    **indifferenza** e disprezzo di classe: «Si vede com'era nato… Guardate che
+    mani!» — le mani callose di chi quella ricchezza l'aveva creata. Si chiude a
+    metà il portone «in segno di lutto», perché ormai «è roba di famiglia».
+
+**Temi:** il brano sigilla il **fallimento umano** di Gesualdo: «vincitore» sul
+piano della «roba», muore da **vinto** sul piano degli affetti, solo ed estraneo
+in casa propria. Vi si contrappongono la **produttività borghese** (il lavoro e i
+sacrifici di Gesualdo) e lo **sperpero aristocratico** (l'ozio del mondo del
+duca), e domina il tema dell'**incomunicabilità tra padre e figlia**, espressione
+del **pessimismo assoluto** di Verga.
