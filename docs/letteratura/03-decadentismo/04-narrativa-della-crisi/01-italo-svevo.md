@@ -226,6 +226,161 @@ la nuova **temporalità della memoria** (il «tempo misto»), in cui il presente
 dell'analisi reinterpreta di continuo il passato. La psicoanalisi non guarisce ma
 **fa raccontare**: è la struttura stessa del romanzo-confessione.
 
+#### *La morte del padre* (cap. IV)
+
+Uno dei momenti centrali del libro. Zeno ricostruisce la malattia e la morte del
+padre, segnate da un rapporto fatto di **incomprensione** e di **rivalità**, fino
+allo schiaffo del padre morente.
+
+???+ abstract "Riassunto"
+
+    Zeno contrappone la morte della madre, vissuta da ragazzo con un dolore presto
+    mitigato, alla morte del padre, una vera «catastrofe». Fra i due, dice, non
+    c'era nulla in comune: il padre, commerciante stimato (ma gli affari erano in
+    realtà retti dall'amministratore **Olivi**), uomo sicuro di sé e di poche
+    letture «morali», **diffidava** dell'energia e dell'intelligenza inquieta del
+    figlio. Colpito da un attacco cerebrale, è assistito dal **dottor Coprosich**,
+    che lo dichiara condannato. Zeno si oppone con disperazione all'applicazione
+    della camicia di forza e delle sanguisughe, in un misto di pietà e di **senso
+    di colpa**, temendo che il padre, riprendendo coscienza, gli legga in volto i
+    suoi sentimenti. Nell'agonia, mentre Zeno lo costringe a restare adagiato a
+    letto come ha ordinato il medico, il padre si solleva e gli lascia cadere la
+    mano aperta sulla guancia — uno **schiaffo** — e subito dopo muore. Zeno non
+    saprà mai se sia stato un gesto volontario di punizione o l'atto involontario
+    di un moribondo: il dubbio lo perseguiterà. Al funerale ricostruisce il
+    ricordo di un padre «debole e buono» e si convince della propria innocenza.
+
+**Temi:** il **conflitto con la figura paterna** e la **rivalità**; il **senso di
+colpa** e il bisogno di «innocentizzazione»; il **narratore inattendibile**.
+
+**Significato e temi:** è l'episodio chiave per il **complesso edipico**, che il
+dottor S. diagnosticherà apertamente nell'ultima sezione. Lo **schiaffo** del
+padre morente diventa il simbolo del conflitto irrisolto e della colpa rimossa:
+Zeno oscilla fra il rimorso di aver «voluto morto» il padre e lo sforzo di
+dichiararsi innocente, scaricando la responsabilità sul dottor Coprosich. La morte
+del padre, togliendogli il termine di **paragone e di giudizio**, lo lascia
+paradossalmente "libero" ma privo di un punto fermo. L'ambiguità del gesto e
+l'inattendibilità del narratore impediscono ogni certezza.
+
+#### *La salute «malata» di Augusta* (cap. VI)
+
+Le pagine iniziali del capitolo *La moglie e l'amante*. Dopo aver sposato **Augusta
+Malfenti** (la meno bella delle sorelle, ripiego dopo i rifiuti di Ada e Alberta),
+Zeno racconta i primi tempi del matrimonio e ritrae la moglie come campione di
+«normalità» borghese.
+
+???+ abstract "Riassunto"
+
+    Contro ogni previsione, il viaggio di nozze rivela a Zeno una felicità
+    inattesa: ama Augusta come lei ama lui. Augusta è la **salute personificata**,
+    sicura di sé, ordinata, religiosa, fiduciosa nella vita eterna e nelle
+    gerarchie del mondo (autorità civili, medici, riti). Vive in un mondo
+    «piccolo» ma saldo, fatto di certezze, di orari rigidi, di oggetti e gesti
+    caricati di un'importanza enorme. Zeno ammira e adora quella sicurezza e cerca
+    di **imitarla**, di farsi accogliere fra i «sani», assumendo talvolta
+    l'atteggiamento del «patriarca»; ma analizzando la salute della moglie la
+    **converte in malattia**, fino a dubitare che anche quella salute, in fondo,
+    non fosse che ignoranza. Durante il viaggio in Italia non è immune da nuove
+    piccole "malattie" nevrotiche: la paura di essere calunniato e arrestato, la
+    paura di invecchiare e di morire (legata a una forma di **gelosia**: morto
+    lui, Augusta avrebbe potuto rifarsi una vita). Una sera, in gondola a Venezia,
+    le confessa che presto rifarà il viaggio di nozze con un altro; Augusta
+    scoppia in pianto, e Zeno conclude che «la salute non analizza se stessa»:
+    solo i malati sanno qualcosa di sé.
+
+**Temi:** l'opposizione **salute/malattia**; la **«normalità» borghese** e la sua
+critica; la **somiglianza tra il padre e Augusta** (entrambi "sani" e sicuri);
+l'**inattendibilità** e la **mutevolezza** di Zeno.
+
+**Significato e temi:** Augusta incarna la **salute borghese** come adesione
+acritica all'ordine costituito; per questo Zeno la ama e la invidia, sentendosene
+escluso. Ma il suo sguardo analitico **trasforma la salute in malattia**: la
+sicurezza di Augusta gli appare ignoranza (non sa «come fosse fatta la salute»),
+mentre la coscienza malata di Zeno è la sola che conosce sé stessa. Il brano
+rovescia ironicamente i valori — la "salute" è inconsapevolezza, la "malattia" è
+lucidità — e la somiglianza fra Augusta e il padre conferma che i "sani" sono i
+**fissi**, gli adagiati nell'ordine, opposti all'inetto mutevole.
+
+#### *Un affare commerciale disastroso* (cap. VII)
+
+Dal capitolo *Storia di un'associazione commerciale*. Zeno affianca il cognato
+**Guido Speier** (marito di Ada) nell'impresa avviata coi capitali del padre, senza
+esserne vero socio. Il brano racconta la prima grande operazione — l'acquisto
+speculativo di **solfato di rame** — che si rivela disastrosa.
+
+???+ abstract "Riassunto"
+
+    L'affare li «assalta»: un dalmata, **Tacich**, segnala che il solfato di rame
+    oscilla stagionalmente di prezzo, e Guido decide di comperarne in Inghilterra
+    una sessantina di tonnellate per speculazione. Pieno di sicurezza, spedisce il
+    dispaccio d'ordine «valido sino a revoca» e già pregusta il guadagno,
+    distribuendo perfino piccole provvigioni a Zeno e a Carmen. Ma una catena di
+    **disattenzioni** manda tutto in rovina: Guido non ricorda di aver ricevuto la
+    lettera di conferma (Zeno era assente dall'ufficio da un mese, per via
+    dell'amante), si scopre tardi «felice proprietario» di sessanta tonnellate, e
+    intanto il prezzo del solfato comincia a scendere giorno per giorno. Consultati
+    un agente e un sensale, Guido non si rassegna alle **perdite piccole** («sono
+    le grandi che inducono alla grande rassegnazione») e, ostinandosi in idee
+    commerciali "allucinate", aggrava il danno. Alla fine dell'anno, messo di
+    fronte ai conti, mormora: «Quel maledetto solfato di rame fu la mia
+    disgrazia!».
+
+**Temi:** il mondo degli **affari** e la "lotta per la vita" borghese;
+l'**inettitudine di Guido**, l'antagonista "vitale" che si rivela a sua volta
+inetto; il rapporto di **rivalità** Zeno-Guido; l'**ambiguità** del narratore.
+
+**Significato e temi:** il brano sviluppa il nodo **letteratura ed economia**, con
+grande attenzione alle dinamiche della modernità mercantile ma anche ai «moti
+della psiche». Guido, scelto da Ada e apparentemente il "sano" destinato a vincere,
+si rivela un **inetto presuntuoso**, incapace di rassegnarsi alle perdite e vittima
+della propria ostinazione. Zeno, che lo affianca, ne registra i fallimenti con una
+**partecipazione ambigua**: dietro la collaborazione covano la rivalità per Ada e
+il segreto compiacimento per le disgrazie del cognato. L'episodio prepara il
+fallimento finale di Guido e mostra come, nel mondo sveviano, la "salute" dei
+vincenti sia un'illusione esposta al **caso**.
+
+#### *Le resistenze alla terapia e la «guarigione» di Zeno* (cap. VIII)
+
+Pagine fondamentali dell'ultima sezione, *Psico-analisi*. Zeno abbandona la stesura
+del memoriale per il dottor S. e passa a un **diario**: rifiuta la terapia, irride
+la diagnosi del complesso edipico e proclama infine la propria «guarigione» grazie
+al commercio.
+
+???+ abstract "Riassunto"
+
+    Il 3 maggio 1915 Zeno dichiara di aver «finito con la psico-analisi»: dopo sei
+    mesi sta peggio di prima. Rifiuta la **diagnosi** del dottor S. — la malattia
+    "scoperta" è quella di **Edipo**, aver amato la madre e voluto uccidere il
+    padre — e la irride, sostenendo paradossalmente che il non essere guarito provi
+    di non aver mai avuto quella malattia. Smonta le accuse del medico con difese
+    **pretestuose e ridicole**: le menzogne della confessione sarebbero colpa dello
+    scrivere in italiano anziché in dialetto; tace del grande deposito di legname
+    di Guido con scuse puerili; ribalta sul dottore («istericone») la malattia
+    edipica. Più tardi (24 marzo 1916), in tempo di guerra e separato dalla
+    famiglia, proclama di essere **guarito** non dalla terapia ma dall'**azione**:
+    la salute è solo «convinzione», e a guarirlo è stato il **commercio**.
+    Sfruttando la guerra ha comprato ogni merce — a partire da una partita
+    d'incenso — realizzando grandi guadagni, e in essi ritrova il sentimento della
+    propria forza. Ma si tradisce: continua a soffrire degli stessi dolori, e la
+    «grande salute» si rivela illusoria.
+
+**Temi:** il **rifiuto della terapia** e le resistenze del malato; l'**ironia
+dell'autore**; la **guarigione illusoria**; la **rivalsa contro il padre**.
+
+**Significato e temi:** dietro l'inattendibilità di Zeno emerge il **giudizio
+critico di Svevo sulla psicoanalisi**, ritenuta terapia inefficace se non dannosa,
+e insieme la rappresentazione delle **resistenze** del malato, che rifiuta la cura
+perché fa riemergere un rimosso inaccettabile e fa crollare il castello
+dell'«innocentizzazione». L'**ironia dell'autore** avvolge tutte le difese
+pretestuose di Zeno (la lingua, il silenzio su Guido) e il suo trionfale annuncio
+di guarigione: la «grande salute» conquistata col commercio è un'**illusione**,
+smentita dai dolori persistenti e — come si sa dai materiali del *Vecchione* —
+destinata a crollare con la rovina degli affari. Il successo è solo l'ultima
+**rivalsa contro il padre** (e contro il suo sostituto Olivi), che lo aveva
+escluso come inetto, e un sogno di onnipotenza infantile. Il brano prepara la
+conclusione del romanzo, dove Zeno rovescerà tutto dichiarando che «la vita è una
+malattia».
+
 </div>
 
 ## La poetica
