@@ -5,10 +5,10 @@ Livenza, 1928) è, con [Pirandello](02-luigi-pirandello.md), il grande rinnovato
 del **romanzo italiano** del primo Novecento. Lo pseudonimo stesso («l'italiano
 svevo», cioè tedesco) dichiara la sua **doppia cultura** italiana e mitteleuropea.
 
-!!! note "Solo la vita e la poetica"
-    Le opere di Svevo sono **romanzi**, cioè testi in prosa. In questa fase il
-    sito si concentra sulle poesie: qui si presentano dunque la **biografia**, la
-    **poetica** e una **panoramica** delle opere, senza analisi dei brani.
+!!! note "Romanzi, non poesie"
+    Le opere di Svevo sono **romanzi** in prosa: si presentano qui la
+    **biografia**, la **poetica** e l'analisi di **trame e procedimenti narrativi**
+    delle tre opere, senza riprodurre i brani per esteso.
 
 ## La vita
 
@@ -34,8 +34,18 @@ incidente d'auto nel 1928.
   tradizione letteraria italiana, è accusato di **«scrivere male»** (un italiano
   non toscano, "impuro" ma funzionale all'analisi).
 - I **maestri di pensiero**: **Schopenhauer** (il pessimismo, la volontà, le
-  illusioni), **Nietzsche** e **Darwin** (la «lotta per la vita», da cui la figura
-  dell'**inetto** come "non adatto").
+  illusioni, la distinzione tra "lottatore" e "contemplatore"), **Nietzsche** (il
+  superuomo, vissuto però come modello irraggiungibile e parodiato negli
+  antagonisti "vitali") e **Darwin** (la «lotta per la vita», da cui la figura
+  dell'**inetto** come organismo "non adatto"). Decisiva anche la **psicoanalisi**
+  di **Freud**, conosciuta presto a Trieste.
+- I **modelli letterari**: il grande **romanzo europeo dell'Ottocento** — il
+  realismo e il naturalismo francese (**Balzac**, **Flaubert**, **Zola**), il
+  romanzo russo dell'analisi interiore (**Dostoevskij**) — e la lezione del
+  romanzo psicologico mitteleuropeo. Da questi modelli Svevo eredita l'attenzione
+  ai meccanismi della coscienza, prendendone però le distanze: l'**oggettività**
+  naturalista lascia il posto a un'analisi **ironica** e a un narratore non più
+  affidabile.
 
 ## L'inetto
 
@@ -46,18 +56,71 @@ di **apertura** e perfino di "salute".
 
 ## Le opere
 
-- ***Una vita*** (1892): romanzo della scalata sociale fallita e di formazione;
-  l'inetto **Alfonso Nitti**, impiegato di banca, i suoi antagonisti, fino al
-  suicidio finale.
-- ***Senilità*** (1898): la struttura psicologica dell'inetto **Emilio Brentani**,
-  contrapposto alla figura "vitale" e quasi superomistica dell'amico scultore
-  Balli.
-- ***La coscienza di Zeno*** (1923): le **memorie** di Zeno Cosini scritte per il
-  dottor S., il suo psicoanalista. Vi spiccano una **nuova temporalità** (il
-  «tempo misto», in cui passato e presente si confondono), l'**inattendibilità**
-  di Zeno narratore e i suoi **autoinganni**, il rapporto tra **malattia e salute**
-  e la funzione (narrativa, non terapeutica) della **psicoanalisi**, fino alla
-  «profezia di apocalisse cosmica» finale.
+### *Una vita* (1892)
+
+Primo romanzo, inizialmente intitolato ***Un inetto*** (titolo respinto
+dall'editore). È insieme **romanzo della scalata sociale** e **romanzo di
+formazione** *fallito*. Il protagonista **Alfonso Nitti**, giovane di provincia
+impiegato nella banca Maller a Trieste, sogna un riscatto sociale e culturale ma
+si rivela incapace di agire: la relazione con **Annetta**, figlia del principale,
+gli aprirebbe la strada dell'ascesa, ma Alfonso la lascia sfuggire. Schiacciato
+dal confronto con gli **antagonisti** "vitali" — il pragmatico Macario, il
+rivale Annetta sposa — e privo di volontà, finisce col **suicidarsi**.
+
+- **Le radici sociali dell'inettitudine**: l'inettitudine non è solo un dato
+  psicologico ma il prodotto di una **condizione di classe** (il piccolo-borghese
+  intellettuale, inadatto alla "lotta per la vita" della società mercantile).
+- **L'inetto e i suoi antagonisti**: ad Alfonso si oppongono i personaggi
+  energici e privi di scrupoli, ben "adattati" alla competizione sociale.
+- **I procedimenti narrativi, la focalizzazione e la funzione del narratore**:
+  Svevo adotta un **narratore esterno** in terza persona, ma la **focalizzazione**
+  è quasi sempre **interna** ad Alfonso: vediamo i fatti attraverso la sua
+  coscienza deformante. Il narratore mantiene però una distanza **ironica**, che
+  lascia trasparire l'autoinganno del protagonista. La scrittura, ancora vicina ai
+  modelli naturalisti, è volutamente "grigia" e antiletteraria.
+
+### *Senilità* (1898)
+
+Romanzo dell'inetto **Emilio Brentani**, scrittore mancato e impiegato che vive
+con la sorella **Amalia**. La sua relazione con la popolana **Angiolina**, vista
+come occasione di vita e di piacere, è dominata dall'**autoinganno**: Emilio la
+idealizza e si illude di guidarla, mentre ne è in realtà dominato. La «senilità»
+del titolo è una **vecchiaia precoce dello spirito**, un'incapacità di vivere che
+contagia anche la sorella Amalia (innamorata invano dell'amico Balli, finirà
+distrutta).
+
+- **La struttura psicologica del protagonista**: Emilio è un inetto più
+  consapevole di Alfonso, prigioniero della **rinuncia** e della
+  **contemplazione**; trasforma ogni esperienza in pensiero e ricordo invece che
+  in azione.
+- **L'inetto e il superuomo**: a Emilio si contrappone l'amico scultore **Stefano
+  Balli**, figura "vitale", sicura e dominatrice — una parodia del **superuomo**
+  che mette in luce, per contrasto, la debolezza del protagonista.
+- **I procedimenti narrativi**: la **focalizzazione interna** su Emilio si fa più
+  sistematica, anticipando il monologo; l'**ironia** del narratore nasce dallo
+  scarto costante tra ciò che Emilio crede e ciò che realmente accade. Il tempo
+  del racconto si concentra sulla vita interiore più che sugli eventi esterni.
+
+### *La coscienza di Zeno* (1923)
+
+Le **memorie** di Zeno Cosini scritte, su invito del **dottor S.** (il suo
+psicoanalista, che le pubblica per "vendetta"), come parte della terapia. Vi
+spiccano:
+
+- una **nuova temporalità**, il «**tempo misto**», in cui passato e presente si
+  confondono perché la narrazione segue le associazioni della memoria, non
+  l'ordine cronologico;
+- l'**inattendibilità** di Zeno narratore e i suoi continui **autoinganni**: chi
+  racconta è anche chi mente a sé stesso, e il lettore deve smascherarne le
+  giustificazioni;
+- il rapporto tra **malattia e salute**, che si rovescia: l'inetto "malato" è
+  l'unico capace di adattarsi al cambiamento, mentre i "sani" sono fissi e
+  destinati a soccombere;
+- la **funzione della psicoanalisi**, qui **strumento narrativo** (struttura del
+  racconto-confessione) e oggetto di **ironia**, non terapia che guarisce;
+- la celebre **«profezia di apocalisse cosmica»** finale, in cui la malattia
+  della civiltà sfocia nell'immagine di un'esplosione che riporterà la Terra «alla
+  forma di nebulosa».
 
 ## La poetica
 
