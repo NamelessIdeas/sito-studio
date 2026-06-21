@@ -59,6 +59,42 @@ d'Annunzio) e la pretesa stessa di un "significato". Sotto l'ironia c'è una
 consapevolezza amara: nella società moderna «gli uomini non domandano più nulla
 dai poeti», la poesia ha perso la sua funzione, e allora tanto vale giocare.
 
+## *Il controdolore* (manifesto futurista, 1914)
+
+**Manifesto in prosa** della stagione futurista di Palazzeschi, pubblicato prima
+come volantino (29 dicembre 1913) e poi su *Lacerba* (15 gennaio 1914). Il titolo
+fu proposto da **Marinetti**: Palazzeschi avrebbe voluto intitolarlo
+*L'antidolore*.
+
+!!! quote "Dal testo"
+    I futuristi vogliono guarire le «razze latine» dal «**Dolore cosciente**, lue
+    passatista aggravata dal romanticismo cronico»; perciò propongono di
+    «combattere il dolore fisico e morale con la loro stessa **parodia**» e di
+    insegnare ai bambini «sberleffi, boccacce» per preservarli dal pianto.
+
+???+ abstract "Riassunto"
+
+    Nella parte conclusiva — l'unica qui considerata — Palazzeschi rovescia il
+    culto romantico e decadente del dolore: il dolore "serio" è una **malattia
+    passatista** da curare con il **riso**. Il programma è sistematico:
+    *distruggere* il fantasma romantico delle cose "gravi" estraendone il
+    ridicolo; *combattere* il dolore con la sua stessa parodia; *educare* i bambini
+    alla risata e allo sberleffo; *svalutare* ogni dolore «anatomizzandolo
+    freddamente»; e infine *attraversare* il dolore con slancio invece di
+    fermarvisi. Il riso diventa così strumento conoscitivo ed **eversivo**.
+
+**Temi:** il **rifiuto della tradizione letteraria** (romantico-decadente); la
+**funzione dissacratoria ed eversiva del riso**; il carattere **conflittuale e
+contraddittorio** della realtà.
+
+**Significato e temi:** *Il controdolore* è il **fondamento teorico** della poetica
+del «saltimbanco»: contro la sacralità romantica della sofferenza, Palazzeschi
+oppone l'**ironia** e il **gioco** come unico atteggiamento autentico verso una
+realtà contraddittoria. È la versione "filosofica" di quanto *E lasciatemi
+divertire* mette in pratica: il riso non è evasione ma **rovesciamento
+provocatorio** dei valori, in linea con l'antipassatismo futurista ma con un tono
+tutto suo, leggero e paradossale anziché bellicoso.
+
 !!! tip "Collegamenti"
     Palazzeschi nasce [crepuscolare](03-crepuscolari-e-vociani.md) e diventa
     [futurista](index.md) accanto a
