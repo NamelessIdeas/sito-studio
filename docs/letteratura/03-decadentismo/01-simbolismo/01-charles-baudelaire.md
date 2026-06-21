@@ -31,6 +31,32 @@ descrizione e punta sulla **suggestione**, sull'analogia e sulla musica del vers
 - il saggio ***I paradisi artificiali*** (*Les Paradis artificiels*), sull'uso di
   hashish e oppio.
 
+### La struttura: le sei sezioni
+
+Nell'edizione definitiva (1861) la raccolta è preceduta dalla lirica proemiale
+***Al lettore*** (*Au lecteur*), che chiama in causa l'«ipocrita lettore»
+complice del poeta, e si articola in **sei sezioni** che tracciano un itinerario
+dell'anima alla ricerca di una via d'uscita dallo *Spleen*:
+
+- ***Spleen e Ideale*** (*Spleen et Idéal*) — la sezione più ampia: mette in
+  scena il dualismo di fondo tra l'aspirazione all'**Ideale** (bellezza, arte,
+  amore) e la caduta nello **Spleen** (noia, angoscia, male di vivere). Vi
+  appartengono *L'albatro*, *Corrispondenze* e le liriche sulla condizione del
+  poeta.
+- ***Quadri parigini*** (*Tableaux parisiens*, aggiunta nel 1861) — la **città
+  moderna**: il poeta vaga nella metropoli e ne ritrae la folla, i vecchi, i
+  ciechi e gli emarginati, scoprendo nel brutto e nel quotidiano una nuova fonte
+  di poesia.
+- ***Il vino*** (*Le Vin*) — la fuga dallo spleen nell'**ebbrezza** e nei
+  «paradisi artificiali» (vino, droga), illusione di evasione presto delusa.
+- ***Fiori del male*** (*Fleurs du mal*) — la ricerca del piacere nella
+  **trasgressione**: eros, perversione, vizio e immagini macabre, dove il «male»
+  diventa esso stesso oggetto di bellezza.
+- ***Rivolta*** (*Révolte*) — la **ribellione** contro Dio: bestemmia e satanismo
+  come estrema protesta contro il dolore del mondo.
+- ***La morte*** (*La Mort*) — l'ultima via d'uscita: la **morte** come viaggio
+  verso l'ignoto, nella speranza di trovarvi «il nuovo».
+
 ## *Corrispondenze* (da *I fiori del male*, 1857)
 
 Sonetto-**manifesto** della poetica simbolista: enuncia la teoria delle
