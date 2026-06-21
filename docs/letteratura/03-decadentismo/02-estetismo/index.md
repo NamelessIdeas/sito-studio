@@ -22,9 +22,9 @@ Gautier): l'arte non deve educare né essere utile, vale solo in quanto bella.
 
 | Autore | Opera | Protagonista |
 | --- | --- | --- |
-| **Joris-Karl Huysmans** | *Controcorrente* (*À rebours*, 1884) | **Des Esseintes**, aristocratico che si rinchiude in una casa-museo di sensazioni rare: il "breviario" dell'Estetismo europeo |
-| **Oscar Wilde** | *Il ritratto di Dorian Gray* (1891) | **Dorian Gray**, il giovane che sacrifica l'anima alla bellezza eterna; nella prefazione il manifesto dell'*art pour l'art* |
-| **Gabriele d'Annunzio** | *Il piacere* (1889) | **Andrea Sperelli**, l'esteta romano del «vivere inimitabile», primo eroe dannunziano |
+| [**Joris-Karl Huysmans**](01-joris-karl-huysmans.md) | *Controcorrente* (*À rebours*, 1884) | **Des Esseintes**, aristocratico che si rinchiude in una casa-museo di sensazioni rare: il "breviario" dell'Estetismo europeo |
+| [**Oscar Wilde**](02-oscar-wilde.md) | *Il ritratto di Dorian Gray* (1891) | **Dorian Gray**, il giovane che sacrifica l'anima alla bellezza eterna; nella prefazione il manifesto dell'*art pour l'art* |
+| [**Gabriele d'Annunzio**](../03-superomismo/01-gabriele-dannunzio.md) | *Il piacere* (1889) | **Andrea Sperelli**, l'esteta romano del «vivere inimitabile», primo eroe dannunziano |
 
 In Italia il massimo interprete è
 [**Gabriele d'Annunzio**](../03-superomismo/01-gabriele-dannunzio.md): la fase
