@@ -79,6 +79,48 @@ Elena. La sconfitta del protagonista rivela la **crisi dell'Estetismo**: l'estet
 **vuoto e moralmente sterile**. Proprio da questa impotenza nascerà l'esigenza di
 una figura più forte, il **superuomo**.
 
+#### *Un ritratto allo specchio: Andrea Sperelli ed Elena Muti* (da *Il piacere*, libro III)
+
+Tornata Elena dopo aver troncato la relazione e aver sposato per denaro il ricco e
+vizioso Lord Heathfield, Andrea ne traccia un **ritratto crudele** che diventa,
+allo specchio, il ritratto di se stesso.
+
+???+ abstract "Riassunto"
+
+    Andrea si chiede «**Chi era ella mai?**» e sottopone **Elena Muti** a un'analisi
+    spietata: la giudica «**uno spirito senza equilibrio in un corpo voluttuario**»,
+    fondato su uno **smisurato egoismo** e dominato dall'**immaginazione**. Educata
+    nel lusso di una Roma principesca, Elena ha acquistato un gusto elegante e una
+    «vaga incipriatura estetica», e sa **simulare** sentimenti elevati irradiando una
+    «capziosa» (ingannevole) luce d'ideale: trasforma i bassi appetiti erotici in
+    «alto sentimento», coprendoli di «fiamme eteree». In ogni gesto del suo amore
+    Andrea trova solo **artificio, studio, abilità**, la bravura di chi recita una
+    parte.
+
+    Ma a un certo punto egli **rimane perplesso**: penetrando nell'anima di lei vi
+    ritrova la **propria falsità**, tanto le due nature sono affini. Il disprezzo si
+    muta allora in **indulgenza ironica**, «poiché egli *comprendeva*». Elena è
+    venuta a quel convegno per noia e curiosità, attratta dalla novità di un amore
+    «platonico» con un antico amante; e si abbandona all'immaginazione fino a
+    **credersi sincera**, vittima di un'«allucinazione sentimentale» che le fa
+    perdere la coscienza della propria menzogna — lo stesso fenomeno morale che si
+    ripete di continuo in lui. Perciò Andrea non può accusarla: si riconosce
+    identico a lei. La scoperta gli toglie però ogni piacere che non sia «ebbrezza
+    dello spirito»: dominare un'anima con l'artificio, possederla «come uno
+    stromento» (*habere non haberi*), può essere un alto diletto, ma «**ingannare
+    sapendo d'essere ingannato è una sciocca e sterile fatica**», un gioco noioso e
+    inutile.
+
+**Significato e temi:** è un «**ritratto allo specchio**»: analizzando Elena, Andrea
+finisce per **ritrarre se stesso**, scoprendo l'identità fra i due (entrambi esteti
+falsi, dominati da immaginazione, artificio ed egoismo sensuale). Il brano è una
+lucida **critica dell'Estetismo**: la vita ridotta a simulazione e a caccia di
+sensazioni rare, l'amore degradato a **gioco cerebrale** di dominio (*habere non
+haberi*). Emerge la **crisi dell'esteta**, ormai lucido ma **impotente**, incapace
+di un sentimento autentico e condannato a un piacere sterile. Sul piano della
+tecnica spiccano l'**analisi psicologica** introspettiva e il **discorso indiretto
+libero**, in una prosa raffinata e analitica.
+
 ### I romanzi del superuomo e Nietzsche
 
 Dopo la crisi dell'esteta, d'Annunzio elabora — leggendo (e **fraintendendo**)
@@ -137,11 +179,11 @@ dalla sontuosità di un tempo, è una scrittura **essenziale e intima**, che apr
 l'ultima stagione **meditativa** e raccolta dello scrittore (proseguita in prose
 come *Le faville del maglio* e *Il libro segreto*).
 
-!!! note "Le opere in prosa"
-    I brani in prosa indicati nel programma (da *Il piacere*, *Le vergini delle
-    rocce*, *Forse che sì forse che no*, *Il Notturno*) non sono analizzati qui:
-    in questa fase il sito si concentra sulle **poesie**. Entrambe le liriche che
-    seguono provengono da *Alcyone*.
+!!! note "I brani in prosa"
+    Le analisi dei **brani in prosa** del programma vengono inserite sotto la
+    relativa opera in *Le opere* (vedi *Il piacere*); restano da aggiungere i
+    brani da *Le vergini delle rocce*, *Forse che sì forse che no* e *Il
+    Notturno*. Le due **liriche** che seguono provengono entrambe da *Alcyone*.
 
 ## *La sera fiesolana* (da *Alcyone*, 1903)
 
