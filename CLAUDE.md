@@ -30,12 +30,23 @@ docs/                       Contenuti del sito (vedi sotto)
                             ripristina dopo ogni cambio pagina (sessionStorage,
                             no cookie). Sostituisce navigation.expand (che li
                             terrebbe TUTTI aperti).
+  javascripts/reading-aids.js Aiuti alla lettura: barra di avanzamento in cima,
+                            stima "~N min di lettura" sotto il titolo e modalità
+                            "focus" (nasconde le sidebar; stato in sessionStorage).
+                            Instant-nav-aware (document$), tutto locale: no CDN,
+                            no cookie (GDPR).
   fonts/                    Roboto + Roboto Mono + Fraunces (serif display, OFL)
                             self-hostati: NIENTE Google Fonts
   stylesheets/extra.css     Material Design 3: token colore/movimento --m3-*, theme-aware;
                             @font-face dei font self-hosted; titoli h1/h2 in Fraunces
                             (--m3-display-font); firma "spina delle correnti"
-                            (.corrente-*) e hero/card della home (.home-*)
+                            (.corrente-*) e hero/card della home (.home-*).
+                            Tipografia tarata per lo studio: corpo ~17px (.85rem),
+                            misura 30rem (~82 caratteri/riga), hairline di stacco
+                            sopra gli h2, card delle opere (.opera), schede
+                            con accenti distinti, TOC con sezione attiva evidenziata;
+                            stili degli aiuti di lettura (.reading-progress,
+                            .reading-meta, .focus-toggle)
   letteratura/              Materia (menu laterale) -> index.md + movimenti (sottocartelle)
     01-scapigliatura/       Movimento dell'albero delle correnti = sezione a tendina:
       .pages                  titolo della sezione (title: ...) via awesome-pages
@@ -95,6 +106,15 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   Pirandello): i loro brani vanno aggiunti come `####` sotto l'opera (prima questi
   testi si omettevano del tutto). Riferimento: le pagine dei decadenti (Pascoli,
   d'Annunzio, Montale…).
+- **Card "opera".** Quando dentro `## Le opere` un'opera è sviluppata come
+  sottosezione `###` (panoramica + eventuali brani `####`), la si racchiude in un
+  riquadro `<div class="opera" markdown>` … `</div>` (richiede `md_in_html`, già
+  attivo; stessa tecnica delle `.home-card`), così inizio e fine di ciascuna opera
+  si distinguono a colpo d'occhio. Servono righe vuote attorno al `<div>` e al
+  `</div>` e prima del titolo. Lo stile (bordo neutro, raggio 16px, titolo con
+  filetto) è in `docs/stylesheets/extra.css` (`.opera`). Riferimento: la pagina di
+  Svevo. Non si usa per gli elenchi puntati di opere né per le sezioni `## *Titolo*`
+  delle poesie.
 - **Blocchi Testo/Parafrasi/Riassunto = admonition "scheda".** Per i testi e la
   loro analisi si usano admonition collassabili (estensione `pymdownx.details`
   in `mkdocs.yml`), NON le content-tab `=== "..."` (riservate ad altro, es. i
@@ -105,7 +125,11 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   testo libero). Corpo indentato di 4 spazi; l'analisi (`**Metro:**`,
   `**Figure retoriche:**`, `**Significato e temi:**`) resta testo normale a
   livello base. I tipi `quote` (Testo) e `abstract` (Riassunto) hanno un contorno
-  pieno nell'accento M3 definito in `docs/stylesheets/extra.css`.
+  pieno con **accenti M3 diversi** (definiti in `docs/stylesheets/extra.css`), per
+  distinguere a colpo d'occhio la fonte dalla sintesi: **Testo** = `primary`
+  (viola), **Riassunto** = `tertiary` (rosa). *Parafrasi*/*Traduzione* usano
+  `note` (tipo condiviso con altri avvisi): restano neutri, non differenziabili
+  per solo tipo CSS.
 - **Formule LaTeX via MathJax 3 self-hosted.** Il bundle `tex-mml-chtml.js` e i
   font matematici sono vendorizzati in `docs/javascripts/mathjax/` (da npm
   `mathjax@3.2.2`) e caricati da `mkdocs.yml` (`extra_javascript`) insieme alla

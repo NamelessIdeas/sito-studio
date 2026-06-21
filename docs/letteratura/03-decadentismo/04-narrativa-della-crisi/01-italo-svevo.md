@@ -57,6 +57,8 @@ di **apertura** e perfino di "salute".
 
 ## Le opere
 
+<div class="opera" markdown>
+
 ### *Una vita* (1892)
 
 Primo romanzo, inizialmente intitolato ***Un inetto*** (titolo respinto
@@ -109,6 +111,10 @@ società: la vita premia l'istinto e l'azione, non la coscienza riflessiva. Il
 brano fissa così il **paradigma dell'inettitudine** sveviana — l'intelligenza
 come malattia, l'inadeguatezza dell'intellettuale piccolo-borghese — che
 ritornerà, rovesciato, nella «salute» di Zeno.
+
+</div>
+
+<div class="opera" markdown>
 
 ### *Senilità* (1898)
 
@@ -164,6 +170,10 @@ l'opposizione fra l'inetto "senile" e la **salute** istintiva di Angiolina, la
 popolana «illuminata dalla vita». La rinuncia mascherata da saggezza è la cifra
 dell'inettitudine sveviana.
 
+</div>
+
+<div class="opera" markdown>
+
 ### *La coscienza di Zeno* (1923)
 
 Le **memorie** di Zeno Cosini scritte, su invito del **dottor S.** (il suo
@@ -215,6 +225,8 @@ dall'agire. L'episodio mostra il **narratore inattendibile** e i suoi
 la nuova **temporalità della memoria** (il «tempo misto»), in cui il presente
 dell'analisi reinterpreta di continuo il passato. La psicoanalisi non guarisce ma
 **fa raccontare**: è la struttura stessa del romanzo-confessione.
+
+</div>
 
 ## La poetica
 
