@@ -39,6 +39,8 @@ theme:
     - navigation.top              # bottone "torna su" con scroll morbido
     - navigation.footer           # link Precedente/Successivo in fondo (escluso dove hide: footer)
     - navigation.indexes          # ogni materia: l'index.md è la landing cliccabile
+    - navigation.expand           # sezioni a tendina sempre espanse: cambiando pagina
+                                  # (es. da Simbolismo a Estetismo) le altre NON si richiudono
     - toc.follow                  # la table of contents segue la lettura
     - search.suggest
     - search.highlight
