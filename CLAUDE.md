@@ -105,17 +105,20 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   brani de *I Malavoglia* (Verga) e per quelli di d'Annunzio (es. da *Il
   piacere*). Lo stesso schema vale per gli autori di **sola prosa** (Svevo,
   Pirandello): i loro brani vanno aggiunti come `####` sotto l'opera (prima questi
-  testi si omettevano del tutto). Riferimento: le pagine dei decadenti (Pascoli,
-  d'Annunzio, Montale…).
+  testi si omettevano del tutto). Anche i **brani dal teatro** (es. *Il giuoco
+  delle parti* di Pirandello) seguono lo **stesso** schema `####` (intro →
+  `???+ abstract "Riassunto"` → `**Temi:**` → `**Significato e temi:**`): si
+  riassume la vicenda/le scene, senza riprodurre i dialoghi. Riferimento: le pagine
+  dei decadenti (Pascoli, d'Annunzio, Montale…).
 - **Card "opera".** Quando dentro `## Le opere` un'opera è sviluppata come
   sottosezione `###` (panoramica + eventuali brani `####`), la si racchiude in un
   riquadro `<div class="opera" markdown>` … `</div>` (richiede `md_in_html`, già
   attivo; stessa tecnica delle `.home-card`), così inizio e fine di ciascuna opera
   si distinguono a colpo d'occhio. Servono righe vuote attorno al `<div>` e al
   `</div>` e prima del titolo. Lo stile (bordo neutro, raggio 16px, titolo con
-  filetto) è in `docs/stylesheets/extra.css` (`.opera`). Riferimento: la pagina di
-  Svevo. Non si usa per gli elenchi puntati di opere né per le sezioni `## *Titolo*`
-  delle poesie.
+  filetto) è in `docs/stylesheets/extra.css` (`.opera`). Riferimento: le pagine di
+  Svevo e Pirandello. Non si usa per gli elenchi puntati di opere né per le sezioni
+  `## *Titolo*` delle poesie.
 - **Blocchi Testo/Parafrasi/Riassunto = admonition "scheda".** Per i testi e la
   loro analisi si usano admonition collassabili (estensione `pymdownx.details`
   in `mkdocs.yml`), NON le content-tab `=== "..."` (riservate ad altro, es. i
