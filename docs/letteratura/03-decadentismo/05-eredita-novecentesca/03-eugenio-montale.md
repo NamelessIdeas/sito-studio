@@ -35,11 +35,43 @@ Nobel nel 1975.
 - **Il «varco» e la «divina Indifferenza»**: la rara, quasi sempre negata,
   possibilità di un'apertura nel muro dell'esistenza; e il distacco come unico
   «bene».
+- **La poesia come indagine (e la sua «inutilità»)**: appartato dalla storia,
+  Montale è un **osservatore esterno** che fa della poesia uno strumento per
+  **indagare la condizione umana** universale, non per dare risposte; non si crede
+  un individuo eccezionale e, nelle raccolte tarde, arriva a dichiarare
+  l'**inutilità della poesia**, pur affermandone la **presenza ineliminabile**.
+- **Le figure femminili**: nella ricerca del senso, rare **figure femminili**
+  rafforzano il poeta o gli offrono una **momentanea possibilità di salvezza** —
+  uno spiraglio sul senso dell'esistenza, tema poi centrale nelle *Occasioni*.
+- **Tradizione e contemporanei**: in costante **dialogo con la tradizione**
+  (Dante, Leopardi, Pascoli, d'Annunzio) ma con il **rifiuto del poeta-vate**;
+  rifiuta il **Futurismo** e il sentimentalismo dei **crepuscolari**, guarda alla
+  poesia **anglosassone** (traduce **T.S. Eliot**, da cui il *correlativo
+  oggettivo*) e sente affinità con **Gozzano**, **Sbarbaro** e **Svevo** (l'inetto),
+  prendendo le distanze da **Ungaretti** e da **Saba**.
+- **La forma contro il disordine**: contro il «disordine» dell'esistenza, una
+  scrittura di **grande cura formale** ma sobria e antidannunziana — **esattezza**
+  lessicale e centralità dell'**aggettivo**, **plurilinguismo** (registri alti e
+  quotidiani, tecnicismi, neologismi), **metrica tradizionale** con rime imperfette
+  accanto al **verso libero** —, per una musicalità volutamente **aspra e «non
+  cantabile»**.
 
 Le altre raccolte: ***Le occasioni*** (1939), ***La bufera e altro*** (1956) e
 il più prosastico ***Satura*** (1971).
 
 ---
+
+## *Ossi di seppia* (1925)
+
+La **raccolta d'esordio** (poesie del 1920-24), aperta dal testo *In limine* e
+chiusa da *Riviere*, è articolata in **quattro sezioni** (*Movimenti*, *Ossi di
+seppia*, *Mediterraneo*, *Meriggi e ombre*). Il **titolo** allude al paesaggio
+marino con forte valore metaforico: il desiderio di **ricongiungersi con la
+natura** e, insieme, la **degradazione dell'io**, ridotto a relitto inutile come
+gli ossi di seppia che il mare rigetta. La si può leggere come un **«romanzo
+autobiografico»** dal tono **dolente**, che racconta il passaggio dalla
+**giovinezza** (le illusioni) all'**età adulta** (la coscienza del «male di
+vivere» e della vanità del reale). Seguono le liriche più celebri.
 
 ## *Non chiederci la parola* (da *Ossi di seppia*)
 
