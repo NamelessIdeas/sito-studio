@@ -321,6 +321,62 @@ narratore «umorista» riconduce il caso «impossibile» alla sua spiegazione
 vita che lo generano — è la tecnica della **scomposizione umoristica** della
 realtà.
 
+#### *C'è qualcuno che ride* (da *Una giornata*, 1937)
+
+Novella tarda, pubblicata sul *Corriere della Sera* nel 1934 e raccolta nel volume
+postumo *Una giornata* (1937). Appartiene all'ultima stagione di Pirandello, quella
+delle atmosfere **fantastiche e surreali**, dai toni che la critica ha detto
+**«kafkiani»** (Sciascia). Non vi accade nulla di straordinario: una **riunione
+mondana** apparentemente normale diventa l'**allegoria** della società.
+
+???+ abstract "Riassunto"
+
+    In un enorme salone si tiene una **riunione** solenne e misteriosa: nessuno dei
+    numerosi invitati sa **perché** è stato convocato (è «sonato in città come
+    l'appello a un'adunata»). Un'orchestrina di **«calvi inteschiati»** suona
+    ballabili e alcune coppie ballano per dare alla serata, davanti ai fotografi,
+    un'apparenza di **festa di carnevale** — qualcuno è perfino mascherato col
+    *domino*. Domina però un clima d'**«incubo»**: diffidenza, sospetto, paura,
+    «inconfessati rimorsi» che affiorano dal fondo oscuro degli animi. A un certo
+    punto **serpeggia una voce**: «**C'è qualcuno che ride**». La cosa suscita un
+    «fierissimo sdegno»: in tanta serietà, chi osa ridere? Tutti sentono che, se quel
+    riso si propagasse in una risata generale, «**addio ogni cosa!**». I "colpevoli"
+    sono **tre**: una **ragazzona di sedici anni** vestita di bianco, un bel
+    **giovinotto** biondo (suo fratello) e un **ometto** tondo e gioviale (il padre)
+    — una famiglia di campagna capitata lì per caso, che ride per pura, **innocente
+    gioia di vivere**, senza capire nulla. Mentre tre **«maggiorenti»** si ritirano in
+    una sala segreta a deliberare una «punizione solenne», la **folla** avanza
+    lentamente verso i tre, «come una nera marea», con «melodrammatico passo di
+    tenebrosa congiura». I maggiorenti entrano coi cappucci del domino abbassati e
+    burlescamente «ammanettati» con tre tovaglioli; poi un'**enorme sardonica risata**
+    di tutti scoppia contro la famigliola. Il povero padre, sconvolto, afferra i due
+    figli e **fugge**, inseguito dal terrore che tutti gli abitanti della città siano
+    «improvvisamente impazziti».
+
+    **Temi:** il carattere artificioso dell'organizzazione sociale; l'adesione
+    spontanea alla vita; la reazione sociale contro il «diverso»; il rifiuto della
+    società.
+
+**Significato e temi:** la riunione è un'**allegoria della società** come luogo in
+cui tutti devono **recitare una parte** e portare una **maschera**, attribuendo un
+significato «serio» a un rituale in realtà vuoto. L'organizzazione sociale è
+**artificiosa** e **mortifera** — i «calvi inteschiati» dell'orchestra, i ballerini
+ridotti a «giocattoli ricaricati», i fiori veri che paiono finti evocano la morte —
+e priva di un **legame profondo**: nessuno sa perché è stato convocato, e i
+**maggiorenti** che decidono in segreto figurano le **élites** chiuse del potere.
+Una società così fragile genera **angoscia** e fa affiorare il fondo oscuro della
+psiche. A questo mondo irrigidito si oppone il **riso** del padre e dei figli:
+l'**adesione spontanea e vitale** alla vita (la ragazza «come una puledra in un
+prato fiorito»), una forza **anarchica** che, proprio perché il sistema è
+inconsistente, minaccia di **farlo crollare**. Per questo la società si ricompatta e
+**scaccia il «diverso»** con una risata «sardonica» e feroce, vera **sanzione
+sociale**. Emerge così il tema centrale dell'ultimo Pirandello: il **rifiuto di ogni
+organizzazione sociale** che soffoca la spontaneità della **vita** in nome della
+**forma** — un vitalismo primordiale e ribelle che cova sotto il «cerebrale
+raziocinare» dello scrittore. La critica ha letto nell'«adunata» anche
+un'**irrisione del fascismo**, bersaglio però particolare di un attacco rivolto alla
+società in quanto tale.
+
 </div>
 
 <div class="opera" markdown>
