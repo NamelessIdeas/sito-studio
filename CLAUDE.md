@@ -105,8 +105,9 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   brani de *I Malavoglia* (Verga) e per quelli di d'Annunzio (es. da *Il
   piacere*). Lo stesso schema vale per gli autori di **sola prosa** (Svevo,
   Pirandello): i loro brani vanno aggiunti come `####` sotto l'opera (prima questi
-  testi si omettevano del tutto). Anche i **brani dal teatro** (es. *Il giuoco
-  delle parti* di Pirandello) seguono lo **stesso** schema `####` (intro →
+  testi si omettevano del tutto). Anche i **brani dal teatro** (Pirandello: *Il
+  giuoco delle parti*, *Sei personaggi in cerca d'autore*, *Enrico IV*) seguono
+  lo **stesso** schema `####` (intro →
   `???+ abstract "Riassunto"` → `**Temi:**` → `**Significato e temi:**`): si
   riassume la vicenda/le scene, senza riprodurre i dialoghi. Riferimento: le pagine
   dei decadenti (Pascoli, d'Annunzio, Montale…).
