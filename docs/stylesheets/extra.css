@@ -247,6 +247,10 @@ html { scroll-behavior: smooth; }
 .md-typeset details {
   border: 1px solid var(--m3-outline-variant);
   box-shadow: none;
+  /* il titolo (summary / .admonition-title) ha angoli retti: senza clipping
+     sborderebbe dagli angoli arrotondati 12px del contenitore (l'ombra
+     dell'hover è disegnata fuori dal box, quindi non viene tagliata). */
+  overflow: hidden;
   transition: box-shadow var(--m3-duration-short) var(--m3-easing-standard),
               transform var(--m3-duration-short) var(--m3-easing-standard);
 }
