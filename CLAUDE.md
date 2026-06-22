@@ -109,7 +109,11 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   giuoco delle parti*, *Sei personaggi in cerca d'autore*, *Enrico IV*) seguono
   lo **stesso** schema `####` (intro →
   `???+ abstract "Riassunto"` → `**Temi:**` → `**Significato e temi:**`): si
-  riassume la vicenda/le scene, senza riprodurre i dialoghi. Riferimento: le pagine
+  riassume la vicenda/le scene, senza riprodurre i dialoghi. Un **testo critico o
+  teorico** che **non** è un brano di un'opera dell'autore (es. la recensione di
+  Capuana ai *Malavoglia*, *Scienza e forma letteraria: l'impersonalità*) usa lo
+  stesso schema di analisi ma come **sezione `## *Titolo*`** (non `####`: manca
+  un'opera-contenitore a cui agganciarlo). Riferimento: le pagine
   dei decadenti (Pascoli, d'Annunzio, Montale…).
 - **Card "opera".** Quando dentro `## Le opere` un'opera è sviluppata come
   sottosezione `###` (panoramica + eventuali brani `####`), la si racchiude in un
