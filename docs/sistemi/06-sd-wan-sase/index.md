@@ -54,6 +54,29 @@ chiave:
 | **Gestione** | per sede, lenta | centralizzata, rapida |
 | **Verso il cloud** | *backhauling* al data-center | *local breakout* diretto |
 
+### Protocolli usati
+
+SD-WAN non è un singolo protocollo, ma combina protocolli noti su due piani:
+
+- **Data plane** (l'*overlay* che trasporta i dati) — tunnel **IPsec** (ESP), con
+  negoziazione delle chiavi via **IKEv2**; in alternativa o in aggiunta **GRE**
+  (anche come *GRE-over-IPsec*) e, in alcune implementazioni, incapsulamento
+  **VXLAN**.
+- **Control plane** (le decisioni di instradamento e policy tra *edge* e
+  controller) — protetto da sessioni **TLS/DTLS**; alcune soluzioni usano un
+  protocollo dedicato simile a BGP (es. **OMP**, *Overlay Management Protocol* di
+  Cisco, su TCP).
+- **Routing** verso l'underlay e le reti esistenti — **BGP** e **OSPF** (talvolta
+  EIGRP) sulle interfacce di tunnel.
+- **Gestione e orchestrazione** del controller cloud — **NETCONF/YANG** e **API
+  REST su HTTPS**.
+
+Tutti questi protocolli sono trattati nelle sezioni
+[Crittografia](../03-sicurezza-crittografia/02-crittografia.md) e [Protocolli
+sicuri e VPN](../04-sicurezza-reti/03-protocolli-sicuri-e-vpn.md); il routing
+OSPF in [Routing dinamico OSPF e
+NAT](../01-progettazione-lan-wan/01-routing-e-nat.md).
+
 ## SASE
 
 Spostare il *breakout* verso Internet nelle singole sedi (e per gli utenti in
@@ -87,6 +110,25 @@ di sicurezza erogata dal cloud). Le funzioni di sicurezza tipiche:
     FWaaS erogati dal cloud), **senza** la componente di rete SD-WAN. Quando tutte
     le funzioni sono fornite da **un unico fornitore** si parla di *single-vendor
     SASE*.
+
+### Protocolli usati dal SASE
+
+SASE eredita i protocolli di **rete** dalla sua componente SD-WAN (IPsec/IKEv2,
+GRE, TLS/DTLS) e aggiunge quelli della **sicurezza erogata dal cloud**, in cui il
+traffico di utenti e sedi raggiunge i *Point of Presence* del fornitore:
+
+- **TLS 1.3** e **mTLS** *(mutual TLS)* — base delle connessioni **ZTNA**: client
+  e gateway si autenticano a vicenda con **certificati**, sostituendo la VPN
+  classica;
+- **HTTPS** e **QUIC/HTTP/3** — per l'accesso web filtrato dallo **SWG** e per i
+  servizi cloud (vedi [TLS, DTLS e
+  HTTPS](../04-sicurezza-reti/03-protocolli-sicuri-e-vpn.md#tls-dtls-e-https));
+- **IPsec** (IKEv2) e, nelle soluzioni più recenti, **WireGuard** — per i tunnel
+  cifrati dalle sedi/dispositivi verso il PoP SASE.
+
+Anche qui i mattoni sono quelli della
+[crittografia](../03-sicurezza-crittografia/02-crittografia.md): cifratura
+simmetrica, scambio di chiavi e **certificati**/PKI.
 
 ### Perché conta
 
