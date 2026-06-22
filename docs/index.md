@@ -2,7 +2,7 @@
 
 # Sito di Studio
 
-<p class="home-lede">Appunti di letteratura, matematica e storia — organizzati come un percorso, non come un semplice elenco.</p>
+<p class="home-lede">Appunti di letteratura, inglese, matematica e storia — organizzati come un percorso, non come un semplice elenco.</p>
 
 </div>
 
@@ -11,6 +11,11 @@
 <div class="home-card" markdown>
 [Letteratura](letteratura/index.md){ .home-card__title }
 <p>Dal secondo Ottocento al Novecento: Scapigliatura, Verismo, Decadentismo, Avanguardie — con i testi e l'analisi.</p>
+</div>
+
+<div class="home-card" markdown>
+[Inglese](inglese/index.md){ .home-card__title }
+<p>Letteratura inglese: i War Poets della Grande Guerra, Orwell e la distopia, Joyce e i <em>Dubliners</em>.</p>
 </div>
 
 <div class="home-card" markdown>
