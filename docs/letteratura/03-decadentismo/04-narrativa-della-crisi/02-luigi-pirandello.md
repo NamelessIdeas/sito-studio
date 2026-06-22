@@ -81,99 +81,99 @@ dalla vita, che va a portare fiori sulla propria tomba.
   autoanalisi, ironia e **relativismo** (non c'è una verità, ma solo punti di
   vista).
 
-#### *La costruzione della nuova identità e la sua crisi* (capp. VIII-IX)
+??? brano "*La costruzione della nuova identità e la sua crisi* (capp. VIII-IX)"
 
-I due capitoli centrali del romanzo, che segnano l'**ebbrezza** della liberazione
-dalla «trappola» e la successiva **delusione**. Liberato per caso dal suo
-passato, Mattia decide di farsi «un altr'uomo».
+    I due capitoli centrali del romanzo, che segnano l'**ebbrezza** della liberazione
+    dalla «trappola» e la successiva **delusione**. Liberato per caso dal suo
+    passato, Mattia decide di farsi «un altr'uomo».
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Reciso ogni legame con la vita precedente, Mattia si propone di diventare
-    **un altro uomo**: getta via l'anellino nuziale, sceglie il nome di **Adriano
-    Meis** e si costruisce un passato immaginario. Si fa accorciare barba e baffi
-    dal barbiere, progetta di portare gli occhiali e di farsi crescere i capelli,
-    e gusta una libertà inebriante: «**Un paio d'ali! Come mi sentivo leggero!**».
-    Ma ben presto la libertà assoluta comincia a pesargli. A Milano, davanti a un
-    vecchio cerinaio, vorrebbe comprare un **cucciolo**, ma vi rinuncia: dovrebbe
-    pagare una tassa, una prima «**compromissione**» della sua libertà. Capisce
-    allora di essere un «**forestiere della vita**»: senza stato civile non può
-    possedere una casa, né avere veri amici (l'amicizia è confidenza, e lui ha un
-    segreto da nascondere), né sporgere denuncia, né sposarsi. Riflette
-    amaramente sulla **modernità** e sulla civiltà delle macchine (il tram
-    elettrico, lo «stordimento di macchine», il progresso che impoverisce
-    l'anima) e, parlando con un canarino in albergo, sente che anche a noi uomini
-    la natura sembra rispondere con un'illusione. Resta la verità nuda: «Io,
-    insomma, dovevo **vivere, vivere, vivere**».
+        Reciso ogni legame con la vita precedente, Mattia si propone di diventare
+        **un altro uomo**: getta via l'anellino nuziale, sceglie il nome di **Adriano
+        Meis** e si costruisce un passato immaginario. Si fa accorciare barba e baffi
+        dal barbiere, progetta di portare gli occhiali e di farsi crescere i capelli,
+        e gusta una libertà inebriante: «**Un paio d'ali! Come mi sentivo leggero!**».
+        Ma ben presto la libertà assoluta comincia a pesargli. A Milano, davanti a un
+        vecchio cerinaio, vorrebbe comprare un **cucciolo**, ma vi rinuncia: dovrebbe
+        pagare una tassa, una prima «**compromissione**» della sua libertà. Capisce
+        allora di essere un «**forestiere della vita**»: senza stato civile non può
+        possedere una casa, né avere veri amici (l'amicizia è confidenza, e lui ha un
+        segreto da nascondere), né sporgere denuncia, né sposarsi. Riflette
+        amaramente sulla **modernità** e sulla civiltà delle macchine (il tram
+        elettrico, lo «stordimento di macchine», il progresso che impoverisce
+        l'anima) e, parlando con un canarino in albergo, sente che anche a noi uomini
+        la natura sembra rispondere con un'illusione. Resta la verità nuda: «Io,
+        insomma, dovevo **vivere, vivere, vivere**».
 
-    **Temi:** l'errore di darsi una nuova identità; la nostalgia piccolo-borghese
-    delle abitudini quotidiane; la critica alla società industriale.
+        **Temi:** l'errore di darsi una nuova identità; la nostalgia piccolo-borghese
+        delle abitudini quotidiane; la critica alla società industriale.
 
-**Significato e temi:** il brano mette a fuoco il cuore della «**trappola**»
-pirandelliana: la libertà conquistata da Mattia è solo apparente, perché
-un'identità non si costruisce dal nulla. Senza i legami e le «forme» della vita
-sociale — anagrafe, casa, amicizie, affetti — Adriano Meis è un fantasma, libero
-ma escluso dal vivere. L'**ebbrezza** iniziale («un paio d'ali») si rovescia nel
-suo contrario, e la nostalgia delle umili **abitudini quotidiane** (un cucciolo,
-una casa, un cantuccio caro) rivela quanto la felicità borghese, prima
-disprezzata, fosse fatta proprio di quei piccoli legami. Si innesta la **critica
-alla società industriale** e alla modernità meccanica, che stordisce e
-impoverisce l'uomo. La «forma» è una prigione, ma fuori dalle forme non c'è vita:
-è il paradosso insolubile del **vitalismo** pirandelliano.
+    **Significato e temi:** il brano mette a fuoco il cuore della «**trappola**»
+    pirandelliana: la libertà conquistata da Mattia è solo apparente, perché
+    un'identità non si costruisce dal nulla. Senza i legami e le «forme» della vita
+    sociale — anagrafe, casa, amicizie, affetti — Adriano Meis è un fantasma, libero
+    ma escluso dal vivere. L'**ebbrezza** iniziale («un paio d'ali») si rovescia nel
+    suo contrario, e la nostalgia delle umili **abitudini quotidiane** (un cucciolo,
+    una casa, un cantuccio caro) rivela quanto la felicità borghese, prima
+    disprezzata, fosse fatta proprio di quei piccoli legami. Si innesta la **critica
+    alla società industriale** e alla modernità meccanica, che stordisce e
+    impoverisce l'uomo. La «forma» è una prigione, ma fuori dalle forme non c'è vita:
+    è il paradosso insolubile del **vitalismo** pirandelliano.
 
-#### *Lo «strappo nel cielo di carta» e la «lanterninosofia»* (capp. XII-XIII)
+??? brano "*Lo «strappo nel cielo di carta» e la «lanterninosofia»* (capp. XII-XIII)"
 
-Due celebri pagine "filosofiche" del romanzo. **Anselmo Paleari**, il padrone di
-casa di Adriano Meis, è una sorta di **filosofo dilettante** che ama intrattenere
-il protagonista con le sue bizzarre teorie: in due immagini diverse ma equivalenti
-egli formula il nucleo del pensiero pirandelliano.
+    Due celebri pagine "filosofiche" del romanzo. **Anselmo Paleari**, il padrone di
+    casa di Adriano Meis, è una sorta di **filosofo dilettante** che ama intrattenere
+    il protagonista con le sue bizzarre teorie: in due immagini diverse ma equivalenti
+    egli formula il nucleo del pensiero pirandelliano.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Nella prima pagina Paleari propone l'apologo dello **strappo nel cielo di
-    carta**. Immagina di rappresentare in un teatrino di **marionette** la
-    *tragedia d'Oreste* (l'*Elettra* di Sofocle) e si chiede che cosa accadrebbe
-    se, nel momento culminante in cui Oreste sta per **vendicare il padre**, si
-    facesse uno strappo nel cielo di carta del teatrino. Oreste resterebbe
-    «terribilmente sconcertato da quel buco nel cielo»: sentirebbe ancora gli
-    impulsi della vendetta, ma con gli occhi fissi a quello strappo, da cui ormai
-    ogni sorta di mali penetrerebbe nella scena, si sentirebbe «cader le braccia».
-    Oreste, insomma, diventerebbe **Amleto**: tutta la differenza fra la tragedia
-    **antica** e quella **moderna** sta «in un buco nel cielo di carta». Nella
-    seconda pagina Paleari espone la sua «**lanterninosofia**». Noi uomini, a
-    differenza dell'albero o della bestia, abbiamo il triste privilegio di
-    **sentirci vivere**, con l'illusione che la realtà esista fuori di noi: ma
-    questo sentimento della vita è come un **lanternino** che ciascuno porta acceso
-    dentro di sé, che ci fa vedere sperduti sulla terra e proietta intorno a noi un
-    piccolo cerchio di luce, oltre il quale sta l'**ombra paurosa** che esisterebbe
-    solo finché il lanternino resta acceso. Accanto ai lanternini individuali
-    ardono i grandi **lanternoni** dei termini astratti — *Verità, Virtù, Bellezza,
-    Onore* —, alimentati dal sentimento collettivo: quando questo si scinde, certe
-    «fiere ventate» li **spengono** d'improvviso, ed è il buio delle **epoche di
-    crisi**, in cui crollano i sistemi di certezze e gli uomini, smarriti, non
-    trovano più la via. La condizione moderna — suggerisce Paleari — è proprio uno
-    di questi momenti di buio. Dinanzi a questi discorsi Mattia/Adriano ostenta
-    però **fastidio e disprezzo**, mostrando di non coglierne il senso.
+        Nella prima pagina Paleari propone l'apologo dello **strappo nel cielo di
+        carta**. Immagina di rappresentare in un teatrino di **marionette** la
+        *tragedia d'Oreste* (l'*Elettra* di Sofocle) e si chiede che cosa accadrebbe
+        se, nel momento culminante in cui Oreste sta per **vendicare il padre**, si
+        facesse uno strappo nel cielo di carta del teatrino. Oreste resterebbe
+        «terribilmente sconcertato da quel buco nel cielo»: sentirebbe ancora gli
+        impulsi della vendetta, ma con gli occhi fissi a quello strappo, da cui ormai
+        ogni sorta di mali penetrerebbe nella scena, si sentirebbe «cader le braccia».
+        Oreste, insomma, diventerebbe **Amleto**: tutta la differenza fra la tragedia
+        **antica** e quella **moderna** sta «in un buco nel cielo di carta». Nella
+        seconda pagina Paleari espone la sua «**lanterninosofia**». Noi uomini, a
+        differenza dell'albero o della bestia, abbiamo il triste privilegio di
+        **sentirci vivere**, con l'illusione che la realtà esista fuori di noi: ma
+        questo sentimento della vita è come un **lanternino** che ciascuno porta acceso
+        dentro di sé, che ci fa vedere sperduti sulla terra e proietta intorno a noi un
+        piccolo cerchio di luce, oltre il quale sta l'**ombra paurosa** che esisterebbe
+        solo finché il lanternino resta acceso. Accanto ai lanternini individuali
+        ardono i grandi **lanternoni** dei termini astratti — *Verità, Virtù, Bellezza,
+        Onore* —, alimentati dal sentimento collettivo: quando questo si scinde, certe
+        «fiere ventate» li **spengono** d'improvviso, ed è il buio delle **epoche di
+        crisi**, in cui crollano i sistemi di certezze e gli uomini, smarriti, non
+        trovano più la via. La condizione moderna — suggerisce Paleari — è proprio uno
+        di questi momenti di buio. Dinanzi a questi discorsi Mattia/Adriano ostenta
+        però **fastidio e disprezzo**, mostrando di non coglierne il senso.
 
-    **Temi:** la critica dell'identità e la **personalità come maschera**; la
-    **condizione moderna** e il crollo delle certezze; l'inconsistenza della realtà
-    oggettiva.
+        **Temi:** la critica dell'identità e la **personalità come maschera**; la
+        **condizione moderna** e il crollo delle certezze; l'inconsistenza della realtà
+        oggettiva.
 
-**Significato e temi:** nelle due metafore Pirandello tocca il **cuore della sua
-poetica**. Lo strappo nel cielo di carta allude al fatto che la realtà in cui
-viviamo è una **costruzione fittizia**, una scena che crediamo vera solo finché
-non si squarcia: basta un nulla — un «buco» — perché la marionetta-uomo scopra la
-**convenzionalità** del proprio mondo, perda la spontaneità dell'azione e si
-**paralizzi** nei dubbi, come Amleto, eroe della modernità contro l'antico Oreste
-sicuro di sé. La lanterninosofia esprime lo stesso concetto: il cerchio di luce è
-l'**io individuale**, una proiezione soggettiva che segna artificiosamente il
-confine tra noi e il non-noi; i lanternoni che si spengono sono i **sistemi di
-certezze** (le fedi, le ideologie) che tramontano nelle epoche di transizione. È
-la **condizione moderna**, dopo il crollo dei punti di riferimento del passato (a
-partire dalla rivoluzione copernicana, evocata nella *Premessa seconda*). Non a
-caso queste teorie coincidono con quelle del saggio *[L'umorismo](#lumorismo-1908)*;
-e Mattia, che non le comprende, si rivela non ancora «filosofo», ancora
-**attaccato** all'illusione dell'identità individuale.
+    **Significato e temi:** nelle due metafore Pirandello tocca il **cuore della sua
+    poetica**. Lo strappo nel cielo di carta allude al fatto che la realtà in cui
+    viviamo è una **costruzione fittizia**, una scena che crediamo vera solo finché
+    non si squarcia: basta un nulla — un «buco» — perché la marionetta-uomo scopra la
+    **convenzionalità** del proprio mondo, perda la spontaneità dell'azione e si
+    **paralizzi** nei dubbi, come Amleto, eroe della modernità contro l'antico Oreste
+    sicuro di sé. La lanterninosofia esprime lo stesso concetto: il cerchio di luce è
+    l'**io individuale**, una proiezione soggettiva che segna artificiosamente il
+    confine tra noi e il non-noi; i lanternoni che si spengono sono i **sistemi di
+    certezze** (le fedi, le ideologie) che tramontano nelle epoche di transizione. È
+    la **condizione moderna**, dopo il crollo dei punti di riferimento del passato (a
+    partire dalla rivoluzione copernicana, evocata nella *Premessa seconda*). Non a
+    caso queste teorie coincidono con quelle del saggio *[L'umorismo](#lumorismo-1908)*;
+    e Mattia, che non le comprende, si rivela non ancora «filosofo», ancora
+    **attaccato** all'illusione dell'identità individuale.
 
 </div>
 
@@ -196,45 +196,45 @@ distinto dal semplice comico.
 - **L'arte che scompone**: l'umorista non **compone** un carattere coerente come
   il poeta epico, ma lo **scompone**, cogliendone le incongruenze.
 
-#### *Un'arte che scompone il reale*
+??? brano "*Un'arte che scompone il reale*"
 
-Alcuni passi della seconda parte teorica del saggio. Pirandello vi fissa la
-distinzione fondamentale tra **comico** e **umoristico** e la teoria della
-**vita** come flusso arrestato nelle **forme**.
+    Alcuni passi della seconda parte teorica del saggio. Pirandello vi fissa la
+    distinzione fondamentale tra **comico** e **umoristico** e la teoria della
+    **vita** come flusso arrestato nelle **forme**.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Pirandello oppone l'arte comune, che **compone** la realtà in una forma
-    armoniosa lasciando la riflessione nascosta (quasi «una forma del
-    sentimento»), all'arte **umoristica**, in cui la riflessione non si nasconde
-    ma si fa **giudice**: analizza e **scompone** l'immagine, e da questa
-    scomposizione nasce un sentimento nuovo, il «**sentimento del contrario**».
-    Celebre l'esempio della **vecchia signora imbellettata**, vestita e truccata
-    come una giovane: a prima vista fa ridere, perché è il contrario di ciò che
-    una rispettabile vecchia dovrebbe essere (avvertimento del contrario,
-    **comico**); ma se la riflessione mi suggerisce che ella si concia così,
-    soffrendone, per trattenere l'amore del marito più giovane, il riso si arresta
-    e si tinge di pietà (sentimento del contrario, **umoristico**). Segue la
-    teoria della **vita come flusso continuo**, che cerchiamo di arrestare in
-    «**forme**» fisse — concetti, ideali, abitudini — destinate prima o poi a
-    crollare, perché sotto gli argini l'anima continua a scorrere. Da qui la
-    **disgregazione della personalità**: abbiamo dentro «quattro, cinque anime in
-    lotta», e l'io che crediamo uno è una finzione. Perciò l'umorista, a
-    differenza del poeta epico che **compone** un carattere coerente, lo
-    **scompone** e si diverte a coglierne le contraddizioni.
+        Pirandello oppone l'arte comune, che **compone** la realtà in una forma
+        armoniosa lasciando la riflessione nascosta (quasi «una forma del
+        sentimento»), all'arte **umoristica**, in cui la riflessione non si nasconde
+        ma si fa **giudice**: analizza e **scompone** l'immagine, e da questa
+        scomposizione nasce un sentimento nuovo, il «**sentimento del contrario**».
+        Celebre l'esempio della **vecchia signora imbellettata**, vestita e truccata
+        come una giovane: a prima vista fa ridere, perché è il contrario di ciò che
+        una rispettabile vecchia dovrebbe essere (avvertimento del contrario,
+        **comico**); ma se la riflessione mi suggerisce che ella si concia così,
+        soffrendone, per trattenere l'amore del marito più giovane, il riso si arresta
+        e si tinge di pietà (sentimento del contrario, **umoristico**). Segue la
+        teoria della **vita come flusso continuo**, che cerchiamo di arrestare in
+        «**forme**» fisse — concetti, ideali, abitudini — destinate prima o poi a
+        crollare, perché sotto gli argini l'anima continua a scorrere. Da qui la
+        **disgregazione della personalità**: abbiamo dentro «quattro, cinque anime in
+        lotta», e l'io che crediamo uno è una finzione. Perciò l'umorista, a
+        differenza del poeta epico che **compone** un carattere coerente, lo
+        **scompone** e si diverte a coglierne le contraddizioni.
 
-    **Temi:** l'umorismo come sentimento del contrario; l'umorismo come
-    manifestazione della realtà moderna; la disgregazione della personalità.
+        **Temi:** l'umorismo come sentimento del contrario; l'umorismo come
+        manifestazione della realtà moderna; la disgregazione della personalità.
 
-**Significato e temi:** il passo è la **chiave teorica** di tutta l'opera
-pirandelliana. La distinzione tra *avvertimento* e *sentimento del contrario*
-fonda un'arte che non rappresenta una realtà ordinata e coerente, ma ne smaschera
-le **contraddizioni** e le finzioni. La teoria della **vita e della forma** e
-della **disgregazione dell'io** spiega i personaggi scissi, le maschere e il
-relativismo dei romanzi e del teatro: l'umorista «scompone» ciò che gli altri
-artisti «compongono», cogliendo l'uomo nudo sotto le forme («il re in camicia»).
-L'umorismo diventa così lo strumento conoscitivo che rivela la **realtà moderna**
-nella sua frammentazione, opposto alla compiuta armonia dell'arte tradizionale.
+    **Significato e temi:** il passo è la **chiave teorica** di tutta l'opera
+    pirandelliana. La distinzione tra *avvertimento* e *sentimento del contrario*
+    fonda un'arte che non rappresenta una realtà ordinata e coerente, ma ne smaschera
+    le **contraddizioni** e le finzioni. La teoria della **vita e della forma** e
+    della **disgregazione dell'io** spiega i personaggi scissi, le maschere e il
+    relativismo dei romanzi e del teatro: l'umorista «scompone» ciò che gli altri
+    artisti «compongono», cogliendo l'uomo nudo sotto le forme («il re in camicia»).
+    L'umorismo diventa così lo strumento conoscitivo che rivela la **realtà moderna**
+    nella sua frammentazione, opposto alla compiuta armonia dell'arte tradizionale.
 
 </div>
 
@@ -247,135 +247,135 @@ dell'anno —, rimasto incompiuto: ne furono pubblicate ventiquattro raccolte). 
 convivono l'ambiente **siciliano** e quello **piccolo-borghese** romano,
 dominati dall'**umorismo**, dalla «trappola» e dall'evasione impossibile.
 
-#### *Ciàula scopre la luna* (da *Le due maschere*, 1914)
+??? brano "*Ciàula scopre la luna* (da *Le due maschere*, 1914)"
 
-Novella pubblicata nel 1912 e raccolta nel 1914, ambientata in una **zolfara**
-siciliana. Protagonista è **Ciàula**, un *caruso* (garzone di miniera) quasi
-animalesco, che fa l'esperienza improvvisa e rivelatrice della Luna.
+    Novella pubblicata nel 1912 e raccolta nel 1914, ambientata in una **zolfara**
+    siciliana. Protagonista è **Ciàula**, un *caruso* (garzone di miniera) quasi
+    animalesco, che fa l'esperienza improvvisa e rivelatrice della Luna.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Nella zolfara i picconieri si rifiutano di continuare a lavorare di notte; il
-    sorvegliante **Cacciagallina** tenta di costringerli con la rivoltella, ma
-    tutti fuggono tranne il vecchio **zi' Scarda**, cieco da un occhio, e il suo
-    *caruso* **Ciàula**, un essere idiota e abbrutito dalla fatica, che porta il
-    carico di zolfo su per la scala della miniera. Ciàula non teme il buio
-    **sicuro** delle gallerie, dove si muove come nel grembo materno, ma ha paura
-    del buio «**vano**» della notte all'aperto. Costretto a risalire un'ultima
-    volta con un carico enorme, sfinito, sbuca dalla bocca della miniera e scopre
-    la **Luna**: grande, placida, «un luminoso oceano di silenzio». Ne resta
-    **estatico**; dimentica la stanchezza e la paura, e si mette a piangere
-    «senza saperlo, senza volerlo», dal gran conforto e dalla dolcezza.
+        Nella zolfara i picconieri si rifiutano di continuare a lavorare di notte; il
+        sorvegliante **Cacciagallina** tenta di costringerli con la rivoltella, ma
+        tutti fuggono tranne il vecchio **zi' Scarda**, cieco da un occhio, e il suo
+        *caruso* **Ciàula**, un essere idiota e abbrutito dalla fatica, che porta il
+        carico di zolfo su per la scala della miniera. Ciàula non teme il buio
+        **sicuro** delle gallerie, dove si muove come nel grembo materno, ma ha paura
+        del buio «**vano**» della notte all'aperto. Costretto a risalire un'ultima
+        volta con un carico enorme, sfinito, sbuca dalla bocca della miniera e scopre
+        la **Luna**: grande, placida, «un luminoso oceano di silenzio». Ne resta
+        **estatico**; dimentica la stanchezza e la paura, e si mette a piangere
+        «senza saperlo, senza volerlo», dal gran conforto e dalla dolcezza.
 
-    **Temi:** la rappresentazione del duro lavoro in miniera; il simbolismo della
-    rinascita; la realtà popolare come portatrice del primitivo e
-    dell'irrazionale.
+        **Temi:** la rappresentazione del duro lavoro in miniera; il simbolismo della
+        rinascita; la realtà popolare come portatrice del primitivo e
+        dell'irrazionale.
 
-**Significato e temi:** nonostante l'ambiente e i personaggi, la novella **non**
-è veristica ma va ricondotta al **gusto decadente**. La Luna rimanda al mito di
-**Iside**, la dea che nella religione egizia presiede alla **rinascita**: il suo
-continuo sparire e ricomparire ricorda il ciclo di morte e risurrezione. La
-scoperta di Ciàula è dunque un'**esperienza mistica e simbolica**, una **fusione
-panica** con la vita universale e il suo incessante divenire. La realtà popolare
-non è scelta per fini di riflessione sociale (come nel verismo), ma in quanto
-**portatrice del primitivo, dell'irrazionale, del mito e del simbolo**: il rozzo
-Ciàula, proprio perché elementare, è capace dello stupore puro che lo fa
-«nascere» alla meraviglia.
+    **Significato e temi:** nonostante l'ambiente e i personaggi, la novella **non**
+    è veristica ma va ricondotta al **gusto decadente**. La Luna rimanda al mito di
+    **Iside**, la dea che nella religione egizia presiede alla **rinascita**: il suo
+    continuo sparire e ricomparire ricorda il ciclo di morte e risurrezione. La
+    scoperta di Ciàula è dunque un'**esperienza mistica e simbolica**, una **fusione
+    panica** con la vita universale e il suo incessante divenire. La realtà popolare
+    non è scelta per fini di riflessione sociale (come nel verismo), ma in quanto
+    **portatrice del primitivo, dell'irrazionale, del mito e del simbolo**: il rozzo
+    Ciàula, proprio perché elementare, è capace dello stupore puro che lo fa
+    «nascere» alla meraviglia.
 
-#### *Il treno ha fischiato* (da *La trappola*, 1915)
+??? brano "*Il treno ha fischiato* (da *La trappola*, 1915)"
 
-Novella pubblicata nel 1914 e raccolta nel 1915. Protagonista è **Belluca**, un
-mite **computista** la cui vita «impossibile» è chiusa nel meccanismo del lavoro
-d'ufficio e oppressa da una famiglia mostruosa.
+    Novella pubblicata nel 1914 e raccolta nel 1915. Protagonista è **Belluca**, un
+    mite **computista** la cui vita «impossibile» è chiusa nel meccanismo del lavoro
+    d'ufficio e oppressa da una famiglia mostruosa.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Un giorno il computista **Belluca**, uomo mansueto e metodico, si **ribella**
-    al capufficio, dà segni di follia («farnetica») e viene creduto pazzo e
-    portato all'ospizio dei matti. Continua a parlare di un **treno che ha
-    fischiato**. Il narratore, suo vicino di casa, spiega il «naturalissimo» caso:
-    Belluca conduce da anni una vita «impossibile», ridotto a «**bestia
-    bendata**» dal lavoro di computisteria e schiacciato in casa da cinque donne
-    (tre cieche, due figlie vedove) e sette nipoti, stipati in pochi letti. Aveva
-    da tempo «dimenticato che il mondo esisteva». Una notte, nel silenzio, sente
-    per la prima volta dopo anni il **fischio di un treno**: quel suono gli
-    «squarcia» d'improvviso la prigione e gli ricorda il **mondo** sterminato che
-    sta fuori (Firenze, Bologna, Torino, le montagne nevose, i mari...). Da allora
-    si concede ogni tanto, con l'**immaginazione**, «una boccata d'aria nel
-    mondo». La prima volta ha ecceduto, ubriacandosi di quella libertà; ma —
-    promette — riprenderà il lavoro, purché gli si conceda ogni tanto quella
-    breve evasione.
+        Un giorno il computista **Belluca**, uomo mansueto e metodico, si **ribella**
+        al capufficio, dà segni di follia («farnetica») e viene creduto pazzo e
+        portato all'ospizio dei matti. Continua a parlare di un **treno che ha
+        fischiato**. Il narratore, suo vicino di casa, spiega il «naturalissimo» caso:
+        Belluca conduce da anni una vita «impossibile», ridotto a «**bestia
+        bendata**» dal lavoro di computisteria e schiacciato in casa da cinque donne
+        (tre cieche, due figlie vedove) e sette nipoti, stipati in pochi letti. Aveva
+        da tempo «dimenticato che il mondo esisteva». Una notte, nel silenzio, sente
+        per la prima volta dopo anni il **fischio di un treno**: quel suono gli
+        «squarcia» d'improvviso la prigione e gli ricorda il **mondo** sterminato che
+        sta fuori (Firenze, Bologna, Torino, le montagne nevose, i mari...). Da allora
+        si concede ogni tanto, con l'**immaginazione**, «una boccata d'aria nel
+        mondo». La prima volta ha ecceduto, ubriacandosi di quella libertà; ma —
+        promette — riprenderà il lavoro, purché gli si conceda ogni tanto quella
+        breve evasione.
 
-    **Temi:** la trappola del lavoro e della famiglia; la scomposizione
-    umoristica della realtà; la follia contrapposta all'apparente razionalità del
-    meccanismo dell'esistenza.
+        **Temi:** la trappola del lavoro e della famiglia; la scomposizione
+        umoristica della realtà; la follia contrapposta all'apparente razionalità del
+        meccanismo dell'esistenza.
 
-**Significato e temi:** Belluca è l'**uomo-macchina**, ridotto dal lavoro e dalla
-miseria a un automa, una «macchinetta di computisteria», un asino bendato alla
-**nòria**. Il **treno** è il simbolo dell'**evasione** e dell'immaginazione, che
-apre per un attimo la «**trappola**» e restituisce all'uomo la coscienza del
-mondo. La sua «follia» è in realtà una forma di **lucidità** e di salute,
-contrapposta all'apparente razionalità di un'esistenza meccanica e disumana. Il
-narratore «umorista» riconduce il caso «impossibile» alla sua spiegazione
-«naturalissima»: per capire il mostro bisogna **riattaccarlo** alle condizioni di
-vita che lo generano — è la tecnica della **scomposizione umoristica** della
-realtà.
+    **Significato e temi:** Belluca è l'**uomo-macchina**, ridotto dal lavoro e dalla
+    miseria a un automa, una «macchinetta di computisteria», un asino bendato alla
+    **nòria**. Il **treno** è il simbolo dell'**evasione** e dell'immaginazione, che
+    apre per un attimo la «**trappola**» e restituisce all'uomo la coscienza del
+    mondo. La sua «follia» è in realtà una forma di **lucidità** e di salute,
+    contrapposta all'apparente razionalità di un'esistenza meccanica e disumana. Il
+    narratore «umorista» riconduce il caso «impossibile» alla sua spiegazione
+    «naturalissima»: per capire il mostro bisogna **riattaccarlo** alle condizioni di
+    vita che lo generano — è la tecnica della **scomposizione umoristica** della
+    realtà.
 
-#### *C'è qualcuno che ride* (da *Una giornata*, 1937)
+??? brano "*C'è qualcuno che ride* (da *Una giornata*, 1937)"
 
-Novella tarda, pubblicata sul *Corriere della Sera* nel 1934 e raccolta nel volume
-postumo *Una giornata* (1937). Appartiene all'ultima stagione di Pirandello, quella
-delle atmosfere **fantastiche e surreali**, dai toni che la critica ha detto
-**«kafkiani»** (Sciascia). Non vi accade nulla di straordinario: una **riunione
-mondana** apparentemente normale diventa l'**allegoria** della società.
+    Novella tarda, pubblicata sul *Corriere della Sera* nel 1934 e raccolta nel volume
+    postumo *Una giornata* (1937). Appartiene all'ultima stagione di Pirandello, quella
+    delle atmosfere **fantastiche e surreali**, dai toni che la critica ha detto
+    **«kafkiani»** (Sciascia). Non vi accade nulla di straordinario: una **riunione
+    mondana** apparentemente normale diventa l'**allegoria** della società.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    In un enorme salone si tiene una **riunione** solenne e misteriosa: nessuno dei
-    numerosi invitati sa **perché** è stato convocato (è «sonato in città come
-    l'appello a un'adunata»). Un'orchestrina di **«calvi inteschiati»** suona
-    ballabili e alcune coppie ballano per dare alla serata, davanti ai fotografi,
-    un'apparenza di **festa di carnevale** — qualcuno è perfino mascherato col
-    *domino*. Domina però un clima d'**«incubo»**: diffidenza, sospetto, paura,
-    «inconfessati rimorsi» che affiorano dal fondo oscuro degli animi. A un certo
-    punto **serpeggia una voce**: «**C'è qualcuno che ride**». La cosa suscita un
-    «fierissimo sdegno»: in tanta serietà, chi osa ridere? Tutti sentono che, se quel
-    riso si propagasse in una risata generale, «**addio ogni cosa!**». I "colpevoli"
-    sono **tre**: una **ragazzona di sedici anni** vestita di bianco, un bel
-    **giovinotto** biondo (suo fratello) e un **ometto** tondo e gioviale (il padre)
-    — una famiglia di campagna capitata lì per caso, che ride per pura, **innocente
-    gioia di vivere**, senza capire nulla. Mentre tre **«maggiorenti»** si ritirano in
-    una sala segreta a deliberare una «punizione solenne», la **folla** avanza
-    lentamente verso i tre, «come una nera marea», con «melodrammatico passo di
-    tenebrosa congiura». I maggiorenti entrano coi cappucci del domino abbassati e
-    burlescamente «ammanettati» con tre tovaglioli; poi un'**enorme sardonica risata**
-    di tutti scoppia contro la famigliola. Il povero padre, sconvolto, afferra i due
-    figli e **fugge**, inseguito dal terrore che tutti gli abitanti della città siano
-    «improvvisamente impazziti».
+        In un enorme salone si tiene una **riunione** solenne e misteriosa: nessuno dei
+        numerosi invitati sa **perché** è stato convocato (è «sonato in città come
+        l'appello a un'adunata»). Un'orchestrina di **«calvi inteschiati»** suona
+        ballabili e alcune coppie ballano per dare alla serata, davanti ai fotografi,
+        un'apparenza di **festa di carnevale** — qualcuno è perfino mascherato col
+        *domino*. Domina però un clima d'**«incubo»**: diffidenza, sospetto, paura,
+        «inconfessati rimorsi» che affiorano dal fondo oscuro degli animi. A un certo
+        punto **serpeggia una voce**: «**C'è qualcuno che ride**». La cosa suscita un
+        «fierissimo sdegno»: in tanta serietà, chi osa ridere? Tutti sentono che, se quel
+        riso si propagasse in una risata generale, «**addio ogni cosa!**». I "colpevoli"
+        sono **tre**: una **ragazzona di sedici anni** vestita di bianco, un bel
+        **giovinotto** biondo (suo fratello) e un **ometto** tondo e gioviale (il padre)
+        — una famiglia di campagna capitata lì per caso, che ride per pura, **innocente
+        gioia di vivere**, senza capire nulla. Mentre tre **«maggiorenti»** si ritirano in
+        una sala segreta a deliberare una «punizione solenne», la **folla** avanza
+        lentamente verso i tre, «come una nera marea», con «melodrammatico passo di
+        tenebrosa congiura». I maggiorenti entrano coi cappucci del domino abbassati e
+        burlescamente «ammanettati» con tre tovaglioli; poi un'**enorme sardonica risata**
+        di tutti scoppia contro la famigliola. Il povero padre, sconvolto, afferra i due
+        figli e **fugge**, inseguito dal terrore che tutti gli abitanti della città siano
+        «improvvisamente impazziti».
 
-    **Temi:** il carattere artificioso dell'organizzazione sociale; l'adesione
-    spontanea alla vita; la reazione sociale contro il «diverso»; il rifiuto della
-    società.
+        **Temi:** il carattere artificioso dell'organizzazione sociale; l'adesione
+        spontanea alla vita; la reazione sociale contro il «diverso»; il rifiuto della
+        società.
 
-**Significato e temi:** la riunione è un'**allegoria della società** come luogo in
-cui tutti devono **recitare una parte** e portare una **maschera**, attribuendo un
-significato «serio» a un rituale in realtà vuoto. L'organizzazione sociale è
-**artificiosa** e **mortifera** — i «calvi inteschiati» dell'orchestra, i ballerini
-ridotti a «giocattoli ricaricati», i fiori veri che paiono finti evocano la morte —
-e priva di un **legame profondo**: nessuno sa perché è stato convocato, e i
-**maggiorenti** che decidono in segreto figurano le **élites** chiuse del potere.
-Una società così fragile genera **angoscia** e fa affiorare il fondo oscuro della
-psiche. A questo mondo irrigidito si oppone il **riso** del padre e dei figli:
-l'**adesione spontanea e vitale** alla vita (la ragazza «come una puledra in un
-prato fiorito»), una forza **anarchica** che, proprio perché il sistema è
-inconsistente, minaccia di **farlo crollare**. Per questo la società si ricompatta e
-**scaccia il «diverso»** con una risata «sardonica» e feroce, vera **sanzione
-sociale**. Emerge così il tema centrale dell'ultimo Pirandello: il **rifiuto di ogni
-organizzazione sociale** che soffoca la spontaneità della **vita** in nome della
-**forma** — un vitalismo primordiale e ribelle che cova sotto il «cerebrale
-raziocinare» dello scrittore. La critica ha letto nell'«adunata» anche
-un'**irrisione del fascismo**, bersaglio però particolare di un attacco rivolto alla
-società in quanto tale.
+    **Significato e temi:** la riunione è un'**allegoria della società** come luogo in
+    cui tutti devono **recitare una parte** e portare una **maschera**, attribuendo un
+    significato «serio» a un rituale in realtà vuoto. L'organizzazione sociale è
+    **artificiosa** e **mortifera** — i «calvi inteschiati» dell'orchestra, i ballerini
+    ridotti a «giocattoli ricaricati», i fiori veri che paiono finti evocano la morte —
+    e priva di un **legame profondo**: nessuno sa perché è stato convocato, e i
+    **maggiorenti** che decidono in segreto figurano le **élites** chiuse del potere.
+    Una società così fragile genera **angoscia** e fa affiorare il fondo oscuro della
+    psiche. A questo mondo irrigidito si oppone il **riso** del padre e dei figli:
+    l'**adesione spontanea e vitale** alla vita (la ragazza «come una puledra in un
+    prato fiorito»), una forza **anarchica** che, proprio perché il sistema è
+    inconsistente, minaccia di **farlo crollare**. Per questo la società si ricompatta e
+    **scaccia il «diverso»** con una risata «sardonica» e feroce, vera **sanzione
+    sociale**. Emerge così il tema centrale dell'ultimo Pirandello: il **rifiuto di ogni
+    organizzazione sociale** che soffoca la spontaneità della **vita** in nome della
+    **forma** — un vitalismo primordiale e ribelle che cova sotto il «cerebrale
+    raziocinare» dello scrittore. La critica ha letto nell'«adunata» anche
+    un'**irrisione del fascismo**, bersaglio però particolare di un attacco rivolto alla
+    società in quanto tale.
 
 </div>
 
@@ -390,39 +390,39 @@ casa **Kosmograph**. Le sue pagine raccontano l'**alienazione** dell'uomo nella
 **civiltà delle macchine**, ridotto a una semplice «mano» che serve un
 meccanismo, fino al silenzio totale del finale.
 
-#### *L'automobile e la carrozzella* (Quaderno III, I)
+??? brano "*L'automobile e la carrozzella* (Quaderno III, I)"
 
-Serafino si reca alla Kosmograph su una lenta **carrozzella**; un'**automobile**
-lanciata a gran velocità la supera. La contrapposizione fra i due veicoli
-ripropone la polemica contro le macchine.
+    Serafino si reca alla Kosmograph su una lenta **carrozzella**; un'**automobile**
+    lanciata a gran velocità la supera. La contrapposizione fra i due veicoli
+    ripropone la polemica contro le macchine.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Serafino viaggia su una lenta **carrozzella** trainata da un cavalluccio
-    sfiancato; un'**automobile** con tre attrici della Kosmograph la supera a gran
-    velocità, e le donne ridono di lui, che «scompare comicamente» indietro in
-    fondo al viale. Serafino rovescia ironicamente la prospettiva: l'automobile,
-    «scomparsa» in un attimo, ha avuto solo la sensazione vertiginosa della
-    **velocità**; lui invece, nella lentezza, può **ammirare a uno a uno** i
-    grandi platani del viale, «giganti della strada» ben piantati che reggono al
-    cielo le loro chiome. Mette così alla berlina il **mito della velocità** e
-    delle macchine: «Avete inventato le macchine? E ora godetevi questa e
-    consimili sensazioni di leggiadra vertigine». Il vecchio cavalluccio, come
-    l'uomo, è trascinato dalla «furia di tanto moto» della grande città, costretto
-    a una corsa che non può capire.
+        Serafino viaggia su una lenta **carrozzella** trainata da un cavalluccio
+        sfiancato; un'**automobile** con tre attrici della Kosmograph la supera a gran
+        velocità, e le donne ridono di lui, che «scompare comicamente» indietro in
+        fondo al viale. Serafino rovescia ironicamente la prospettiva: l'automobile,
+        «scomparsa» in un attimo, ha avuto solo la sensazione vertiginosa della
+        **velocità**; lui invece, nella lentezza, può **ammirare a uno a uno** i
+        grandi platani del viale, «giganti della strada» ben piantati che reggono al
+        cielo le loro chiome. Mette così alla berlina il **mito della velocità** e
+        delle macchine: «Avete inventato le macchine? E ora godetevi questa e
+        consimili sensazioni di leggiadra vertigine». Il vecchio cavalluccio, come
+        l'uomo, è trascinato dalla «furia di tanto moto» della grande città, costretto
+        a una corsa che non può capire.
 
-    **Temi:** la critica alla modernità e alla civiltà delle macchine; il mito
-    (dannunziano e futurista) della velocità; l'alienazione dell'uomo.
+        **Temi:** la critica alla modernità e alla civiltà delle macchine; il mito
+        (dannunziano e futurista) della velocità; l'alienazione dell'uomo.
 
-**Significato e temi:** il brano sottopone a critica il **mito della velocità** e
-delle macchine, esaltato da **D'Annunzio** e dai **futuristi**, mostrandone i
-risvolti negativi. La contrapposizione fra la **carrozzella** (il passato, la
-lentezza che permette di vedere e contemplare) e l'**automobile** (la modernità,
-la vertigine che annulla la realtà) traduce in immagine il tema centrale del
-romanzo: l'**alienazione** dell'uomo nella civiltà industriale, dove il
-meccanismo «inebria» e travolge senza che l'uomo lo voglia o lo comprenda. Lo
-stesso Serafino, «operatore» ridotto a mano che gira la manovella, è la vittima
-di quella civiltà delle macchine di cui qui denuncia l'illusione di progresso.
+    **Significato e temi:** il brano sottopone a critica il **mito della velocità** e
+    delle macchine, esaltato da **D'Annunzio** e dai **futuristi**, mostrandone i
+    risvolti negativi. La contrapposizione fra la **carrozzella** (il passato, la
+    lentezza che permette di vedere e contemplare) e l'**automobile** (la modernità,
+    la vertigine che annulla la realtà) traduce in immagine il tema centrale del
+    romanzo: l'**alienazione** dell'uomo nella civiltà industriale, dove il
+    meccanismo «inebria» e travolge senza che l'uomo lo voglia o lo comprenda. Lo
+    stesso Serafino, «operatore» ridotto a mano che gira la manovella, è la vittima
+    di quella civiltà delle macchine di cui qui denuncia l'illusione di progresso.
 
 </div>
 
@@ -449,39 +449,39 @@ natura.
 - **La «cura» distruttiva**: la liberazione dalla maschera coincide con la rinuncia
   a se stessi e con una forma di lucida follia.
 
-#### *Nessun nome*
+??? brano "*Nessun nome*"
 
-La pagina conclusiva del romanzo. Dopo essere stato ferito a colpi di rivoltella
-da **Anna Rosa** (assolta perché giudicata in stato di raptus), Moscarda rinuncia
-a ogni proprietà e si ritira in un **ospizio** di campagna da lui stesso fondato,
-giungendo alla rinuncia totale di sé.
+    La pagina conclusiva del romanzo. Dopo essere stato ferito a colpi di rivoltella
+    da **Anna Rosa** (assolta perché giudicata in stato di raptus), Moscarda rinuncia
+    a ogni proprietà e si ritira in un **ospizio** di campagna da lui stesso fondato,
+    giungendo alla rinuncia totale di sé.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Guarito dalla ferita e ottenuta l'assoluzione di Anna Rosa, Moscarda dona tutti
-    i suoi beni alla fondazione di un **ospizio di mendicità**, dove va a vivere lui
-    stesso, povero fra i poveri. Compie l'ultimo passo: **rinuncia al proprio
-    nome**. Un nome, riflette, è solo l'**epitaffio** di chi è concluso, morto: «è
-    di chi muore». Egli invece **non vuole concludere**: «Io sono vivo e non
-    concludo». Rifiuta perciò ogni identità fissa, ogni forma, ogni coscienza di sé
-    e del passato: «**Muoio ogni attimo, io, e rinasco nuovo e senza ricordi: vivo
-    e intero, non più in me, ma in ogni cosa fuori**». Vive ormai attimo per attimo,
-    fuori di sé, fuso con gli alberi, le nuvole, l'acqua: «**Nessun nome. Nessun
-    ricordo oggi del nome di ieri; del nome d'oggi, domani**». La campana che suona
-    in lontananza è viva solo perché lui, vivo, la ascolta: «così son fuori, nell'aria».
+        Guarito dalla ferita e ottenuta l'assoluzione di Anna Rosa, Moscarda dona tutti
+        i suoi beni alla fondazione di un **ospizio di mendicità**, dove va a vivere lui
+        stesso, povero fra i poveri. Compie l'ultimo passo: **rinuncia al proprio
+        nome**. Un nome, riflette, è solo l'**epitaffio** di chi è concluso, morto: «è
+        di chi muore». Egli invece **non vuole concludere**: «Io sono vivo e non
+        concludo». Rifiuta perciò ogni identità fissa, ogni forma, ogni coscienza di sé
+        e del passato: «**Muoio ogni attimo, io, e rinasco nuovo e senza ricordi: vivo
+        e intero, non più in me, ma in ogni cosa fuori**». Vive ormai attimo per attimo,
+        fuori di sé, fuso con gli alberi, le nuvole, l'acqua: «**Nessun nome. Nessun
+        ricordo oggi del nome di ieri; del nome d'oggi, domani**». La campana che suona
+        in lontananza è viva solo perché lui, vivo, la ascolta: «così son fuori, nell'aria».
 
-    **Temi:** il rifiuto totale dell'identità e del nome; il vivere attimo per
-    attimo, senza memoria; la fusione panica dell'io con la natura.
+        **Temi:** il rifiuto totale dell'identità e del nome; il vivere attimo per
+        attimo, senza memoria; la fusione panica dell'io con la natura.
 
-**Significato e temi:** la pagina porta alle estreme conseguenze il **vitalismo**
-pirandelliano. Il nome è la prima e più tenace delle «**forme**» che imprigionano
-la vita: rinunciarvi significa rifiutare ogni identità conclusa per restituirsi al
-**flusso** incessante del vivere. La condizione di Moscarda — «vivo e non concludo»
-— è insieme una **liberazione** estatica (la fusione con la natura, il rinascere a
-ogni istante) e l'**annullamento** dell'io, una guarigione che coincide con la
-follia o con una sorta di morte alla vita sociale. È l'approdo opposto e speculare
-a quello di [Mattia Pascal](#il-fu-mattia-pascal-1904): là la perdita dell'identità
-era una **trappola** disperata, qui è scelta liberatoria e mistica.
+    **Significato e temi:** la pagina porta alle estreme conseguenze il **vitalismo**
+    pirandelliano. Il nome è la prima e più tenace delle «**forme**» che imprigionano
+    la vita: rinunciarvi significa rifiutare ogni identità conclusa per restituirsi al
+    **flusso** incessante del vivere. La condizione di Moscarda — «vivo e non concludo»
+    — è insieme una **liberazione** estatica (la fusione con la natura, il rinascere a
+    ogni istante) e l'**annullamento** dell'io, una guarigione che coincide con la
+    follia o con una sorta di morte alla vita sociale. È l'approdo opposto e speculare
+    a quello di [Mattia Pascal](#il-fu-mattia-pascal-1904): là la perdita dell'identità
+    era una **trappola** disperata, qui è scelta liberatoria e mistica.
 
 </div>
 
@@ -502,44 +502,44 @@ la **parte** del marito era solo **sfidare**; **battersi** tocca all'amante. Man
 Guido a duellare al suo posto — «Io, marito, ho sfidato… ti batti tu!» —, e Guido
 muore. Leone resta a casa, impassibile, a fare colazione.
 
-#### *Il rovesciamento del dramma borghese*
+??? brano "*Il rovesciamento del dramma borghese*"
 
-Tre momenti del dramma (atto I, sc. III; atto II, sc. IX; atto III, sc. III-IV).
-Pirandello smonta il classico **triangolo borghese** (marito-moglie-amante) e la
-sua attesa conclusione tragica.
+    Tre momenti del dramma (atto I, sc. III; atto II, sc. IX; atto III, sc. III-IV).
+    Pirandello smonta il classico **triangolo borghese** (marito-moglie-amante) e la
+    sua attesa conclusione tragica.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Nella **sc. III dell'atto I**, Leone espone a Guido la propria filosofia: aver
-    «**capito il giuoco**» della vita significa **vuotarsi** dei sentimenti per non
-    esserne travolti, prendere ogni evento come un **uovo** da svuotare e di cui
-    conservare solo il «**pernio**», il concetto a cui aggrapparsi, giocando poi col
-    guscio vuoto. Si è imposto la «parte» del marito, ma **«m'astraggo»**: non vi
-    mette più nulla di sé. Nella **sc. IX dell'atto II**, alla vigilia del duello,
-    Silia oscilla tra angoscia, ammirazione e paura di fronte alla calma di Leone,
-    che le confessa di essersi «vuotato» perfino del desiderio di ucciderla: dòma i
-    propri istinti come un **domatore** le belve. Nell'**atto III**, all'alba, Leone
-    si presenta in pigiama, placidissimo, e annuncia che **non si batterà**: la sua
-    parte di marito era **sfidare**, ma a **battersi** tocca all'amante — «non mi
-    batto io, ti batti tu!». Guido, allibito, è costretto dalla logica del «giuoco
-    delle parti» ad andare al duello al posto di Leone, che resta a **fare
-    colazione**. Guido viene ucciso da Miglioriti; Silia, sopraffatta,
-    comprende troppo tardi di essere caduta nella propria trappola.
+        Nella **sc. III dell'atto I**, Leone espone a Guido la propria filosofia: aver
+        «**capito il giuoco**» della vita significa **vuotarsi** dei sentimenti per non
+        esserne travolti, prendere ogni evento come un **uovo** da svuotare e di cui
+        conservare solo il «**pernio**», il concetto a cui aggrapparsi, giocando poi col
+        guscio vuoto. Si è imposto la «parte» del marito, ma **«m'astraggo»**: non vi
+        mette più nulla di sé. Nella **sc. IX dell'atto II**, alla vigilia del duello,
+        Silia oscilla tra angoscia, ammirazione e paura di fronte alla calma di Leone,
+        che le confessa di essersi «vuotato» perfino del desiderio di ucciderla: dòma i
+        propri istinti come un **domatore** le belve. Nell'**atto III**, all'alba, Leone
+        si presenta in pigiama, placidissimo, e annuncia che **non si batterà**: la sua
+        parte di marito era **sfidare**, ma a **battersi** tocca all'amante — «non mi
+        batto io, ti batti tu!». Guido, allibito, è costretto dalla logica del «giuoco
+        delle parti» ad andare al duello al posto di Leone, che resta a **fare
+        colazione**. Guido viene ucciso da Miglioriti; Silia, sopraffatta,
+        comprende troppo tardi di essere caduta nella propria trappola.
 
-    **Temi:** lo svuotamento del dramma borghese; la vita ridotta a «giuoco delle
-    parti»; il distacco lucido e disumano del «filosofo» Leone.
+        **Temi:** lo svuotamento del dramma borghese; la vita ridotta a «giuoco delle
+        parti»; il distacco lucido e disumano del «filosofo» Leone.
 
-**Significato e temi:** Pirandello attua qui il **«rovesciamento del dramma
-borghese»**: il consueto triangolo adulterino, che il teatro ottocentesco risolveva
-con il marito vendicatore o tradito, è smontato e rivolto contro le sue stesse
-convenzioni. Leone non è né geloso né vittima: ha ridotto la vita a un freddo
-**«giuoco delle parti»** in cui ciascuno recita un ruolo fisso, e proprio applicando
-fino in fondo la **logica** delle parti — il marito sfida, l'amante si batte —
-trasforma la **forma** vuota in un'arma e fa morire il rivale al proprio posto. Il
-**vuotarsi** dei sentimenti, la **maschera** indossata con lucidità, l'opposizione
-tra **vita** (Silia, «piena di vita» e d'infelicità) e **forma** (Leone, astratto e
-impassibile) fanno del dramma una messa in scena dei nodi teorici de *L'umorismo*:
-il distacco del «filosofo» si rivela una forma di **disumana crudeltà**.
+    **Significato e temi:** Pirandello attua qui il **«rovesciamento del dramma
+    borghese»**: il consueto triangolo adulterino, che il teatro ottocentesco risolveva
+    con il marito vendicatore o tradito, è smontato e rivolto contro le sue stesse
+    convenzioni. Leone non è né geloso né vittima: ha ridotto la vita a un freddo
+    **«giuoco delle parti»** in cui ciascuno recita un ruolo fisso, e proprio applicando
+    fino in fondo la **logica** delle parti — il marito sfida, l'amante si batte —
+    trasforma la **forma** vuota in un'arma e fa morire il rivale al proprio posto. Il
+    **vuotarsi** dei sentimenti, la **maschera** indossata con lucidità, l'opposizione
+    tra **vita** (Silia, «piena di vita» e d'infelicità) e **forma** (Leone, astratto e
+    impassibile) fanno del dramma una messa in scena dei nodi teorici de *L'umorismo*:
+    il distacco del «filosofo» si rivela una forma di **disumana crudeltà**.
 
 </div>
 
@@ -560,43 +560,43 @@ nell'**atelier-casa d'appuntamenti di Madama Pace**, dove il Padre, ignaro, sta 
 quella «scena cruciale» da parte degli **attori** rivela però l'**incolmabile
 distanza** tra il personaggio e la sua messa in scena.
 
-#### *La rappresentazione teatrale tradisce il personaggio*
+??? brano "*La rappresentazione teatrale tradisce il personaggio*"
 
-Il Capocomico fa rivivere al Padre e alla Figliastra la scena dell'incontro nell'atelier di Madama Pace, per ricavarne il copione che gli **attori** dovranno poi recitare. Ma quando il **Primo Attore** e la **Prima Attrice** provano a ripeterla, i personaggi non vi si riconoscono.
+    Il Capocomico fa rivivere al Padre e alla Figliastra la scena dell'incontro nell'atelier di Madama Pace, per ricavarne il copione che gli **attori** dovranno poi recitare. Ma quando il **Primo Attore** e la **Prima Attrice** provano a ripeterla, i personaggi non vi si riconoscono.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Il **Padre** e la **Figliastra** rivivono dinanzi alla compagnia la scena
-    dell'atelier: l'uomo, fingendo di voler comprare un cappellino, scopre sotto la
-    veletta il viso giovanissimo della ragazza, che reprime a stento il ribrezzo,
-    mentre la **Madre**, in disparte, assiste all'orrore con gemiti soffocati. La
-    scena, intima e tragica, scivola in un dettaglio **grottesco** — il cappellino,
-    il lutto della ragazza — finché il **Capocomico** la interrompe, soddisfatto, per
-    farla ora **ripetere dagli attori**. Il **Primo Attore** e la **Prima Attrice**
-    rifanno gli stessi gesti e le stesse battute, ma il risultato «appare fin dalle
-    prime battute un'altra cosa»: una **parodia** «rimessa in bello», con un tono da
-    «vecchietto galante» e una falsa disinvoltura. La **Figliastra** non riesce a
-    trattenere le **risate**; il Padre interrompe sgomento: gli attori «non sono
-    noi». Dice una cosa che «**diventa di loro; e non più nostra**». Il Capocomico,
-    infastidito, ribatte che è inevitabile, perché «loro» sono gli attori, e decide
-    di proseguire le prove **senza i personaggi**.
+        Il **Padre** e la **Figliastra** rivivono dinanzi alla compagnia la scena
+        dell'atelier: l'uomo, fingendo di voler comprare un cappellino, scopre sotto la
+        veletta il viso giovanissimo della ragazza, che reprime a stento il ribrezzo,
+        mentre la **Madre**, in disparte, assiste all'orrore con gemiti soffocati. La
+        scena, intima e tragica, scivola in un dettaglio **grottesco** — il cappellino,
+        il lutto della ragazza — finché il **Capocomico** la interrompe, soddisfatto, per
+        farla ora **ripetere dagli attori**. Il **Primo Attore** e la **Prima Attrice**
+        rifanno gli stessi gesti e le stesse battute, ma il risultato «appare fin dalle
+        prime battute un'altra cosa»: una **parodia** «rimessa in bello», con un tono da
+        «vecchietto galante» e una falsa disinvoltura. La **Figliastra** non riesce a
+        trattenere le **risate**; il Padre interrompe sgomento: gli attori «non sono
+        noi». Dice una cosa che «**diventa di loro; e non più nostra**». Il Capocomico,
+        infastidito, ribatte che è inevitabile, perché «loro» sono gli attori, e decide
+        di proseguire le prove **senza i personaggi**.
 
-    **Temi:** l'impossibilità di rappresentare il dramma; il grottesco come fusione
-    di tragico e comico; la polemica contro il teatro del tempo; l'impossibilità di
-    comunicare.
+        **Temi:** l'impossibilità di rappresentare il dramma; il grottesco come fusione
+        di tragico e comico; la polemica contro il teatro del tempo; l'impossibilità di
+        comunicare.
 
-**Significato e temi:** il brano è il **nucleo metateatrale** dell'opera. La
-**verità viva** del personaggio — fissata per sempre nella sua sofferenza — non può
-essere **tradotta sul palcoscenico** senza essere tradita: gli attori, con i loro
-ruoli e le loro convenzioni, la «rimettono in bello» e la trasformano in **finzione
-caricaturale**. Si rivela così l'**impossibilità di rappresentare il dramma** e, più
-in generale, di **comunicare**: ciò che per il Padre è realtà assoluta, agli attori
-appare «un'altra cosa», che «diventa di loro e non più nostra». Il continuo
-scivolare del tragico nel comico — la scena straziante guastata dal cappellino,
-dalle risa della Figliastra — è il **grottesco** pirandelliano, intima fusione di
-pianto e riso. E nell'attrito tra personaggi e compagnia si consuma la **polemica
-contro il teatro tradizionale**, incapace di dare forma alla vita senza
-ucciderla.
+    **Significato e temi:** il brano è il **nucleo metateatrale** dell'opera. La
+    **verità viva** del personaggio — fissata per sempre nella sua sofferenza — non può
+    essere **tradotta sul palcoscenico** senza essere tradita: gli attori, con i loro
+    ruoli e le loro convenzioni, la «rimettono in bello» e la trasformano in **finzione
+    caricaturale**. Si rivela così l'**impossibilità di rappresentare il dramma** e, più
+    in generale, di **comunicare**: ciò che per il Padre è realtà assoluta, agli attori
+    appare «un'altra cosa», che «diventa di loro e non più nostra». Il continuo
+    scivolare del tragico nel comico — la scena straziante guastata dal cappellino,
+    dalle risa della Figliastra — è il **grottesco** pirandelliano, intima fusione di
+    pianto e riso. E nell'attrito tra personaggi e compagnia si consuma la **polemica
+    contro il teatro tradizionale**, incapace di dare forma alla vita senza
+    ucciderla.
 
 </div>
 
@@ -618,45 +618,45 @@ amore), la figlia **Frida**, il nipote **Di Nolli**, il rivale **Belcredi** e un
 **Dottore** tentano di **curarlo** con una messinscena, smascherando senza volerlo
 la tragedia.
 
-#### *Il «filosofo» mancato e la tragedia impossibile* (atto III)
+??? brano "*Il «filosofo» mancato e la tragedia impossibile* (atto III)"
 
-La parte finale del dramma, dopo che è stato svelato a tutti che il protagonista è **guarito da tempo** e che la sua follia è ormai una **maschera consapevole**.
+    La parte finale del dramma, dopo che è stato svelato a tutti che il protagonista è **guarito da tempo** e che la sua follia è ormai una **maschera consapevole**.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Smascherato, «Enrico IV» rivela ai presenti di essere **lucido da anni**:
-    rinsavito un giorno per caso, ha scelto di restare nella **finzione della
-    pazzia** per non tornare in una vita che, dopo dodici anni perduti, gli era
-    ormai «impossibile». Da quella reclusione lucidissima rimprovera agli altri di
-    aver continuato a **mascherarsi senza saperlo**, recitando ogni giorno la
-    «**carnevalata**» dell'esistenza: lui almeno conosce la propria maschera e la
-    indossa per sua scelta, «pagliacci involontari» sono semmai loro. Rinfaccia a
-    **Belcredi** di avergli rovinato la vita facendolo cadere da cavallo, e si volge
-    con desiderio a **Frida**, in cui rivede l'immagine giovane di Donna Matilde:
-    l'abbraccia gridando «**sei mia! mia! di diritto mia!**». Quando Belcredi accorre
-    e gli grida che **non è pazzo**, Enrico IV, **fulmineamente**, gli strappa la
-    spada al fianco e lo **ferisce a morte** al ventre. Mentre Belcredi viene
-    portato via gridando «Non è pazzo!», il protagonista resta sulla scena
-    **esterrefatto**, costretto ora dalla propria finzione, che lo ha trascinato a un
-    **delitto vero**, a restare «Enrico IV» **per sempre**: chiama attorno a sé i
-    quattro consiglieri — «qua insieme, qua insieme… e per sempre!».
+        Smascherato, «Enrico IV» rivela ai presenti di essere **lucido da anni**:
+        rinsavito un giorno per caso, ha scelto di restare nella **finzione della
+        pazzia** per non tornare in una vita che, dopo dodici anni perduti, gli era
+        ormai «impossibile». Da quella reclusione lucidissima rimprovera agli altri di
+        aver continuato a **mascherarsi senza saperlo**, recitando ogni giorno la
+        «**carnevalata**» dell'esistenza: lui almeno conosce la propria maschera e la
+        indossa per sua scelta, «pagliacci involontari» sono semmai loro. Rinfaccia a
+        **Belcredi** di avergli rovinato la vita facendolo cadere da cavallo, e si volge
+        con desiderio a **Frida**, in cui rivede l'immagine giovane di Donna Matilde:
+        l'abbraccia gridando «**sei mia! mia! di diritto mia!**». Quando Belcredi accorre
+        e gli grida che **non è pazzo**, Enrico IV, **fulmineamente**, gli strappa la
+        spada al fianco e lo **ferisce a morte** al ventre. Mentre Belcredi viene
+        portato via gridando «Non è pazzo!», il protagonista resta sulla scena
+        **esterrefatto**, costretto ora dalla propria finzione, che lo ha trascinato a un
+        **delitto vero**, a restare «Enrico IV» **per sempre**: chiama attorno a sé i
+        quattro consiglieri — «qua insieme, qua insieme… e per sempre!».
 
-    **Temi:** la pazzia come maschera lucida e scelta; il mascheramento dell'eroe;
-    la critica ai meccanismi della società; l'impossibilità della tragedia nel mondo
-    moderno.
+        **Temi:** la pazzia come maschera lucida e scelta; il mascheramento dell'eroe;
+        la critica ai meccanismi della società; l'impossibilità della tragedia nel mondo
+        moderno.
 
-**Significato e temi:** Enrico IV è il «**filosofo**» pirandelliano per
-eccellenza: ha **capito il giuoco** della vita — che ognuno recita una parte e
-indossa una maschera — e ne trae l'estrema conseguenza, scegliendo
-**consapevolmente** la propria, la sola «forma» entro cui sentirsi libero dal
-divenire. La sua è una pazzia **lucida e volontaria**, contrapposta alla follia
-inconsapevole di chi vive «agitatamente» senza accorgersi della propria. Ma il
-finale dice perché la sua è una **tragedia impossibile**: tornato a contatto con la
-**vita** (la passione per Frida, l'odio per Belcredi), il «filosofo» perde il
-distacco e si lascia trascinare al **delitto**; e proprio l'omicidio lo **inchioda
-per sempre** dietro la maschera, che da rifugio scelto diventa **condanna**. Non c'è
-catarsi, non c'è eroe tragico possibile nel mondo moderno: resta solo l'uomo
-**murato vivo** nella propria finzione, in un'eternità di maschera.
+    **Significato e temi:** Enrico IV è il «**filosofo**» pirandelliano per
+    eccellenza: ha **capito il giuoco** della vita — che ognuno recita una parte e
+    indossa una maschera — e ne trae l'estrema conseguenza, scegliendo
+    **consapevolmente** la propria, la sola «forma» entro cui sentirsi libero dal
+    divenire. La sua è una pazzia **lucida e volontaria**, contrapposta alla follia
+    inconsapevole di chi vive «agitatamente» senza accorgersi della propria. Ma il
+    finale dice perché la sua è una **tragedia impossibile**: tornato a contatto con la
+    **vita** (la passione per Frida, l'odio per Belcredi), il «filosofo» perde il
+    distacco e si lascia trascinare al **delitto**; e proprio l'omicidio lo **inchioda
+    per sempre** dietro la maschera, che da rifugio scelto diventa **condanna**. Non c'è
+    catarsi, non c'è eroe tragico possibile nel mondo moderno: resta solo l'uomo
+    **murato vivo** nella propria finzione, in un'eternità di maschera.
 
 </div>
 

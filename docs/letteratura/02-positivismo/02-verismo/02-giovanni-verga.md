@@ -306,6 +306,8 @@ gli ultimi due rimasero **semplici titoli e progetti**. Più saliva nella scala
 sociale, più il mondo da rappresentare si faceva **complesso e lontano** dalla
 sua esperienza diretta, e l'opera si arrestò.
 
+<div class="opera" markdown>
+
 ### *I Malavoglia* (1881)
 
 È la storia dei Toscano, detti "Malavoglia", una famiglia di pescatori di **Aci
@@ -363,111 +365,115 @@ famiglia, fino al riscatto finale della casa del nespolo da parte di Alessi.
   altri abitanti del villaggio. È qui che la tecnica dell'impersonalità raggiunge
   il suo punto più alto.
 
-#### *Il mondo arcaico e l'irruzione della storia* (cap. I)
+??? brano "*Il mondo arcaico e l'irruzione della storia* (cap. I)"
 
-Le **pagine d'apertura** del romanzo presentano il mondo statico e arcaico di
-Aci Trezza prima che la storia moderna ne incrini l'equilibrio.
+    Le **pagine d'apertura** del romanzo presentano il mondo statico e arcaico di
+    Aci Trezza prima che la storia moderna ne incrini l'equilibrio.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Il narratore presenta la famiglia dei **Toscano**, detti i *Malavoglia*,
-    «un tempo numerosi come i sassi della strada vecchia di Trezza»: brava gente
-    di mare, da sempre con barche sull'acqua e tegole al sole. Il loro mondo è
-    retto da valori antichi e immutabili, condensati nei **proverbi di padron
-    'Ntoni**: «gli uomini son fatti come le dita della mano» e «per menare il
-    remo bisogna che le cinque dita s'aiutino l'un l'altro». La famiglia è
-    «realmente disposta come le dita della mano», in rigida gerarchia: il nonno
-    **padron 'Ntoni** a capo, il figlio **Bastianazzo** sposato con **Maruzza**
-    detta «la Longa», e i nipoti in ordine di anzianità — **'Ntoni**, **Luca**,
-    **Mena** («Sant'Agata»), **Alessi** e **Lia**. La «casa del nespolo»
-    **prospera** e padron 'Ntoni passa per «testa quadra».
+        Il narratore presenta la famiglia dei **Toscano**, detti i *Malavoglia*,
+        «un tempo numerosi come i sassi della strada vecchia di Trezza»: brava gente
+        di mare, da sempre con barche sull'acqua e tegole al sole. Il loro mondo è
+        retto da valori antichi e immutabili, condensati nei **proverbi di padron
+        'Ntoni**: «gli uomini son fatti come le dita della mano» e «per menare il
+        remo bisogna che le cinque dita s'aiutino l'un l'altro». La famiglia è
+        «realmente disposta come le dita della mano», in rigida gerarchia: il nonno
+        **padron 'Ntoni** a capo, il figlio **Bastianazzo** sposato con **Maruzza**
+        detta «la Longa», e i nipoti in ordine di anzianità — **'Ntoni**, **Luca**,
+        **Mena** («Sant'Agata»), **Alessi** e **Lia**. La «casa del nespolo»
+        **prospera** e padron 'Ntoni passa per «testa quadra».
 
-    In questo mondo immobile **irrompe la storia**: nel dicembre 1863 il nipote
-    **'Ntoni** è chiamato alla **leva di mare**, il servizio militare imposto dal
-    nuovo Stato unitario. Padron 'Ntoni non comprende quella legge venuta da
-    lontano, mentre il villaggio si divide discutendo di tasse e di «repubblica»
-    (don Giammaria, don Franco lo speziale, don Silvestro il segretario). La
-    partenza di 'Ntoni — la **scena dell'addio** alla stazione di Aci Castello,
-    il treno, i saluti gridati, lo sguardo rubato a **Sara di comare Tudda** —
-    segna il primo strappo nell'equilibrio familiare e l'inizio delle disgrazie.
+        In questo mondo immobile **irrompe la storia**: nel dicembre 1863 il nipote
+        **'Ntoni** è chiamato alla **leva di mare**, il servizio militare imposto dal
+        nuovo Stato unitario. Padron 'Ntoni non comprende quella legge venuta da
+        lontano, mentre il villaggio si divide discutendo di tasse e di «repubblica»
+        (don Giammaria, don Franco lo speziale, don Silvestro il segretario). La
+        partenza di 'Ntoni — la **scena dell'addio** alla stazione di Aci Castello,
+        il treno, i saluti gridati, lo sguardo rubato a **Sara di comare Tudda** —
+        segna il primo strappo nell'equilibrio familiare e l'inizio delle disgrazie.
 
-**Temi:** il brano oppone il **mondo arcaico** (la famiglia, il lavoro, i
-proverbi, il tempo ciclico di Aci Trezza) all'**irruzione della storia** (lo
-Stato unitario, la leva, le tasse, la modernità) che lo sgretola. Spiccano la
-tecnica dell'**impersonalità** e dello **straniamento**: il narratore è calato
-fra i personaggi e parla come uno di loro, e la sapienza popolare dei proverbi fa
-da «coro» al racconto.
+    **Temi:** il brano oppone il **mondo arcaico** (la famiglia, il lavoro, i
+    proverbi, il tempo ciclico di Aci Trezza) all'**irruzione della storia** (lo
+    Stato unitario, la leva, le tasse, la modernità) che lo sgretola. Spiccano la
+    tecnica dell'**impersonalità** e dello **straniamento**: il narratore è calato
+    fra i personaggi e parla come uno di loro, e la sapienza popolare dei proverbi fa
+    da «coro» al racconto.
 
-#### *I Malavoglia e la dimensione economica* (cap. VII)
+??? brano "*I Malavoglia e la dimensione economica* (cap. VII)"
 
-Riparata la *Provvidenza*, i Malavoglia non sono più costretti a lavorare «a
-giornata» e tornano a sperare in un miglioramento: il brano mostra la loro
-**economia domestica** e l'etica che la regge.
+    Riparata la *Provvidenza*, i Malavoglia non sono più costretti a lavorare «a
+    giornata» e tornano a sperare in un miglioramento: il brano mostra la loro
+    **economia domestica** e l'etica che la regge.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Tornata in mare la barca, **padron 'Ntoni** organizza minuziosamente l'economia
-    della famiglia: pagare il **debito** dei lupini coi primi guadagni, fare la
-    **provvista del sale** prima che ci mettano il dazio, vendere al mercato le
-    **uova** delle galline e la **tela di Mena**. Ogni piccola cosa «fa danari», e
-    tutti — Maruzza, Mena, Alessi — collaborano nella stessa tenace economia di
-    sussistenza, ispirata al lavoro, al risparmio e all'unità del **nido** («Tutta
-    questa roba fa danari… e non ci manderanno più via dalla nostra casa. *Casa
-    mia, madre mia*»). 'Ntoni rifiuta però di indebitarsi ancora con l'usuraio
-    **zio Crocifisso** («non me lo dice il cuore, dopo l'affare dei lupini»), e la
-    Longa rincara: «i danari dello zio Crocifisso portano disgrazia». Resta spazio
-    anche per la **solidarietà**: Maruzza manda qualche fava alla povera Locca.
+        Tornata in mare la barca, **padron 'Ntoni** organizza minuziosamente l'economia
+        della famiglia: pagare il **debito** dei lupini coi primi guadagni, fare la
+        **provvista del sale** prima che ci mettano il dazio, vendere al mercato le
+        **uova** delle galline e la **tela di Mena**. Ogni piccola cosa «fa danari», e
+        tutti — Maruzza, Mena, Alessi — collaborano nella stessa tenace economia di
+        sussistenza, ispirata al lavoro, al risparmio e all'unità del **nido** («Tutta
+        questa roba fa danari… e non ci manderanno più via dalla nostra casa. *Casa
+        mia, madre mia*»). 'Ntoni rifiuta però di indebitarsi ancora con l'usuraio
+        **zio Crocifisso** («non me lo dice il cuore, dopo l'affare dei lupini»), e la
+        Longa rincara: «i danari dello zio Crocifisso portano disgrazia». Resta spazio
+        anche per la **solidarietà**: Maruzza manda qualche fava alla povera Locca.
 
-    Sullo sfondo avanza però la **modernità economica** che minaccia quel mondo: i
-    nuovi **dazi** sul sale e sulla pece, e soprattutto la **ferrovia** (il fischio
-    della macchina, i carrozzoni che sbucano dal colle) e i **vapori**, che
-    «spaventano» le acciughe. Conclude sconsolato padron Cipolla: «la ferrovia da
-    una parte e i vapori dall'altra. A Trezza non ci si può più vivere!».
+        Sullo sfondo avanza però la **modernità economica** che minaccia quel mondo: i
+        nuovi **dazi** sul sale e sulla pece, e soprattutto la **ferrovia** (il fischio
+        della macchina, i carrozzoni che sbucano dal colle) e i **vapori**, che
+        «spaventano» le acciughe. Conclude sconsolato padron Cipolla: «la ferrovia da
+        una parte e i vapori dall'altra. A Trezza non ci si può più vivere!».
 
-**Temi:** il brano illumina la **dimensione economica** del romanzo. I Malavoglia
-vivono un'economia **pre-capitalistica** e di sussistenza, retta da una
-**mentalità etica** in cui la «roba» serve a difendere la casa e la famiglia, non
-ad arricchirsi. A questa etica si contrappongono la **logica dell'interesse** e
-del denaro (l'usura dello zio Crocifisso) e l'avanzare della **modernità** (tasse,
-dazi, ferrovia, vapori), che travolgerà il mondo arcaico di Aci Trezza: è la
-**«fiumana del progresso»** osservata dal basso.
+    **Temi:** il brano illumina la **dimensione economica** del romanzo. I Malavoglia
+    vivono un'economia **pre-capitalistica** e di sussistenza, retta da una
+    **mentalità etica** in cui la «roba» serve a difendere la casa e la famiglia, non
+    ad arricchirsi. A questa etica si contrappongono la **logica dell'interesse** e
+    del denaro (l'usura dello zio Crocifisso) e l'avanzare della **modernità** (tasse,
+    dazi, ferrovia, vapori), che travolgerà il mondo arcaico di Aci Trezza: è la
+    **«fiumana del progresso»** osservata dal basso.
 
-#### *La conclusione del romanzo: l'addio al mondo pre-moderno* (cap. XV)
+??? brano "*La conclusione del romanzo: l'addio al mondo pre-moderno* (cap. XV)"
 
-L'ultimo capitolo: uscito di prigione e ormai **cambiato**, 'Ntoni torna di notte
-alla casa del nespolo riscattata da Alessi, ma capisce di **non appartenervi più**.
+    L'ultimo capitolo: uscito di prigione e ormai **cambiato**, 'Ntoni torna di notte
+    alla casa del nespolo riscattata da Alessi, ma capisce di **non appartenervi più**.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Il «nido» è stato ricostruito: **Alessi** ha sposato la **Nunziata** e ha
-    **riscattato la casa del nespolo**, con le galline, il vitello e gli attrezzi
-    appesi, come voleva padron 'Ntoni; **Mena**, disonorata di riflesso, ha
-    rinunciato per sempre alle nozze e si è chiusa in soffitta «come le casseruole
-    vecchie», ad allevare i nipoti. **Padron 'Ntoni** è morto, solo, all'ospedale,
-    lontano da Trezza.
+        Il «nido» è stato ricostruito: **Alessi** ha sposato la **Nunziata** e ha
+        **riscattato la casa del nespolo**, con le galline, il vitello e gli attrezzi
+        appesi, come voleva padron 'Ntoni; **Mena**, disonorata di riflesso, ha
+        rinunciato per sempre alle nozze e si è chiusa in soffitta «come le casseruole
+        vecchie», ad allevare i nipoti. **Padron 'Ntoni** è morto, solo, all'ospedale,
+        lontano da Trezza.
 
-    Una notte **'Ntoni**, irriconoscibile (barba lunga, coperto di polvere), torna
-    alla casa: mangia in silenzio, gira per le stanze rivedendo ogni cosa al suo
-    posto, ma sente di **non poter restare**. Chiede del nonno e della sorella
-    **Lia** (fuggita e perduta) e ottiene solo silenzio; rifiuta il letto che gli
-    hanno preparato. «Ora che so ogni cosa devo andarmene», ripete: ha conosciuto
-    il mondo e ne è ormai **escluso**. All'alba riprende la sporta e **riparte**.
-    In mezzo alla piazza buia si ferma ad ascoltare il mare e a guardare le stelle
-    — i **Tre Re** (Orione) e la **Puddara** (le Pleiadi) — come tante volte da
-    ragazzo; poi, quando il paese comincia a svegliarsi (Rocco Spatu, lo zio
-    Santoro), se ne va per sempre: «Ora è tempo d'andarmene, perché fra poco
-    comincerà a passar gente».
+        Una notte **'Ntoni**, irriconoscibile (barba lunga, coperto di polvere), torna
+        alla casa: mangia in silenzio, gira per le stanze rivedendo ogni cosa al suo
+        posto, ma sente di **non poter restare**. Chiede del nonno e della sorella
+        **Lia** (fuggita e perduta) e ottiene solo silenzio; rifiuta il letto che gli
+        hanno preparato. «Ora che so ogni cosa devo andarmene», ripete: ha conosciuto
+        il mondo e ne è ormai **escluso**. All'alba riprende la sporta e **riparte**.
+        In mezzo alla piazza buia si ferma ad ascoltare il mare e a guardare le stelle
+        — i **Tre Re** (Orione) e la **Puddara** (le Pleiadi) — come tante volte da
+        ragazzo; poi, quando il paese comincia a svegliarsi (Rocco Spatu, lo zio
+        Santoro), se ne va per sempre: «Ora è tempo d'andarmene, perché fra poco
+        comincerà a passar gente».
 
-**Significato e temi:** è l'**addio al mondo pre-moderno**. 'Ntoni, che si è
-«staccato dallo scoglio» e ha conosciuto la città e l'ambizione, non può più
-rientrare nel mondo arcaico della famiglia e del nido: lo ha tradito e ne resta
-**irrimediabilmente escluso**. Prova un **rimpianto** struggente per quel mondo
-ormai irrecuperabile (i ricordi, le stelle, le «chiacchierate» serali «come
-fossimo tutti una famiglia»), ma proprio perché «sa ogni cosa» deve compiere il
-**distacco definitivo**. Il riscatto della casa da parte di Alessi mostra che i
-valori antichi sopravvivono, ma solo per chi vi è rimasto fedele: conferma
-dell'**«ideale dell'ostrica»**. La chiusura è **circolare e malinconica**, affidata
-alla voce «corale» del paese e del mare.
+    **Significato e temi:** è l'**addio al mondo pre-moderno**. 'Ntoni, che si è
+    «staccato dallo scoglio» e ha conosciuto la città e l'ambizione, non può più
+    rientrare nel mondo arcaico della famiglia e del nido: lo ha tradito e ne resta
+    **irrimediabilmente escluso**. Prova un **rimpianto** struggente per quel mondo
+    ormai irrecuperabile (i ricordi, le stelle, le «chiacchierate» serali «come
+    fossimo tutti una famiglia»), ma proprio perché «sa ogni cosa» deve compiere il
+    **distacco definitivo**. Il riscatto della casa da parte di Alessi mostra che i
+    valori antichi sopravvivono, ma solo per chi vi è rimasto fedele: conferma
+    dell'**«ideale dell'ostrica»**. La chiusura è **circolare e malinconica**, affidata
+    alla voce «corale» del paese e del mare.
+
+</div>
+
+<div class="opera" markdown>
 
 ### *Mastro-don Gesualdo* (1889)
 
@@ -497,77 +503,79 @@ soprannominano con disprezzo "Mastro-don".
     giudizi — lo scrittore lascia che «i fatti parlino da sé»: in questo consiste
     il suo realismo.
 
-#### La «rivoluzione» e la commedia dell'interesse (parte IV, cap. II)
+??? brano "La «rivoluzione» e la commedia dell'interesse (parte IV, cap. II)"
 
-Siamo nel **1848**, l'anno delle rivoluzioni europee. Mentre Gesualdo veglia la
-moglie morente, i moti palermitani arrivano anche nel suo paese.
+    Siamo nel **1848**, l'anno delle rivoluzioni europee. Mentre Gesualdo veglia la
+    moglie morente, i moti palermitani arrivano anche nel suo paese.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Mentre **Bianca**, la moglie di Gesualdo, sta morendo, dal paese giunge la
-    notizia: «**Hanno fatto la rivoluzione. C'è la bandiera sul campanile.**»
-    Sono i moti del 1848, sull'onda della rivoluzione scoppiata a Palermo. Ma a
-    Gesualdo della rivoluzione «gliene importa assai»: la vera rivoluzione, dice,
-    ce l'ha **in casa**, al capezzale della moglie. I **notabili** del paese — il
-    **canonico Lupi** travestito da rivoluzionario, il **baronello Rubiera**, il
-    barone **Zacco**, **Mèndola** — lo vanno a sollecitare perché partecipi alla
-    **dimostrazione**, a gridare «viva Pio Nono» e «viva la libertà»: non per
-    ideale, ma per **difendere la roba** dai «villani» che, lasciati soli,
-    finirebbero per saccheggiare le case e impadronirsi delle terre. Gesualdo
-    rifiuta sdegnato, ricordando la **Carboneria del 1821** che non gli aveva
-    fruttato nulla: «Io difendo la mia roba, caro voi! Ho lavorato col mio
-    sudore.»
+        Mentre **Bianca**, la moglie di Gesualdo, sta morendo, dal paese giunge la
+        notizia: «**Hanno fatto la rivoluzione. C'è la bandiera sul campanile.**»
+        Sono i moti del 1848, sull'onda della rivoluzione scoppiata a Palermo. Ma a
+        Gesualdo della rivoluzione «gliene importa assai»: la vera rivoluzione, dice,
+        ce l'ha **in casa**, al capezzale della moglie. I **notabili** del paese — il
+        **canonico Lupi** travestito da rivoluzionario, il **baronello Rubiera**, il
+        barone **Zacco**, **Mèndola** — lo vanno a sollecitare perché partecipi alla
+        **dimostrazione**, a gridare «viva Pio Nono» e «viva la libertà»: non per
+        ideale, ma per **difendere la roba** dai «villani» che, lasciati soli,
+        finirebbero per saccheggiare le case e impadronirsi delle terre. Gesualdo
+        rifiuta sdegnato, ricordando la **Carboneria del 1821** che non gli aveva
+        fruttato nulla: «Io difendo la mia roba, caro voi! Ho lavorato col mio
+        sudore.»
 
-    La **folla** con la bandiera tricolore arriva sotto le finestre gridando
-    «viva!… abbasso!… morte!», e Zacco lo prega di affacciarsi per evitare il
-    peggio. Intanto, nella stanza accanto, **Bianca spira**: Gesualdo, «ridotto
-    un vero cencio», passeggia su e giù ripetendo «**S'è fatta la festa!**» (nel
-    parlato siciliano la «festa» è anche la morte). Il dolore per la moglie ha il
-    sopravvento perfino sul culto della «roba», e Gesualdo «si mette a piangere
-    come un bambino».
+        La **folla** con la bandiera tricolore arriva sotto le finestre gridando
+        «viva!… abbasso!… morte!», e Zacco lo prega di affacciarsi per evitare il
+        peggio. Intanto, nella stanza accanto, **Bianca spira**: Gesualdo, «ridotto
+        un vero cencio», passeggia su e giù ripetendo «**S'è fatta la festa!**» (nel
+        parlato siciliano la «festa» è anche la morte). Il dolore per la moglie ha il
+        sopravvento perfino sul culto della «roba», e Gesualdo «si mette a piangere
+        come un bambino».
 
-**Temi:** Verga mostra una visione **disincantata e pessimistica** della
-politica: nei moti del '48 nessuno è mosso da **ideali**, tutti — possidenti e
-rivoltosi — agiscono solo per **interesse** e per la «roba» (stessa prospettiva
-della novella *Libertà*). La «rivoluzione» diventa una **squallida farsa**, sullo
-sfondo della quale si staglia, con accenti autenticamente **tragici**, il dramma
-privato di Gesualdo.
+    **Temi:** Verga mostra una visione **disincantata e pessimistica** della
+    politica: nei moti del '48 nessuno è mosso da **ideali**, tutti — possidenti e
+    rivoltosi — agiscono solo per **interesse** e per la «roba» (stessa prospettiva
+    della novella *Libertà*). La «rivoluzione» diventa una **squallida farsa**, sullo
+    sfondo della quale si staglia, con accenti autenticamente **tragici**, il dramma
+    privato di Gesualdo.
 
-#### La morte di mastro-don Gesualdo (parte IV, cap. V)
+??? brano "La morte di mastro-don Gesualdo (parte IV, cap. V)"
 
-L'**ultimo capitolo** del romanzo: Gesualdo, malato e prossimo alla morte, vive
-nel palazzo palermitano della figlia Isabella e del genero, il duca di Leyra.
+    L'**ultimo capitolo** del romanzo: Gesualdo, malato e prossimo alla morte, vive
+    nel palazzo palermitano della figlia Isabella e del genero, il duca di Leyra.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Ormai vecchio e **consumato dalla malattia**, Gesualdo è stato sistemato in
-    poche stanze del palazzo del genero, «la **foresteria**», dove la figlia
-    **Isabella** — divenuta **duchessa di Leyra** — va a trovarlo ogni mattina,
-    amorevole ma fredda e distante, tanto che al pover'uomo «sembrava d'essere
-    davvero un forestiero». Dalla finestra Gesualdo osserva con angoscia lo
-    **sperpero** della casa nobiliare: stallieri, cocchieri e domestici oziano,
-    sghignazzano e dilapidano in lussi quel denaro che lui aveva accumulato
-    «palmo a palmo», con sacrifici, lavorando la **roba** — le terre, i mulini,
-    le case che ora «sarebbero passate per quelle mani». Pensa con dolore a
-    quanto bene si sarebbe potuto fare con quel denaro, ora inghiottito dalla
-    vita fastosa del duca «senza dar frutto».
+        Ormai vecchio e **consumato dalla malattia**, Gesualdo è stato sistemato in
+        poche stanze del palazzo del genero, «la **foresteria**», dove la figlia
+        **Isabella** — divenuta **duchessa di Leyra** — va a trovarlo ogni mattina,
+        amorevole ma fredda e distante, tanto che al pover'uomo «sembrava d'essere
+        davvero un forestiero». Dalla finestra Gesualdo osserva con angoscia lo
+        **sperpero** della casa nobiliare: stallieri, cocchieri e domestici oziano,
+        sghignazzano e dilapidano in lussi quel denaro che lui aveva accumulato
+        «palmo a palmo», con sacrifici, lavorando la **roba** — le terre, i mulini,
+        le case che ora «sarebbero passate per quelle mani». Pensa con dolore a
+        quanto bene si sarebbe potuto fare con quel denaro, ora inghiottito dalla
+        vita fastosa del duca «senza dar frutto».
 
-    Sentendo prossima la fine, tenta un ultimo, disperato dialogo con la figlia:
-    le raccomanda di **difendere la roba**, le elenca a una a una le terre che
-    aveva conquistato, e si commuove «come un bambino». Ma fra i due c'è un muro
-    di **incomunicabilità**: Isabella è chiusa, ostile, piena di antico
-    **rancore** (il padre le aveva troncato l'amore giovanile col cugino e
-    imposto il matrimonio col duca), e li separa anche un **segreto** taciuto —
-    Isabella non è figlia di Gesualdo, ma di «un'altra pasta», di razza Trao.
-    Gesualdo muore di notte, **solo**, vegliato a malincuore da un domestico
-    infastidito dai suoi lamenti. I servi ne commentano la morte con
-    **indifferenza** e disprezzo di classe: «Si vede com'era nato… Guardate che
-    mani!» — le mani callose di chi quella ricchezza l'aveva creata. Si chiude a
-    metà il portone «in segno di lutto», perché ormai «è roba di famiglia».
+        Sentendo prossima la fine, tenta un ultimo, disperato dialogo con la figlia:
+        le raccomanda di **difendere la roba**, le elenca a una a una le terre che
+        aveva conquistato, e si commuove «come un bambino». Ma fra i due c'è un muro
+        di **incomunicabilità**: Isabella è chiusa, ostile, piena di antico
+        **rancore** (il padre le aveva troncato l'amore giovanile col cugino e
+        imposto il matrimonio col duca), e li separa anche un **segreto** taciuto —
+        Isabella non è figlia di Gesualdo, ma di «un'altra pasta», di razza Trao.
+        Gesualdo muore di notte, **solo**, vegliato a malincuore da un domestico
+        infastidito dai suoi lamenti. I servi ne commentano la morte con
+        **indifferenza** e disprezzo di classe: «Si vede com'era nato… Guardate che
+        mani!» — le mani callose di chi quella ricchezza l'aveva creata. Si chiude a
+        metà il portone «in segno di lutto», perché ormai «è roba di famiglia».
 
-**Temi:** il brano sigilla il **fallimento umano** di Gesualdo: «vincitore» sul
-piano della «roba», muore da **vinto** sul piano degli affetti, solo ed estraneo
-in casa propria. Vi si contrappongono la **produttività borghese** (il lavoro e i
-sacrifici di Gesualdo) e lo **sperpero aristocratico** (l'ozio del mondo del
-duca), e domina il tema dell'**incomunicabilità tra padre e figlia**, espressione
-del **pessimismo assoluto** di Verga.
+    **Temi:** il brano sigilla il **fallimento umano** di Gesualdo: «vincitore» sul
+    piano della «roba», muore da **vinto** sul piano degli affetti, solo ed estraneo
+    in casa propria. Vi si contrappongono la **produttività borghese** (il lavoro e i
+    sacrifici di Gesualdo) e lo **sperpero aristocratico** (l'ozio del mondo del
+    duca), e domina il tema dell'**incomunicabilità tra padre e figlia**, espressione
+    del **pessimismo assoluto** di Verga.
+
+</div>

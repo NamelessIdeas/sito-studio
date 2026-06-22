@@ -314,6 +314,37 @@ html { scroll-behavior: smooth; }
   border-bottom: 1px solid var(--m3-outline-variant);
 }
 
+/* ---- Schede "brano" collassabili dentro la card .opera --------------------
+   Ogni brano di un'opera è una scheda collassabile (details) interna alla card:
+   il titolo del brano fa da summary cliccabile, il corpo (intro + Riassunto +
+   analisi) si espande sotto. Stile NEUTRO con titolo in secondary-container, così
+   si distingue sia dalla card che lo contiene sia dalle schede accentate interne
+   (Testo viola / Riassunto rosa), che restano in primo piano. */
+:root {
+  --md-admonition-icon--brano: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 2a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h12m0 2h-5v8l-2.5-2.25L8 12V4H6v16h12V4Z"/></svg>');
+}
+.md-typeset .admonition.brano,
+.md-typeset details.brano {
+  border: 1px solid var(--m3-outline-variant);
+}
+.md-typeset .brano > .admonition-title,
+.md-typeset .brano > summary {
+  background-color: var(--m3-secondary-container);
+  color: var(--m3-on-surface);
+  font-weight: 600;
+}
+.md-typeset .brano > .admonition-title::before,
+.md-typeset .brano > summary::before {
+  background-color: var(--m3-on-surface-variant);
+  -webkit-mask-image: var(--md-admonition-icon--brano);
+          mask-image: var(--md-admonition-icon--brano);
+}
+/* la card .opera dà già i margini: compattiamo le schede brano al suo interno */
+.md-typeset .opera > details.brano {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
 /* Pulsanti a "pillola" (corner full) */
 .md-typeset .md-button,
 .md-clipboard,

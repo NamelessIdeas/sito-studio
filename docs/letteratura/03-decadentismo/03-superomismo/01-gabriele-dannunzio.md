@@ -66,6 +66,8 @@ La produzione di d'Annunzio segue le **fasi** della sua poetica: dal romanzo
 estetico ai romanzi del superuomo, al grande progetto lirico delle *Laudi*, fino
 alla prosa "notturna" dell'ultima stagione.
 
+<div class="opera" markdown>
+
 ### La fase estetica e la sua crisi: *Il piacere* (1889)
 
 ***Il piacere*** è il primo romanzo e il manifesto della **fase estetica**.
@@ -79,47 +81,49 @@ Elena. La sconfitta del protagonista rivela la **crisi dell'Estetismo**: l'estet
 **vuoto e moralmente sterile**. Proprio da questa impotenza nascerà l'esigenza di
 una figura più forte, il **superuomo**.
 
-#### *Un ritratto allo specchio: Andrea Sperelli ed Elena Muti* (da *Il piacere*, libro III)
+??? brano "*Un ritratto allo specchio: Andrea Sperelli ed Elena Muti* (da *Il piacere*, libro III)"
 
-Tornata Elena dopo aver troncato la relazione e aver sposato per denaro il ricco e
-vizioso Lord Heathfield, Andrea ne traccia un **ritratto crudele** che diventa,
-allo specchio, il ritratto di se stesso.
+    Tornata Elena dopo aver troncato la relazione e aver sposato per denaro il ricco e
+    vizioso Lord Heathfield, Andrea ne traccia un **ritratto crudele** che diventa,
+    allo specchio, il ritratto di se stesso.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Andrea si chiede «**Chi era ella mai?**» e sottopone **Elena Muti** a un'analisi
-    spietata: la giudica «**uno spirito senza equilibrio in un corpo voluttuario**»,
-    fondato su uno **smisurato egoismo** e dominato dall'**immaginazione**. Educata
-    nel lusso di una Roma principesca, Elena ha acquistato un gusto elegante e una
-    «vaga incipriatura estetica», e sa **simulare** sentimenti elevati irradiando una
-    «capziosa» (ingannevole) luce d'ideale: trasforma i bassi appetiti erotici in
-    «alto sentimento», coprendoli di «fiamme eteree». In ogni gesto del suo amore
-    Andrea trova solo **artificio, studio, abilità**, la bravura di chi recita una
-    parte.
+        Andrea si chiede «**Chi era ella mai?**» e sottopone **Elena Muti** a un'analisi
+        spietata: la giudica «**uno spirito senza equilibrio in un corpo voluttuario**»,
+        fondato su uno **smisurato egoismo** e dominato dall'**immaginazione**. Educata
+        nel lusso di una Roma principesca, Elena ha acquistato un gusto elegante e una
+        «vaga incipriatura estetica», e sa **simulare** sentimenti elevati irradiando una
+        «capziosa» (ingannevole) luce d'ideale: trasforma i bassi appetiti erotici in
+        «alto sentimento», coprendoli di «fiamme eteree». In ogni gesto del suo amore
+        Andrea trova solo **artificio, studio, abilità**, la bravura di chi recita una
+        parte.
 
-    Ma a un certo punto egli **rimane perplesso**: penetrando nell'anima di lei vi
-    ritrova la **propria falsità**, tanto le due nature sono affini. Il disprezzo si
-    muta allora in **indulgenza ironica**, «poiché egli *comprendeva*». Elena è
-    venuta a quel convegno per noia e curiosità, attratta dalla novità di un amore
-    «platonico» con un antico amante; e si abbandona all'immaginazione fino a
-    **credersi sincera**, vittima di un'«allucinazione sentimentale» che le fa
-    perdere la coscienza della propria menzogna — lo stesso fenomeno morale che si
-    ripete di continuo in lui. Perciò Andrea non può accusarla: si riconosce
-    identico a lei. La scoperta gli toglie però ogni piacere che non sia «ebbrezza
-    dello spirito»: dominare un'anima con l'artificio, possederla «come uno
-    stromento» (*habere non haberi*), può essere un alto diletto, ma «**ingannare
-    sapendo d'essere ingannato è una sciocca e sterile fatica**», un gioco noioso e
-    inutile.
+        Ma a un certo punto egli **rimane perplesso**: penetrando nell'anima di lei vi
+        ritrova la **propria falsità**, tanto le due nature sono affini. Il disprezzo si
+        muta allora in **indulgenza ironica**, «poiché egli *comprendeva*». Elena è
+        venuta a quel convegno per noia e curiosità, attratta dalla novità di un amore
+        «platonico» con un antico amante; e si abbandona all'immaginazione fino a
+        **credersi sincera**, vittima di un'«allucinazione sentimentale» che le fa
+        perdere la coscienza della propria menzogna — lo stesso fenomeno morale che si
+        ripete di continuo in lui. Perciò Andrea non può accusarla: si riconosce
+        identico a lei. La scoperta gli toglie però ogni piacere che non sia «ebbrezza
+        dello spirito»: dominare un'anima con l'artificio, possederla «come uno
+        stromento» (*habere non haberi*), può essere un alto diletto, ma «**ingannare
+        sapendo d'essere ingannato è una sciocca e sterile fatica**», un gioco noioso e
+        inutile.
 
-**Significato e temi:** è un «**ritratto allo specchio**»: analizzando Elena, Andrea
-finisce per **ritrarre se stesso**, scoprendo l'identità fra i due (entrambi esteti
-falsi, dominati da immaginazione, artificio ed egoismo sensuale). Il brano è una
-lucida **critica dell'Estetismo**: la vita ridotta a simulazione e a caccia di
-sensazioni rare, l'amore degradato a **gioco cerebrale** di dominio (*habere non
-haberi*). Emerge la **crisi dell'esteta**, ormai lucido ma **impotente**, incapace
-di un sentimento autentico e condannato a un piacere sterile. Sul piano della
-tecnica spiccano l'**analisi psicologica** introspettiva e il **discorso indiretto
-libero**, in una prosa raffinata e analitica.
+    **Significato e temi:** è un «**ritratto allo specchio**»: analizzando Elena, Andrea
+    finisce per **ritrarre se stesso**, scoprendo l'identità fra i due (entrambi esteti
+    falsi, dominati da immaginazione, artificio ed egoismo sensuale). Il brano è una
+    lucida **critica dell'Estetismo**: la vita ridotta a simulazione e a caccia di
+    sensazioni rare, l'amore degradato a **gioco cerebrale** di dominio (*habere non
+    haberi*). Emerge la **crisi dell'esteta**, ormai lucido ma **impotente**, incapace
+    di un sentimento autentico e condannato a un piacere sterile. Sul piano della
+    tecnica spiccano l'**analisi psicologica** introspettiva e il **discorso indiretto
+    libero**, in una prosa raffinata e analitica.
+
+</div>
 
 ### I romanzi del superuomo e Nietzsche
 
@@ -156,107 +160,107 @@ trasforma in celebrazione della bellezza e del privilegio dei pochi sulla massa.
   superuomo, il culto moderno della **velocità** e della **macchina** e l'eroismo
   aviatorio.
 
-#### *Il programma politico del superuomo* (da *Le vergini delle rocce*, libro I)
+??? brano "*Il programma politico del superuomo* (da *Le vergini delle rocce*, libro I)"
 
-Il libro I del romanzo ha un taglio **oratorio e profetico**: è una lunga
-"orazione" del protagonista **Claudio Cantelmo**, che enuncia il proprio programma
-politico opponendolo alla società borghese del nuovo Stato unitario.
+    Il libro I del romanzo ha un taglio **oratorio e profetico**: è una lunga
+    "orazione" del protagonista **Claudio Cantelmo**, che enuncia il proprio programma
+    politico opponendolo alla società borghese del nuovo Stato unitario.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Cantelmo dipinge con violento sarcasmo la **Roma contemporanea**, profanata
-    dallo **spirito affaristico e speculativo** e dall'ossessione del denaro: le
-    «basse cupidige» invadono la città sacra come «un rigurgito di cloache».
-    A questa realtà egli oppone un programma **antidemocratico e antiegualitario**:
-    respinge il «gran dogma dell'Ottantanove» (l'uguaglianza della Rivoluzione
-    francese), che minaccia di appiattire gli uomini in una «meccanica uniformità»,
-    e vagheggia una **società gerarchica e autoritaria**. Rivendica il privilegio
-    dei pochi «migliori» (gli *àristoi*), un'aristocrazia che per **virtù di
-    sangue** ha ereditato il gusto della bellezza e la forza, e che deve
-    riconquistare il dominio sulla società intera, ricacciando le «plebi» nella
-    loro «naturale» condizione di schiavi (con esplicita adesione al **darwinismo
-    sociale**: «la forza è la prima legge della natura»).
+        Cantelmo dipinge con violento sarcasmo la **Roma contemporanea**, profanata
+        dallo **spirito affaristico e speculativo** e dall'ossessione del denaro: le
+        «basse cupidige» invadono la città sacra come «un rigurgito di cloache».
+        A questa realtà egli oppone un programma **antidemocratico e antiegualitario**:
+        respinge il «gran dogma dell'Ottantanove» (l'uguaglianza della Rivoluzione
+        francese), che minaccia di appiattire gli uomini in una «meccanica uniformità»,
+        e vagheggia una **società gerarchica e autoritaria**. Rivendica il privilegio
+        dei pochi «migliori» (gli *àristoi*), un'aristocrazia che per **virtù di
+        sangue** ha ereditato il gusto della bellezza e la forza, e che deve
+        riconquistare il dominio sulla società intera, ricacciando le «plebi» nella
+        loro «naturale» condizione di schiavi (con esplicita adesione al **darwinismo
+        sociale**: «la forza è la prima legge della natura»).
 
-    Allo Stato spetta solo favorire l'elevazione di questa classe privilegiata; e
-    questo dominio interno deve sfociare in una politica aggressiva verso l'esterno,
-    per ridare a **Roma** la sua antica **potenza imperiale**. In questo quadro
-    Cantelmo assegna agli **intellettuali** un compito attivo: i poeti non devono
-    rimpiangere sterilmente il passato né servire la borghesia, ma **difendere la
-    Bellezza** usando la parola — il «Verbo» — come **arma micidiale** contro il
-    mondo moderno («un ordine di parole può vincere d'efficacia micidiale una
-    formula chimica»). Egli stesso si propone un **triplice compito**: perfezionare
-    in sé i caratteri della stirpe latina, fissarli in un'opera d'arte e
-    trasmetterli a un figlio, il futuro **superuomo** e nuovo «Re di Roma».
+        Allo Stato spetta solo favorire l'elevazione di questa classe privilegiata; e
+        questo dominio interno deve sfociare in una politica aggressiva verso l'esterno,
+        per ridare a **Roma** la sua antica **potenza imperiale**. In questo quadro
+        Cantelmo assegna agli **intellettuali** un compito attivo: i poeti non devono
+        rimpiangere sterilmente il passato né servire la borghesia, ma **difendere la
+        Bellezza** usando la parola — il «Verbo» — come **arma micidiale** contro il
+        mondo moderno («un ordine di parole può vincere d'efficacia micidiale una
+        formula chimica»). Egli stesso si propone un **triplice compito**: perfezionare
+        in sé i caratteri della stirpe latina, fissarli in un'opera d'arte e
+        trasmetterli a un figlio, il futuro **superuomo** e nuovo «Re di Roma».
 
-**Significato e temi:** è la pagina-manifesto del **superomismo** dannunziano.
-L'estetismo non è negato ma **recuperato e piegato all'azione**: l'artista non si
-isola più nel culto della bellezza, ma vuole farsi **uomo d'azione** e
-trasformatore della realtà. Emergono l'**aristocraticismo autoritario**,
-l'**antidemocrazia**, il **mito imperiale di Roma** e la legittimazione della
-violenza dei più forti — idee che il **fascismo** erediterà, riconoscendo in
-d'Annunzio un proprio precursore. Sul piano dello stile spicca un linguaggio
-**aulico e prezioso**, fitto di latinismi, riferimenti eruditi, metafore,
-interrogative retoriche, esclamazioni e apostrofi.
+    **Significato e temi:** è la pagina-manifesto del **superomismo** dannunziano.
+    L'estetismo non è negato ma **recuperato e piegato all'azione**: l'artista non si
+    isola più nel culto della bellezza, ma vuole farsi **uomo d'azione** e
+    trasformatore della realtà. Emergono l'**aristocraticismo autoritario**,
+    l'**antidemocrazia**, il **mito imperiale di Roma** e la legittimazione della
+    violenza dei più forti — idee che il **fascismo** erediterà, riconoscendo in
+    d'Annunzio un proprio precursore. Sul piano dello stile spicca un linguaggio
+    **aulico e prezioso**, fitto di latinismi, riferimenti eruditi, metafore,
+    interrogative retoriche, esclamazioni e apostrofi.
 
-#### *Il «vento di barbarie» della speculazione edilizia* (da *Le vergini delle rocce*, libro I)
+??? brano "*Il «vento di barbarie» della speculazione edilizia* (da *Le vergini delle rocce*, libro I)"
 
-Sempre nel libro I, Cantelmo osserva la **degradazione della Roma moderna**,
-travolta dalla **speculazione edilizia** che, dopo l'Unità, distrugge per costruire
-i quartieri della nuova capitale.
+    Sempre nel libro I, Cantelmo osserva la **degradazione della Roma moderna**,
+    travolta dalla **speculazione edilizia** che, dopo l'Unità, distrugge per costruire
+    i quartieri della nuova capitale.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    Dopo la presa di Roma fervono «l'operosità dei distruttori e dei costruttori»:
-    una «**follia del lucro**», simile a un turbine, afferra tutti, perfino le
-    antiche **stirpi nobiliari**, che si rovinano negli affari e nelle speculazioni
-    della Borsa. I luoghi più belli vengono devastati: i lauri e i roseti di **Villa
-    Sciarra**, i giganteschi **cipressi ludovisii** un tempo ammirati da Goethe, le
-    statue di **Villa Albani** sono abbattuti o umiliati. Al loro posto, con rapidità
-    «chimerica», sorgono «**gabbie enormi e vacue**», edifici incrostati di stucchi
-    obbrobriosi: «una specie d'immenso **tumore biancastro**» che sporge dal fianco
-    della vecchia Urbe «e ne assorbiva la vita». Sembra soffiare su Roma «un **vento
-    di barbarie**» che minaccia di strapparle la sua corona di bellezza.
+        Dopo la presa di Roma fervono «l'operosità dei distruttori e dei costruttori»:
+        una «**follia del lucro**», simile a un turbine, afferra tutti, perfino le
+        antiche **stirpi nobiliari**, che si rovinano negli affari e nelle speculazioni
+        della Borsa. I luoghi più belli vengono devastati: i lauri e i roseti di **Villa
+        Sciarra**, i giganteschi **cipressi ludovisii** un tempo ammirati da Goethe, le
+        statue di **Villa Albani** sono abbattuti o umiliati. Al loro posto, con rapidità
+        «chimerica», sorgono «**gabbie enormi e vacue**», edifici incrostati di stucchi
+        obbrobriosi: «una specie d'immenso **tumore biancastro**» che sporge dal fianco
+        della vecchia Urbe «e ne assorbiva la vita». Sembra soffiare su Roma «un **vento
+        di barbarie**» che minaccia di strapparle la sua corona di bellezza.
 
-**Significato e temi:** il brano è una requisitoria contro la **modernità borghese
-e affaristica**: la speculazione edilizia è una **barbarie** che profana la
-sacralità e la bellezza secolare di Roma. Domina la **nostalgia aristocratica** per
-un mondo di bellezza travolto dalla volgarità del denaro, e ricorre la **metafora
-della malattia** (il «tumore biancastro») per la città moderna. Il testo ha anche
-un valore documentario — la reale, rapida deturpazione della capitale a fine
-Ottocento — reso con una prosa **aulica, metaforica e densa di sdegno**.
+    **Significato e temi:** il brano è una requisitoria contro la **modernità borghese
+    e affaristica**: la speculazione edilizia è una **barbarie** che profana la
+    sacralità e la bellezza secolare di Roma. Domina la **nostalgia aristocratica** per
+    un mondo di bellezza travolto dalla volgarità del denaro, e ricorre la **metafora
+    della malattia** (il «tumore biancastro») per la città moderna. Il testo ha anche
+    un valore documentario — la reale, rapida deturpazione della capitale a fine
+    Ottocento — reso con una prosa **aulica, metaforica e densa di sdegno**.
 
-#### *Condanna ed esaltazione della velocità* (da *Forse che sì forse che no*, 1910)
+??? brano "*Condanna ed esaltazione della velocità* (da *Forse che sì forse che no*, 1910)"
 
-Il romanzo si apre con una **corsa in automobile** a folle velocità sull'antica
-strada romana. È una pagina spesso messa **a confronto** con l'episodio della
-carrozzella nei *Quaderni di Serafino Gubbio operatore* di Pirandello, per
-illuminare i due opposti atteggiamenti verso la macchina.
+    Il romanzo si apre con una **corsa in automobile** a folle velocità sull'antica
+    strada romana. È una pagina spesso messa **a confronto** con l'episodio della
+    carrozzella nei *Quaderni di Serafino Gubbio operatore* di Pirandello, per
+    illuminare i due opposti atteggiamenti verso la macchina.
 
-???+ abstract "Riassunto"
+    ???+ abstract "Riassunto"
 
-    **Paolo Tarsis** lancia la «**rossa macchina precipitosa**» a folle velocità,
-    mentre al suo fianco **Isabella Inghirami**, donna fatale, gioca crudelmente con
-    la sua passione e lo sfida a «metter la vita per ultima posta». In un gioco
-    mortale, Tarsis fa passare l'automobile nello spazio strettissimo tra un carro
-    carico di tronchi e il canale che fiancheggia la strada: sfiorata la morte, la
-    donna ride istericamente, eccitata, ripetendo «La morte, la morte!». Uomo e
-    macchina si fondono in una sorta di «mitica creatura», un **centauro moderno**;
-    ma alla fine, guardando il cielo, Tarsis sogna non più la rapidità che «striscia»
-    sulla terra, bensì quella che «si solleva» in **volo**, e immagina di
-    **liberarsi** dell'influsso nefasto della «Nemica».
+        **Paolo Tarsis** lancia la «**rossa macchina precipitosa**» a folle velocità,
+        mentre al suo fianco **Isabella Inghirami**, donna fatale, gioca crudelmente con
+        la sua passione e lo sfida a «metter la vita per ultima posta». In un gioco
+        mortale, Tarsis fa passare l'automobile nello spazio strettissimo tra un carro
+        carico di tronchi e il canale che fiancheggia la strada: sfiorata la morte, la
+        donna ride istericamente, eccitata, ripetendo «La morte, la morte!». Uomo e
+        macchina si fondono in una sorta di «mitica creatura», un **centauro moderno**;
+        ma alla fine, guardando il cielo, Tarsis sogna non più la rapidità che «striscia»
+        sulla terra, bensì quella che «si solleva» in **volo**, e immagina di
+        **liberarsi** dell'influsso nefasto della «Nemica».
 
-**Significato e temi:** a differenza di Pirandello, che **condanna** la macchina
-come emblema disumanizzante della modernità, d'Annunzio la **esalta**: la velocità
-è un mezzo per potenziare la **vita**, mettere alla prova l'**ardimento eroico** del
-superuomo-aviatore e fondere l'uomo con il congegno meccanico. Dietro questa
-celebrazione si cela però una **morbosa attrazione per la morte**, indotta dalla
-**donna-Nemica** (Isabella), che logora ed è insieme la posta del gioco. Si delinea
-così l'**opposizione terra/cielo**: la donna lega l'eroe alla terra con il suo
-«dominio malefico», mentre il volo rappresenta la sublimità della missione eroica.
-Il rombo del motore «simile al rullo d'un vasto tamburo» rivela inoltre un'ottica
-**militarista e imperialista**. Lo stile è quello della prosa dannunziana
-**«artificiosa ed enfatica»**: termini aulici, perifrasi nobilitanti («congegno
-dèdaleo» per *aereo*), aggettivi esornativi e analogie liricheggianti.
+    **Significato e temi:** a differenza di Pirandello, che **condanna** la macchina
+    come emblema disumanizzante della modernità, d'Annunzio la **esalta**: la velocità
+    è un mezzo per potenziare la **vita**, mettere alla prova l'**ardimento eroico** del
+    superuomo-aviatore e fondere l'uomo con il congegno meccanico. Dietro questa
+    celebrazione si cela però una **morbosa attrazione per la morte**, indotta dalla
+    **donna-Nemica** (Isabella), che logora ed è insieme la posta del gioco. Si delinea
+    così l'**opposizione terra/cielo**: la donna lega l'eroe alla terra con il suo
+    «dominio malefico», mentre il volo rappresenta la sublimità della missione eroica.
+    Il rombo del motore «simile al rullo d'un vasto tamburo» rivela inoltre un'ottica
+    **militarista e imperialista**. Lo stile è quello della prosa dannunziana
+    **«artificiosa ed enfatica»**: termini aulici, perifrasi nobilitanti («congegno
+    dèdaleo» per *aereo*), aggettivi esornativi e analogie liricheggianti.
 
 ### Il progetto delle *Laudi*
 
