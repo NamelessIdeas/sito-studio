@@ -750,34 +750,16 @@ body.md-loaded .md-content {
 }
 
 /* Modalità focus (lettura senza distrazioni): nasconde le due sidebar e centra il
-   contenuto a una misura un filo più ampia. Attivata dal pulsante .focus-toggle. */
+   contenuto a una misura un filo più ampia. Attivata dal pulsante .focus-toggle,
+   collocato nell'header accanto al toggle del tema (eredita .md-header__button). */
 .focus-toggle {
-  position: fixed;
-  bottom: 1.2rem;
-  left: 1.2rem;
-  z-index: 999;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2.4rem;
-  height: 2.4rem;
-  border-radius: 9999px;
-  background-color: var(--m3-surface-container-high);
-  color: var(--m3-on-surface);
-  border: 1px solid var(--m3-outline-variant);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
   cursor: pointer;
-  transition: background-color var(--m3-duration-short) var(--m3-easing-standard),
-              color var(--m3-duration-short) var(--m3-easing-standard),
-              transform var(--m3-duration-short) var(--m3-easing-emphasized);
+  padding: 0;
 }
-.focus-toggle:hover { transform: translateY(-2px); }
 .focus-toggle svg { width: 1.2rem; height: 1.2rem; fill: currentColor; }
-body.focus-reading .focus-toggle {
-  background-color: var(--m3-secondary-container);
-  color: var(--m3-on-secondary-container);
-  border-color: var(--m3-primary);
-}
+/* Stato attivo: accento M3 (primary), ben visibile sulla superficie dell'header. */
+body.focus-reading .md-header .focus-toggle,
+body.focus-reading .md-header [class*="md-icon"].focus-toggle { color: var(--m3-primary); }
 @media screen and (min-width: 76.25em) {
   body.focus-reading .md-sidebar--primary,
   body.focus-reading .md-sidebar--secondary {

@@ -82,7 +82,8 @@
     if (toggle && document.body.contains(toggle)) return;
     toggle = document.createElement("button");
     toggle.type = "button";
-    toggle.className = "focus-toggle";
+    // Eredita l'aspetto dei pulsanti dell'header di Material (md-header__button).
+    toggle.className = "focus-toggle md-header__button md-icon";
     toggle.setAttribute("aria-label", "Modalità lettura (nascondi i menu laterali)");
     toggle.title = "Modalità lettura";
     toggle.innerHTML =
@@ -92,7 +93,13 @@
       applyFocus(on);
       saveFocus(on);
     });
-    document.body.appendChild(toggle);
+    // Inserito nell'header accanto al toggle del tema (palette); fallback: body.
+    var palette = document.querySelector(".md-header [data-md-component=palette]");
+    if (palette && palette.parentNode) {
+      palette.parentNode.insertBefore(toggle, palette);
+    } else {
+      document.body.appendChild(toggle);
+    }
   }
 
   // ---- Inizializzazione (una tantum + per-pagina) -----------------------------
