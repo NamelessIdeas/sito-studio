@@ -8,9 +8,9 @@ rivoluzionato il dramma europeo con il «teatro nel teatro».
 !!! note "Prosa e teatro, non poesie"
     Le opere di Pirandello sono **romanzi**, **novelle**, il **saggio**
     *L'umorismo* e **drammi**: si presentano qui la **biografia**, la **visione
-    del mondo** e l'analisi di **trame e brani significativi**, riassunti e
-    commentati senza riprodurne il testo per esteso. Il **teatro** è per ora solo
-    presentato nella panoramica.
+    del mondo** e l'analisi di **trame e brani significativi** — di romanzi,
+    novelle, del saggio e del **teatro** —, riassunti e commentati senza
+    riprodurne il testo per esteso.
 
 ## La vita
 
@@ -54,7 +54,7 @@ Gubbio operatore* — e le ***Novelle per un anno***. Il vertice resta però il
 con il capolavoro ***Sei personaggi in cerca d'autore*** (1921) — un dramma non
 scritto, in bilico tra **verità e finzione** — e drammi come *Enrico IV*, *Così è
 (se vi pare)* e *Il giuoco delle parti*. Di seguito si analizzano alcune opere in
-prosa e il saggio sull'umorismo.
+prosa, il saggio sull'umorismo e un dramma.
 
 <div class="opera" markdown>
 
@@ -313,6 +313,123 @@ romanzo: l'**alienazione** dell'uomo nella civiltà industriale, dove il
 meccanismo «inebria» e travolge senza che l'uomo lo voglia o lo comprenda. Lo
 stesso Serafino, «operatore» ridotto a mano che gira la manovella, è la vittima
 di quella civiltà delle macchine di cui qui denuncia l'illusione di progresso.
+
+</div>
+
+<div class="opera" markdown>
+
+### *Uno, nessuno e centomila* (1926)
+
+L'**ultimo romanzo** di Pirandello, lungamente meditato e pubblicato a puntate nel
+1925-26. **Vitangelo Moscarda**, un agiato usuraio di provincia, scopre un giorno,
+da un'innocente osservazione della moglie, che il suo **naso pende a destra**: da
+quel nulla precipita nella vertigine del **relativismo**. Si accorge di non essere
+**«uno»**, come credeva, ma **«centomila»** — tante immagini diverse quante sono le
+persone che lo conoscono — e dunque, in fondo, **«nessuno»**. Per liberarsi da
+tutte le «forme» che gli altri gli impongono intraprende una serie di atti
+clamorosi e «folli» (a cominciare dallo sfratto di un inquilino, per dimostrare di
+non essere l'usuraio che tutti credono), distrugge la propria identità sociale e
+finisce per spogliarsi di ogni avere, vivendo in un ospizio in fusione con la
+natura.
+
+- **Uno, nessuno e centomila**: l'io non ha un'identità unica e fissa; è
+  molteplice e cangiante, e alla fine si dissolve.
+- **Vita e forma**: Moscarda rifiuta tutte le «forme» (il nome, il ruolo,
+  l'immagine sociale) per restituirsi al **flusso** della vita.
+- **La «cura» distruttiva**: la liberazione dalla maschera coincide con la rinuncia
+  a se stessi e con una forma di lucida follia.
+
+#### *Nessun nome*
+
+La pagina conclusiva del romanzo. Dopo essere stato ferito a colpi di rivoltella
+da **Anna Rosa** (assolta perché giudicata in stato di raptus), Moscarda rinuncia
+a ogni proprietà e si ritira in un **ospizio** di campagna da lui stesso fondato,
+giungendo alla rinuncia totale di sé.
+
+???+ abstract "Riassunto"
+
+    Guarito dalla ferita e ottenuta l'assoluzione di Anna Rosa, Moscarda dona tutti
+    i suoi beni alla fondazione di un **ospizio di mendicità**, dove va a vivere lui
+    stesso, povero fra i poveri. Compie l'ultimo passo: **rinuncia al proprio
+    nome**. Un nome, riflette, è solo l'**epitaffio** di chi è concluso, morto: «è
+    di chi muore». Egli invece **non vuole concludere**: «Io sono vivo e non
+    concludo». Rifiuta perciò ogni identità fissa, ogni forma, ogni coscienza di sé
+    e del passato: «**Muoio ogni attimo, io, e rinasco nuovo e senza ricordi: vivo
+    e intero, non più in me, ma in ogni cosa fuori**». Vive ormai attimo per attimo,
+    fuori di sé, fuso con gli alberi, le nuvole, l'acqua: «**Nessun nome. Nessun
+    ricordo oggi del nome di ieri; del nome d'oggi, domani**». La campana che suona
+    in lontananza è viva solo perché lui, vivo, la ascolta: «così son fuori, nell'aria».
+
+    **Temi:** il rifiuto totale dell'identità e del nome; il vivere attimo per
+    attimo, senza memoria; la fusione panica dell'io con la natura.
+
+**Significato e temi:** la pagina porta alle estreme conseguenze il **vitalismo**
+pirandelliano. Il nome è la prima e più tenace delle «**forme**» che imprigionano
+la vita: rinunciarvi significa rifiutare ogni identità conclusa per restituirsi al
+**flusso** incessante del vivere. La condizione di Moscarda — «vivo e non concludo»
+— è insieme una **liberazione** estatica (la fusione con la natura, il rinascere a
+ogni istante) e l'**annullamento** dell'io, una guarigione che coincide con la
+follia o con una sorta di morte alla vita sociale. È l'approdo opposto e speculare
+a quello di [Mattia Pascal](#il-fu-mattia-pascal-1904): là la perdita dell'identità
+era una **trappola** disperata, qui è scelta liberatoria e mistica.
+
+</div>
+
+<div class="opera" markdown>
+
+### *Il giuoco delle parti* (1918) — teatro
+
+Dramma in tre atti rappresentato a Roma nel **1918** (dalla compagnia di Ruggero
+Ruggeri), tratto dalla novella *Quando s'è capito il giuoco* (1913). **Leone
+Gala**, separato di fatto dalla moglie **Silia**, ha imparato a «**capire il
+giuoco**» della vita e vi reagisce **svuotandosi** di ogni passione: conserva la
+«parte» (la forma) del marito, ma vuota di sentimento, e guarda gli altri vivere
+restando «fuori». Silia, che ha per amante **Guido Venanzi**, ordisce di liberarsi
+di lui: si fa offendere da un gruppo di gaudenti capeggiati dal temibile spadaccino
+**Miglioriti**, così da costringere Leone, come marito, a sfidarlo a duello,
+contando che vi resti ucciso. Ma il mattino del duello Leone rovescia il giuoco:
+la **parte** del marito era solo **sfidare**; **battersi** tocca all'amante. Manda
+Guido a duellare al suo posto — «Io, marito, ho sfidato… ti batti tu!» —, e Guido
+muore. Leone resta a casa, impassibile, a fare colazione.
+
+#### *Il rovesciamento del dramma borghese*
+
+Tre momenti del dramma (atto I, sc. III; atto II, sc. IX; atto III, sc. III-IV).
+Pirandello smonta il classico **triangolo borghese** (marito-moglie-amante) e la
+sua attesa conclusione tragica.
+
+???+ abstract "Riassunto"
+
+    Nella **sc. III dell'atto I**, Leone espone a Guido la propria filosofia: aver
+    «**capito il giuoco**» della vita significa **vuotarsi** dei sentimenti per non
+    esserne travolti, prendere ogni evento come un **uovo** da svuotare e di cui
+    conservare solo il «**pernio**», il concetto a cui aggrapparsi, giocando poi col
+    guscio vuoto. Si è imposto la «parte» del marito, ma **«m'astraggo»**: non vi
+    mette più nulla di sé. Nella **sc. IX dell'atto II**, alla vigilia del duello,
+    Silia oscilla tra angoscia, ammirazione e paura di fronte alla calma di Leone,
+    che le confessa di essersi «vuotato» perfino del desiderio di ucciderla: dòma i
+    propri istinti come un **domatore** le belve. Nell'**atto III**, all'alba, Leone
+    si presenta in pigiama, placidissimo, e annuncia che **non si batterà**: la sua
+    parte di marito era **sfidare**, ma a **battersi** tocca all'amante — «non mi
+    batto io, ti batti tu!». Guido, allibito, è costretto dalla logica del «giuoco
+    delle parti» ad andare al duello al posto di Leone, che resta a **fare
+    colazione**. Guido viene ucciso da Miglioriti; Silia, sopraffatta,
+    comprende troppo tardi di essere caduta nella propria trappola.
+
+    **Temi:** lo svuotamento del dramma borghese; la vita ridotta a «giuoco delle
+    parti»; il distacco lucido e disumano del «filosofo» Leone.
+
+**Significato e temi:** Pirandello attua qui il **«rovesciamento del dramma
+borghese»**: il consueto triangolo adulterino, che il teatro ottocentesco risolveva
+con il marito vendicatore o tradito, è smontato e rivolto contro le sue stesse
+convenzioni. Leone non è né geloso né vittima: ha ridotto la vita a un freddo
+**«giuoco delle parti»** in cui ciascuno recita un ruolo fisso, e proprio applicando
+fino in fondo la **logica** delle parti — il marito sfida, l'amante si batte —
+trasforma la **forma** vuota in un'arma e fa morire il rivale al proprio posto. Il
+**vuotarsi** dei sentimenti, la **maschera** indossata con lucidità, l'opposizione
+tra **vita** (Silia, «piena di vita» e d'infelicità) e **forma** (Leone, astratto e
+impassibile) fanno del dramma una messa in scena dei nodi teorici de *L'umorismo*:
+il distacco del «filosofo» si rivela una forma di **disumana crudeltà**.
 
 </div>
 
