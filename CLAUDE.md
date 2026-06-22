@@ -99,31 +99,37 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   *Poetica e visione del mondo*, *La poetica*…) → `## Le opere` → le sezioni dei
   **testi poetici** (`## *Titolo*` con i riquadri-scheda) → `!!! tip
   "Collegamenti"`. I **brani in prosa** (da romanzi/novelle) si analizzano invece
-  come **sottosezioni `####`** sotto la relativa opera dentro `## Le opere`, con
-  un'introduzione, `???+ abstract "Riassunto"` e l'analisi (`**Temi:**`,
-  `**Significato e temi:**`), **senza** riprodurre il testo integrale: così per i
-  brani de *I Malavoglia* (Verga) e per quelli di d'Annunzio (es. da *Il
-  piacere*). Lo stesso schema vale per gli autori di **sola prosa** (Svevo,
-  Pirandello): i loro brani vanno aggiunti come `####` sotto l'opera (prima questi
-  testi si omettevano del tutto). Anche i **brani dal teatro** (Pirandello: *Il
-  giuoco delle parti*, *Sei personaggi in cerca d'autore*, *Enrico IV*) seguono
-  lo **stesso** schema `####` (intro →
-  `???+ abstract "Riassunto"` → `**Temi:**` → `**Significato e temi:**`): si
-  riassume la vicenda/le scene, senza riprodurre i dialoghi. Un **testo critico o
+  come **schede collassabili `??? brano "*Titolo*"`** (chiuse di default) dentro la
+  card `.opera` della relativa opera (vedi *Card "opera"* sotto). Aperta la scheda,
+  il **corpo è indentato di 4 spazi** e contiene: un'**introduzione**, il
+  `???+ abstract "Riassunto"` (annidato, perciò a 8 spazi, con `**Temi:**` al suo
+  interno) e, come ultimo paragrafo della scheda, `**Significato e temi:**`,
+  **senza** riprodurre il testo integrale. Così per i brani de *I Malavoglia* e
+  *Mastro-don Gesualdo* (Verga), di d'Annunzio (da *Il piacere* e dai romanzi del
+  superuomo), di Pascoli (da *Il fanciullino*) e degli autori di **sola prosa**
+  Svevo e Pirandello. Anche i **brani dal teatro** (Pirandello: *Il giuoco delle
+  parti*, *Sei personaggi in cerca d'autore*, *Enrico IV*) sono schede `??? brano`
+  con lo **stesso** schema (intro → `???+ abstract "Riassunto"` → `**Temi:**` →
+  `**Significato e temi:**`): si riassume la vicenda/le scene, senza riprodurre i
+  dialoghi. Quando i brani stanno sotto una **sezione tematica** che copre più
+  opere (es. d'Annunzio, *I romanzi del superuomo e Nietzsche*), le schede
+  `??? brano` restano direttamente sotto il `###` di sezione, **fuori** da una
+  card. Un **testo critico o
   teorico** che **non** è un brano di un'opera dell'autore (es. la recensione di
   Capuana ai *Malavoglia*, *Scienza e forma letteraria: l'impersonalità*) usa lo
   stesso schema di analisi ma come **sezione `## *Titolo*`** (non `####`: manca
   un'opera-contenitore a cui agganciarlo). Riferimento: le pagine
   dei decadenti (Pascoli, d'Annunzio, Montale…).
 - **Card "opera".** Quando dentro `## Le opere` un'opera è sviluppata come
-  sottosezione `###` (panoramica + eventuali brani `####`), la si racchiude in un
-  riquadro `<div class="opera" markdown>` … `</div>` (richiede `md_in_html`, già
-  attivo; stessa tecnica delle `.home-card`), così inizio e fine di ciascuna opera
-  si distinguono a colpo d'occhio. Servono righe vuote attorno al `<div>` e al
-  `</div>` e prima del titolo. Lo stile (bordo neutro, raggio 16px, titolo con
-  filetto) è in `docs/stylesheets/extra.css` (`.opera`). Riferimento: le pagine di
-  Svevo e Pirandello. Non si usa per gli elenchi puntati di opere né per le sezioni
-  `## *Titolo*` delle poesie.
+  sottosezione `###` (panoramica + eventuali brani come schede `??? brano`), la si
+  racchiude in un riquadro `<div class="opera" markdown>` … `</div>` (richiede
+  `md_in_html`, già attivo; stessa tecnica delle `.home-card`), così inizio e fine
+  di ciascuna opera si distinguono a colpo d'occhio. Servono righe vuote attorno al
+  `<div>` e al `</div>` e prima del titolo. Lo stile (bordo neutro, raggio 16px,
+  titolo con filetto) è in `docs/stylesheets/extra.css` (`.opera`). Riferimento: le
+  pagine di Verga (*I Malavoglia*, *Mastro-don Gesualdo*), d'Annunzio (*Il
+  piacere*), Pascoli (*Il fanciullino*), Svevo e Pirandello. Non si usa per gli
+  elenchi puntati di opere né per le sezioni `## *Titolo*` delle poesie.
 - **Blocchi Testo/Parafrasi/Riassunto = admonition "scheda".** Per i testi e la
   loro analisi si usano admonition collassabili (estensione `pymdownx.details`
   in `mkdocs.yml`), NON le content-tab `=== "..."` (riservate ad altro, es. i
@@ -138,7 +144,10 @@ Fonti/                      Materiale sorgente (PDF del programma, appunti): in
   distinguere a colpo d'occhio la fonte dalla sintesi: **Testo** = `primary`
   (viola), **Riassunto** = `tertiary` (rosa). *Parafrasi*/*Traduzione* usano
   `note` (tipo condiviso con altri avvisi): restano neutri, non differenziabili
-  per solo tipo CSS.
+  per solo tipo CSS. Le **schede dei brani** dentro le card usano il tipo **custom
+  `brano`** (`??? brano "*Titolo*"`, chiuse di default): contorno neutro, titolo in
+  `secondary-container` e icona a libro (definiti in `extra.css`), così la scheda
+  contenitrice non confligge con il Riassunto rosa che racchiude.
 - **Formule LaTeX via MathJax 3 self-hosted.** Il bundle `tex-mml-chtml.js` e i
   font matematici sono vendorizzati in `docs/javascripts/mathjax/` (da npm
   `mathjax@3.2.2`) e caricati da `mkdocs.yml` (`extra_javascript`) insieme alla
@@ -232,6 +241,31 @@ con link al movimento).
 
 !!! tip "Collegamenti"
     Link ad autori/correnti collegati.
+```
+
+Per un'**opera in prosa o teatro con brani**, dentro `## Le opere` (l'opera in una
+card `.opera`, ogni brano una scheda collassabile `??? brano`):
+
+```markdown
+<div class="opera" markdown>
+
+### *Titolo dell'opera* (anno)
+
+Panoramica di trama/struttura (eventuali temi in elenco puntato).
+
+??? brano "*Titolo del brano* (capp. …)"
+
+    Introduzione al brano (1-3 frasi).
+
+    ???+ abstract "Riassunto"
+
+        Riassunto in prosa…
+
+        **Temi:** …
+
+    **Significato e temi:** …
+
+</div>
 ```
 
 ## Flusso di lavoro con l'agente
