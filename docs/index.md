@@ -2,7 +2,7 @@
 
 # Sito di Studio
 
-<p class="home-lede">Appunti di letteratura, inglese, matematica e storia — organizzati come un percorso, non come un semplice elenco.</p>
+<p class="home-lede">Appunti di letteratura, inglese, matematica, storia e sistemi e reti — organizzati come un percorso, non come un semplice elenco.</p>
 
 </div>
 
@@ -26,6 +26,11 @@
 <div class="home-card" markdown>
 [Storia](storia/index.md){ .home-card__title }
 <p>Eventi e periodi storici, in sintesi.</p>
+</div>
+
+<div class="home-card" markdown>
+[Sistemi e reti](sistemi/index.md){ .home-card__title }
+<p>Progettazione LAN/WAN, cloud e data-center, crittografia, sicurezza delle reti e gestione — fino a SD-WAN e SASE.</p>
 </div>
 
 </div>
