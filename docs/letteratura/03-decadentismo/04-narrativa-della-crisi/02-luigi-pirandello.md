@@ -121,6 +121,60 @@ alla società industriale** e alla modernità meccanica, che stordisce e
 impoverisce l'uomo. La «forma» è una prigione, ma fuori dalle forme non c'è vita:
 è il paradosso insolubile del **vitalismo** pirandelliano.
 
+#### *Lo «strappo nel cielo di carta» e la «lanterninosofia»* (capp. XII-XIII)
+
+Due celebri pagine "filosofiche" del romanzo. **Anselmo Paleari**, il padrone di
+casa di Adriano Meis, è una sorta di **filosofo dilettante** che ama intrattenere
+il protagonista con le sue bizzarre teorie: in due immagini diverse ma equivalenti
+egli formula il nucleo del pensiero pirandelliano.
+
+???+ abstract "Riassunto"
+
+    Nella prima pagina Paleari propone l'apologo dello **strappo nel cielo di
+    carta**. Immagina di rappresentare in un teatrino di **marionette** la
+    *tragedia d'Oreste* (l'*Elettra* di Sofocle) e si chiede che cosa accadrebbe
+    se, nel momento culminante in cui Oreste sta per **vendicare il padre**, si
+    facesse uno strappo nel cielo di carta del teatrino. Oreste resterebbe
+    «terribilmente sconcertato da quel buco nel cielo»: sentirebbe ancora gli
+    impulsi della vendetta, ma con gli occhi fissi a quello strappo, da cui ormai
+    ogni sorta di mali penetrerebbe nella scena, si sentirebbe «cader le braccia».
+    Oreste, insomma, diventerebbe **Amleto**: tutta la differenza fra la tragedia
+    **antica** e quella **moderna** sta «in un buco nel cielo di carta». Nella
+    seconda pagina Paleari espone la sua «**lanterninosofia**». Noi uomini, a
+    differenza dell'albero o della bestia, abbiamo il triste privilegio di
+    **sentirci vivere**, con l'illusione che la realtà esista fuori di noi: ma
+    questo sentimento della vita è come un **lanternino** che ciascuno porta acceso
+    dentro di sé, che ci fa vedere sperduti sulla terra e proietta intorno a noi un
+    piccolo cerchio di luce, oltre il quale sta l'**ombra paurosa** che esisterebbe
+    solo finché il lanternino resta acceso. Accanto ai lanternini individuali
+    ardono i grandi **lanternoni** dei termini astratti — *Verità, Virtù, Bellezza,
+    Onore* —, alimentati dal sentimento collettivo: quando questo si scinde, certe
+    «fiere ventate» li **spengono** d'improvviso, ed è il buio delle **epoche di
+    crisi**, in cui crollano i sistemi di certezze e gli uomini, smarriti, non
+    trovano più la via. La condizione moderna — suggerisce Paleari — è proprio uno
+    di questi momenti di buio. Dinanzi a questi discorsi Mattia/Adriano ostenta
+    però **fastidio e disprezzo**, mostrando di non coglierne il senso.
+
+    **Temi:** la critica dell'identità e la **personalità come maschera**; la
+    **condizione moderna** e il crollo delle certezze; l'inconsistenza della realtà
+    oggettiva.
+
+**Significato e temi:** nelle due metafore Pirandello tocca il **cuore della sua
+poetica**. Lo strappo nel cielo di carta allude al fatto che la realtà in cui
+viviamo è una **costruzione fittizia**, una scena che crediamo vera solo finché
+non si squarcia: basta un nulla — un «buco» — perché la marionetta-uomo scopra la
+**convenzionalità** del proprio mondo, perda la spontaneità dell'azione e si
+**paralizzi** nei dubbi, come Amleto, eroe della modernità contro l'antico Oreste
+sicuro di sé. La lanterninosofia esprime lo stesso concetto: il cerchio di luce è
+l'**io individuale**, una proiezione soggettiva che segna artificiosamente il
+confine tra noi e il non-noi; i lanternoni che si spengono sono i **sistemi di
+certezze** (le fedi, le ideologie) che tramontano nelle epoche di transizione. È
+la **condizione moderna**, dopo il crollo dei punti di riferimento del passato (a
+partire dalla rivoluzione copernicana, evocata nella *Premessa seconda*). Non a
+caso queste teorie coincidono con quelle del saggio *[L'umorismo](#lumorismo-1908)*;
+e Mattia, che non le comprende, si rivela non ancora «filosofo», ancora
+**attaccato** all'illusione dell'identità individuale.
+
 </div>
 
 <div class="opera" markdown>
