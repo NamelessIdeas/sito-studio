@@ -33,6 +33,18 @@
     else if (ratio > 1) ratio = 1;
     bar.style.width = (ratio * 100).toFixed(2) + "%";
   }
+  // updateProgress legge scrollHeight/clientHeight/scrollTop e scrive subito la
+  // width: chiamarla a ogni evento di scroll forza un reflow sincrono per frame.
+  // La si batcha in un solo aggiornamento per frame con requestAnimationFrame.
+  var ticking = false;
+  function onScrollOrResize() {
+    if (ticking) return;
+    ticking = true;
+    window.requestAnimationFrame(function () {
+      updateProgress();
+      ticking = false;
+    });
+  }
 
   // ---- 2. Tempo di lettura ----------------------------------------------------
   function addReadingTime() {
@@ -85,6 +97,7 @@
 
   // ---- Inizializzazione (una tantum + per-pagina) -----------------------------
   var scrollBound = false;
+  var booted = false;
   function init() {
     ensureBar();
     ensureFocusToggle();
@@ -92,9 +105,17 @@
     addReadingTime();
     updateProgress();
     if (!scrollBound) {
-      window.addEventListener("scroll", updateProgress, { passive: true });
-      window.addEventListener("resize", updateProgress, { passive: true });
+      window.addEventListener("scroll", onScrollOrResize, { passive: true });
+      window.addEventListener("resize", onScrollOrResize, { passive: true });
       scrollBound = true;
+    }
+    // Lascia finire la dissolvenza d'ingresso del primo render, poi marca il body
+    // così le navigazioni instant successive non ri-animano (CSS: body.md-loaded).
+    if (!booted) {
+      booted = true;
+      window.setTimeout(function () {
+        document.body.classList.add("md-loaded");
+      }, 400);
     }
   }
 

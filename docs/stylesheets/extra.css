@@ -513,15 +513,20 @@ a.md-nav__link--active,
 }
 
 /* ---- Ingresso fluido del contenuto ----------------------------------------
-   Con navigation.instant il contenitore del contenuto viene sostituito a ogni
-   cambio pagina, quindi l'animazione si ri-attiva: l'effetto è quello di
-   un'app, non di un sito che "lampeggia". ------------------------------------ */
+   Una leggera dissolvenza (solo opacità, breve) al PRIMO caricamento, così la
+   pagina non "lampeggia". Con navigation.instant il contenitore viene sostituito
+   a ogni cambio pagina: per non ri-animare (e non far sembrare la navigazione
+   lenta) l'animazione si spegne appena `reading-aids.js` aggiunge `md-loaded` al
+   body, dopo il primo render. Le navigazioni successive swappano all'istante. -- */
 @keyframes m3-content-in {
-  from { opacity: 0; transform: translateY(0.4rem); }
-  to   { opacity: 1; transform: none; }
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 .md-content {
-  animation: m3-content-in var(--m3-duration-medium) var(--m3-easing-emphasized) both;
+  animation: m3-content-in var(--m3-duration-short) var(--m3-easing-standard) both;
+}
+body.md-loaded .md-content {
+  animation: none;
 }
 
 /* ---- Bottone "torna su" a pillola tonale ----------------------------------- */
