@@ -52,9 +52,9 @@ nessuno e centomila*** (1926), *I vecchi e i giovani*, *Quaderni di Serafino
 Gubbio operatore* — e le ***Novelle per un anno***. Il vertice resta però il
 **teatro**: lo **svuotamento del dramma borghese** e il **«teatro nel teatro»**,
 con il capolavoro ***Sei personaggi in cerca d'autore*** (1921) — un dramma non
-scritto, in bilico tra **verità e finzione** — e drammi come *Enrico IV*, *Così è
-(se vi pare)* e *Il giuoco delle parti*. Di seguito si analizzano alcune opere in
-prosa, il saggio sull'umorismo e un dramma.
+scritto, in bilico tra **verità e finzione** —, ***Enrico IV*** (1922) e drammi
+come *Così è (se vi pare)* e *Il giuoco delle parti*. Di seguito si analizzano
+alcune opere in prosa, il saggio sull'umorismo e tre drammi.
 
 <div class="opera" markdown>
 
@@ -484,6 +484,123 @@ trasforma la **forma** vuota in un'arma e fa morire il rivale al proprio posto. 
 tra **vita** (Silia, «piena di vita» e d'infelicità) e **forma** (Leone, astratto e
 impassibile) fanno del dramma una messa in scena dei nodi teorici de *L'umorismo*:
 il distacco del «filosofo» si rivela una forma di **disumana crudeltà**.
+
+</div>
+
+<div class="opera" markdown>
+
+### *Sei personaggi in cerca d'autore* (1921) — teatro
+
+Il **capolavoro teatrale** di Pirandello e il manifesto del «**teatro nel
+teatro**». Durante le prove di una commedia, irrompono sul palcoscenico **sei
+personaggi** (il Padre, la Madre, il Figlio, la Figliastra e due piccoli) rifiutati
+dal loro autore, che non ha portato a termine la loro storia: chiedono alla
+compagnia di **far vivere il loro dramma**. Più «veri» degli attori — perché
+fissati per sempre nella loro realtà di personaggi —, raccontano la vicenda
+dolorosa che li lega: il Padre, allontanata da sé la Madre, la ritrova anni dopo
+ridotta in miseria; la Figliastra, per mantenere la famiglia, finisce a lavorare
+nell'**atelier-casa d'appuntamenti di Madama Pace**, dove il Padre, ignaro, sta per
+**comprarne le grazie** — riconoscendola appena in tempo. La rappresentazione di
+quella «scena cruciale» da parte degli **attori** rivela però l'**incolmabile
+distanza** tra il personaggio e la sua messa in scena.
+
+#### *La rappresentazione teatrale tradisce il personaggio*
+
+Il Capocomico fa rivivere al Padre e alla Figliastra la scena dell'incontro nell'atelier di Madama Pace, per ricavarne il copione che gli **attori** dovranno poi recitare. Ma quando il **Primo Attore** e la **Prima Attrice** provano a ripeterla, i personaggi non vi si riconoscono.
+
+???+ abstract "Riassunto"
+
+    Il **Padre** e la **Figliastra** rivivono dinanzi alla compagnia la scena
+    dell'atelier: l'uomo, fingendo di voler comprare un cappellino, scopre sotto la
+    veletta il viso giovanissimo della ragazza, che reprime a stento il ribrezzo,
+    mentre la **Madre**, in disparte, assiste all'orrore con gemiti soffocati. La
+    scena, intima e tragica, scivola in un dettaglio **grottesco** — il cappellino,
+    il lutto della ragazza — finché il **Capocomico** la interrompe, soddisfatto, per
+    farla ora **ripetere dagli attori**. Il **Primo Attore** e la **Prima Attrice**
+    rifanno gli stessi gesti e le stesse battute, ma il risultato «appare fin dalle
+    prime battute un'altra cosa»: una **parodia** «rimessa in bello», con un tono da
+    «vecchietto galante» e una falsa disinvoltura. La **Figliastra** non riesce a
+    trattenere le **risate**; il Padre interrompe sgomento: gli attori «non sono
+    noi». Dice una cosa che «**diventa di loro; e non più nostra**». Il Capocomico,
+    infastidito, ribatte che è inevitabile, perché «loro» sono gli attori, e decide
+    di proseguire le prove **senza i personaggi**.
+
+    **Temi:** l'impossibilità di rappresentare il dramma; il grottesco come fusione
+    di tragico e comico; la polemica contro il teatro del tempo; l'impossibilità di
+    comunicare.
+
+**Significato e temi:** il brano è il **nucleo metateatrale** dell'opera. La
+**verità viva** del personaggio — fissata per sempre nella sua sofferenza — non può
+essere **tradotta sul palcoscenico** senza essere tradita: gli attori, con i loro
+ruoli e le loro convenzioni, la «rimettono in bello» e la trasformano in **finzione
+caricaturale**. Si rivela così l'**impossibilità di rappresentare il dramma** e, più
+in generale, di **comunicare**: ciò che per il Padre è realtà assoluta, agli attori
+appare «un'altra cosa», che «diventa di loro e non più nostra». Il continuo
+scivolare del tragico nel comico — la scena straziante guastata dal cappellino,
+dalle risa della Figliastra — è il **grottesco** pirandelliano, intima fusione di
+pianto e riso. E nell'attrito tra personaggi e compagnia si consuma la **polemica
+contro il teatro tradizionale**, incapace di dare forma alla vita senza
+ucciderla.
+
+</div>
+
+<div class="opera" markdown>
+
+### *Enrico IV* (1922) — teatro
+
+Tragedia in tre atti, tra i vertici del teatro pirandelliano. Un **nobile** senza
+nome, durante una **cavalcata in costume** in cui impersona l'imperatore **Enrico
+IV** di Germania (quello dell'umiliazione di Canossa), cade da cavallo battendo la
+testa — il cavallo è stato punto a tradimento dal rivale in amore **Belcredi** — e
+**impazzisce davvero**, credendosi il personaggio che recitava. Per **dodici anni**
+i parenti lo assecondano: vive in una villa allestita come una **reggia
+imperiale**, servito da quattro «consiglieri» pagati, fisso nella sua **maschera**.
+A un certo punto **rinsavisce**, ma sceglie di **continuare la finzione**, di
+restare volontariamente «Enrico IV» — al riparo dal **fluire della vita**, fermo per
+sempre nell'«eternità di maschera». Nel presente, **Donna Matilde** (l'antico
+amore), la figlia **Frida**, il nipote **Di Nolli**, il rivale **Belcredi** e un
+**Dottore** tentano di **curarlo** con una messinscena, smascherando senza volerlo
+la tragedia.
+
+#### *Il «filosofo» mancato e la tragedia impossibile* (atto III)
+
+La parte finale del dramma, dopo che è stato svelato a tutti che il protagonista è **guarito da tempo** e che la sua follia è ormai una **maschera consapevole**.
+
+???+ abstract "Riassunto"
+
+    Smascherato, «Enrico IV» rivela ai presenti di essere **lucido da anni**:
+    rinsavito un giorno per caso, ha scelto di restare nella **finzione della
+    pazzia** per non tornare in una vita che, dopo dodici anni perduti, gli era
+    ormai «impossibile». Da quella reclusione lucidissima rimprovera agli altri di
+    aver continuato a **mascherarsi senza saperlo**, recitando ogni giorno la
+    «**carnevalata**» dell'esistenza: lui almeno conosce la propria maschera e la
+    indossa per sua scelta, «pagliacci involontari» sono semmai loro. Rinfaccia a
+    **Belcredi** di avergli rovinato la vita facendolo cadere da cavallo, e si volge
+    con desiderio a **Frida**, in cui rivede l'immagine giovane di Donna Matilde:
+    l'abbraccia gridando «**sei mia! mia! di diritto mia!**». Quando Belcredi accorre
+    e gli grida che **non è pazzo**, Enrico IV, **fulmineamente**, gli strappa la
+    spada al fianco e lo **ferisce a morte** al ventre. Mentre Belcredi viene
+    portato via gridando «Non è pazzo!», il protagonista resta sulla scena
+    **esterrefatto**, costretto ora dalla propria finzione, che lo ha trascinato a un
+    **delitto vero**, a restare «Enrico IV» **per sempre**: chiama attorno a sé i
+    quattro consiglieri — «qua insieme, qua insieme… e per sempre!».
+
+    **Temi:** la pazzia come maschera lucida e scelta; il mascheramento dell'eroe;
+    la critica ai meccanismi della società; l'impossibilità della tragedia nel mondo
+    moderno.
+
+**Significato e temi:** Enrico IV è il «**filosofo**» pirandelliano per
+eccellenza: ha **capito il giuoco** della vita — che ognuno recita una parte e
+indossa una maschera — e ne trae l'estrema conseguenza, scegliendo
+**consapevolmente** la propria, la sola «forma» entro cui sentirsi libero dal
+divenire. La sua è una pazzia **lucida e volontaria**, contrapposta alla follia
+inconsapevole di chi vive «agitatamente» senza accorgersi della propria. Ma il
+finale dice perché la sua è una **tragedia impossibile**: tornato a contatto con la
+**vita** (la passione per Frida, l'odio per Belcredi), il «filosofo» perde il
+distacco e si lascia trascinare al **delitto**; e proprio l'omicidio lo **inchioda
+per sempre** dietro la maschera, che da rifugio scelto diventa **condanna**. Non c'è
+catarsi, non c'è eroe tragico possibile nel mondo moderno: resta solo l'uomo
+**murato vivo** nella propria finzione, in un'eternità di maschera.
 
 </div>
 
