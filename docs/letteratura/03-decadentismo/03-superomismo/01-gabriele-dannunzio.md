@@ -292,11 +292,51 @@ dalla sontuosità di un tempo, è una scrittura **essenziale e intima**, che apr
 l'ultima stagione **meditativa** e raccolta dello scrittore (proseguita in prose
 come *Le faville del maglio* e *Il libro segreto*).
 
+??? brano "*La prosa «notturna»* (da *Il Notturno*, 1916; pubbl. 1921)"
+
+    Un breve passo del *Notturno* che illustra il nuovo stile: non più una trama,
+    ma la pura **annotazione frammentaria** delle sensazioni dello scrittore cieco
+    e immobile.
+
+    ???+ abstract "Riassunto"
+
+        Disteso al buio in una stanza affacciata su un canale di **Venezia**,
+        d'Annunzio non racconta eventi ma **registra** ciò che i sensi superstiti gli
+        portano. «Sento il sole dietro le imposte», «Sento che è bassa marea»; la
+        primavera entra in lui «come un nuovo tossico», fra reni dolenti e una
+        sonnolenza «rotta di sussulti e di tremori». Poi si mette in **ascolto** e
+        annota, una dopo l'altra, in righe brevissime e spezzate, una catena di
+        **percezioni uditive**: lo sciacquìo dell'onda lasciata dal battello, i colpi
+        sordi dell'acqua contro la pietra, «le grida rauche dei gabbiani», il battito
+        di un motore marino, il «chioccolio sciocco del merlo», il ronzio d'una mosca,
+        il «ticchettìo del pendolo che lega tutti gli intervalli», la gocciola nella
+        vasca, il gemito del remo nello scalmo, le voci nel traghetto, il rastrello
+        sulla ghiaia, «il pianto d'un bimbo non racconsolato», e infine due voci di
+        donna, di cui una chiede: «**A che ora? a che ora?**». Il passo è tutto qui:
+        un inventario di suoni e impressioni colti nell'ordine casuale in cui
+        affiorano alla coscienza.
+
+        **Temi:** la perdita della vista e il rovesciamento sugli altri sensi; la
+        memoria e l'introspezione; la frammentazione dell'esperienza.
+
+    **Significato e temi:** il brano esemplifica la **«prosa notturna»**, l'ultima
+    stagione di d'Annunzio. Costretto all'immobilità e al **buio** dopo la ferita
+    all'occhio, lo scrittore concentra l'esperienza vitale sui **sensi superstiti** e
+    sull'esplorazione della propria **interiorità**, fissando impressioni, visioni e
+    ricordi sui *cartigli* anche senza poter vedere. Ne risulta un'**annotazione
+    frammentaria**, priva di logica narrativa e vicina al **flusso di coscienza**: lo
+    stile non è più quello **aulico e sontuoso** dei grandi periodi retorici, ma
+    **agile, secco, nervoso**, fatto di periodi brevissimi e spesso in forma
+    **nominale** (senza verbi). Questo **frammentismo** avvicina d'Annunzio alle
+    tendenze del primo Novecento (i «vociani»), pur conservando, sotto la nuova
+    misura, dei **residui superomistici** — pose narcisistiche e autocelebrazione del
+    «vivere inimitabile».
+
 !!! note "I brani in prosa"
     Le analisi dei **brani in prosa** del programma sono inserite sotto la relativa
     opera in *Le opere* (vedi *Il piacere*, *Le vergini delle rocce* e *Forse che
-    sì forse che no*); resta da aggiungere il brano da *Il Notturno*. Le due
-    **liriche** che seguono provengono entrambe da *Alcyone*.
+    sì forse che no*) e, qui sopra, da *Il Notturno*. Le due **liriche** che seguono
+    provengono entrambe da *Alcyone*.
 
 ## *La sera fiesolana* (da *Alcyone*, 1903)
 
