@@ -381,6 +381,55 @@ escluso come inetto, e un sogno di onnipotenza infantile. Il brano prepara la
 conclusione del romanzo, dove Zeno rovescerà tutto dichiarando che «la vita è una
 malattia».
 
+#### *La profezia di un'apocalisse cosmica* (cap. VIII)
+
+La **pagina conclusiva** del romanzo, all'estremo dell'ultima sezione
+*Psico-analisi*. Dopo aver proclamato la propria «guarigione» grazie al commercio,
+Zeno chiude il memoriale con una visione vertiginosa sul destino dell'**intera
+umanità**.
+
+???+ abstract "Riassunto"
+
+    Zeno parte da un'analogia: la **vita somiglia a una malattia** che procede per
+    crisi e lisi (improvvisi peggioramenti e graduali miglioramenti), ma con una
+    differenza decisiva — è **sempre mortale** e non sopporta cure: curarla sarebbe
+    come voler turare i buchi del corpo credendoli ferite, e «morremmo strangolati
+    non appena curati». La vita attuale è poi **inquinata alle radici**: l'uomo si
+    è messo al posto degli alberi e delle bestie, ha avvelenato l'aria e occupato
+    lo spazio, e potrà andare peggio quando metterà al proprio servizio nuove forze
+    naturali, moltiplicandosi finché «ogni metro quadrato sarà occupato da un uomo»
+    (eco delle tesi di **Malthus**). Ogni sforzo di darci la salute è vano: la
+    salute appartiene solo alla **bestia**, che conosce un solo progresso, quello
+    del proprio organismo, e per adattarsi modifica il corpo (la rondine ingrossa
+    il muscolo delle ali, la talpa s'interra, il cavallo trasforma il piede).
+    L'**«occhialuto uomo»**, invece, inventa gli **ordigni** *fuori* dal proprio
+    corpo: e mentre il suo corpo non si fortifica, gli ordigni si comprano, si
+    vendono e si rubano, sicché l'uomo diventa sempre più **furbo e più debole**.
+    Abbandonata la **legge** naturale del più forte — la selezione «salutare» —, e
+    affermatasi quella del possessore del maggior numero di ordigni, prospereranno
+    «**malattie e ammalati**». La salvezza verrà allora solo da una **catastrofe**:
+    quando i gas velenosi non basteranno più, un uomo come tutti inventerà un
+    **esplosivo incomparabile**, e un altro, «più ammalato degli altri», lo ruberà
+    e si arrampicherà al centro della Terra per collocarlo nel punto di massimo
+    effetto. Un'**esplosione enorme**, che nessuno udrà, riporterà la Terra «alla
+    forma di **nebulosa**», a errare nei cieli «priva di parassiti e di malattie».
+
+**Temi:** la **malattia dell'umanità** e non più del solo individuo; il **problema
+del futuro** e della tecnica; l'**incombere della catastrofe** (la lettura
+"profetica" della bomba atomica).
+
+**Significato e temi:** la conclusione **dilata** la malattia di Zeno dalla
+dimensione individuale a quella dell'**intera civiltà**: l'inettitudine del
+protagonista si rivela la condizione di un'umanità che ha sostituito
+l'**adattamento naturale** con gli **ordigni**, cioè con la **tecnica**. Capovolto
+il mito positivistico del **progresso**, Svevo mostra che lo strumento, separandosi
+dal corpo, rende l'uomo più potente ma più debole e «malato», fino a immaginarne
+l'**autodistruzione**. La «guarigione» finale di Zeno si rovescia così in una
+**diagnosi apocalittica**: la sola salute possibile è la fine del genere umano e il
+ritorno della Terra alla purezza inorganica della **nebulosa**. Per la
+preveggenza con cui prefigura le armi di distruzione di massa, la pagina è tra le
+più celebri e inquietanti del Novecento.
+
 </div>
 
 ## La poetica
