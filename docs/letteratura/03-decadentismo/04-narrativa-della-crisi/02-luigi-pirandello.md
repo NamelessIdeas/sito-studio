@@ -390,6 +390,71 @@ casa **Kosmograph**. Le sue pagine raccontano l'**alienazione** dell'uomo nella
 **civiltà delle macchine**, ridotto a una semplice «mano» che serve un
 meccanismo, fino al silenzio totale del finale.
 
+??? brano "*«Viva la Macchina che meccanizza la vita!»* (cap. II)"
+
+    Due passi dal romanzo. Nel primo **Serafino**, in forma di monologo-diario,
+    medita sull'asservimento dell'uomo alle **macchine**; nel secondo l'amico
+    barbone **Simone Pau** racconta la storia di un violinista degradato dalla
+    meccanizzazione.
+
+    ???+ abstract "Riassunto"
+
+        **Primo passo.** Serafino scrive per «sfogo», scaricando la propria
+        impassibilità professionale. L'uomo che un tempo, **poeta**, deificava i
+        propri sentimenti, li ha buttati via come ingombro inutile e dannoso e,
+        fattosi «saggio e industre», ha fabbricato di ferro e d'acciaio le sue
+        **nuove divinità**, divenendone «**servo e schiavo**». Di qui l'amaro
+        sarcasmo: «**Viva la Macchina che meccanizza la vita!**». Le macchine
+        «voraci» divorano l'anima e la vita e le restituiscono moltiplicate in
+        «pezzetti e bocconcini, tutti d'uno stampo, stupidi e precisi» — le
+        «**scatolette**» della nostra vita. Serafino serve la sua «macchinetta»,
+        che gira solo per poter mangiare: alla macchina non serve la sua anima, ma
+        soltanto la **mano**. La vita moderna è una «**furia turbinosa**», un ritmo
+        vertiginoso che travolge l'uomo e non gli lascia tempo per l'interiorità;
+        resta sotto un «**calabrone che ronza**», il rumore continuo della civiltà
+        industriale, una molestia che cresce fino a poter far impazzire. Il
+        meccanismo pare inseguire la vita «stridendo precipitosamente»: «**Si
+        spezzerà?**». L'unica via è non opporsi, ma **abbandonarsi** al turbinio e
+        vivere «attimo per attimo», senza fissarsi in nulla, finché il ronzìo non
+        cessi con la morte. **Secondo passo.** Simone Pau racconta la vicenda di un
+        grande **violinista**, ormai degradato dalla follia. Erede di una
+        tipografia, la trascurò e cadde in miseria; a Roma suonava nelle osterie e
+        beveva, finché dovette **impegnare il violino**. Cercando lavoro in
+        tipografia, un *proto* lo mise a sorvegliare una **monotype**: un
+        «**pachiderma**», una «bestiaccia mostruosa» che «**mangia piombo e caca
+        libri**» e non chiede che d'essere nutrita di tanto in tanto coi «pani di
+        piombo». Umiliato a quel servizio indegno, dopo una settimana riscatta il
+        violino e risponde all'annuncio di un cinematografo che cerca un violino per
+        l'orchestrina; ma vi trova un altro automa, un **piano-melodico**, che il
+        violino dovrebbe **accompagnare**: un uomo asservito a un rotolo di carta
+        traforata. Diede in tali escandescenze da essere arrestato e condannato a
+        quindici giorni di carcere. «Ne è uscito, come lo vedi. Beve, e non suona
+        più».
+
+        **Temi:** l'alienazione dell'uomo nella civiltà delle macchine; la
+        riduzione dell'uomo ad appendice del meccanismo; il ritmo vertiginoso e il
+        rumore della modernità industriale; la sorte dell'artista, reso superfluo e
+        sostituito dalla macchina.
+
+    **Significato e temi:** i due passi condensano il giudizio critico di Pirandello
+    sul **trionfo delle macchine**, simbolo della civiltà industriale. La
+    meccanizzazione cancella i **sentimenti** e impone le macchine come «nuove
+    divinità»: i «mostri» che dovevano restare strumenti si fanno **padroni**, e il
+    loro trionfo si risolve in un trionfo universale della **stupidità**. L'uomo si
+    **aliena** negli oggetti che produce, ridotto — come Serafino — a una «**mano
+    che gira la manovella**», semplice appendice della cinepresa. La «**furia
+    turbinosa**» della vita moderna, scandita sui ritmi della produzione, travolge
+    l'interiorità e lascia solo un sordo disagio (il «calabrone»), fino alla
+    prospettiva di una **catastrofe** finale («Si spezzerà?») — affine alla profezia
+    che chiude *La coscienza di Zeno* di [Svevo](01-italo-svevo.md). La
+    meccanizzazione è l'opposto della **«vita»** come incessante divenire: non
+    potendola fermare, all'uomo resta solo di non lasciarsi **fissare** in una forma
+    rigida, salvando la fluidità del vivere. Nel secondo passo la macchina, da
+    generica, prende il volto concreto della **monotype** e del **piano meccanico**:
+    l'artista non è soltanto asservito ma **sostituito** dall'automa, e la sua resa
+    — il violinista che beve e non suona più — figura la **cancellazione dell'arte**
+    nella società industriale.
+
 ??? brano "*L'automobile e la carrozzella* (Quaderno III, I)"
 
     Serafino si reca alla Kosmograph su una lenta **carrozzella**; un'**automobile**
